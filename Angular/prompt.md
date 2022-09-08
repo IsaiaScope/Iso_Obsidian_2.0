@@ -26,7 +26,7 @@ ng g m <filePath/folderName> --route <routeName> --module app.module
 ---
 #### Create ==module==
 -  create just module.ts and append that module to app.module declaration
-- automatically new component in the same folder are added to this module
+- automatically when new component is generated in the same folder are added to this module
 ```console
 ng g m <filePath/moduleName> --module app.module --flat
 ```

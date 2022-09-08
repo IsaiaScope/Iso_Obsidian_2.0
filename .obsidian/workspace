@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Angular/prompt.md",
+            "file": "ShortCut/visualStudio.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ng g c",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/prompt.md",
+                "file": "ShortCut/visualStudio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,16 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d36c21238a87661e",
+  "active": "906d72b3ee11eaa9",
   "lastOpenFiles": [
+    "ShortCut/obsidian.md",
+    "ShortCut/visualStudio.md",
+    "Angular/prompt.md",
     "Angular/prompt/newPoject.md",
     "GIT/createBranch.md",
     "GIT/changeDefaultBranch.md",
     "TS/functions/obj/cleanUselessKeys.md",
-    "ShortCut/obsidian.md",
     "TS/functions/string/camelCaseToTitleCase.md",
     "GIT/deleteBranch.md",
-    "README.md",
-    "CSS/SASS.md"
+    "README.md"
   ]
 }

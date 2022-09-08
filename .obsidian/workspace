@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ShortCut/obsidian.md",
+            "file": "TS/functions/obj/cleanUselessKeys.md",
             "mode": "preview",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ShortCut/obsidian.md",
+                "file": "TS/functions/obj/cleanUselessKeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,10 @@
   },
   "active": "b73ce8935da85039",
   "lastOpenFiles": [
+    "ShortCut/obsidian.md",
+    "TS/functions/obj/cleanUselessKeys.md",
     "GIT/createBranch.md",
     "GIT/deleteBranch.md",
-    "TS/functions/obj/cleanUselessKeys.md",
     "GIT/changeDefaultBranch.md",
     "README.md",
     "TS/functions/string/camelCaseToTitleCase.md",

@@ -1,4 +1,4 @@
 #### generation
 ```console
-ng g c  features/home/components/home --skip-tests --inline-style --inline-template --flat
+ng g c <shared/components/componetName> --skip-tests --inline-style --inline-template
 ```

@@ -3,20 +3,31 @@
 ng new <projectName>
 ```
 ---
-#### Generate ==component==
-```console
-ng g c </path/componetName> --skip-tests --inline-style --inline-template --flat
-```
 ---
 #### upgrade ==local== angular cli version
 ```console
 ng update @angular/core @angular/cli
 ```
 ---
-#### Create modules to ==manage lazy-loading==
+#### Generate ==component==
+```console
+ng g c </path/componetName> --skip-tests --inline-style --inline-template --flat
+```
+---
+
+#### Create module to ==manage lazy-loading==
 -  u can add --flat to avoid folder creation
 - the following snippets create the entire component .ts .html .scss .specs 
-- adds in app.module the route automatically => routeName
+- also routing.module.ts and module.ts
+- adds in app.module the route automatically and assign routeName to routePath and the module to the declaration
 ```console
 ng g m <filePath/folderName> --route <routeName> --module app.module 
 ```
+---
+#### Create ==module==
+-  create just module.ts and append that module to app.module declaration
+- automatically new component in the same folder are added to this module
+```console
+ng g m <filePath/moduleName> --module app.module --flat
+```
+

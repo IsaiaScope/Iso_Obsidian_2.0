@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "E-commerce/prompt.md",
+            "file": "Angular/prompt.md",
             "mode": "preview",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E-commerce/prompt.md",
+                "file": "Angular/prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "906d72b3ee11eaa9",
   "lastOpenFiles": [
+    "lazyLoading.md",
     "Angular/prompt.md",
     "E-commerce/prompt.md",
     "GIT/deleteBranch.md",
@@ -97,7 +98,6 @@
     "ShortCut/obsidian.md",
     "Angular/prompt/newPoject.md",
     "GIT/changeDefaultBranch.md",
-    "TS/functions/obj/cleanUselessKeys.md",
-    "TS/functions/string/camelCaseToTitleCase.md"
+    "TS/functions/obj/cleanUselessKeys.md"
   ]
 }

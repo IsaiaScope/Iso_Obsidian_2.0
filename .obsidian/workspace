@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b73ce8935da85039",
+        "id": "906d72b3ee11eaa9",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -87,15 +87,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b73ce8935da85039",
+  "active": "906d72b3ee11eaa9",
   "lastOpenFiles": [
     "ShortCut/obsidian.md",
+    "TS/functions/string/camelCaseToTitleCase.md",
     "TS/functions/obj/cleanUselessKeys.md",
     "GIT/createBranch.md",
     "GIT/deleteBranch.md",
     "GIT/changeDefaultBranch.md",
     "README.md",
-    "TS/functions/string/camelCaseToTitleCase.md",
     "CSS/SASS.md"
   ]
 }

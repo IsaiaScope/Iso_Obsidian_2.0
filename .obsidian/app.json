@@ -1,0 +1,13 @@
+{
+  "spellcheck": true,
+  "tabSize": 2,
+  "spellcheckLanguages": [
+    "it",
+    "en-US"
+  ],
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "attachmentFolderPath": "/",
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true
+}

@@ -1,7 +1,6 @@
- 
 #### delete ==local== branch that is unmerged
 ```console
-git branch -D <localBranchName> 
+git branch -d <localBranchName> 
 ```
 ---
 #### delete branch ==remotely==

@@ -7,8 +7,12 @@
         "id": "e880af88ea02ddf3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "E-commerce/prompt.md",
+            "mode": "preview",
+            "source": true
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "E-commerce/prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "e880af88ea02ddf3",
   "lastOpenFiles": [
-    "E-commerce/prompt.md",
     "Angular/prompt.md",
-    "ShortCut/obsidian.md",
-    "ShortCut/visualStudio.md",
-    "lazyLoading.md",
     "GIT/deleteBranch.md",
     "GIT/createBranch.md",
-    "Angular/prompt/newPoject.md",
     "GIT/changeDefaultBranch.md",
-    "TS/functions/obj/cleanUselessKeys.md"
+    "TS/functions/string/camelCaseToTitleCase.md",
+    "TS/functions/obj/cleanUselessKeys.md",
+    "E-commerce/prompt.md",
+    "ShortCut/obsidian.md",
+    "ShortCut/visualStudio.md",
+    "lazyLoading.md"
   ]
 }

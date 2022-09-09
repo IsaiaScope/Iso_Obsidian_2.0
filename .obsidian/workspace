@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "E-commerce/prompt.md",
+            "file": "Angular/ngRx.md",
             "mode": "preview",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E-commerce/prompt.md",
+                "file": "Angular/ngRx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,14 +90,14 @@
   "active": "e880af88ea02ddf3",
   "lastOpenFiles": [
     "Angular/prompt.md",
+    "Angular/ngRx.md",
+    "E-commerce/prompt.md",
     "GIT/deleteBranch.md",
     "GIT/createBranch.md",
     "GIT/changeDefaultBranch.md",
     "TS/functions/string/camelCaseToTitleCase.md",
     "TS/functions/obj/cleanUselessKeys.md",
-    "E-commerce/prompt.md",
     "ShortCut/obsidian.md",
-    "ShortCut/visualStudio.md",
-    "lazyLoading.md"
+    "ShortCut/visualStudio.md"
   ]
 }

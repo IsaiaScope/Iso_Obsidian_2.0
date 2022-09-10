@@ -4,14 +4,3 @@
 #### Install AngularFire and Firebase
 - during installation u have to login in to authenticate for db work
 ---
-
-```console
-ng add @angular/fire
-```
-
-#### Auth
--  remember to add to app.module imports AngularFireAuthModule
-```typescript
-StoreDevtoolsModule.instrument({ maxAge: 25, logOnly: env.production }),
-```
----

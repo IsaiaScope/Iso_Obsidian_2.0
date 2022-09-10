@@ -1,11 +1,9 @@
-
-
-
-#### generation
-- remember to add to app.module imports section
+#### Install AngularFire and Firebase
 ```console
-ng add @ngrx/store-devtools@latest
+ng add @angular/fire
 ```
+---
+#### Install AngularFire and Firebase
 -  remember to add to app.module imports
 ```typescript
 StoreDevtoolsModule.instrument({ maxAge: 25, logOnly: env.production }),

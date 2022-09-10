@@ -3,7 +3,6 @@
 ng new <projectName>
 ```
 ---
----
 #### upgrade ==local== angular cli version
 ```console
 ng update @angular/core @angular/cli
@@ -14,7 +13,6 @@ ng update @angular/core @angular/cli
 ng g c </path/componetName> --skip-tests --inline-style --inline-template --flat
 ```
 ---
-
 #### Create module to ==manage lazy-loading==
 -  u can add --flat to avoid folder creation
 - the following snippets create the entire component .ts .html .scss .specs 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Angular/prompt.md",
+            "file": "E-commerce/prompt.md",
             "mode": "preview",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/prompt.md",
+                "file": "E-commerce/prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +89,12 @@
   },
   "active": "48b8f76ea0ba7849",
   "lastOpenFiles": [
-    "Firebase/Angular.md",
     "Firebase/theory.md",
+    "Firebase/Angular.md",
     "E-commerce/prompt.md",
+    "assets/svgs/rawr.md",
     "Angular/prompt.md",
     "Angular/ngRx.md",
-    "assets/svgs/rawr.md",
     "GIT/changeDefaultBranch.md",
     "CSS/SASS.md",
     "Pasted image 20220910211003.png.md",

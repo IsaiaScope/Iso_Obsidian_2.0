@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "48b8f76ea0ba7849",
+        "id": "c4c44612b861a97f",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "compone",
+                "query": "jest",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "48b8f76ea0ba7849",
+  "active": "c4c44612b861a97f",
   "lastOpenFiles": [
-    "E-commerce/prompt.md",
+    "Firebase/Angular.md",
     "npm/libraries.md",
+    "README.md",
+    "E-commerce/prompt.md",
     "Angular/prompt.md",
     "Firebase/theory.md",
-    "Firebase/Angular.md",
     "assets/svgs/rawr.md",
     "Angular/ngRx.md",
     "GIT/changeDefaultBranch.md",
-    "CSS/SASS.md",
-    "Pasted image 20220910211003.png.md"
+    "CSS/SASS.md"
   ]
 }

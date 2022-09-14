@@ -7,3 +7,13 @@ function logAndEcho <T> ( val : T ) {
 logAndEcho<string>( ' Hi there ! ' ) . split ( ' ' ) ;
 ```
 ---
+```typescript
+const getJSON = <T>(config: { url: string }): Promise<T> => {
+
+    const fetchConfig = ({ method: 'GET' });
+
+    return fetch(config.url, fetchConfig).then<T>(response => response.json());
+
+  }
+```
+---

@@ -8,12 +8,30 @@ logAndEcho<string>( ' Hi there ! ' ) . split ( ' ' ) ;
 ```
 ---
 ```typescript
-const getJSON = <T>(config: { url: string }): Promise<T> => {
+export function readeFileContent<T>(inputElm: HTMLInputElement): Promise<T> {
 
-    const fetchConfig = ({ method: 'GET' });
+  const file = inputElm.files[0];
 
-    return fetch(config.url, fetchConfig).then<T>(response => response.json());
+  if (!file) {
 
-  }
+    return Promise.reject("File not found");
+
+  }
+
+  return new Promise<T>((res, rej) => {
+
+    const reader = new FileReader();
+
+    reader.readAsText(file, "UTF-8");
+
+    // @ts-ignore
+
+    reader.onload = (evt) => res(evt.target.result);
+
+    reader.onerror = () => rej("error reading file");
+
+  });
+
+}
 ```
 ---

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "npm/libraries.md",
+            "file": "TS/theory.md",
             "mode": "preview",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "npm/libraries.md",
+                "file": "TS/theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "c4c44612b861a97f",
   "lastOpenFiles": [
-    "Firebase/Angular.md",
     "npm/libraries.md",
+    "TS/theory.md",
+    "Firebase/Angular.md",
     "README.md",
     "E-commerce/prompt.md",
     "Angular/prompt.md",
     "Firebase/theory.md",
     "assets/svgs/rawr.md",
     "Angular/ngRx.md",
-    "GIT/changeDefaultBranch.md",
-    "CSS/SASS.md"
+    "GIT/changeDefaultBranch.md"
   ]
 }

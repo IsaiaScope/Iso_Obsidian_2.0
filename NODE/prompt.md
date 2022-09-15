@@ -8,3 +8,8 @@ node -v
 node nomeFile.js
 ```
 ---
+#### APP Initialization
+```console
+npm init
+```
+---

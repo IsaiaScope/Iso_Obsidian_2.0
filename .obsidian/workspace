@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "NODE/npm/libraries.md",
-            "mode": "preview",
+            "mode": "source",
             "source": true
           }
         }
@@ -89,15 +89,15 @@
   },
   "active": "c4c44612b861a97f",
   "lastOpenFiles": [
-    "NODE/prompt.md",
+    "GIT/createBranch.md",
+    "GIT/deleteBranch.md",
     "NODE/npm/libraries.md",
+    "NODE/prompt.md",
     "TS/theory.md",
     "Firebase/Angular.md",
     "README.md",
     "E-commerce/prompt.md",
     "Angular/prompt.md",
-    "Firebase/theory.md",
-    "assets/svgs/rawr.md",
-    "Angular/ngRx.md"
+    "Firebase/theory.md"
   ]
 }

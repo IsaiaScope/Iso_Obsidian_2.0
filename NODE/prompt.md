@@ -9,6 +9,7 @@ node nomeFile.js
 ```
 ---
 #### APP Initialization
+- create package.json and other staff like node module folder!
 ```console
 npm init
 ```

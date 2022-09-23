@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "NODE/npm/libraries.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -89,10 +89,10 @@
   },
   "active": "c4c44612b861a97f",
   "lastOpenFiles": [
+    "NODE/prompt.md",
+    "NODE/npm/libraries.md",
     "GIT/createBranch.md",
     "GIT/deleteBranch.md",
-    "NODE/npm/libraries.md",
-    "NODE/prompt.md",
     "TS/theory.md",
     "Firebase/Angular.md",
     "README.md",

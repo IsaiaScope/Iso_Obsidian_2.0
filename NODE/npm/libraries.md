@@ -24,9 +24,10 @@ npm i --save body-parser
 ```
 ---
 #### ==ejs pug express-hadlebars==
-- pug => library for dynamic template HTML, great library to create HTML server-side to send to user, implement feature like extend, quite hard
+All three are libraries to send HTML pages back with dynamic data
+- pug => great library to create HTML server-side to send to user, implement feature like extend, quite hard
 - esj =>
-- express-handlebars => 
+- express-handlebars => good because logic is always in JS file, really easy this library aim to write way less logic in the template 
 ```console
 npm i --save ejs pug express-hadlebars
 ```

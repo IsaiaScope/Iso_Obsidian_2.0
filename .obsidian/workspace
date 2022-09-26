@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TS/theory.md",
-            "mode": "preview",
+            "file": "NODE/npm/libraries.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TS/theory.md",
+                "file": "NODE/npm/libraries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,14 +89,14 @@
   },
   "active": "c4c44612b861a97f",
   "lastOpenFiles": [
+    "NODE/prompt.md",
+    "NODE/npm/libraries.md",
+    "TS/theory.md",
     "ShortCut/visualStudio.md",
     "ShortCut/obsidian.md",
     "GIT/deleteBranch.md",
     "GIT/createBranch.md",
     "GIT/changeDefaultBranch.md",
-    "NODE/npm/libraries.md",
-    "NODE/prompt.md",
-    "TS/theory.md",
     "Firebase/Angular.md",
     "README.md"
   ]

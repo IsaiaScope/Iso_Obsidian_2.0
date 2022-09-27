@@ -26,7 +26,7 @@ npm i --save body-parser
 #### ==ejs pug express-handlebars==
 All three are libraries to send HTML pages back with dynamic data
 - pug => great library to create HTML server-side to send to user, implement feature like extend, quite hard
-- esj => better one u could write JS directly in the template, reusable template are called partial 
+- ejs => better one u could write JS directly in the template, reusable template are called partial 
 - express-handlebars => good because logic is always in JS file, really easy this library aim to write way less logic in the template 
 ```console
 npm i --save ejs pug express-hadlebars

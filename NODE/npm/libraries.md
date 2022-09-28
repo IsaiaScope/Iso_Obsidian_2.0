@@ -32,3 +32,10 @@ All three are libraries to send HTML pages back with dynamic data
 npm i --save ejs pug express-hadlebars
 ```
 ---
+#### ==Sql==
+All three are libraries to send HTML pages back with dynamic data
+- install sql server and workbanch
+```console
+npm i --save mysql2
+```
+---

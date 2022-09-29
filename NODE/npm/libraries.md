@@ -32,12 +32,16 @@ All three are libraries to send HTML pages back with dynamic data
 npm i --save ejs pug express-hadlebars
 ```
 ---
-#### ==Sql==
+#### ==Sql & Sequelize==
 
  ![[Sql & Sequelize.png]]
  
 ```console
-npm i --save mysql2
-npm i --save sequelize
+npm i --save mysql2 sequelize
+```
+---
+#### ==MongoDB==
+```console
+npm i --save mongodb
 ```
 ---

@@ -89,15 +89,15 @@
   },
   "active": "c4c44612b861a97f",
   "lastOpenFiles": [
+    "Firebase/Angular.md",
+    "Firebase/theory.md",
+    "NODE/npm/libraries.md",
     "NODE/prompt.md",
     "assets/images/Sql & Sequelize.png",
-    "NODE/npm/libraries.md",
     "TS/theory.md",
     "ShortCut/visualStudio.md",
     "ShortCut/obsidian.md",
     "GIT/deleteBranch.md",
-    "GIT/createBranch.md",
-    "GIT/changeDefaultBranch.md",
-    "Firebase/Angular.md"
+    "GIT/createBranch.md"
   ]
 }

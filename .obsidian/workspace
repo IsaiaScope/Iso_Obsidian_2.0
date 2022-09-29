@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "NODE/npm/libraries.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -90,6 +90,7 @@
   "active": "c4c44612b861a97f",
   "lastOpenFiles": [
     "NODE/prompt.md",
+    "assets/images/Sql & Sequelize.png",
     "NODE/npm/libraries.md",
     "TS/theory.md",
     "ShortCut/visualStudio.md",
@@ -97,7 +98,6 @@
     "GIT/deleteBranch.md",
     "GIT/createBranch.md",
     "GIT/changeDefaultBranch.md",
-    "Firebase/Angular.md",
-    "README.md"
+    "Firebase/Angular.md"
   ]
 }

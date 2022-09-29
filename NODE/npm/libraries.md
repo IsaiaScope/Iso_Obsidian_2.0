@@ -33,12 +33,11 @@ npm i --save ejs pug express-hadlebars
 ```
 ---
 #### ==Sql==
-All three are libraries to send HTML pages back with dynamic data
-- install SQL server and workbench
-- help SQL connection, without using queries and using modals and JS objs to access and CRUD the db
+
+ ![[Sql & Sequelize.png]]
+ 
 ```console
 npm i --save mysql2
 npm i --save sequelize
-
 ```
 ---

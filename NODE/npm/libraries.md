@@ -40,8 +40,8 @@ npm i --save ejs pug express-hadlebars
 npm i --save mysql2 sequelize
 ```
 ---
-#### ==MongoDB==
+#### ==MongoDB Mongoose==
 ```console
-npm i --save mongodb
+npm i --save mongodb mongoose
 ```
 ---

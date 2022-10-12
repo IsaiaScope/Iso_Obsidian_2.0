@@ -50,4 +50,9 @@ npm i --save mongodb mongoose
 ```console
 npm i --save express-session
 ```
+
+- to do not store the session non server memory, that'd be good idea use DB to store the session it self; if u are working with mongoDB the next package could be usefull
+```console
+npm i --save connect-mongodb-session
+```
 ---

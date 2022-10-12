@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NODE/npm/libraries.md",
+            "file": "TS/theory/type guards.md",
             "mode": "preview",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NODE/npm/libraries.md",
+                "file": "TS/theory/type guards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "c4c44612b861a97f",
   "lastOpenFiles": [
+    "TS/theory/generics.md",
+    "TS/theory/type guards.md",
+    "TS/functions/obj/cleanUselessKeys.md",
     "NODE/prompt.md",
-    "NODE/npm/libraries.md",
-    "Firebase/Angular.md",
-    "Firebase/theory.md",
-    "assets/images/Sql & Sequelize.png",
-    "TS/theory.md",
     "ShortCut/visualStudio.md",
-    "ShortCut/obsidian.md",
+    "TS/functions/string/camelCaseToTitleCase.md",
     "GIT/deleteBranch.md",
-    "GIT/createBranch.md"
+    "GIT/createBranch.md",
+    "GIT/changeDefaultBranch.md",
+    "Firebase/theory.md"
   ]
 }

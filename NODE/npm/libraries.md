@@ -45,3 +45,9 @@ npm i --save mysql2 sequelize
 npm i --save mongodb mongoose
 ```
 ---
+#### ==Session==
+- help managing session on the server
+```console
+npm i --save express-session
+```
+---

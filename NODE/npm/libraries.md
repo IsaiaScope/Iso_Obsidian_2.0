@@ -68,6 +68,7 @@ npm i --save csurf
 ```
 ---
 #### ==connect flash==
+![[Flash.png]]
 ```console
 npm i --save connect-flash
 ```

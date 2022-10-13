@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "NODE/npm/libraries.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -89,15 +89,15 @@
   },
   "active": "0244096453660401",
   "lastOpenFiles": [
+    "assets/images/Flash.png",
+    "NODE/npm/libraries.md",
     "assets/images/CSRF.png",
     "assets/images/Sql & Sequelize.png",
-    "NODE/npm/libraries.md",
     "GIT/createBranch.md",
     "Angular/prompt.md",
     "Angular/observable/Router.md",
     "Angular/observable/store.md",
     "Angular/observable/theory.md",
-    "TS/theory/type guards.md",
-    "TS/theory/generics.md"
+    "TS/theory/type guards.md"
   ]
 }

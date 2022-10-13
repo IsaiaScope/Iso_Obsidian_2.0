@@ -67,3 +67,8 @@ npm i --save bcryptjs
 npm i --save csurf
 ```
 ---
+#### ==connect flash==
+```console
+npm i --save connect-flash
+```
+---

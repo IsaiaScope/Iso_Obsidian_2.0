@@ -56,3 +56,8 @@ npm i --save express-session
 npm i --save connect-mongodb-session
 ```
 ---
+#### ==BcryptJS==
+```console
+npm i --save bcryptjs
+```
+---

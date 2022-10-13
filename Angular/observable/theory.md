@@ -17,13 +17,3 @@ ng add @ngrx/store-devtools@latest
 StoreDevtoolsModule.instrument({ maxAge: 25, logOnly: env.production }),
 ```
 ---
-#### Dispatch Action
-```typescript
-this.store.dispatch(actionFromAnyStoreProp({ data }));
-```
----
-#### Get Store Value
-```typescript
-$streamName: Observable<any> = this.store.select<any>(neededSate);
-```
----

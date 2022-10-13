@@ -73,3 +73,10 @@ npm i --save csurf
 npm i --save connect-flash
 ```
 ---
+#### ==Send Mails==
+- sendgrid => free tier 100 mail per day 
+- it's very complicated manage email server so good idea is to get third party package
+```console
+npm i --save nodemailer nodemailer-sendgrid-transport
+```
+---

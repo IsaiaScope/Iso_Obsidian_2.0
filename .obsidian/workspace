@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c4c44612b861a97f",
+        "id": "0244096453660401",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c4c44612b861a97f",
+  "active": "0244096453660401",
   "lastOpenFiles": [
+    "assets/images/CSRF.png",
+    "assets/images/Sql & Sequelize.png",
+    "NODE/npm/libraries.md",
     "GIT/createBranch.md",
     "Angular/prompt.md",
     "Angular/observable/Router.md",
     "Angular/observable/store.md",
     "Angular/observable/theory.md",
-    "NODE/npm/libraries.md",
     "TS/theory/type guards.md",
-    "TS/theory/generics.md",
-    "TS/functions/obj/cleanUselessKeys.md",
-    "NODE/prompt.md"
+    "TS/theory/generics.md"
   ]
 }

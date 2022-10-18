@@ -67,7 +67,7 @@ npm i --save bcryptjs
 npm i --save csurf
 ```
 ---
-#### ==connect flash==
+#### ==Connect Flash==
 ![[Flash.png]]
 ```console
 npm i --save connect-flash
@@ -80,3 +80,29 @@ npm i --save connect-flash
 npm i --save nodemailer nodemailer-sendgrid-transport
 ```
 ---
+#### ==express-validator & validator==
+- useful to validate data like email format and more
+```console
+npm i --save express-validator
+```
+- other solution could be
+```console
+npm i --save validator
+```
+---
+#### ==Multer==
+- useful to manage file like img upload to the server
+```console
+npm i --save multer
+```
+---
+#### ==pdfkit==
+- useful to create custom pdf on the server and respond with that
+```console
+npm i --save pdfkit
+```
+#### ==Stripe==
+- useful to manage payments
+```console
+npm i --save stripe
+```

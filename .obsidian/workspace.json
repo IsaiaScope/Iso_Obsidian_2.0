@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5e63c182a9833374",
+        "id": "611703cfb10067e2",
         "type": "tabs",
         "children": [
           {
-            "id": "0244096453660401",
+            "id": "53caab5675a907ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "NODE/npm/libraries.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "29e97871cc39bd9b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,10 +98,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "29e97871cc39bd9b",
+  "active": "53caab5675a907ac",
   "lastOpenFiles": [
-    "assets/images/Flash.png",
     "NODE/npm/libraries.md",
+    "assets/images/Flash.png",
     "assets/images/CSRF.png",
     "assets/images/Sql & Sequelize.png",
     "GIT/createBranch.md",

@@ -101,8 +101,16 @@ npm i --save multer
 ```console
 npm i --save pdfkit
 ```
+---
 #### ==Stripe==
 - useful to manage payments
 ```console
 npm i --save stripe
 ```
+---
+#### ==JWT==
+- useful to manage jwt
+```console
+npm i --save jsonwebtoken
+```
+---

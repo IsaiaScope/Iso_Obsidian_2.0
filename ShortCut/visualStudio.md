@@ -1,1 +1,2 @@
 - Shift + Esc => toggle down-bar
+- Ctrl + Shift + F => Search on the left menu the selected word

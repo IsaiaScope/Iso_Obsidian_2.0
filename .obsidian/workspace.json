@@ -14,37 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "381114e1631da9f1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f75a3a745183ccb9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f98012cb775340c1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +98,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ee3a406239a985a2",
+  "active": "53caab5675a907ac",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "ShortCut/obsidian.md",
     "README.md",
-    "Angular/prompt.md",
-    "Angular/observable/theory.md",
-    "Angular/observable/store.md",
-    "Angular/observable/Router.md",
-    "GIT/deleteBranch.md",
-    "GIT/createBranch.md",
+    "TS/theory/type guards.md",
+    "assets/images/CSRF.png",
+    "assets/images/Flash.png",
+    "assets/images/Sql & Sequelize.png",
+    "assets/svgs/rawr.md",
     "ShortCut/visualStudio.md",
-    "GIT/changeDefaultBranch.md"
+    "GIT/changeDefaultBranch.md",
+    "GIT/createBranch.md"
   ]
 }

@@ -18,8 +18,33 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "381114e1631da9f1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f75a3a745183ccb9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f98012cb775340c1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +122,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "53caab5675a907ac",
+  "active": "ee3a406239a985a2",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "README.md",
     "Angular/prompt.md",
     "Angular/observable/theory.md",
     "Angular/observable/store.md",
     "Angular/observable/Router.md",
     "GIT/deleteBranch.md",
     "GIT/createBranch.md",
-    "README.md",
     "ShortCut/visualStudio.md",
-    "GIT/changeDefaultBranch.md",
-    "NODE/npm/libraries.md"
+    "GIT/changeDefaultBranch.md"
   ]
 }

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -100,15 +100,15 @@
   },
   "active": "53caab5675a907ac",
   "lastOpenFiles": [
-    "ShortCut/obsidian.md",
+    "GIT/deleteBranch.md",
     "README.md",
+    "ShortCut/obsidian.md",
     "TS/theory/type guards.md",
     "assets/images/CSRF.png",
     "assets/images/Flash.png",
     "assets/images/Sql & Sequelize.png",
     "assets/svgs/rawr.md",
     "ShortCut/visualStudio.md",
-    "GIT/changeDefaultBranch.md",
-    "GIT/createBranch.md"
+    "GIT/changeDefaultBranch.md"
   ]
 }

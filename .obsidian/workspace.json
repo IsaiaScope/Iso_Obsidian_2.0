@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/prompt.md",
+                "file": "NODE/prompt.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/prompt.md",
+                "file": "NODE/prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,11 +100,11 @@
   },
   "active": "f98012cb775340c1",
   "lastOpenFiles": [
-    "Angular/observable/theory.md",
     "NODE/npm/libraries.md",
+    "Angular/prompt.md",
+    "Angular/observable/theory.md",
     "TS/theory/generics.md",
     "TS/theory/type guards.md",
-    "Angular/prompt.md",
     "Angular/observable/Router.md",
     "README.md",
     "conflict-files-obsidian-git.md",

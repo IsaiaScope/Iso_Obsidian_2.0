@@ -8,9 +8,17 @@ node -v
 node nomeFile.js
 ```
 ---
-#### APP Initialization
+#### App Initialization
 - create package.json and other staff like node module folder!
 ```console
 npm init
+```
+---
+#### Random string
+```console
+node
+```
+```console
+require('crypto').randomBytes(64).toString('hex')
 ```
 ---

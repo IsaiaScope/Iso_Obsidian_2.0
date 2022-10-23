@@ -101,14 +101,14 @@
   "active": "f98012cb775340c1",
   "lastOpenFiles": [
     "NODE/npm/libraries.md",
+    "NODE/prompt.md",
+    "GIT/deleteBranch.md",
     "Angular/prompt.md",
     "Angular/observable/theory.md",
     "TS/theory/generics.md",
     "TS/theory/type guards.md",
     "Angular/observable/Router.md",
     "README.md",
-    "conflict-files-obsidian-git.md",
-    "Angular/observable/store.md",
-    "GIT/deleteBranch.md"
+    "conflict-files-obsidian-git.md"
   ]
 }

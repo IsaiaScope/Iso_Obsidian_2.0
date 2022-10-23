@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jest",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245
+    "width": 290
   },
   "right": {
     "id": "c5576e01ad7e4650",
@@ -101,14 +101,14 @@
   "active": "f98012cb775340c1",
   "lastOpenFiles": [
     "Angular/observable/theory.md",
+    "NODE/npm/libraries.md",
+    "TS/theory/generics.md",
+    "TS/theory/type guards.md",
+    "Angular/prompt.md",
     "Angular/observable/Router.md",
     "README.md",
     "conflict-files-obsidian-git.md",
-    "Angular/prompt.md",
     "Angular/observable/store.md",
-    "GIT/deleteBranch.md",
-    "GIT/createBranch.md",
-    "ShortCut/visualStudio.md",
-    "GIT/changeDefaultBranch.md"
+    "GIT/deleteBranch.md"
   ]
 }

@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "jest",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290
+    "width": 245
   },
   "right": {
     "id": "c5576e01ad7e4650",
@@ -101,14 +101,14 @@
   "active": "f98012cb775340c1",
   "lastOpenFiles": [
     "NODE/npm/libraries.md",
-    "NODE/prompt.md",
+    "GIT/changeDefaultBranch.md",
+    "GIT/createBranch.md",
     "GIT/deleteBranch.md",
     "Angular/prompt.md",
     "Angular/observable/theory.md",
-    "TS/theory/generics.md",
-    "TS/theory/type guards.md",
     "Angular/observable/Router.md",
     "README.md",
-    "conflict-files-obsidian-git.md"
+    "conflict-files-obsidian-git.md",
+    "Angular/observable/store.md"
   ]
 }

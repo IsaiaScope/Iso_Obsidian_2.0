@@ -1,8 +1,8 @@
 {
-  "baseFontSize": 13,
+  "baseFontSize": 14,
   "theme": "obsidian",
   "translucency": false,
-  "cssTheme": "Minimal",
+  "cssTheme": "Obsidian Nord",
   "interfaceFontFamily": "Comic Sans MS",
   "textFontFamily": "Comic Sans MS",
   "monospaceFontFamily": "Comic Sans MS",

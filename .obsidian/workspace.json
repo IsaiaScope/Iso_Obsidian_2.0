@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/observable/Router Class.md",
+                "file": "Angular/components/@input().md",
                 "mode": "preview",
                 "source": true
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/observable/Router Class.md",
+                "file": "Angular/components/@input().md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,13 +127,13 @@
   "lastOpenFiles": [
     "drowing/test.excalidraw.md",
     "drowing/test.excalidraw.svg",
+    "Angular/observable/Router Class.md",
     "drowing/Drawing 2022-10-26 16.32.28.excalidraw.md",
     "drowing/Drawing 2022-10-26 16.31.37.excalidraw.md",
     "Angular/prompt.md",
     "Angular/observable/NgRx operators.md",
     "Angular/observable/theory.md",
     "Angular/components/@input().md",
-    "TS/theory/generics.md",
-    "TS/theory/type guards.md"
+    "TS/theory/generics.md"
   ]
 }

@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/components/@input().md",
+                "file": "Angular/observable/theory.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "971b1f0815ae62d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular/observable/Router Class.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/components/@input().md",
+                "file": "Angular/observable/Router Class.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,17 +123,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ee3a406239a985a2",
+  "active": "971b1f0815ae62d0",
   "lastOpenFiles": [
-    "TS/theory/generics.md",
-    "TS/theory/type guards.md",
-    "Angular/components/@input().md",
-    "Angular/observable/Router Class.md",
-    "Angular/observable/theory.md",
+    "drowing/test.excalidraw.md",
+    "drowing/test.excalidraw.svg",
+    "drowing/Drawing 2022-10-26 16.32.28.excalidraw.md",
+    "drowing/Drawing 2022-10-26 16.31.37.excalidraw.md",
     "Angular/prompt.md",
-    "Shot cuts.md",
-    "CSS/theory.md",
-    "TS/functions/string/camelCaseToTitleCase.md",
-    "TS/functions/obj/cleanUselessKeys.md"
+    "Angular/observable/NgRx operators.md",
+    "Angular/observable/theory.md",
+    "Angular/components/@input().md",
+    "TS/theory/generics.md",
+    "TS/theory/type guards.md"
   ]
 }

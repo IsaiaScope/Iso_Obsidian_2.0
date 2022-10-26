@@ -1,4 +1,3 @@
-#### ==type guards==
 - when we have union types maybe could be useful know specific type; common approach is the following: create a method that check for a specific prop of the type if that exist that object is of that type
 ```typescript
 type Dog = {

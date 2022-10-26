@@ -8,24 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f98012cb775340c1",
+            "id": "95117490eb82deb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/theory.md",
+                "file": "Angular/observable/Router Class.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "eaae3866e8ae7d5d",
+            "id": "8382d12bcc2c3b3d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "drowing/test.excalidraw.md"
+                "file": "Angular/components/@input().md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -59,8 +61,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "set",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -88,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drowing/test.excalidraw.md",
+                "file": "Angular/components/@input().md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,17 +111,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "eaae3866e8ae7d5d",
+  "active": "ee3a406239a985a2",
   "lastOpenFiles": [
-    "drowing/test.excalidraw.svg",
-    "drowing/test.excalidraw.md",
-    "CSS/theory.md",
-    "drowing/test.excalidraw 1.svg",
-    "CSS/SASS.md",
-    "Angular/prompt.md",
+    "TS/theory/generics.md",
+    "TS/theory/type guards.md",
+    "Angular/components/@input().md",
+    "Angular/observable/Router Class.md",
     "Angular/observable/theory.md",
-    "Angular/observable/store.md",
-    "Angular/observable/Router.md",
-    "TS/theory/type guards.md"
+    "Angular/prompt.md",
+    "Shot cuts.md",
+    "CSS/theory.md",
+    "TS/functions/string/camelCaseToTitleCase.md",
+    "TS/functions/obj/cleanUselessKeys.md"
   ]
 }

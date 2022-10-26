@@ -1,9 +1,9 @@
-#### ==NODE VERSION==
+#### NODE Version
 ```console
 node -v
 ```
 ---
-#### ==Launch File==
+#### Launch File
 ```console
 node nomeFile.js
 ```

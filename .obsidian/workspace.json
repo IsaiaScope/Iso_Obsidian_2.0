@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CSS/theory.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "303faa11ad1e8b26",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "drowing/test.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,14 +88,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "drowing/test.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -92,23 +103,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 221.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f98012cb775340c1",
+  "active": "e0fc57aa05d4a486",
   "lastOpenFiles": [
-    "Angular/observable/theory.md",
-    "drowing/test.excalidraw.md",
     "drowing/test.excalidraw.svg",
-    "NODE/prompt.md",
-    "NODE/npm/libraries.md",
-    "GIT/deleteBranch.md",
+    "CSS/theory.md",
+    "CSS/SASS.md",
+    "drowing/test.excalidraw.md",
     "Angular/prompt.md",
-    "TS/theory/generics.md",
+    "Angular/observable/theory.md",
+    "Angular/observable/store.md",
+    "Angular/observable/Router.md",
     "TS/theory/type guards.md",
-    "Angular/observable/Router.md"
+    "TS/theory/generics.md"
   ]
 }

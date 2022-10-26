@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "303faa11ad1e8b26",
+            "id": "eaae3866e8ae7d5d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -89,7 +89,7 @@
               "type": "backlink",
               "state": {
                 "file": "drowing/test.excalidraw.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -103,22 +103,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e0fc57aa05d4a486",
+  "active": "eaae3866e8ae7d5d",
   "lastOpenFiles": [
     "drowing/test.excalidraw.svg",
-    "CSS/theory.md",
-    "CSS/SASS.md",
     "drowing/test.excalidraw.md",
+    "CSS/theory.md",
+    "drowing/test.excalidraw 1.svg",
+    "CSS/SASS.md",
     "Angular/prompt.md",
     "Angular/observable/theory.md",
     "Angular/observable/store.md",
     "Angular/observable/Router.md",
-    "TS/theory/type guards.md",
-    "TS/theory/generics.md"
+    "TS/theory/type guards.md"
   ]
 }

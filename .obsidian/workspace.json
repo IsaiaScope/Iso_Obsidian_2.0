@@ -25,24 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/observable/theory.md",
+                "file": "Angular/observable/NgRx operators.md",
                 "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "971b1f0815ae62d0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "drowing/test.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drowing/test.excalidraw.md",
+                "file": "Angular/observable/NgRx operators.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,17 +111,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "971b1f0815ae62d0",
+  "active": "8382d12bcc2c3b3d",
   "lastOpenFiles": [
-    "drowing/test.excalidraw.svg",
     "Angular/components/@input().md",
-    "Angular/observable/theory.md",
+    "Angular/observable/NgRx operators.md",
     "drowing/test.excalidraw.md",
+    "drowing/test.excalidraw.svg",
+    "Angular/observable/theory.md",
     "Angular/observable/Router Class.md",
     "drowing/Drawing 2022-10-26 16.32.28.excalidraw.md",
     "drowing/Drawing 2022-10-26 16.31.37.excalidraw.md",
     "Angular/prompt.md",
-    "Angular/observable/NgRx operators.md",
     "TS/theory/generics.md"
   ]
 }

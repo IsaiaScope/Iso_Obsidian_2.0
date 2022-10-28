@@ -47,12 +47,8 @@
             "id": "eb2c2f7f6c602c0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -114,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,10 +129,10 @@
   },
   "active": "eb2c2f7f6c602c0c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "TS/theory/Non-null assertion operator.md",
     "TS/theory/type guards.md",
     "Shot cuts.md",
-    "conflict-files-obsidian-git.md",
     "Angular/observable/NgRx operators.md",
     "Angular/observable/Refresh token interceptor.md",
     "Angular/components/@input().md",

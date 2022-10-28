@@ -19,11 +19,9 @@
             "id": "66b3d9434db30b57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "TS/theory/Non-null assertion operator.md",
-                "mode": "preview",
-                "source": true
+                "file": "drowing/rivers/interceptor-refreshtoken.md"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TS/theory/Non-null assertion operator.md",
+                "file": "drowing/rivers/interceptor-refreshtoken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +104,15 @@
   },
   "active": "66b3d9434db30b57",
   "lastOpenFiles": [
+    "drowing/rivers/interceptor-refreshtoken.svg",
+    "drowing/rivers/interceptor-refreshtoken.md",
+    "Angular/observable/theory.md",
+    "TS/theory/Non-null assertion operator.md",
     "conflict-files-obsidian-git.md",
     "README.md",
     "Angular/observable/Refresh token interceptor.md",
-    "drowing/rivers/interceptor-refreshtoken.svg",
-    "drowing/rivers/interceptor-refreshtoken.md",
     "drowing/test.excalidraw.md",
     "drowing/test.excalidraw.svg",
-    "TS/theory/type guards.md",
-    "TS/theory/Non-null assertion operator.md",
-    "TS/theory/generics.md"
+    "TS/theory/type guards.md"
   ]
 }

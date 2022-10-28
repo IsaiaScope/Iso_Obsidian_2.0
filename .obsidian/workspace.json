@@ -25,24 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/observable/NgRx operators.md",
+                "file": "Angular/components/@input().md",
                 "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "9b10f4889c2e633d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/observable/NgRx operators.md",
+                "file": "Angular/components/@input().md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,10 +108,10 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "9b10f4889c2e633d",
+  "active": "8382d12bcc2c3b3d",
   "lastOpenFiles": [
-    "Angular/components/@input().md",
     "Angular/observable/NgRx operators.md",
+    "Angular/components/@input().md",
     "drowing/test.excalidraw.md",
     "drowing/test.excalidraw.svg",
     "Angular/observable/theory.md",

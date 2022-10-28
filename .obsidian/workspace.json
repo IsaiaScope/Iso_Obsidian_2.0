@@ -19,8 +19,12 @@
             "id": "66b3d9434db30b57",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TS/theory/Non-null assertion operator.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TS/theory/Non-null assertion operator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,10 +104,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ee3a406239a985a2",
+  "active": "66b3d9434db30b57",
   "lastOpenFiles": [
-    "README.md",
     "conflict-files-obsidian-git.md",
+    "README.md",
     "Angular/observable/Refresh token interceptor.md",
     "drowing/rivers/interceptor-refreshtoken.svg",
     "drowing/rivers/interceptor-refreshtoken.md",

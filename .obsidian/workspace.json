@@ -4,47 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "611703cfb10067e2",
+        "id": "d39325d0db2720ca",
         "type": "tabs",
         "children": [
           {
-            "id": "95117490eb82deb2",
+            "id": "32d8c4cf45b014ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angular/observable/Router Class.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "8382d12bcc2c3b3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angular/observable/NgRx operators.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b55151116b420297",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/theory/Non-null assertion operator.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "eb2c2f7f6c602c0c",
+            "id": "66b3d9434db30b57",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,9 +26,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b4f662045a60177e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflic obsidian problem.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,8 +69,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "set",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -98,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290
+    "width": 200
   },
   "right": {
     "id": "c5576e01ad7e4650",
@@ -114,13 +98,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/observable/Refresh token interceptor.md",
-                "collapseAll": true,
+                "file": "conflic obsidian problem.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -129,20 +113,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
+    "width": 300,
     "collapsed": true
   },
-  "active": "eb2c2f7f6c602c0c",
+  "active": "b4f662045a60177e",
   "lastOpenFiles": [
-    "TS/theory/generics.md",
-    "TS/theory/Non-null assertion operator.md",
-    "TS/theory/type guards.md",
     "conflict-files-obsidian-git.md",
-    "Shot cuts.md",
-    "Angular/observable/NgRx operators.md",
     "Angular/observable/Refresh token interceptor.md",
-    "Angular/components/@input().md",
     "drowing/rivers/interceptor-refreshtoken.md",
-    "drowing/rivers/interceptor-refreshtoken.svg"
+    "drowing/rivers/interceptor-refreshtoken.svg",
+    "Angular/observable/theory.md",
+    "TS/theory/Non-null assertion operator.md",
+    "README.md",
+    "drowing/test.excalidraw.md",
+    "drowing/test.excalidraw.svg",
+    "TS/theory/type guards.md"
   ]
 }

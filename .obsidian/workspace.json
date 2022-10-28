@@ -30,9 +30,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9b10f4889c2e633d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,10 +118,7 @@
     "width": 221.5,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "8382d12bcc2c3b3d",
+  "active": "9b10f4889c2e633d",
   "lastOpenFiles": [
     "Angular/components/@input().md",
     "Angular/observable/NgRx operators.md",

@@ -13,7 +13,7 @@
 git reset --hard origin/head
 ```
 ---
-2. 
+2. ***git add .*** stages new files and modifications, **without deletions** (on the current directory and its subdirectories), praticalli the plus button in VS. The ***git commit*** command will save all staged changes, along with a brief description from the user, in a “commit” to the local repository. The ***-m*** stands for message; praticalli the + button in VS
 ```console
 git add .
 
@@ -21,3 +21,4 @@ git commit -m "fixed git things"
 
 git push
 ```
+---

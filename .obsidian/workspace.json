@@ -47,8 +47,12 @@
             "id": "eb2c2f7f6c602c0c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Angular/observable/Refresh token interceptor.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -110,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Angular/observable/Refresh token interceptor.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +134,15 @@
   },
   "active": "eb2c2f7f6c602c0c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "TS/theory/generics.md",
     "TS/theory/Non-null assertion operator.md",
     "TS/theory/type guards.md",
+    "conflict-files-obsidian-git.md",
     "Shot cuts.md",
     "Angular/observable/NgRx operators.md",
     "Angular/observable/Refresh token interceptor.md",
     "Angular/components/@input().md",
     "drowing/rivers/interceptor-refreshtoken.md",
-    "drowing/rivers/interceptor-refreshtoken.svg",
-    "drowing/test.excalidraw.md"
+    "drowing/rivers/interceptor-refreshtoken.svg"
   ]
 }

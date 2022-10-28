@@ -25,14 +25,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/components/@input().md",
+                "file": "Angular/observable/NgRx operators.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "b55151116b420297",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/components/@input().md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +115,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "8382d12bcc2c3b3d",
+  "active": "b55151116b420297",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Angular/observable/NgRx operators.md",
+    "Angular/observable/Refresh token interceptor.md",
     "Angular/components/@input().md",
+    "drowing/rivers/interceptor-refreshtoken.md",
+    "drowing/rivers/interceptor-refreshtoken.svg",
     "drowing/test.excalidraw.md",
+    "Shot cuts.md",
     "drowing/test.excalidraw.svg",
-    "Angular/observable/theory.md",
-    "Angular/observable/Router Class.md",
-    "drowing/Drawing 2022-10-26 16.32.28.excalidraw.md",
-    "drowing/Drawing 2022-10-26 16.31.37.excalidraw.md",
-    "Angular/prompt.md",
-    "TS/theory/generics.md"
+    "Angular/observable/theory.md"
   ]
 }

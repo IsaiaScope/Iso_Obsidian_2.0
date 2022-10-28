@@ -4,22 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "611703cfb10067e2",
+        "id": "d39325d0db2720ca",
         "type": "tabs",
         "children": [
           {
-            "id": "f98012cb775340c1",
+            "id": "32d8c4cf45b014ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/theory/generics.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "66b3d9434db30b57",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290
+    "width": 200
   },
   "right": {
     "id": "c5576e01ad7e4650",
@@ -77,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TS/theory/generics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,20 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "f98012cb775340c1",
+  "active": "ee3a406239a985a2",
   "lastOpenFiles": [
-    "TS/theory/type guards.md",
     "README.md",
-    "Angular/observable/theory.md",
+    "conflict-files-obsidian-git.md",
+    "Angular/observable/Refresh token interceptor.md",
+    "drowing/rivers/interceptor-refreshtoken.svg",
+    "drowing/rivers/interceptor-refreshtoken.md",
     "drowing/test.excalidraw.md",
     "drowing/test.excalidraw.svg",
-    "NODE/prompt.md",
-    "NODE/npm/libraries.md",
-    "GIT/deleteBranch.md",
-    "Angular/prompt.md",
+    "TS/theory/type guards.md",
+    "TS/theory/Non-null assertion operator.md",
     "TS/theory/generics.md"
   ]
 }

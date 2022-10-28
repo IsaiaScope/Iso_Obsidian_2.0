@@ -1,12 +1,14 @@
-#### ==Generics==
+1. Generics simple ex
 ```typescript
 function logAndEcho <T> ( val : T ) {
   console.log ( val ) ;
   return val ;
 }
-logAndEcho<string>( ' Hi there ! ' ) . split ( ' ' ) ;
+
+logAndEcho<string>( ' Hi there ! ' ) . split ( ' ' ) 
 ```
 ---
+2. Generics ==Promise==
 ```typescript
 export function readeFileContent<T>(inputElm: HTMLInputElement): Promise<T> {
 

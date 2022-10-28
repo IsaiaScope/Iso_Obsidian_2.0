@@ -1,9 +1,9 @@
-####  create new Project
+####  Create new Project
 ```console
 ng new <projectName>
 ```
 ---
-#### upgrade ==local== angular cli version
+#### Upgrade ==local== angular cli version
 ```console
 ng update @angular/core @angular/cli
 ```

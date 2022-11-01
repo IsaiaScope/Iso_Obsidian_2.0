@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflic obsidian problem.md",
-                "mode": "preview",
+                "file": "Angular/observable/Refresh token interceptor.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflic obsidian problem.md",
+                "file": "Angular/observable/Refresh token interceptor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "90b778443c217f45",
   "lastOpenFiles": [
-    "TS/theory/Non-null assertion operator.md",
-    "TS/theory/type guards.md",
-    "conflict-files-obsidian-git.md",
-    "conflic obsidian problem.md",
-    "Angular/observable/Refresh token interceptor.md",
-    "drowing/rivers/interceptor-refreshtoken.md",
     "drowing/rivers/interceptor-refreshtoken.svg",
-    "Angular/observable/theory.md",
-    "README.md",
-    "drowing/test.excalidraw.md"
+    "Angular/observable/Refresh token interceptor.md",
+    "Angular/observable/NgRx operators.md",
+    "Angular/observable/Router Class.md",
+    "TS/theory/type guards.md",
+    "Angular/prompt.md",
+    "conflic obsidian problem.md",
+    "TS/theory/Non-null assertion operator.md",
+    "conflict-files-obsidian-git.md",
+    "drowing/rivers/interceptor-refreshtoken.md"
   ]
 }

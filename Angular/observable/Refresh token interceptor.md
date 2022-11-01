@@ -50,7 +50,8 @@ catchError((err: HttpErrorResponse | ErrorEvent) => {
 export class ApiInterceptorService implements HttpInterceptor {
   token$ = this.store.select(selectAuthState).pipe(
     map(({ accessToken }) => accessToken),
-    filter((accessToken) => accessToken !== null)
+    filter((accessToken) => accessToken !== null),
+    take(1)
   );
 
   isRefreshing$ = this.store.select(selectAuthState).pipe(
@@ -84,11 +85,8 @@ export class ApiInterceptorService implements HttpInterceptor {
     
     // handling api with different endpoit from /login, /refres, /loguot
     return this.token$.pipe(
-      map((accessToken) => this.addHeaders(req, accessToken)),
-      take(1),
       exhaustMap((req) => {
-        // console.log(`old stream`);
-        return next.handle(req);
+       return next.handle(this.addHeaders(req, accessToken));
       }),
       catchError((err: HttpErrorResponse | ErrorEvent) => {
         if (err instanceof HttpErrorResponse && err.status === ERROR.forbidden)

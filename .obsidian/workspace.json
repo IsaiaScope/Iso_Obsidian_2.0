@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/components/@input().md",
+                "file": "TS/theory/type guards.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/components/@input().md",
+                "file": "TS/theory/type guards.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "f57edd55faad9cc6",
   "lastOpenFiles": [
-    "conflic obsidian problem.md",
-    "E-commerce/prompt.md",
+    "TS/theory/Non-null assertion operator.md",
+    "TS/theory/generics.md",
+    "Firebase/theory.md",
+    "Firebase/Angular.md",
+    "Angular/observable/theory.md",
+    "Angular/observable/Router Class.md",
     "Angular/observable/Refresh token interceptor.md",
     "Angular/observable/NgRx operators.md",
-    "drowing/rivers/interceptor-refreshtoken.md",
-    "drowing/rivers/interceptor-refreshtoken.svg",
     "Angular/components/@input().md",
-    "TS/theory/generics.md",
-    "TS/theory/Non-null assertion operator.md",
-    "TS/theory/type guards.md"
+    "conflic obsidian problem.md"
   ]
 }

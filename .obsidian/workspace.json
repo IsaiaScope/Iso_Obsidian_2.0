@@ -4,32 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d5202e702d64cdc2",
+        "id": "c95d74f1fd65a9de",
         "type": "tabs",
         "children": [
           {
-            "id": "f57edd55faad9cc6",
+            "id": "1871ec07b32a79f1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "90b778443c217f45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TS/theory/One type or another.md",
+                "file": "E-commerce/prompt.md",
                 "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "3e3e38210f8e4731",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "drowing/models/card.excalidraw.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,8 +57,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "set",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -71,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290
+    "width": 200
   },
   "right": {
     "id": "c5576e01ad7e4650",
@@ -87,13 +86,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TS/theory/One type or another.md",
-                "collapseAll": true,
+                "file": "E-commerce/prompt.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -102,20 +101,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
+    "width": 300,
     "collapsed": true
   },
-  "active": "f57edd55faad9cc6",
+  "active": "90b778443c217f45",
   "lastOpenFiles": [
-    "TS/functions/obj/cleanUselessKeys.md",
-    "E-commerce/prompt.md",
-    "TS/theory/One type or another.md",
+    "drowing/models/card.excalidraw.svg",
     "drowing/models/card.excalidraw.md",
-    "drowing/rivers/interceptor-refreshtoken.md",
+    "Angular/observable/Refresh token interceptor.md",
     "drowing/rivers/interceptor-refreshtoken.svg",
-    "TS/functions/string/camelCaseToTitleCase.md",
-    "TS/theory/Non-null assertion operator.md",
-    "TS/theory/generics.md",
-    "TS/theory/type guards.md"
+    "Angular/observable/NgRx operators.md",
+    "Angular/observable/Router Class.md",
+    "TS/theory/type guards.md",
+    "Angular/prompt.md",
+    "conflic obsidian problem.md",
+    "TS/theory/Non-null assertion operator.md"
   ]
 }

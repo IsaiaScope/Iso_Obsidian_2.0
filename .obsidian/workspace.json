@@ -108,14 +108,14 @@
   "active": "f57edd55faad9cc6",
   "lastOpenFiles": [
     "TS/functions/obj/cleanUselessKeys.md",
+    "E-commerce/prompt.md",
+    "TS/theory/One type or another.md",
     "drowing/models/card.excalidraw.md",
     "drowing/rivers/interceptor-refreshtoken.md",
     "drowing/rivers/interceptor-refreshtoken.svg",
     "TS/functions/string/camelCaseToTitleCase.md",
-    "TS/theory/One type or another.md",
     "TS/theory/Non-null assertion operator.md",
     "TS/theory/generics.md",
-    "TS/theory/type guards.md",
-    "Firebase/theory.md"
+    "TS/theory/type guards.md"
   ]
 }

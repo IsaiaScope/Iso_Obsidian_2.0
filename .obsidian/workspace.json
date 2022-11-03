@@ -19,11 +19,9 @@
             "id": "90b778443c217f45",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "E-commerce/prompt.md",
-                "mode": "preview",
-                "source": true
+                "file": "drowing/rivers/interceptor-refreshtoken.md"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E-commerce/prompt.md",
+                "file": "drowing/rivers/interceptor-refreshtoken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +104,15 @@
   },
   "active": "90b778443c217f45",
   "lastOpenFiles": [
+    "drowing/rivers/interceptor-refreshtoken.svg",
+    "E-commerce/prompt.md",
     "drowing/models/card.excalidraw.svg",
     "drowing/models/card.excalidraw.md",
     "Angular/observable/Refresh token interceptor.md",
-    "drowing/rivers/interceptor-refreshtoken.svg",
     "Angular/observable/NgRx operators.md",
     "Angular/observable/Router Class.md",
     "TS/theory/type guards.md",
     "Angular/prompt.md",
-    "conflic obsidian problem.md",
-    "TS/theory/Non-null assertion operator.md"
+    "conflic obsidian problem.md"
   ]
 }

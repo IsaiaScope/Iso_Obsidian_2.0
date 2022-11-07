@@ -13,6 +13,7 @@
 ----
 ##### To resolve conflict problems
 1. git command to reset the vault to the current GitHub state
+	- a head is **a ref that points to the tip (latest commit) of a branch**
 ```console
 
 git reset --hard origin HEAD

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflic obsidian problem.md",
+                "file": "GIT/prompt.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflic obsidian problem.md",
+                "file": "GIT/prompt.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "f57edd55faad9cc6",
   "lastOpenFiles": [
+    "NODE/npm/libraries.md",
+    "E-commerce/prompt.md",
+    "TS/functions/obj/cleanUselessKeys.md",
+    "GIT/prompt.md",
+    "conflic obsidian problem.md",
     "TS/theory/Non-null assertion operator.md",
     "TS/theory/One type or another.md",
     "TS/theory/type guards.md",
-    "conflic obsidian problem.md",
-    "GIT/prompt.md",
-    "TS/functions/obj/cleanUselessKeys.md",
     "Angular/components/@input().md",
-    "E-commerce/prompt.md",
-    "drowing/models/card.excalidraw.md",
-    "drowing/rivers/interceptor-refreshtoken.md"
+    "drowing/models/card.excalidraw.md"
   ]
 }

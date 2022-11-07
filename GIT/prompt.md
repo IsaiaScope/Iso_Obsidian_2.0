@@ -23,7 +23,25 @@ git branch -d <localBranchName>
 git push origin --delete <remoteBranchName>
 ```
 ---
-
+#### Migrate Repository to Another Url
+- this change also reference in the project so next pull/push actions are gonna be on new Url
+```console
+git clone --mirror <URL OLD>
+cd <directory where your OLD repo was cloned>
+git remote set-url origin <NEW URL>
+git push --mirror origin
+```
+---
+#### Check Url Repo or Directory where local repo clone is
+1. check Url Repo
+```console
+git remote show origin
+```
+2. check directory where local repo clone is
+```console
+git rev-parse --show-toplevel
+```
+---
 
 
 

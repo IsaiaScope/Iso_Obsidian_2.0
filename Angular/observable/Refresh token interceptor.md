@@ -4,7 +4,8 @@
 
   token$ = this.store.select(selectAuthState).pipe(
     map(({ accessToken }) => accessToken),
-    filter((accessToken) => accessToken !== null)
+    filter((accessToken) => accessToken !== null),
+    take(1)
   )
   
 ```

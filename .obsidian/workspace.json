@@ -11,11 +11,15 @@
             "id": "f57edd55faad9cc6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
+<<<<<<< HEAD
                 "file": "conflic obsidian problem.md",
                 "mode": "preview",
                 "source": true
+=======
+                "file": "drowing/rivers/interceptor-refreshtoken.md"
+>>>>>>> origin/notes
               }
             }
           }
@@ -77,8 +81,13 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "conflic obsidian problem.md",
                 "collapseAll": true,
+=======
+                "file": "drowing/rivers/interceptor-refreshtoken.md",
+                "collapseAll": false,
+>>>>>>> origin/notes
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -97,6 +106,7 @@
   },
   "active": "f57edd55faad9cc6",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "GIT/prompt.md",
     "TS/theory/Non-null assertion operator.md",
     "TS/functions/obj/cleanUselessKeys.md",
@@ -107,5 +117,17 @@
     "drowing/rivers/interceptor-refreshtoken.md",
     "drowing/rivers/interceptor-refreshtoken.svg",
     "TS/functions/string/camelCaseToTitleCase.md"
+=======
+    "drowing/rivers/interceptor-refreshtoken.svg",
+    "E-commerce/prompt.md",
+    "drowing/models/card.excalidraw.svg",
+    "drowing/models/card.excalidraw.md",
+    "Angular/observable/Refresh token interceptor.md",
+    "Angular/observable/NgRx operators.md",
+    "Angular/observable/Router Class.md",
+    "TS/theory/type guards.md",
+    "Angular/prompt.md",
+    "conflic obsidian problem.md"
+>>>>>>> origin/notes
   ]
 }

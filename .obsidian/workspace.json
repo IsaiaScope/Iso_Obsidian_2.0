@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TS/functions/array.prototype.md",
+                "file": "GIT/prompt.md",
                 "mode": "preview",
                 "source": true
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TS/functions/array.prototype.md",
+                "file": "GIT/prompt.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,8 +110,8 @@
   },
   "active": "d2e1ef2d714b4ce2",
   "lastOpenFiles": [
-    "TS/functions/obj/cleanUselessKeys.md",
     "TS/functions/array.prototype.md",
+    "TS/functions/obj/cleanUselessKeys.md",
     "Angular/components/@input().md",
     "Angular/observable/Refresh token interceptor.md",
     "drowing/rivers/interceptor-refreshtoken.svg",

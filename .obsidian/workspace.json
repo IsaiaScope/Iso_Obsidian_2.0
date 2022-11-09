@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/prompt.md",
+                "file": "TS/functions/array.prototype.md",
                 "mode": "preview",
                 "source": true
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/prompt.md",
+                "file": "TS/functions/array.prototype.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +110,15 @@
   },
   "active": "d2e1ef2d714b4ce2",
   "lastOpenFiles": [
+    "Angular/observable/Refresh token interceptor.md",
+    "drowing/models/card.excalidraw.md",
+    "GIT/prompt.md",
     "TS/functions/array.prototype.md",
     "TS/functions/obj/cleanUselessKeys.md",
     "Angular/components/@input().md",
-    "Angular/observable/Refresh token interceptor.md",
     "drowing/rivers/interceptor-refreshtoken.svg",
-    "GIT/prompt.md",
     "conflic obsidian problem.md",
     "NODE/npm/libraries.md",
-    "E-commerce/prompt.md",
-    "TS/theory/Non-null assertion operator.md"
+    "E-commerce/prompt.md"
   ]
 }

@@ -5,7 +5,7 @@
     defArr: string[],
     keepDef: boolean = true,
     classesArr: string[],
-    ...args: string[] = []
+    ...args: Array<string[]>
   ) {
     const moreStyle = [...args.flat()];
     if (keepDef) {

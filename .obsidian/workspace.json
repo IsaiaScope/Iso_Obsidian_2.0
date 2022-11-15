@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/observable/Refresh token interceptor.md",
+                "file": "JS & TS/array/prototype/data/flat() & flatmap().md",
                 "mode": "preview",
                 "source": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/observable/Refresh token interceptor.md",
+                "file": "JS & TS/array/prototype/data/flat() & flatmap().md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,15 +146,15 @@
   },
   "active": "c08621a03e103cd8",
   "lastOpenFiles": [
+    "Firebase/Angular.md",
+    "JS & TS/array/prototype/index.md",
+    "JS & TS/array/prototype/data/flat() & flatmap().md",
+    "Angular/observable/theory.md",
+    "Angular/observable/Router Class.md",
+    "Angular/observable/Refresh token interceptor.md",
     "Angular/observable/NgRx operators.md",
     "Angular/components/@input().md",
     "Angular/prompt.md",
-    "JS & TS/array/prototype/index.md",
-    "JS & TS/array/prototype/data/flat() & flatmap().md",
-    "TS/functions/array.prototype.md",
-    "conflic obsidian problem.md",
-    "Shot cuts.md",
-    "Untitled.md",
-    "Angular/observable/Refresh token interceptor.md"
+    "TS/functions/array.prototype.md"
   ]
 }

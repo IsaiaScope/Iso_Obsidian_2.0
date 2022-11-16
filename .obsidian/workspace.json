@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "269f0cf537dae293",
+        "id": "e1e998ee122240a4",
         "type": "tabs",
         "children": [
           {
-            "id": "3d9bc684f974dca0",
+            "id": "bfe31c2a41b92657",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS & TS/array/prototype/data/flat() & flatmap().md",
-                "mode": "source",
+                "file": "React/theory/data/entry-point.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS & TS/array/prototype/data/flat() & flatmap().md",
+                "file": "React/theory/data/entry-point.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +95,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "3d9bc684f974dca0",
+  "active": "bfe31c2a41b92657",
   "lastOpenFiles": [
-    "JS & TS/array/prototype/index.md",
-    "React/theory/main.md",
+    "React/theory/index.md",
+    "React/theory/data/entry-point.md",
     "JS & TS/array/prototype/data/flat() & flatmap().md",
+    "JS & TS/array/prototype/data/main.md",
+    "JS & TS/array/prototype/index.md",
     "TS/theory/type guards.md",
     "TS/theory/One type or another.md",
     "TS/theory/Non-null assertion operator.md",
     "TS/theory/generics.md",
-    "GIT/prompt.md",
-    "TS/functions/array.prototype.md",
-    "Angular/components/@input().md"
+    "GIT/prompt.md"
   ]
 }

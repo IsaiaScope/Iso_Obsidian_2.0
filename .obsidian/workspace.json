@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "e1e998ee122240a4",
+        "id": "c95d74f1fd65a9de",
         "type": "tabs",
         "children": [
           {
-            "id": "bfe31c2a41b92657",
+            "id": "1871ec07b32a79f1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "90b778443c217f45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/theory/data/entry-point.md",
+                "file": "Angular/prompt.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flat",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -61,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290
+    "width": 200
   },
   "right": {
     "id": "c5576e01ad7e4650",
@@ -77,13 +86,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/theory/data/entry-point.md",
-                "collapseAll": true,
+                "file": "Angular/prompt.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -92,20 +101,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
+    "width": 300,
     "collapsed": true
   },
-  "active": "bfe31c2a41b92657",
+  "active": "90b778443c217f45",
   "lastOpenFiles": [
-    "React/theory/index.md",
-    "React/theory/data/entry-point.md",
-    "JS & TS/array/prototype/data/flat() & flatmap().md",
-    "JS & TS/array/prototype/data/main.md",
-    "JS & TS/array/prototype/index.md",
+    "drowing/rivers/interceptor-refreshtoken.md",
+    "drowing/rivers/interceptor-refreshtoken.svg",
+    "E-commerce/prompt.md",
+    "drowing/models/card.excalidraw.svg",
+    "drowing/models/card.excalidraw.md",
+    "Angular/observable/Refresh token interceptor.md",
+    "Angular/observable/NgRx operators.md",
+    "Angular/observable/Router Class.md",
     "TS/theory/type guards.md",
-    "TS/theory/One type or another.md",
-    "TS/theory/Non-null assertion operator.md",
-    "TS/theory/generics.md",
-    "GIT/prompt.md"
+    "Angular/prompt.md"
   ]
 }

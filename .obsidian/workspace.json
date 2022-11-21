@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/theory/index.md",
+                "file": "conflic obsidian problem.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/theory/index.md",
+                "file": "conflic obsidian problem.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,11 +97,11 @@
   },
   "active": "bfe31c2a41b92657",
   "lastOpenFiles": [
+    "React/theory/index.md",
     "Angular/prompt.md",
     "JS & TS/array/prototype/data/flat() & flatmap().md",
     "JS & TS/array/prototype/index.md",
     "React/theory/data/entry-point.md",
-    "React/theory/index.md",
     "JS & TS/array/prototype/data/main.md",
     "TS/theory/type guards.md",
     "TS/theory/One type or another.md",

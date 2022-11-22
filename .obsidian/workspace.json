@@ -11,11 +11,9 @@
             "id": "bfe31c2a41b92657",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "React/theory/data/entry-point.md",
-                "mode": "preview",
-                "source": true
+                "file": "drowing/models/card.excalidraw.md"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flat",
+                "query": "dra",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/theory/data/entry-point.md",
+                "file": "drowing/models/card.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,10 +93,10 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "bfe31c2a41b92657",
+  "active": "ee3a406239a985a2",
   "lastOpenFiles": [
-    "React/theory/index.md",
     "React/theory/data/entry-point.md",
+    "React/theory/index.md",
     "Angular/observable/Refresh token interceptor.md",
     "drowing/rivers/interceptor-refreshtoken.svg",
     "drowing/rivers/interceptor-refreshtoken.md",

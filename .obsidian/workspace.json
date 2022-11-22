@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflic obsidian problem.md",
+                "file": "React/theory/data/entry-point.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflic obsidian problem.md",
+                "file": "React/theory/data/entry-point.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,14 +98,14 @@
   "active": "bfe31c2a41b92657",
   "lastOpenFiles": [
     "React/theory/index.md",
-    "Angular/prompt.md",
-    "JS & TS/array/prototype/data/flat() & flatmap().md",
-    "JS & TS/array/prototype/index.md",
     "React/theory/data/entry-point.md",
-    "JS & TS/array/prototype/data/main.md",
-    "TS/theory/type guards.md",
-    "TS/theory/One type or another.md",
-    "TS/theory/Non-null assertion operator.md",
-    "TS/theory/generics.md"
+    "Angular/observable/Refresh token interceptor.md",
+    "drowing/rivers/interceptor-refreshtoken.svg",
+    "drowing/rivers/interceptor-refreshtoken.md",
+    "drowing/models/card.excalidraw.svg",
+    "drowing/models/card.excalidraw.md",
+    "E-commerce/prompt.md",
+    "CSS/theory.md",
+    "assets/svgs/rawr.md"
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "drowing/models/card.excalidraw.md"
+                "file": "drowing/models/dashboard.excalidraw.md"
               }
             }
           }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drowing/models/card.excalidraw.md",
+                "file": "drowing/models/dashboard.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,17 +93,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "ee3a406239a985a2",
+  "active": "bfe31c2a41b92657",
   "lastOpenFiles": [
+    "drowing/models/dashboard.excalidraw.svg",
+    "drowing/models/card.excalidraw.md",
+    "drowing/models/dashboard.excalidraw.md",
     "React/theory/data/entry-point.md",
     "React/theory/index.md",
     "Angular/observable/Refresh token interceptor.md",
     "drowing/rivers/interceptor-refreshtoken.svg",
     "drowing/rivers/interceptor-refreshtoken.md",
     "drowing/models/card.excalidraw.svg",
-    "drowing/models/card.excalidraw.md",
-    "E-commerce/prompt.md",
-    "CSS/theory.md",
-    "assets/svgs/rawr.md"
+    "E-commerce/prompt.md"
   ]
 }

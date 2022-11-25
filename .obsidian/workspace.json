@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NODE/prompt.md",
+                "file": "JS & TS/array/prototype/data/flat() & flatmap().md",
                 "mode": "preview",
                 "source": true
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "flat",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NODE/prompt.md",
+                "file": "JS & TS/array/prototype/data/flat() & flatmap().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +107,15 @@
   },
   "active": "90b778443c217f45",
   "lastOpenFiles": [
+    "drowing/models/card.excalidraw.md",
+    "NODE/prompt.md",
     "NODE/npm/libraries.md",
     "drowing/models/dashboard.excalidraw.svg",
     "drowing/models/card.excalidraw.svg",
-    "drowing/models/card.excalidraw.md",
     "drowing/rivers/interceptor-refreshtoken.svg",
     "Angular/prompt.md",
     "drowing/rivers/interceptor-refreshtoken.md",
     "E-commerce/prompt.md",
-    "Angular/observable/Refresh token interceptor.md",
-    "Angular/observable/NgRx operators.md"
+    "Angular/observable/Refresh token interceptor.md"
   ]
 }

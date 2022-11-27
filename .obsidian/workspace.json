@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS & TS/usefullMethods/index.md",
+                "file": "E-commerce/prompt.md",
                 "mode": "preview",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS & TS/usefullMethods/index.md",
+                "file": "E-commerce/prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,15 +130,15 @@
   },
   "active": "2a73104e8cf80377",
   "lastOpenFiles": [
-    "JS & TS/usefullMethods/data/Add prop conditionally to object.md",
+    "Shot cuts.md",
+    "E-commerce/prompt.md",
     "JS & TS/usefullMethods/index.md",
+    "JS & TS/usefullMethods/data/Add prop conditionally to object.md",
     "JS & TS/usefullMethods/data/Camelcase to titlecase.md",
     "JS & TS/usefullMethods/data/Clean useless keys.md",
     "TS/theory/type guards.md",
     "TS/theory/One type or another.md",
     "TS/theory/Non-null assertion operator.md",
-    "TS/theory/generics.md",
-    "JS & TS/array/prototype/index.md",
-    "JS & TS/array/prototype/data/flat() & flatmap().md"
+    "TS/theory/generics.md"
   ]
 }

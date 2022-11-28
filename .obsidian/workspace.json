@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS & TS/usefullMethods/data/Add prop conditionally to object.md",
+                "file": "React/theory/index.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "e796ba59383919ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/theory/data/props.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS & TS/usefullMethods/data/Add prop conditionally to object.md",
+                "file": "React/theory/data/props.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +108,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "bfe31c2a41b92657",
+  "active": "e796ba59383919ae",
   "lastOpenFiles": [
-    "JS & TS/usefullMethods/index.md",
-    "NODE/prompt.md",
-    "NODE/npm/libraries.md",
-    "CSS/theory.md",
+    "JS & TS/usefullMethods/data/Add prop conditionally to object.md",
+    "React/theory/data/props.md",
     "React/theory/index.md",
-    "JS & TS/array/prototype/data/flat() & flatmap().md",
-    "JS & TS/array/prototype/index.md",
     "React/theory/data/entry-point.md",
-    "drowing/models/dashboard.excalidraw.md",
-    "E-commerce/prompt.md"
+    "NODE/npm/libraries.md",
+    "NODE/prompt.md",
+    "JS & TS/usefullMethods/index.md",
+    "CSS/theory.md",
+    "JS & TS/array/prototype/data/flat() & flatmap().md",
+    "JS & TS/array/prototype/index.md"
   ]
 }

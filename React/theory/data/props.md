@@ -1,0 +1,14 @@
+- 
+```
+
+
+
+
+function Component(props) {
+return (
+	<div>
+	
+	</div>
+) 
+}
+```

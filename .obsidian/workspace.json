@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/theory/index.md",
+                "file": "React/theory/data/props.md",
                 "mode": "preview",
                 "source": true
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/theory/data/props.md",
-                "mode": "source",
+                "file": "JS & TS/usefullMethods/data/Add prop conditionally to object.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,12 +107,12 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "e796ba59383919ae",
+  "active": "bfe31c2a41b92657",
   "lastOpenFiles": [
+    "React/theory/data/entry-point.md",
+    "React/theory/index.md",
     "JS & TS/usefullMethods/data/Add prop conditionally to object.md",
     "React/theory/data/props.md",
-    "React/theory/index.md",
-    "React/theory/data/entry-point.md",
     "NODE/npm/libraries.md",
     "NODE/prompt.md",
     "JS & TS/usefullMethods/index.md",

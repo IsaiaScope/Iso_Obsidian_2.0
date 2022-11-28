@@ -42,6 +42,12 @@ git remote show origin
 git rev-parse --show-toplevel
 ```
 ---
+#### How to update my old working Git branch from another branch
+```console
+git checkout <old_branch_to_update>
+git merge <branch_where_take_data_from>
+```
+---
 
 
 

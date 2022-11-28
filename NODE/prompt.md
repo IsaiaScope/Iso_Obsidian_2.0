@@ -29,3 +29,9 @@ npm uninstall --save <package_name>
 npm un <package_name>
 ```
 ---
+#### Update a package
+- remember  -g  (between update and p. name) if package is globally installed
+```console
+npm update <package_name> 
+```
+---

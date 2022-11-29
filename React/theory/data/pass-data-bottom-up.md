@@ -1,14 +1,20 @@
 #### Child-to-Parent Component Communication (Bottom-up)
-1. *Do not execute the handler function (like clickHandler) in templates* because that code will be executed when the component is compiled and we want just to point that function and react takes care when to call it in base of event handled.
-2. [Events doc](https://reactjs.org/docs/events.html)
-
-````ad-example
-title: *click event snippet*
-collapse: closed
+1. First step create the prop to pass child component, and the logic is located in child component that execute the function passed
+2. in the following example is *onSaveExpenseData={saveExpenseDataHandler}* 
+3. 
 ```jsx
-const clickHandler = () => { console.log('Clicked!!!!') }
-return (
-	<button onClick={clickHandler}>Change Title</button>
-)
+const NewExpense = () => {
+const saveExpenseDataHandler = (enteredExpenseData) => {
+   const expenseData = {
+     ...enteredExpenseData,
+     id: Math.random().toString()
+  };
+  console.log(expenseData);
+ return (
+   <div className='new-expense'>
+     <ExpenseForm onSaveExpenseData={saveExpenseDataHandler} />
+  </div>
+);
+export default NewExpense;
 ```
-````
+

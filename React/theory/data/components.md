@@ -1,5 +1,5 @@
 #### theory
-1. ***Components tag are not render in html page, like in angular happen. Components tags are remove at run time*** 
+1. ***Components tag are not render in html page, like in Angular happend. Components tags are remove at run time*** 
 2. if component tag doesn't have any content inside u could omit the second one e use self closing tag
 ```jsx
 <Component title={someTitle}><Component>

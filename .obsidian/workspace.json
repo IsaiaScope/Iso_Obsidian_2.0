@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/theory/data/State.md",
+                "file": "React/theory/data/events.md",
                 "mode": "source",
                 "source": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/theory/data/State.md",
+                "file": "React/theory/data/events.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,8 +146,8 @@
   },
   "active": "22541f60f3f39d01",
   "lastOpenFiles": [
-    "React/theory/data/events.md",
     "React/theory/data/State.md",
+    "React/theory/data/events.md",
     "React/theory/data/components.md",
     "React/theory/data/entry-point.md",
     "React/theory/index.md",

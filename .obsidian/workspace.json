@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "React/theory/data/events.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -134,11 +134,11 @@
   },
   "active": "71d6334f9592329c",
   "lastOpenFiles": [
-    "React/theory/data/State.md",
+    "React/theory/data/entry-point.md",
     "React/theory/data/events.md",
+    "React/theory/data/State.md",
     "React/theory/data/components.md",
     "React/theory/data/props.md",
-    "React/theory/data/entry-point.md",
     "React/theory/index.md",
     "JS & TS/usefullMethods/data/Add prop conditionally to object.md",
     "JS & TS/usefullMethods/data/Camelcase to titlecase.md",

@@ -21,7 +21,7 @@ const Components = (props) => {
 4. *Multiple state management* could be done in different ways someone better than other in different situation
 
 ````ad-example
-title: *multiple useState snippet*
+title: *multiple useState() snippet*
 collapse: closed
 ```jsx
 const [enteredTitle, setEnteredTitle] = useState('');
@@ -51,7 +51,7 @@ const submitHandler = (event) => {
 ```
 ````
 ````ad-success
-title: *single useState snippet `RIGHT`*
+title: *single useState() snippet `RIGHT`*
 collapse: closed
 pass a function to state, the function has as argument the last state and so you are sure to done things correctly
 ```jsx
@@ -79,7 +79,7 @@ const dateChangeHandler = (event) => {
 ```
 ````
 ````ad-warning
-title: *single useState snippet `ERROR`*
+title: *single useState() snippet `ERROR`*
 collapse: closed
 this approach is wrong because you can't be sure in that moment the previous state is the right one, React manage the status change put every operation in a queue but the order you could be different of what you think and mess up things
 ```jsx

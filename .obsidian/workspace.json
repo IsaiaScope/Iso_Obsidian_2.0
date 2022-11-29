@@ -90,9 +90,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "afca355c05fe887b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/theory/data/pass-data-bottom-up.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/theory/data/events.md",
+                "file": "React/theory/data/pass-data-bottom-up.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,17 +180,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "8cb620ab81b89fa7",
+  "active": "afca355c05fe887b",
   "lastOpenFiles": [
+    "React/theory/data/events.md",
+    "Stuff.md",
+    "README.md",
+    "React/theory/data/pass-data-bottom-up.md",
+    "React/theory/data/useState().md",
     "React/theory/data/entry-point.md",
     "React/theory/data/components.md",
     "React/theory/data/best-practices.md",
-    "React/theory/data/events.md",
-    "React/theory/data/State.md",
     "React/theory/index.md",
-    "JS & TS/usefullMethods/data/Add prop conditionally to object.md",
-    "Stuff.md",
-    "README.md",
-    "Shot cuts.md"
+    "JS & TS/usefullMethods/data/Add prop conditionally to object.md"
   ]
 }

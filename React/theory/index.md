@@ -2,3 +2,4 @@
 2. [components](components.md)
 3. [events](events.md)
 4. [State](State.md)
+5. [best-practices](best-practices.md)

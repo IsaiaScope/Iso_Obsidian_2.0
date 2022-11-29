@@ -1,5 +1,6 @@
 #### Events
-1. *do not execute the handler function (like clickHandler) in templates* because that code will be executed when the component is compiled and we want just to point that function and react takes care when to call it in base of event handled.
+1. *Do not execute the handler function (like clickHandler) in templates* because that code will be executed when the component is compiled and we want just to point that function and react takes care when to call it in base of event handled.
+2. [Events doc](https://reactjs.org/docs/events.html)
 
 ````ad-example
 title: *click event snippet*
@@ -13,4 +14,15 @@ return (
 
 ^7ffdf5
 
+---
+````ad-example
+title: *onChange event snippet*
+```jsx
+const titleChangeHandler = (event){
+	console.log(event);
+};
+return (
+	<input type='text' onChange={titleChangeHandler}/>
+)
+````
 ---

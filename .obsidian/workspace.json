@@ -4,107 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4c16ecb1135fc416",
+        "id": "eb1fea108c698343",
         "type": "tabs",
         "children": [
           {
-            "id": "01b4169730bf827c",
+            "id": "f81fc9bc5f4c205c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "React/theory/data/components.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ff6bd5d7351d2480",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/theory/data/events.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "71d6334f9592329c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/theory/index.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "22541f60f3f39d01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/theory/data/events.md",
                 "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0b37fded8a39f317",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a5c71989123c8dab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/theory/index.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8cb620ab81b89fa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/theory/data/events.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "afca355c05fe887b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/theory/data/pass-data-bottom-up.md",
-                "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/theory/data/pass-data-bottom-up.md",
+                "file": "React/theory/data/components.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,17 +95,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "afca355c05fe887b",
+  "active": "f81fc9bc5f4c205c",
   "lastOpenFiles": [
-    "React/theory/data/events.md",
-    "Stuff.md",
-    "README.md",
-    "React/theory/data/pass-data-bottom-up.md",
-    "React/theory/data/useState().md",
-    "React/theory/data/entry-point.md",
-    "React/theory/data/components.md",
     "React/theory/data/best-practices.md",
+    "React/theory/data/useState().md",
+    "React/theory/data/pass-data-bottom-up.md",
+    "React/theory/data/events.md",
     "React/theory/index.md",
+    "React/theory/data/components.md",
+    "README.md",
+    "Stuff.md",
+    "React/theory/data/entry-point.md",
     "JS & TS/usefullMethods/data/Add prop conditionally to object.md"
   ]
 }

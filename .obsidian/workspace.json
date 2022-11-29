@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/theory/data/State.md",
+                "file": "React/theory/data/entry-point.md",
                 "mode": "preview",
                 "source": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/theory/data/State.md",
+                "file": "React/theory/data/entry-point.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,15 +146,15 @@
   },
   "active": "0b37fded8a39f317",
   "lastOpenFiles": [
-    "React/theory/data/events.md",
+    "JS & TS/usefullMethods/data/Add prop conditionally to object.md",
     "React/theory/data/State.md",
+    "React/theory/data/components.md",
+    "React/theory/data/events.md",
     "React/theory/data/entry-point.md",
     "React/theory/index.md",
-    "React/theory/data/components.md",
     "React/theory/data/props.md",
     "JS & TS/usefullMethods/index.md",
     "State.md",
-    "JS & TS/usefullMethods/data/Add prop conditionally to object.md",
     "JS & TS/usefullMethods/data/Camelcase to titlecase.md"
   ]
 }

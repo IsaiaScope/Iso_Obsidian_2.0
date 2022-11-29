@@ -18,3 +18,38 @@ const Components = (props) => {
 ```
 ````
 ---
+4. Multiple state management could be done in different ways someone better than other in different situation
+
+````ad-example
+title: *multiple state management snippet*
+collapse: closed
+```jsx
+const Components = (props) => {
+
+const [enteredTitle, setEnteredTitle] = useState('');
+const [enteredAmount, setEnteredAmount] = useState('');
+const [enteredDate, setEnteredDate] = useState('');
+
+const titleChangeHandler = (event) => {
+	setEnteredTitle(event.target.value);
+};
+
+const amountChangeHandler = (event) => {
+	setEnteredAmount(event.target.value);
+};
+
+const dateChangeHandler = (event) => {
+	setEnteredDate(event.target.value);
+};
+
+const submitHandler = (event) => {
+	event.preventDefault();
+	const expenseData = {
+		title: enteredTitle,
+		amount: enteredAmount,
+		date: new Date(enteredDate)
+	};
+};
+
+```
+````

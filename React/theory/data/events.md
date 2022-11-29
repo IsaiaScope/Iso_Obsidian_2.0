@@ -4,6 +4,7 @@
 
 ````ad-example
 title: *click event snippet*
+collapse: closed
 ```jsx
 const clickHandler = () => { console.log('Clicked!!!!') }
 return (
@@ -14,9 +15,10 @@ return (
 
 ^7ffdf5
 
----
 ````ad-example
 title: *onChange event snippet*
+collapse: closed
+manage input data insert triggering on every change at input value
 ```jsx
 const titleChangeHandler = (event){
 	console.log(event);

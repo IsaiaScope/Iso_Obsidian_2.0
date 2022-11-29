@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "React/theory/data/events.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/theory/data/components.md",
-                "mode": "source",
+                "file": "React/theory/data/State.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290
+    "width": 201.5
   },
   "right": {
     "id": "c5576e01ad7e4650",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/theory/data/events.md",
+                "file": "React/theory/data/State.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,13 +144,13 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "22541f60f3f39d01",
+  "active": "0b37fded8a39f317",
   "lastOpenFiles": [
-    "React/theory/data/State.md",
     "React/theory/data/events.md",
-    "React/theory/data/components.md",
+    "React/theory/data/State.md",
     "React/theory/data/entry-point.md",
     "React/theory/index.md",
+    "React/theory/data/components.md",
     "React/theory/data/props.md",
     "JS & TS/usefullMethods/index.md",
     "State.md",

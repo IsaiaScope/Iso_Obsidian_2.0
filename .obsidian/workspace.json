@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/theory/data/entry-point.md",
+                "file": "React/theory/data/components.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ff6bd5d7351d2480",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/theory/data/events.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "71d6334f9592329c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/theory/data/events.md",
                 "mode": "source",
                 "source": true
               }
@@ -25,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/theory/index.md",
-                "mode": "preview",
+                "file": "React/theory/data/components.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/theory/index.md",
+                "file": "React/theory/data/events.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +132,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "0b37fded8a39f317",
+  "active": "71d6334f9592329c",
   "lastOpenFiles": [
+    "React/theory/data/State.md",
+    "React/theory/data/events.md",
     "React/theory/data/components.md",
+    "React/theory/data/props.md",
     "React/theory/data/entry-point.md",
     "React/theory/index.md",
-    "React/theory/data/props.md",
     "JS & TS/usefullMethods/data/Add prop conditionally to object.md",
     "JS & TS/usefullMethods/data/Camelcase to titlecase.md",
     "JS & TS/usefullMethods/data/Clean useless keys.md",
-    "JS & TS/usefullMethods/index.md",
-    "add.md",
-    "NODE/npm/libraries.md"
+    "JS & TS/usefullMethods/index.md"
   ]
 }

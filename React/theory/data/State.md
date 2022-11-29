@@ -18,14 +18,12 @@ const Components = (props) => {
 ```
 ````
 ---
-4. Multiple state management could be done in different ways someone better than other in different situation
+4. *Multiple state management* could be done in different ways someone better than other in different situation
 
 ````ad-example
-title: *multiple state management snippet*
+title: *multiple useState snippet*
 collapse: closed
 ```jsx
-const Components = (props) => {
-
 const [enteredTitle, setEnteredTitle] = useState('');
 const [enteredAmount, setEnteredAmount] = useState('');
 const [enteredDate, setEnteredDate] = useState('');
@@ -49,7 +47,65 @@ const submitHandler = (event) => {
 		amount: enteredAmount,
 		date: new Date(enteredDate)
 	};
-};
-
+}
 ```
 ````
+````ad-success
+title: *single useState snippet `RIGHT`*
+collapse: closed
+pass a function to state, the function has as argument the last state and so you are sure to done things correctly
+```jsx
+const [userInput, setUserInput] = useState({
+	enteredTitle: '',
+	enteredAmount: '',
+	enteredDate: '',
+});
+
+const titleChangeHandler = (event) => {
+	setUserInput((prevState) => {
+		return { ...prevState, enteredTitle: event.target.value };
+	});
+};
+const amountChangeHandler = (event) => {
+	setUserInput((prevState) => {
+		return { ...prevState, enteredAmount: event.target.value };
+	});
+};
+const dateChangeHandler = (event) => {
+	setUserInput((prevState) => {
+		return { ...prevState, enteredDate: event.target.value };
+	});
+};
+```
+````
+````ad-warning
+title: *single useState snippet `ERROR`*
+collapse: closed
+this approach is wrong because you can't be sure in that moment the previous state is the right one, React manage the status change put every operation in a queue but the order you could be different of what you think and mess up things
+```jsx
+const [userInput, setUserInput] = useState({
+	enteredTitle: '',
+	enteredAmount: '',
+	enteredDate: '',
+});
+const titleChangeHandler = (event) => {
+	setUserInput({
+	...userInput,
+	enteredTitle: event.target.value,
+	});
+};
+const amountChangeHandler = (event) => {
+	setUserInput({
+	...userInput,
+	enteredAmount: event.target.value,
+	});
+};
+const dateChangeHandler = (event) => {
+	setUserInput({
+	...userInput,
+	enteredDate: event.target.value,
+	});
+};
+```
+````
+

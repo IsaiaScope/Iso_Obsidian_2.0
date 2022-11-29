@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/theory/data/State.md",
+                "file": "React/theory/data/events.md",
                 "mode": "preview",
                 "source": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/theory/data/State.md",
+                "file": "React/theory/data/events.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,13 +170,13 @@
   },
   "active": "8cb620ab81b89fa7",
   "lastOpenFiles": [
+    "React/theory/data/entry-point.md",
+    "React/theory/data/components.md",
+    "React/theory/data/best-practices.md",
     "React/theory/data/events.md",
     "React/theory/data/State.md",
-    "React/theory/data/best-practices.md",
     "React/theory/index.md",
     "JS & TS/usefullMethods/data/Add prop conditionally to object.md",
-    "React/theory/data/components.md",
-    "React/theory/data/entry-point.md",
     "Stuff.md",
     "README.md",
     "Shot cuts.md"

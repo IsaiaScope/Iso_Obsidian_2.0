@@ -14,7 +14,7 @@ return React. createElement(
 return (
   <div>
      <h2>Let's get started!</h2>
-     <Expenses items=(expenses) />
+     <Expenses items={expenses} />
   </div>
 )
 ```

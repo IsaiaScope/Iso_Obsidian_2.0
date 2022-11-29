@@ -61,6 +61,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a5c71989123c8dab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "React/theory/data/State.md",
                 "mode": "preview",
                 "source": true
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -144,17 +156,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "0b37fded8a39f317",
+  "active": "a5c71989123c8dab",
   "lastOpenFiles": [
     "React/theory/data/components.md",
+    "Stuff.md",
+    "README.md",
+    "Shot cuts.md",
+    "React/theory/data/State.md",
     "React/theory/data/entry-point.md",
     "React/theory/data/events.md",
-    "React/theory/data/State.md",
     "JS & TS/usefullMethods/data/Add prop conditionally to object.md",
     "React/theory/index.md",
-    "React/theory/data/props.md",
-    "JS & TS/usefullMethods/index.md",
-    "State.md",
-    "JS & TS/usefullMethods/data/Camelcase to titlecase.md"
+    "React/theory/data/props.md"
   ]
 }

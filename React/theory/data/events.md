@@ -3,7 +3,7 @@
 2. [Events doc](https://reactjs.org/docs/events.html)
 
 ````ad-example
-title: *click event snippet*
+title: *click event*
 collapse: closed
 ```jsx
 const clickHandler = () => { console.log('Clicked!!!!') }
@@ -16,7 +16,7 @@ return (
 ^7ffdf5
 
 ````ad-example
-title: *onChange event snippet*
+title: *onChange event*
 collapse: closed
 manage input data insert triggering on every change at input value
 ```jsx

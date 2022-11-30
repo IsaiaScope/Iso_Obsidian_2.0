@@ -19,3 +19,13 @@ return (
 )
 ```
 ---
+#### Render a list
+1. React allow to use tag components directly in render method combine with map. *Differently from Angular you can use function directly in template*.
+```jsx
+return (
+  <div>
+    {props.items.map(expense => <ExpenseItem title={expense.title}/>}
+  </div>
+)
+```
+---

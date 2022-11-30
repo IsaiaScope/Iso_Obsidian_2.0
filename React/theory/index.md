@@ -4,3 +4,4 @@
 4. [useState()](useState().md)
 5. [best-practices](best-practices.md)
 6. [pass-data-bottom-up](pass-data-bottom-up.md)
+7.  [coding-knowledge](coding-knowledge.md)

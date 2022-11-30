@@ -8,7 +8,7 @@
 ```
 ---
 3. The conception of '*composition*' 
-is possible to create a wrapper component like card as following and wrap inside other component to share logic and style; props.children is a special props field passed by default and always present, that is the content wrapped inside card tags
+is possible to create a wrapper component like card as following and wrap inside other component to share logic and style; *props.children* is a special props field passed by default and always present, that is the content wrapped inside card tags
 ```jsx
 function Card(props) {
    const classes = 'card ' + props.className;

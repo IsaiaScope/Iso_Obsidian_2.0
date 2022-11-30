@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/theory/index.md",
+                "file": "React/theory/data/pass-data-bottom-up.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/theory/index.md",
+                "file": "React/theory/data/pass-data-bottom-up.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "f81fc9bc5f4c205c",
   "lastOpenFiles": [
-    "React/theory/data/useState().md",
+    "React/theory/index.md",
+    "React/theory/data/entry-point.md",
     "React/theory/data/pass-data-bottom-up.md",
+    "React/theory/data/events.md",
     "React/theory/data/components.md",
     "React/theory/data/best-practices.md",
-    "React/theory/data/events.md",
-    "React/theory/index.md",
+    "React/theory/data/useState().md",
     "README.md",
     "Stuff.md",
-    "React/theory/data/entry-point.md",
     "JS & TS/usefullMethods/data/Add prop conditionally to object.md"
   ]
 }

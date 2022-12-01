@@ -54,6 +54,18 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "3ec62be6d7880605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular/components/@input().md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -132,17 +144,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "ee3a406239a985a2",
+  "active": "af333bd51a1e2b15",
   "lastOpenFiles": [
-    "JS & TS/usefullMethods/data/Add prop conditionally to object.md",
-    "JS & TS/RegExp/prototype/data/test().md",
+    "Angular/components/@input().md",
+    "JS & TS/RegExp/theory.md",
     "JS & TS/RegExp/prototype/index.md",
+    "React/theory/data/useState().md",
+    "JS & TS/RegExp/prototype/data/test().md",
+    "JS & TS/usefullMethods/data/Add prop conditionally to object.md",
     "TS/theory/type guards.md",
     "TS/theory/One type or another.md",
     "TS/theory/Non-null assertion operator.md",
-    "TS/theory/generics.md",
-    "JS & TS/usefullMethods/data/Clean useless keys.md",
-    "JS & TS/usefullMethods/index.md",
-    "JS & TS/usefullMethods/data/Camelcase to titlecase.md"
+    "TS/theory/generics.md"
   ]
 }

@@ -8,25 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f81fc9bc5f4c205c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS & TS/RegExp/knowledge/theory.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "5d923e3ccb74feba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "JS & TS/RegExp/index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -79,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,15 +145,15 @@
   },
   "active": "5d923e3ccb74feba",
   "lastOpenFiles": [
-    "JS & TS/usefullMethods/index.md",
-    "JS & TS/RegExp/prototype/data/test().md",
-    "JS & TS/RegExp/prototype/index.md",
+    "JS & TS/RegExp/prototype/properties/flags.md",
     "JS & TS/RegExp/index.md",
+    "JS & TS/RegExp/prototype/index.md",
+    "JS & TS/RegExp/prototype/properties/hasIndices.md",
     "JS & TS/RegExp/knowledge/theory.md",
-    "JS & TS/RegExp/knowledge/flags.md",
+    "JS & TS/RegExp/prototype/methods/test().md",
+    "JS & TS/usefullMethods/index.md",
     "React/theory/index.md",
     "React/theory/data/best-practices.md",
-    "Stuff.md",
-    "JS %26 TS%2FRegExp%2Fprototype%2Findex.md"
+    "Stuff.md"
   ]
 }

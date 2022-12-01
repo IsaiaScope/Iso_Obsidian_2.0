@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "JS & TS/RegExp/prototype/properties/flags.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -141,15 +141,15 @@
   },
   "active": "5d923e3ccb74feba",
   "lastOpenFiles": [
-    "JS & TS/RegExp/prototype/properties/data/hasIndices.md",
+    "JS & TS/RegExp/prototype/properties/data/global.md",
     "JS & TS/RegExp/prototype/properties/flags.md",
+    "JS & TS/RegExp/prototype/properties/data/hasIndices.md",
     "JS & TS/RegExp/prototype/methods/index.md",
     "JS & TS/RegExp/index.md",
     "JS & TS/RegExp/prototype/methods/data/test().md",
     "JS & TS/RegExp/knowledge/theory.md",
     "JS & TS/usefullMethods/index.md",
     "React/theory/index.md",
-    "React/theory/data/best-practices.md",
-    "Stuff.md"
+    "React/theory/data/best-practices.md"
   ]
 }

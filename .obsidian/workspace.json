@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS & TS/RegExp/index.md",
-                "mode": "preview",
+                "file": "JS & TS/RegExp/prototype/properties/flags.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -47,12 +47,8 @@
             "id": "af333bd51a1e2b15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS & TS/RegExp/knowledge/theory.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -125,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS & TS/RegExp/index.md",
+                "file": "JS & TS/RegExp/prototype/properties/flags.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,12 +141,12 @@
   },
   "active": "5d923e3ccb74feba",
   "lastOpenFiles": [
+    "JS & TS/RegExp/prototype/properties/data/hasIndices.md",
     "JS & TS/RegExp/prototype/properties/flags.md",
+    "JS & TS/RegExp/prototype/methods/index.md",
     "JS & TS/RegExp/index.md",
-    "JS & TS/RegExp/prototype/index.md",
-    "JS & TS/RegExp/prototype/properties/hasIndices.md",
+    "JS & TS/RegExp/prototype/methods/data/test().md",
     "JS & TS/RegExp/knowledge/theory.md",
-    "JS & TS/RegExp/prototype/methods/test().md",
     "JS & TS/usefullMethods/index.md",
     "React/theory/index.md",
     "React/theory/data/best-practices.md",

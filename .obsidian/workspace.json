@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/theory/data/coding-knowledge.md",
+                "file": "conflic obsidian problem.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "27aae171c347c311",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TS/theory/type guards.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "af333bd51a1e2b15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS & TS/RegExp/prototype/data/test().md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/theory/data/coding-knowledge.md",
+                "file": "JS & TS/RegExp/prototype/data/test().md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +132,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "00477401a098aa75",
+  "active": "ee3a406239a985a2",
   "lastOpenFiles": [
-    "React/theory/data/useState().md",
-    "React/theory/data/coding-knowledge.md",
-    "React/theory/data/events.md",
-    "React/theory/data/entry-point.md",
-    "React/theory/data/pass-data-bottom-up.md",
-    "React/theory/index.md",
-    "GIT/prompt.md",
-    "React/theory/data/components.md",
-    "React/theory/data/best-practices.md",
-    "README.md"
+    "JS & TS/usefullMethods/data/Add prop conditionally to object.md",
+    "JS & TS/RegExp/prototype/data/test().md",
+    "JS & TS/RegExp/prototype/index.md",
+    "TS/theory/type guards.md",
+    "TS/theory/One type or another.md",
+    "TS/theory/Non-null assertion operator.md",
+    "TS/theory/generics.md",
+    "JS & TS/usefullMethods/data/Clean useless keys.md",
+    "JS & TS/usefullMethods/index.md",
+    "JS & TS/usefullMethods/data/Camelcase to titlecase.md"
   ]
 }

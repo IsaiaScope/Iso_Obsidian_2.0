@@ -6,7 +6,7 @@
 |`g` |Global search, indicates that the regular expression should be tested against all possible matches in a string | |[`global`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/global) |
 |`i` |Case-insensitive search ||[`ignoreCase`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/ignoreCase) |
 |`m` |Allows `^` and `$` to match newline characters| |[`multiline`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/multiline) |
-|`s` |Allows `.` to match newline characters| |[`dotAll`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/dotAll) |
+|`s` |Allows `.` to match newline characters, The *s* causes the dot to match _all_ characters including newlines. | |[`dotAll`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/dotAll) |
 |`u` |"Unicode"; treat a pattern as a sequence of Unicode code points | |[`unicode`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/unicode) |
 |`y` |Perform a "sticky" search that matches starting at the current position in the target string | |[`sticky`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/sticky) |
 

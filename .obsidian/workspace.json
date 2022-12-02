@@ -4,61 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eb1fea108c698343",
+        "id": "51aa55106552fff2",
         "type": "tabs",
         "children": [
           {
-            "id": "5d923e3ccb74feba",
+            "id": "ac288ddd392e72af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS & TS/RegExp/prototype/properties/flags.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "00477401a098aa75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflic obsidian problem.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "27aae171c347c311",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/theory/type guards.md",
+                "file": "React/theory/data/style.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "af333bd51a1e2b15",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3ec62be6d7880605",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angular/components/@input().md",
-                "mode": "preview",
                 "source": true
               }
             }
@@ -92,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[[",
+                "query": "flat",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -121,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS & TS/RegExp/prototype/properties/flags.md",
+                "file": "React/theory/data/style.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,17 +95,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "5d923e3ccb74feba",
+  "active": "ac288ddd392e72af",
   "lastOpenFiles": [
-    "JS & TS/RegExp/prototype/properties/data/hasIndices.md",
-    "JS & TS/RegExp/prototype/properties/flags.md",
-    "JS & TS/RegExp/prototype/properties/data/global.md",
-    "JS & TS/RegExp/prototype/methods/index.md",
-    "JS & TS/RegExp/index.md",
-    "JS & TS/RegExp/prototype/methods/data/test().md",
-    "JS & TS/RegExp/knowledge/theory.md",
-    "JS & TS/usefullMethods/index.md",
     "React/theory/index.md",
-    "React/theory/data/best-practices.md"
+    "React/theory/data/style.md",
+    "React/theory/data/events.md",
+    "React/theory/data/pass-data-bottom-up.md",
+    "React/theory/data/useState().md",
+    "React/theory/data/components.md",
+    "React/theory/data/coding-knowledge.md",
+    "JS & TS/RegExp/prototype/properties/flags.md",
+    "JS & TS/RegExp/index.md",
+    "JS & TS/RegExp/prototype/methods/index.md"
   ]
 }

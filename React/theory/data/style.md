@@ -1,4 +1,4 @@
-#### dynamically add class
+#### dynamically add classes
 - template literals are the way
 ```jsx
 return (

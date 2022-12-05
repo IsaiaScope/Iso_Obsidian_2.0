@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/theory/data/style.md",
+                "file": "Angular/prompt.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c7bf30b3c2e2c469",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular/logic/index.md",
                 "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "ca53ae6651a13135",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stuff.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/theory/data/style.md",
+                "file": "Stuff.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +120,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "ac288ddd392e72af",
+  "active": "ca53ae6651a13135",
   "lastOpenFiles": [
-    "React/theory/index.md",
-    "React/theory/data/style.md",
-    "React/theory/data/events.md",
-    "React/theory/data/pass-data-bottom-up.md",
-    "React/theory/data/useState().md",
-    "React/theory/data/components.md",
-    "React/theory/data/coding-knowledge.md",
-    "JS & TS/RegExp/prototype/properties/flags.md",
+    "Untitled.md",
+    "Angular/observable/theory.md",
+    "Angular/logic/data/change-default-encoding.md",
+    "Angular/logic/index.md",
     "JS & TS/RegExp/index.md",
-    "JS & TS/RegExp/prototype/methods/index.md"
+    "JS & TS/RegExp/prototype/properties/flags.md",
+    "JS & TS/RegExp/prototype/methods/index.md",
+    "React/theory/data/style.md",
+    "React/theory/data/useState().md",
+    "React/theory/data/coding-knowledge.md"
   ]
 }

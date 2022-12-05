@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stuff.md",
+                "file": "React/theory/data/style.md",
                 "mode": "preview",
                 "source": true
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stuff.md",
+                "file": "React/theory/data/style.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,15 +122,15 @@
   },
   "active": "ca53ae6651a13135",
   "lastOpenFiles": [
-    "Untitled.md",
+    "React/theory/data/coding-knowledge.md",
+    "React/theory/index.md",
+    "Angular/prompt.md",
     "Angular/observable/theory.md",
-    "Angular/logic/data/change-default-encoding.md",
-    "Angular/logic/index.md",
-    "JS & TS/RegExp/index.md",
-    "JS & TS/RegExp/prototype/properties/flags.md",
-    "JS & TS/RegExp/prototype/methods/index.md",
-    "React/theory/data/style.md",
-    "React/theory/data/useState().md",
-    "React/theory/data/coding-knowledge.md"
+    "Angular/observable/NgRx-operators.md",
+    "Angular/observable/router-class.md",
+    "Angular/observable/refresh-token-interceptor.md",
+    "Stuff.md",
+    "Untitled.md",
+    "Angular/logic/data/change-default-encoding.md"
   ]
 }

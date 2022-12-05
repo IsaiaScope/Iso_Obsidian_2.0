@@ -14,7 +14,7 @@ return (
 ---
 #### styled components
 - [Doc styled components](https://styled-components.com/docs/basics)
-```jsx
-
-```
+---
+#### using CSS modules
+- [CSS Module](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/)
 ---

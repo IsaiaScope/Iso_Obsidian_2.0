@@ -1,4 +1,4 @@
-#### dynamically add classes
+#### Dynamically add classes
 - template literals are the way
 ```jsx
 return (
@@ -12,9 +12,9 @@ return (
 );
 ```
 ---
-#### styled components
+#### Using: styled components
 - [Doc styled components](https://styled-components.com/docs/basics)
 ---
-#### using CSS modules
+#### Using: CSS modules
 - [CSS Module](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/)
 ---

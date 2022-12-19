@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/select-by-style-prop.md",
+                "file": "React/theory/data/style.md",
                 "mode": "preview",
                 "source": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/select-by-style-prop.md",
+                "file": "React/theory/data/style.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,15 +134,15 @@
   },
   "active": "b7b8e60fd231b3df",
   "lastOpenFiles": [
-    "CSS/theory.md",
+    "React/theory/data/useState().md",
     "CSS/select-by-style-prop.md",
+    "CSS/theory.md",
     "GIT/prompt.md",
     "React/theory/data/style.md",
     "React/theory/data/coding-knowledge.md",
     "React/theory/index.md",
     "Angular/prompt.md",
     "Angular/observable/theory.md",
-    "Angular/observable/NgRx-operators.md",
-    "Angular/observable/router-class.md"
+    "Angular/observable/NgRx-operators.md"
   ]
 }

@@ -1,4 +1,5 @@
 1. ex
+	- useful to create obj props dynamically
 ```js
 function func1(a, b) {
   this[b] = a;

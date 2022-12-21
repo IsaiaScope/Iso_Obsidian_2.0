@@ -4,59 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "51aa55106552fff2",
+        "id": "766d196a07ea4d46",
         "type": "tabs",
         "children": [
           {
-            "id": "ac288ddd392e72af",
+            "id": "d813662e2dddc809",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/prompt.md",
+                "file": "React/theory/index.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "c7bf30b3c2e2c469",
+            "id": "90e0351ea6d2b714",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/logic/index.md",
+                "file": "JS & TS/Reflect/index.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "ca53ae6651a13135",
+            "id": "0ce5ba52bb5c35a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/theory.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b7b8e60fd231b3df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/theory/data/style.md",
+                "file": "JS & TS/Reflect/data/prototype/construct().md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/theory/data/style.md",
+                "file": "JS & TS/Reflect/data/prototype/construct().md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,17 +120,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "b7b8e60fd231b3df",
+  "active": "0ce5ba52bb5c35a9",
   "lastOpenFiles": [
-    "React/theory/data/useState().md",
-    "CSS/select-by-style-prop.md",
-    "CSS/theory.md",
-    "GIT/prompt.md",
-    "React/theory/data/style.md",
-    "React/theory/data/coding-knowledge.md",
+    "JS & TS/Reflect/index.md",
+    "JS & TS/usefullMethods/data/add-prop-conditionally-to-object.md",
+    "JS & TS/RegExp/index.md",
+    "JS & TS/Reflect/data/prototype/construct().md",
     "React/theory/index.md",
-    "Angular/prompt.md",
-    "Angular/observable/theory.md",
-    "Angular/observable/NgRx-operators.md"
+    "TS/theory/type-guards.md",
+    "TS/theory/one-type-or-another.md",
+    "TS/theory/non-null-assertion-operator.md",
+    "Angular/logic/index.md",
+    "Angular/prompt.md"
   ]
 }

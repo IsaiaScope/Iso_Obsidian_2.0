@@ -54,9 +54,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "579b7ea90ad400d6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.8"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +142,17 @@
     "width": 221.5,
     "collapsed": true
   },
-  "active": "ee3a406239a985a2",
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "579b7ea90ad400d6",
   "lastOpenFiles": [
     "JS & TS/usefullMethods/data/method-called-once.md",
     "JS & TS/usefullMethods/index.md",

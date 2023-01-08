@@ -4,46 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e1e998ee122240a4",
+        "id": "c59cb0f399837db4",
         "type": "tabs",
         "children": [
           {
-            "id": "bfe31c2a41b92657",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-<<<<<<< HEAD
-                "file": "JS & TS/usefullMethods/data/Clean useless keys.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "58104ca9ebca381f",
+            "id": "0244096453660401",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS & TS/usefullMethods/index.md",
+                "file": "NODE/npm/libraries.md",
                 "mode": "source",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "2a73104e8cf80377",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E-commerce/prompt.md",
-                "mode": "preview",
-                "source": true
-=======
-                "file": "drowing/models/dashboard.excalidraw.md"
->>>>>>> origin/notes
               }
             }
           }
@@ -76,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dra",
-                "matchingCase": true,
+                "query": "jest",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -89,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290
+    "width": 245
   },
   "right": {
     "id": "c5576e01ad7e4650",
@@ -105,18 +77,13 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "E-commerce/prompt.md",
+                "file": "NODE/npm/libraries.md",
                 "collapseAll": false,
-=======
-                "file": "drowing/models/dashboard.excalidraw.md",
-                "collapseAll": true,
->>>>>>> origin/notes
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -125,33 +92,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
+    "width": 300,
     "collapsed": true
   },
-  "active": "bfe31c2a41b92657",
+  "active": "0244096453660401",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Shot cuts.md",
-    "E-commerce/prompt.md",
-    "JS & TS/usefullMethods/index.md",
-    "JS & TS/usefullMethods/data/Add prop conditionally to object.md",
-    "JS & TS/usefullMethods/data/Camelcase to titlecase.md",
-    "JS & TS/usefullMethods/data/Clean useless keys.md",
-    "TS/theory/type guards.md",
-    "TS/theory/One type or another.md",
-    "TS/theory/Non-null assertion operator.md",
-    "TS/theory/generics.md"
-=======
-    "E-commerce/prompt.md",
-    "drowing/models/dashboard.excalidraw.md",
-    "JS & TS/usefullMethods/data/Clean useless keys.md",
-    "JS & TS/usefullMethods/index.md",
-    "drowing/models/dashboard.excalidraw.svg",
-    "drowing/models/card.excalidraw.md",
-    "React/theory/data/entry-point.md",
-    "React/theory/index.md",
-    "Angular/observable/Refresh token interceptor.md",
-    "drowing/rivers/interceptor-refreshtoken.svg"
->>>>>>> origin/notes
+    "assets/images/Flash.png",
+    "NODE/npm/libraries.md",
+    "assets/images/CSRF.png",
+    "assets/images/Sql & Sequelize.png",
+    "GIT/createBranch.md",
+    "Angular/prompt.md",
+    "Angular/observable/Router.md",
+    "Angular/observable/store.md",
+    "Angular/observable/theory.md",
+    "TS/theory/type guards.md"
   ]
 }

@@ -49,19 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/prompt.md",
+                "file": "JS & TS/usefullMethods/data/add-prop-conditionally-to-object.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "579b7ea90ad400d6",
+            "id": "f4b25b7136b3e9d7",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.1.8"
+                "currentVersion": "1.1.9"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "conditio",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/prompt.md",
+                "file": "JS & TS/usefullMethods/data/add-prop-conditionally-to-object.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,11 +152,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "579b7ea90ad400d6",
+  "active": "ee3a406239a985a2",
   "lastOpenFiles": [
+    "GIT/prompt.md",
     "JS & TS/usefullMethods/data/method-called-once.md",
     "JS & TS/usefullMethods/index.md",
-    "GIT/prompt.md",
     "NODE/prompt.md",
     "NODE/npm/libraries.md",
     "JS & TS/Reflect/data/prototype/construct().md",

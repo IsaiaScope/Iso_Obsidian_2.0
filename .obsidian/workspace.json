@@ -11,11 +11,9 @@
             "id": "4489007dea609d5b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Data Structures Masterclass/theory/data/big-O-notation.md",
-                "mode": "preview",
-                "source": true
+                "file": "drowing/test.excalidraw.svg"
               }
             }
           }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures Masterclass/theory/data/big-O-notation.md",
+                "file": "drowing/test.excalidraw.svg",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +105,15 @@
   },
   "active": "4489007dea609d5b",
   "lastOpenFiles": [
-    "Data Structures Masterclass/theory/index.md",
-    "React/theory/index.md",
-    "JS & TS/Reflect/data/prototype/construct().md",
-    "JS & TS/Reflect/index.md",
-    "GIT/prompt.md",
-    "JS & TS/usefullMethods/data/add-prop-conditionally-to-object.md",
-    "conflic obsidian problem.md",
-    "Pasted image 20230110101433.png",
+    "drowing/test.excalidraw.md",
+    "drowing/test.excalidraw.svg",
+    "drowing/rivers/interceptor-refreshtoken.md",
+    "drowing/models/dashboard.excalidraw.svg",
+    "drowing/models/dashboard.excalidraw.md",
+    "drowing/models/card.excalidraw.svg",
+    "drowing/rivers/interceptor-refreshtoken.svg",
     "Data Structures Masterclass/theory/data/big-O-notation.md",
-    "React/theory/data/style.md"
+    "Data Structures Masterclass/theory/index.md",
+    "React/theory/index.md"
   ]
 }

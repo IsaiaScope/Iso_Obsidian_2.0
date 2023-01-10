@@ -23,3 +23,16 @@ We can also use big O notation to analyze *space complexity*: how much addition
 -   Strings require O(_n_) space (where _n_ is the string length)
 -   Reference types are generally O( _n_), where n is the length (for arrays) or the number of keys (for objects)
 
+*Big O of Objects*
+Insertion -   *O(1)*
+Removal -   *O(1)*
+Searching -   *O(N)*
+Access -   *O(1)*
+
+*Big O of Object Methods*
+Object.keys -   **O(N)**
+Object.values -   **O(N)**
+Object.entries -   **O(N)**
+hasOwnProperty -   **O(1)**
+
+**When you don't need any ordering, objects are an excellent choice!**

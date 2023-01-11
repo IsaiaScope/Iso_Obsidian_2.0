@@ -36,3 +36,29 @@ Object.entries -   **O(N)**
 hasOwnProperty -   **O(1)**
 
 **When you don't need any ordering, objects are an excellent choice!**
+
+# Big O of Arrays
+
+Insertion -   **It depends....**
+
+Removal -   **It depends....**
+
+Searching -   **O(N)**
+
+Access -   **O(1)**
+
+**Let's see what we mean by that!**
+
+# Big O of Array Operations
+
+-   push -   **O(1)**
+-   pop -   **O(1)**
+-   shift -   **O(N)**
+-   unshift -   **O(N)**
+-   concat -   **O(N)**
+-   slice -   **O(N)**
+-   splice -   **O(N)**
+-   sort -   **O(N * log N)**
+-   forEach/map/filter/reduce/etc. -   **O(N)**
+
+object is faster and need no order, array are great if need order but slower, when logic involved specific element like first or last is preferred to use method like pop, instead looping thought all array

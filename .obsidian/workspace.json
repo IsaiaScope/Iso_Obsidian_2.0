@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "936ca64cb675ba17",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "drowing/models/dashboard.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "version",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -57,7 +68,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures Masterclass/theory/data/big-O-notation.md",
+                "file": "drowing/models/dashboard.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +117,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "52b4faab2b244a87",
+  "active": "936ca64cb675ba17",
   "lastOpenFiles": [
-    "Data Structures Masterclass/theory/index.md",
+    "drowing/models/card.excalidraw.md",
+    "Data Structures Masterclass/theory/data/problem-solving-approach.md",
     "Data Structures Masterclass/theory/data/big-O-notation.md",
+    "Data Structures Masterclass/theory/index.md",
     "drowing/test.excalidraw.md",
     "drowing/test.excalidraw.svg",
     "drowing/rivers/interceptor-refreshtoken.md",
     "drowing/models/dashboard.excalidraw.svg",
     "drowing/models/dashboard.excalidraw.md",
-    "drowing/models/card.excalidraw.svg",
-    "drowing/rivers/interceptor-refreshtoken.svg",
-    "React/theory/index.md"
+    "drowing/models/card.excalidraw.svg"
   ]
 }

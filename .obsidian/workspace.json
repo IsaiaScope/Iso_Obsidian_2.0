@@ -23,9 +23,11 @@
             "id": "936ca64cb675ba17",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "drowing/models/dashboard.excalidraw.md"
+                "file": "Data Structures Masterclass/theory/data/problem-solving-approach.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -59,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "version",
+                "query": "git",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -89,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drowing/models/dashboard.excalidraw.md",
+                "file": "Data Structures Masterclass/theory/data/problem-solving-approach.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +119,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "936ca64cb675ba17",
+  "active": "d36c21238a87661e",
   "lastOpenFiles": [
+    "Data Structures Masterclass/theory/data/big-O-notation.md",
+    "drowing/models/dashboard.excalidraw.md",
     "drowing/models/card.excalidraw.md",
     "Data Structures Masterclass/theory/data/problem-solving-approach.md",
-    "Data Structures Masterclass/theory/data/big-O-notation.md",
     "Data Structures Masterclass/theory/index.md",
     "drowing/test.excalidraw.md",
     "drowing/test.excalidraw.svg",
     "drowing/rivers/interceptor-refreshtoken.md",
     "drowing/models/dashboard.excalidraw.svg",
-    "drowing/models/dashboard.excalidraw.md",
     "drowing/models/card.excalidraw.svg"
   ]
 }

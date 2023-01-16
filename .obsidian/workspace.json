@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Data Structures Masterclass/theory/data/problem-solving-approach.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -70,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,17 +118,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d36c21238a87661e",
+  "active": "936ca64cb675ba17",
   "lastOpenFiles": [
     "Data Structures Masterclass/theory/data/big-O-notation.md",
+    "Data Structures Masterclass/theory/data/problem-solving-approach.md",
+    "GIT/prompt.md",
     "drowing/models/dashboard.excalidraw.md",
     "drowing/models/card.excalidraw.md",
-    "Data Structures Masterclass/theory/data/problem-solving-approach.md",
     "Data Structures Masterclass/theory/index.md",
     "drowing/test.excalidraw.md",
     "drowing/test.excalidraw.svg",
     "drowing/rivers/interceptor-refreshtoken.md",
-    "drowing/models/dashboard.excalidraw.svg",
-    "drowing/models/card.excalidraw.svg"
+    "drowing/models/dashboard.excalidraw.svg"
   ]
 }

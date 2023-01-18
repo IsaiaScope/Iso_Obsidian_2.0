@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures Masterclass/theory/data/big-O-notation.md",
+                "file": "Data Structures Masterclass/theory/index.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "cc04d6e5c529b4c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures Masterclass/theory/data/data-structure.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "big",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures Masterclass/theory/data/big-O-notation.md",
+                "file": "Data Structures Masterclass/theory/data/data-structure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +118,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ee3a406239a985a2",
+  "active": "cc04d6e5c529b4c2",
   "lastOpenFiles": [
-    "Data Structures Masterclass/theory/data/sorting.md",
     "Data Structures Masterclass/theory/index.md",
+    "Data Structures Masterclass/theory/data/data-structure.md",
     "Data Structures Masterclass/theory/data/big-O-notation.md",
+    "Data Structures Masterclass/theory/data/sorting.md",
     "Stuff.md",
     "Shot cuts.md",
     "README.md",
     "CSS/select-by-style-prop.md",
     "React/theory/index.md",
-    "React/theory/data/useState().md",
-    "React/theory/data/best-practices.md"
+    "React/theory/data/useState().md"
   ]
 }

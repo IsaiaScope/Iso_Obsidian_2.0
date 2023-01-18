@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/select-by-style-prop.md",
+                "file": "Data Structures Masterclass/theory/data/sorting.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/select-by-style-prop.md",
+                "file": "Data Structures Masterclass/theory/data/sorting.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "52b4faab2b244a87",
   "lastOpenFiles": [
-    "CSS/theory.md",
     "CSS/select-by-style-prop.md",
-    "Data Structures Masterclass/theory/index.md",
     "Data Structures Masterclass/theory/data/sorting.md",
-    "Data Structures Masterclass/theory/data/big-O-notation.md",
-    "JS & TS/array/prototype/data/flat() & flatmap().md",
-    "JS & TS/array/prototype/index.md",
-    "GIT/prompt.md",
-    "drowing/models/dashboard.excalidraw.md",
-    "drowing/models/card.excalidraw.md"
+    "React/theory/index.md",
+    "React/theory/data/useState().md",
+    "React/theory/data/best-practices.md",
+    "React/theory/data/pass-data-bottom-up.md",
+    "React/theory/data/coding-knowledge.md",
+    "React/theory/data/style.md",
+    "CSS/theory.md",
+    "Data Structures Masterclass/theory/index.md"
   ]
 }

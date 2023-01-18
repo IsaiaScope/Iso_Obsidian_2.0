@@ -1,7 +1,6 @@
-# Telling JavaScript how to sort
-
-Examples
-
+#### Telling JavaScript how to sort
+Examples: native method but this approach is bad
+ - [Array.prototype.sort()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
 ```js
 function numberCompare(num1, num2) {
   return num1 - num2;
@@ -16,12 +15,9 @@ function compareByLen(str1, str2) {
   return str1.length - str2.length;
 }
 
-[ "Steele", "Colt", "Data Structures", "Algorithms" ]
-  .sort(compareByLen);
+[ "Steele", "Colt", "Data Structures", "Algorithms" ].sort(compareByLen);
 // [ "Colt", "Steele", "Algorithms", "Data Structures" ]
 ```
-
-
 ---
 
 | Algorithm | Time Complexity (Best) | Time Complexity (Average) | Time Complexity (Worst) | Space Complexity |
@@ -30,7 +26,7 @@ function compareByLen(str1, str2) {
 | Insertion Sort | O(_n_) | O(_n_  ) | O(_n_  ) | O(1) |
 | Selection Sort | O(_n_  ) | O(_n_  ) | O(_n_  ) | O(1) |
 
--   Sorting is _fun_damental!
+-   Sorting is fundamental!
 -   Bubble sort, selection sort, and insertion sort are all roughly equivalent
 -   All have average time complexities that are quadratic
 -   We can do better...but we need more complex algorithms!

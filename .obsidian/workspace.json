@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures Masterclass/theory/data/big-O-notation.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "936ca64cb675ba17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Data Structures Masterclass/theory/data/sorting.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,17 +105,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "936ca64cb675ba17",
+  "active": "52b4faab2b244a87",
   "lastOpenFiles": [
     "Data Structures Masterclass/theory/data/big-O-notation.md",
+    "JS & TS/array/prototype/data/flat() & flatmap().md",
+    "JS & TS/array/prototype/index.md",
     "Data Structures Masterclass/theory/data/sorting.md",
     "GIT/prompt.md",
     "drowing/models/dashboard.excalidraw.md",
     "drowing/models/card.excalidraw.md",
     "Data Structures Masterclass/theory/index.md",
     "drowing/test.excalidraw.md",
-    "drowing/test.excalidraw.svg",
-    "drowing/rivers/interceptor-refreshtoken.md",
-    "drowing/models/dashboard.excalidraw.svg"
+    "drowing/test.excalidraw.svg"
   ]
 }

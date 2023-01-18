@@ -23,11 +23,9 @@
             "id": "cc04d6e5c529b4c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Data Structures Masterclass/theory/data/data-structure.md",
-                "mode": "preview",
-                "source": true
+                "file": "drowing/rivers/interceptor-refreshtoken.svg"
               }
             }
           }
@@ -90,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures Masterclass/theory/data/data-structure.md",
+                "file": "drowing/rivers/interceptor-refreshtoken.svg",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +118,15 @@
   },
   "active": "cc04d6e5c529b4c2",
   "lastOpenFiles": [
-    "Data Structures Masterclass/theory/index.md",
+    "drowing/rivers/interceptor-refreshtoken.md",
+    "drowing/test.excalidraw.md",
+    "drowing/test.excalidraw.svg",
     "Data Structures Masterclass/theory/data/data-structure.md",
+    "Data Structures Masterclass/theory/index.md",
     "Data Structures Masterclass/theory/data/big-O-notation.md",
     "Data Structures Masterclass/theory/data/sorting.md",
     "Stuff.md",
     "Shot cuts.md",
-    "README.md",
-    "CSS/select-by-style-prop.md",
-    "React/theory/index.md",
-    "React/theory/data/useState().md"
+    "README.md"
   ]
 }

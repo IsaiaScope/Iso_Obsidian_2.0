@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures Masterclass/theory/data/big-O-notation.md",
+                "file": "Data Structures Masterclass/theory/data/sorting.md",
                 "mode": "preview",
                 "source": true
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures Masterclass/theory/data/big-O-notation.md",
+                "file": "Data Structures Masterclass/theory/data/sorting.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,8 +120,8 @@
   },
   "active": "936ca64cb675ba17",
   "lastOpenFiles": [
-    "Data Structures Masterclass/theory/data/problem-solving-approach.md",
     "Data Structures Masterclass/theory/data/big-O-notation.md",
+    "Data Structures Masterclass/theory/data/sorting.md",
     "GIT/prompt.md",
     "drowing/models/dashboard.excalidraw.md",
     "drowing/models/card.excalidraw.md",

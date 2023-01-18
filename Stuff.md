@@ -6,3 +6,7 @@
 > werfewfewferwf
 > fefewf
 > ```
+
+
+-   [https://fincons.udemy.com/course/software-architecture-learnit/](https://fincons.udemy.com/course/software-architecture-learnit/ "https://fincons.udemy.com/course/software-architecture-learnit/")
+-   [https://fincons.udemy.com/course/js-algorithms-and-data-structures-masterclass/](https://fincons.udemy.com/course/js-algorithms-and-data-structures-masterclass/ "https://fincons.udemy.com/course/js-algorithms-and-data-structures-masterclass/")

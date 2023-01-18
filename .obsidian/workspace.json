@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures Masterclass/theory/data/sorting.md",
+                "file": "Data Structures Masterclass/theory/data/big-O-notation.md",
                 "mode": "preview",
                 "source": true
               }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 243.5
   },
   "right": {
     "id": "c5576e01ad7e4650",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures Masterclass/theory/data/sorting.md",
+                "file": "Data Structures Masterclass/theory/data/big-O-notation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +105,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "52b4faab2b244a87",
+  "active": "ee3a406239a985a2",
   "lastOpenFiles": [
+    "Data Structures Masterclass/theory/data/sorting.md",
+    "Data Structures Masterclass/theory/index.md",
+    "Data Structures Masterclass/theory/data/big-O-notation.md",
     "Stuff.md",
     "Shot cuts.md",
     "README.md",
-    "Data Structures Masterclass/theory/data/sorting.md",
     "CSS/select-by-style-prop.md",
     "React/theory/index.md",
     "React/theory/data/useState().md",
-    "React/theory/data/best-practices.md",
-    "React/theory/data/pass-data-bottom-up.md",
-    "React/theory/data/coding-knowledge.md"
+    "React/theory/data/best-practices.md"
   ]
 }

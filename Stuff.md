@@ -10,3 +10,6 @@
 
 -   [https://fincons.udemy.com/course/software-architecture-learnit/](https://fincons.udemy.com/course/software-architecture-learnit/ "https://fincons.udemy.com/course/software-architecture-learnit/")
 -   [https://fincons.udemy.com/course/js-algorithms-and-data-structures-masterclass/](https://fincons.udemy.com/course/js-algorithms-and-data-structures-masterclass/ "https://fincons.udemy.com/course/js-algorithms-and-data-structures-masterclass/")
+
+
+npm install -g @angular/cli@11.2.2

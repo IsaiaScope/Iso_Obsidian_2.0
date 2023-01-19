@@ -23,9 +23,11 @@
             "id": "cc04d6e5c529b4c2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "drowing/rivers/interceptor-refreshtoken.svg"
+                "file": "Data Structures Masterclass/theory/data/data-structure.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -88,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drowing/rivers/interceptor-refreshtoken.svg",
+                "file": "Data Structures Masterclass/theory/data/data-structure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,25 +110,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
   "active": "cc04d6e5c529b4c2",
   "lastOpenFiles": [
+    "Data Structures Masterclass/theory/index.md",
+    "CSS/select-by-style-prop.md",
+    "CSS/theory.md",
+    "drowing/rivers/interceptor-refreshtoken.svg",
     "drowing/rivers/interceptor-refreshtoken.md",
     "drowing/test.excalidraw.md",
     "drowing/test.excalidraw.svg",
     "Data Structures Masterclass/theory/data/data-structure.md",
-    "Data Structures Masterclass/theory/index.md",
     "Data Structures Masterclass/theory/data/big-O-notation.md",
-    "Data Structures Masterclass/theory/data/sorting.md",
-    "Stuff.md",
-    "Shot cuts.md",
-    "README.md"
+    "Data Structures Masterclass/theory/data/sorting.md"
   ]
 }

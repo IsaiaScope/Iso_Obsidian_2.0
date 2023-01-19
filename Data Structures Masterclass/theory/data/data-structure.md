@@ -12,4 +12,5 @@ Different data structures excel at different things.  Some are highly specializ
 - Undirected Unweighted Graphs
 - Hash Tables
 - Binary Heaps
+- Tree Traversal
 

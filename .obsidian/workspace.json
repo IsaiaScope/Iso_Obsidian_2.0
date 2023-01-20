@@ -42,9 +42,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "09fceec70a3d6771",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PowerShall/Untitled.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c5576e01ad7e4650",
@@ -103,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stuff.md",
+                "file": "PowerShall/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,15 +142,15 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "713b6a380214622e",
+  "active": "09fceec70a3d6771",
   "lastOpenFiles": [
+    "Stuff.md",
     "GIT/prompt.md",
     "Ionic/index.md",
     "conflic obsidian problem.md",
     "Angular/observable/refresh-token-interceptor.md",
     "assets/images/CSRF.png",
     "assets/images/Flash.png",
-    "Stuff.md",
     "Shot cuts.md",
     "Angular/logic/data/change-default-encoding.md",
     "Angular/components/@input().md"

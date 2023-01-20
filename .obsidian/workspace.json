@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Stuff.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c5576e01ad7e4650",
@@ -130,7 +131,7 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "713b6a380214622e",
+  "active": "ee3a406239a985a2",
   "lastOpenFiles": [
     "GIT/prompt.md",
     "Ionic/index.md",

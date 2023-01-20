@@ -14,3 +14,7 @@
 
 
 npm install -g @angular/cli@11.2.2
+
+```
+ Invoke-Expression (& 'C:\Users\isaia.riva\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1' starship init powershell)
+```

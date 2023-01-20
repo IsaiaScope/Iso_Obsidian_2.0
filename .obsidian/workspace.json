@@ -30,9 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "713b6a380214622e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ionic/index.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflic obsidian problem.md",
+                "file": "Ionic/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,8 +130,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "cc04d6e5c529b4c2",
+  "active": "713b6a380214622e",
   "lastOpenFiles": [
+    "conflic obsidian problem.md",
     "Angular/observable/refresh-token-interceptor.md",
     "assets/images/CSRF.png",
     "assets/images/Flash.png",
@@ -128,7 +141,6 @@
     "Angular/logic/data/change-default-encoding.md",
     "Angular/components/@input().md",
     "Data Structures Masterclass/theory/data/data-structure.md",
-    "Data Structures Masterclass/theory/data/big-O-notation.md",
-    "README.md"
+    "Data Structures Masterclass/theory/data/big-O-notation.md"
   ]
 }

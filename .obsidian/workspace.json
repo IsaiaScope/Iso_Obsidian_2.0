@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/prompt.md",
+                "file": "Stuff.md",
                 "mode": "preview",
                 "source": true
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/prompt.md",
+                "file": "Stuff.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +132,7 @@
   },
   "active": "713b6a380214622e",
   "lastOpenFiles": [
+    "GIT/prompt.md",
     "Ionic/index.md",
     "conflic obsidian problem.md",
     "Angular/observable/refresh-token-interceptor.md",
@@ -140,7 +141,6 @@
     "Stuff.md",
     "Shot cuts.md",
     "Angular/logic/data/change-default-encoding.md",
-    "Angular/components/@input().md",
-    "Data Structures Masterclass/theory/data/data-structure.md"
+    "Angular/components/@input().md"
   ]
 }

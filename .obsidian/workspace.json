@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stuff.md",
+                "file": "Angular/observable/refresh-token-interceptor.md",
                 "mode": "preview",
                 "source": true
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stuff.md",
+                "file": "Angular/observable/refresh-token-interceptor.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +120,15 @@
   },
   "active": "cc04d6e5c529b4c2",
   "lastOpenFiles": [
+    "assets/images/CSRF.png",
+    "assets/images/Flash.png",
+    "Stuff.md",
     "Shot cuts.md",
     "Angular/observable/refresh-token-interceptor.md",
     "Angular/logic/data/change-default-encoding.md",
     "Angular/components/@input().md",
     "Data Structures Masterclass/theory/data/data-structure.md",
     "Data Structures Masterclass/theory/data/big-O-notation.md",
-    "Stuff.md",
-    "README.md",
-    "Data Structures Masterclass/theory/index.md",
-    "CSS/select-by-style-prop.md"
+    "README.md"
   ]
 }

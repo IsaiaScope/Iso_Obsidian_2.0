@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ionic/index.md",
+                "file": "React/theory/index.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1f6a1037476ca740",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/lib/index.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1705862acdc8fb9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/lib/react-query/get-started.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -57,8 +82,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ionic/index.md",
+                "file": "React/lib/react-query/get-started.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +130,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "ff070e1e6fcaedc6",
+  "active": "1705862acdc8fb9f",
   "lastOpenFiles": [
-    "NODE/npm/libraries.md",
+    "React/lib/index.md",
+    "React/theory/index.md",
     "Ionic/index.md",
+    "NODE/npm/libraries.md",
     "drowing/test.excalidraw.svg",
     "drowing/test.excalidraw.md",
     "Firebase/theory.md",
     "Firebase/Angular.md",
     "PowerShall/prompt.md",
-    "GIT/prompt.md",
-    "Stuff.md",
-    "conflic obsidian problem.md"
+    "GIT/prompt.md"
   ]
 }

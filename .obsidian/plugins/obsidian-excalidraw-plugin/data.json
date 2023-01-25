@@ -93,7 +93,9 @@
             "groupIds": [
               "q-VMueDKHK3yS5gawQcwR"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -196,7 +198,9 @@
             "groupIds": [
               "q-VMueDKHK3yS5gawQcwR"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -267,7 +271,9 @@
             "groupIds": [
               "q-VMueDKHK3yS5gawQcwR"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -334,7 +340,9 @@
             "groupIds": [
               "q-VMueDKHK3yS5gawQcwR"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -405,7 +413,9 @@
             "groupIds": [
               "q-VMueDKHK3yS5gawQcwR"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -468,7 +478,9 @@
             "groupIds": [
               "q-VMueDKHK3yS5gawQcwR"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -543,7 +555,9 @@
             "groupIds": [
               "q-VMueDKHK3yS5gawQcwR"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -614,7 +628,9 @@
             "groupIds": [
               "q-VMueDKHK3yS5gawQcwR"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -701,7 +717,9 @@
             "groupIds": [
               "q-VMueDKHK3yS5gawQcwR"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -768,7 +786,9 @@
             "groupIds": [
               "q-VMueDKHK3yS5gawQcwR"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -815,7 +835,9 @@
             "groupIds": [
               "q-VMueDKHK3yS5gawQcwR"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -866,7 +888,9 @@
             "groupIds": [
               "q-VMueDKHK3yS5gawQcwR"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -913,7 +937,9 @@
             "groupIds": [
               "q-VMueDKHK3yS5gawQcwR"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -964,7 +990,9 @@
             "groupIds": [
               "q-VMueDKHK3yS5gawQcwR"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -1019,7 +1047,9 @@
             "groupIds": [
               "q-VMueDKHK3yS5gawQcwR"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -1071,7 +1101,9 @@
             "height": 50.68181818181802,
             "seed": 1007608437,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -1144,7 +1176,9 @@
             "height": 73.72727272727298,
             "seed": 211780315,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -1217,7 +1251,9 @@
             "height": 67.3838136020479,
             "seed": 261583541,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -1290,7 +1326,9 @@
             "height": 52.63636363636374,
             "seed": 2061632347,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -1359,7 +1397,9 @@
             "height": 72.72727272727298,
             "seed": 169000251,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -1445,7 +1485,9 @@
             "groupIds": [
               "dOt0ERWX2yfnarMGTF4mW"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -1530,7 +1572,9 @@
             "groupIds": [
               "dOt0ERWX2yfnarMGTF4mW"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -1589,7 +1633,9 @@
             "groupIds": [
               "LUivfPqcGqWNTAoHOcwPv"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -1674,7 +1720,9 @@
             "groupIds": [
               "LUivfPqcGqWNTAoHOcwPv"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -1733,7 +1781,9 @@
             "groupIds": [
               "yWtpfIAHaa47d3N4ou5FT"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -1818,7 +1868,9 @@
             "groupIds": [
               "yWtpfIAHaa47d3N4ou5FT"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -1884,7 +1936,9 @@
             "groupIds": [
               "dOt0ERWX2yfnarMGTF4mW"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -1969,7 +2023,9 @@
             "groupIds": [
               "dOt0ERWX2yfnarMGTF4mW"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797150599,
             "link": null,
@@ -2036,7 +2092,7 @@
               "8_WjywJ9PzLvK8koWpaLn",
               "W_gId97ktZ3n9_nh2aM6x"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -2065,7 +2121,7 @@
               "8_WjywJ9PzLvK8koWpaLn",
               "W_gId97ktZ3n9_nh2aM6x"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -2093,7 +2149,7 @@
             "groupIds": [
               "W_gId97ktZ3n9_nh2aM6x"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -2121,7 +2177,7 @@
             "groupIds": [
               "W_gId97ktZ3n9_nh2aM6x"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -2149,7 +2205,7 @@
             "groupIds": [
               "W_gId97ktZ3n9_nh2aM6x"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -2177,7 +2233,7 @@
             "groupIds": [
               "W_gId97ktZ3n9_nh2aM6x"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -2205,7 +2261,7 @@
             "groupIds": [
               "W_gId97ktZ3n9_nh2aM6x"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -2233,7 +2289,7 @@
             "groupIds": [
               "W_gId97ktZ3n9_nh2aM6x"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -2261,7 +2317,7 @@
             "groupIds": [
               "W_gId97ktZ3n9_nh2aM6x"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -2289,7 +2345,7 @@
             "groupIds": [
               "W_gId97ktZ3n9_nh2aM6x"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -2317,7 +2373,7 @@
             "groupIds": [
               "W_gId97ktZ3n9_nh2aM6x"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -2345,7 +2401,7 @@
             "groupIds": [
               "W_gId97ktZ3n9_nh2aM6x"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -2373,7 +2429,7 @@
             "groupIds": [
               "W_gId97ktZ3n9_nh2aM6x"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -2401,7 +2457,7 @@
             "groupIds": [
               "W_gId97ktZ3n9_nh2aM6x"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -2437,7 +2493,7 @@
               "MyiFAI8l1sBq1dew3Dr2X",
               "VWy3JSrcA5PcYX4KwyM-h"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -2517,7 +2573,7 @@
               "MyiFAI8l1sBq1dew3Dr2X",
               "VWy3JSrcA5PcYX4KwyM-h"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -2580,7 +2636,7 @@
               "MyiFAI8l1sBq1dew3Dr2X",
               "VWy3JSrcA5PcYX4KwyM-h"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -2643,7 +2699,7 @@
               "MyiFAI8l1sBq1dew3Dr2X",
               "VWy3JSrcA5PcYX4KwyM-h"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -2706,7 +2762,7 @@
               "MyiFAI8l1sBq1dew3Dr2X",
               "VWy3JSrcA5PcYX4KwyM-h"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -2764,7 +2820,7 @@
               "MyiFAI8l1sBq1dew3Dr2X",
               "VWy3JSrcA5PcYX4KwyM-h"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -2827,7 +2883,7 @@
               "MyiFAI8l1sBq1dew3Dr2X",
               "VWy3JSrcA5PcYX4KwyM-h"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -2889,7 +2945,7 @@
               "MyiFAI8l1sBq1dew3Dr2X",
               "VWy3JSrcA5PcYX4KwyM-h"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -2977,7 +3033,7 @@
               "Zwxq0yOwFAyxHTceORtdB",
               "VWy3JSrcA5PcYX4KwyM-h"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -3016,7 +3072,7 @@
               "Zwxq0yOwFAyxHTceORtdB",
               "VWy3JSrcA5PcYX4KwyM-h"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -3055,7 +3111,7 @@
               "Zwxq0yOwFAyxHTceORtdB",
               "VWy3JSrcA5PcYX4KwyM-h"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -3084,7 +3140,7 @@
               "Zwxq0yOwFAyxHTceORtdB",
               "VWy3JSrcA5PcYX4KwyM-h"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -3195,7 +3251,7 @@
               "mgsSIK9gFiU4lZT9HwJmW",
               "RaCS4zmHjHjouLZcXSeeh"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -3251,7 +3307,7 @@
               "mgsSIK9gFiU4lZT9HwJmW",
               "RaCS4zmHjHjouLZcXSeeh"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -3307,7 +3363,7 @@
               "mgsSIK9gFiU4lZT9HwJmW",
               "RaCS4zmHjHjouLZcXSeeh"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -3362,7 +3418,7 @@
             "groupIds": [
               "RaCS4zmHjHjouLZcXSeeh"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -3417,7 +3473,7 @@
             "groupIds": [
               "RaCS4zmHjHjouLZcXSeeh"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -3472,7 +3528,7 @@
             "groupIds": [
               "RaCS4zmHjHjouLZcXSeeh"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -3527,7 +3583,7 @@
             "groupIds": [
               "RaCS4zmHjHjouLZcXSeeh"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -3582,7 +3638,7 @@
             "groupIds": [
               "RaCS4zmHjHjouLZcXSeeh"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -3637,7 +3693,7 @@
             "groupIds": [
               "RaCS4zmHjHjouLZcXSeeh"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -3692,7 +3748,7 @@
             "groupIds": [
               "RaCS4zmHjHjouLZcXSeeh"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797144357,
             "link": null,
@@ -3734,7 +3790,9 @@
             "height": 214.49858488859945,
             "seed": 1823681586,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -3907,7 +3965,9 @@
             "height": 289.54558428591804,
             "seed": 673675250,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -4056,7 +4116,9 @@
             "height": 383.23795231884037,
             "seed": 594599022,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -4185,7 +4247,9 @@
             "height": 337.21608942205285,
             "seed": 1321383726,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -4266,7 +4330,9 @@
             "height": 54.51332206156712,
             "seed": 919858542,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -4355,7 +4421,9 @@
             "height": 48.63764293158238,
             "seed": 123709550,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -4408,7 +4476,9 @@
             "height": 32.40319550927006,
             "seed": 1630937266,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -4461,7 +4531,9 @@
             "height": 53.38748168945335,
             "seed": 1481770222,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -4566,7 +4638,9 @@
             "height": 87.13195190429701,
             "seed": 1831841966,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -4631,7 +4705,9 @@
             "height": 16.447375488281068,
             "seed": 1072186418,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -4688,7 +4764,9 @@
             "height": 32.839652821429404,
             "seed": 1755722098,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -4761,7 +4839,9 @@
             "height": 10.613943917410781,
             "seed": 1109119154,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -4806,7 +4886,9 @@
             "height": 272.7593354255923,
             "seed": 1079066994,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -4959,7 +5041,9 @@
             "height": 53.48662236287032,
             "seed": 1015570930,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -5032,7 +5116,9 @@
             "height": 465.59614043691545,
             "seed": 1775189426,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -5445,7 +5531,9 @@
             "height": 118.36041259765625,
             "seed": 500144946,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -5538,7 +5626,9 @@
             "height": 58.72799090485091,
             "seed": 198456878,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -5611,7 +5701,9 @@
             "height": 44.04944058122305,
             "seed": 1320768878,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -5680,7 +5772,9 @@
             "height": 145.3900909423828,
             "seed": 1022731570,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -5777,7 +5871,9 @@
             "height": 145.15219229239005,
             "seed": 625220142,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -5898,7 +5994,9 @@
             "height": 16.602201461791992,
             "seed": 1316639218,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -5943,7 +6041,9 @@
             "height": 5.6244659423828125,
             "seed": 1490203054,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -5984,7 +6084,9 @@
             "height": 8.581984947467618,
             "seed": 2017977714,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -6025,7 +6127,9 @@
             "height": 22.820329337284647,
             "seed": 852061234,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -6082,7 +6186,9 @@
             "height": 5.83372971107201,
             "seed": 1035466226,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -6123,7 +6229,9 @@
             "height": 23.33675200363679,
             "seed": 1694106926,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -6172,7 +6280,9 @@
             "height": 19.289129348028382,
             "seed": 1831274290,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -6233,7 +6343,9 @@
             "height": 1.340520949590882,
             "seed": 1007037230,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -6274,7 +6386,9 @@
             "height": 32.140607691522746,
             "seed": 271451250,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -6351,7 +6465,7 @@
             "height": 9.755167035914383,
             "seed": 1429139182,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -6377,7 +6491,9 @@
             "height": 45.27619305778944,
             "seed": 294752498,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -6462,7 +6578,7 @@
             "height": 15.820251469397824,
             "seed": 156338862,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -6488,7 +6604,9 @@
             "height": 11.021008100665995,
             "seed": 1873443502,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -6541,7 +6659,9 @@
             "height": 34.23879643695318,
             "seed": 1885826670,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133730,
             "link": null,
@@ -6606,7 +6726,9 @@
             "height": 406.87155626238564,
             "seed": 1607395314,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -6819,7 +6941,9 @@
             "height": 214.49858488859945,
             "seed": 1994999854,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -6992,7 +7116,9 @@
             "height": 289.54558428591804,
             "seed": 1028725170,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -7141,7 +7267,9 @@
             "height": 383.23795231884037,
             "seed": 1328288366,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -7270,7 +7398,9 @@
             "height": 337.21608942205285,
             "seed": 388436850,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -7351,7 +7481,9 @@
             "height": 54.51332206156712,
             "seed": 555455662,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -7440,7 +7572,9 @@
             "height": 48.63764293158238,
             "seed": 1066915122,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -7493,7 +7627,9 @@
             "height": 32.40319550927006,
             "seed": 107007726,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -7546,7 +7682,9 @@
             "height": 53.38748168945335,
             "seed": 671768306,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -7651,7 +7789,9 @@
             "height": 87.13195190429701,
             "seed": 2072297774,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -7716,7 +7856,9 @@
             "height": 16.447375488281068,
             "seed": 2097524914,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -7773,7 +7915,9 @@
             "height": 32.839652821429404,
             "seed": 66087790,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -7846,7 +7990,9 @@
             "height": 10.613943917410781,
             "seed": 1110493810,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -7891,7 +8037,9 @@
             "height": 272.7593354255923,
             "seed": 1307364782,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -8044,7 +8192,9 @@
             "height": 53.48662236287032,
             "seed": 1850911794,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -8117,7 +8267,9 @@
             "height": 465.59614043691545,
             "seed": 1453516782,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -8530,7 +8682,9 @@
             "height": 118.36041259765625,
             "seed": 122836466,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -8623,7 +8777,9 @@
             "height": 58.72799090485091,
             "seed": 236698158,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -8696,7 +8852,9 @@
             "height": 44.04944058122305,
             "seed": 1043777458,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -8765,7 +8923,9 @@
             "height": 145.3900909423828,
             "seed": 2067809390,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -8862,7 +9022,9 @@
             "height": 145.15219229239005,
             "seed": 187105650,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -8983,7 +9145,9 @@
             "height": 16.602201461791992,
             "seed": 1608091310,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -9028,7 +9192,9 @@
             "height": 5.6244659423828125,
             "seed": 1231684402,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -9069,7 +9235,9 @@
             "height": 8.581984947467618,
             "seed": 1552974062,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -9110,7 +9278,9 @@
             "height": 22.820329337284647,
             "seed": 1399246066,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -9167,7 +9337,9 @@
             "height": 5.83372971107201,
             "seed": 351154990,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -9208,7 +9380,9 @@
             "height": 23.33675200363679,
             "seed": 514088626,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -9257,7 +9431,9 @@
             "height": 19.289129348028382,
             "seed": 1398513006,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -9318,7 +9494,9 @@
             "height": 1.340520949590882,
             "seed": 1472837746,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -9359,7 +9537,9 @@
             "height": 32.140607691522746,
             "seed": 757186478,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -9436,7 +9616,7 @@
             "height": 9.755167035914383,
             "seed": 2124274226,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -9462,7 +9642,9 @@
             "height": 45.27619305778944,
             "seed": 644454894,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -9547,7 +9729,7 @@
             "height": 15.820251469397824,
             "seed": 34063346,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -9573,7 +9755,9 @@
             "height": 11.021008100665995,
             "seed": 1446784046,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -9626,7 +9810,9 @@
             "height": 34.23879643695318,
             "seed": 1544451506,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -9691,7 +9877,9 @@
             "height": 608.0877431233724,
             "seed": 1911128242,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -10036,7 +10224,9 @@
             "height": 14.30534593986738,
             "seed": 495607282,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -10103,7 +10293,9 @@
             "height": 17.095854788115616,
             "seed": 685205170,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -10206,7 +10398,9 @@
             "height": 13.522782759232996,
             "seed": 512164782,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -10621,7 +10815,9 @@
             "height": 111.97265625,
             "seed": 1490529074,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -10670,7 +10866,9 @@
             "height": 47.1963205645161,
             "seed": 1165672050,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -10719,7 +10917,9 @@
             "height": 70.69776965725816,
             "seed": 1181119666,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -10768,7 +10968,9 @@
             "height": 153.45112462197585,
             "seed": 389084974,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -10817,7 +11019,9 @@
             "height": 17.048024823588776,
             "seed": 1180135790,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -10862,7 +11066,9 @@
             "height": 107.47216009324598,
             "seed": 1702404782,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -10911,7 +11117,9 @@
             "height": 40.384206464213776,
             "seed": 1904317870,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -10956,7 +11164,9 @@
             "height": 152.26300147271922,
             "seed": 1286796850,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -11009,7 +11219,9 @@
             "height": 90.37213725428433,
             "seed": 1464692466,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -11066,7 +11278,9 @@
             "height": 85.54405950730848,
             "seed": 799792306,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -11111,7 +11325,9 @@
             "height": 60.81623692666335,
             "seed": 295518898,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -11156,7 +11372,9 @@
             "height": 34.12052277595774,
             "seed": 1352715570,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -11197,7 +11415,9 @@
             "height": 27.391948084677438,
             "seed": 1106382578,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -11238,7 +11458,9 @@
             "height": 71.16374354208665,
             "seed": 919849390,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -11283,7 +11505,9 @@
             "height": 51.78427419354841,
             "seed": 1267274478,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -11328,7 +11552,9 @@
             "height": 71.38385403540826,
             "seed": 1256961394,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -11369,7 +11595,9 @@
             "height": 15.151179387019283,
             "seed": 1972081778,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133731,
             "link": null,
@@ -11410,7 +11638,9 @@
             "height": 24.112548828125,
             "seed": 1350957870,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -11455,7 +11685,7 @@
             "height": 99.88810612605161,
             "seed": 282865198,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -11481,7 +11711,7 @@
             "height": 106.51854294996978,
             "seed": 566217010,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -11507,7 +11737,9 @@
             "height": 8.130540114182736,
             "seed": 1539702702,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -11560,7 +11792,9 @@
             "height": 19.24692007211536,
             "seed": 196641198,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -11609,7 +11843,9 @@
             "height": 210.17728365384602,
             "seed": 1264553842,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -11690,7 +11926,9 @@
             "height": 101.80196908804078,
             "seed": 438256690,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -11751,7 +11989,9 @@
             "height": 172.49615423280216,
             "seed": 11671086,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -11820,7 +12060,9 @@
             "height": 175.42206777166984,
             "seed": 797439986,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -11901,7 +12143,9 @@
             "height": 21.45296536959131,
             "seed": 773035954,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -11950,7 +12194,9 @@
             "height": 125.59713924632342,
             "seed": 1324119602,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -12027,7 +12273,9 @@
             "height": 50.687443659855944,
             "seed": 386528942,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -12084,7 +12332,9 @@
             "height": 71.26562955692339,
             "seed": 1433088686,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -12141,7 +12391,9 @@
             "height": 109.93266513185813,
             "seed": 645412782,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -12194,7 +12446,9 @@
             "height": 56.50160362278165,
             "seed": 462122350,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -12247,7 +12501,9 @@
             "height": 72.27285531850953,
             "seed": 1734829490,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -12304,7 +12560,9 @@
             "height": 101.56761756310107,
             "seed": 1218543794,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -12353,7 +12611,9 @@
             "height": 22.846230609600298,
             "seed": 79635822,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -12402,7 +12662,9 @@
             "height": 17.828448955829348,
             "seed": 1165366322,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -12447,7 +12709,9 @@
             "height": 57.60498046875,
             "seed": 1321666546,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -12548,7 +12812,9 @@
             "height": 42.953092134916005,
             "seed": 759685678,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -12597,7 +12863,9 @@
             "height": 54.1433493966096,
             "seed": 277292786,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -12658,7 +12926,9 @@
             "height": 45.54930466871997,
             "seed": 646719410,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -12719,7 +12989,9 @@
             "height": 28.62247173602759,
             "seed": 1759082734,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -12764,7 +13036,9 @@
             "height": 19.979388897235594,
             "seed": 93104306,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -12813,7 +13087,9 @@
             "height": 103.68663114659932,
             "seed": 1622952430,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -12970,7 +13246,9 @@
             "height": 14.786317114736448,
             "seed": 874535154,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -13023,7 +13301,9 @@
             "height": 10.569063074448536,
             "seed": 1056470446,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -13076,7 +13356,9 @@
             "height": 6.053786953351951,
             "seed": 1705018994,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -13125,7 +13407,9 @@
             "height": 4.237395641850526,
             "seed": 1707481970,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -13170,7 +13454,9 @@
             "height": 21.48456049900426,
             "seed": 353059442,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -13219,7 +13505,9 @@
             "height": 4.947509765625,
             "seed": 310917806,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -13260,7 +13548,9 @@
             "height": 18.955570344002012,
             "seed": 1513031790,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -13309,7 +13599,9 @@
             "height": 38.01964801290762,
             "seed": 2044246318,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -13390,7 +13682,9 @@
             "height": 277.29577105978274,
             "seed": 588788786,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -13475,7 +13769,7 @@
             "height": 22.71601750300483,
             "seed": 587423662,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -13501,7 +13795,9 @@
             "height": 39.67974465990824,
             "seed": 275525490,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -13590,7 +13886,7 @@
             "height": 22.71601750300483,
             "seed": 208725682,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -13616,7 +13912,9 @@
             "height": 39.67974465990824,
             "seed": 1467407022,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -13705,7 +14003,9 @@
             "height": 475.8464558919271,
             "seed": 1523073970,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -13786,7 +14086,9 @@
             "height": 137.15811593191972,
             "seed": 1279243250,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -13827,7 +14129,9 @@
             "height": 134.46855817522317,
             "seed": 1667881326,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -13876,7 +14180,9 @@
             "height": 145.83095005580344,
             "seed": 155432878,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -13937,7 +14243,9 @@
             "height": 1.4307512555803896,
             "seed": 1796352046,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -13978,7 +14286,9 @@
             "height": 125.2971003605769,
             "seed": 633690094,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -14051,7 +14361,9 @@
             "height": 145.79287015474767,
             "seed": 2024081970,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -14116,7 +14428,7 @@
             "height": 127.82577919388069,
             "seed": 356408242,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -14142,7 +14454,7 @@
             "height": 127.82577919388069,
             "seed": 225430574,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -14168,7 +14480,9 @@
             "height": 2.1193519005408916,
             "seed": 2058849714,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -14209,7 +14523,9 @@
             "height": 117.15306208683887,
             "seed": 2090348274,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -14258,7 +14574,9 @@
             "height": 608.0877431233724,
             "seed": 1016990130,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -14603,7 +14921,9 @@
             "height": 108.63169927684976,
             "seed": 1897084654,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -14684,7 +15004,9 @@
             "height": 180.76671153841494,
             "seed": 877028978,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -14833,7 +15155,7 @@
             "height": 230.86959228515457,
             "seed": 1498716786,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -15218,7 +15540,9 @@
             "height": 271.46061109459924,
             "seed": 405969198,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -15343,7 +15667,9 @@
             "height": 27.70243755139859,
             "seed": 1734537774,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -15420,7 +15746,9 @@
             "height": 39.39472961425781,
             "seed": 750868658,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -15493,7 +15821,9 @@
             "height": 14.30534593986738,
             "seed": 1801855598,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -15560,7 +15890,9 @@
             "height": 17.095854788115616,
             "seed": 2136343410,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -15663,7 +15995,9 @@
             "height": 13.522782759232996,
             "seed": 1267967150,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -16078,7 +16412,9 @@
             "height": 111.97265625,
             "seed": 610846002,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -16127,7 +16463,9 @@
             "height": 47.1963205645161,
             "seed": 1196875502,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -16176,7 +16514,9 @@
             "height": 70.69776965725816,
             "seed": 624774898,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -16225,7 +16565,9 @@
             "height": 153.45112462197585,
             "seed": 1396232494,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -16274,7 +16616,9 @@
             "height": 17.048024823588776,
             "seed": 911909042,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -16319,7 +16663,9 @@
             "height": 107.47216009324598,
             "seed": 1789033326,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -16368,7 +16714,9 @@
             "height": 40.384206464213776,
             "seed": 1667742322,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -16413,7 +16761,9 @@
             "height": 152.26300147271922,
             "seed": 870112686,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -16466,7 +16816,9 @@
             "height": 90.37213725428433,
             "seed": 724278322,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -16523,7 +16875,9 @@
             "height": 85.54405950730848,
             "seed": 605091822,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -16568,7 +16922,9 @@
             "height": 60.81623692666335,
             "seed": 462243314,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -16613,7 +16969,9 @@
             "height": 34.12052277595774,
             "seed": 591907374,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -16654,7 +17012,9 @@
             "height": 27.391948084677438,
             "seed": 1838397362,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -16695,7 +17055,9 @@
             "height": 71.16374354208665,
             "seed": 812274798,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -16740,7 +17102,9 @@
             "height": 51.78427419354841,
             "seed": 560329074,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -16785,7 +17149,9 @@
             "height": 71.38385403540826,
             "seed": 88184494,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -16826,7 +17192,9 @@
             "height": 15.151179387019283,
             "seed": 441119538,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -16867,7 +17235,9 @@
             "height": 24.112548828125,
             "seed": 980848878,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -16912,7 +17282,7 @@
             "height": 99.88810612605161,
             "seed": 984202482,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -16938,7 +17308,7 @@
             "height": 106.51854294996978,
             "seed": 1804747566,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -16964,7 +17334,9 @@
             "height": 8.130540114182736,
             "seed": 609970,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -17017,7 +17389,9 @@
             "height": 19.24692007211536,
             "seed": 1526574446,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -17066,7 +17440,9 @@
             "height": 210.17728365384602,
             "seed": 521185394,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -17147,7 +17523,9 @@
             "height": 101.80196908804078,
             "seed": 369217454,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -17208,7 +17586,9 @@
             "height": 172.49615423280216,
             "seed": 528927282,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -17277,7 +17657,9 @@
             "height": 175.42206777166984,
             "seed": 415738350,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -17358,7 +17740,9 @@
             "height": 21.45296536959131,
             "seed": 2018685938,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -17407,7 +17791,9 @@
             "height": 125.59713924632342,
             "seed": 1918385198,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -17484,7 +17870,9 @@
             "height": 50.687443659855944,
             "seed": 729507250,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -17541,7 +17929,9 @@
             "height": 71.26562955692339,
             "seed": 1755088494,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -17598,7 +17988,9 @@
             "height": 109.93266513185813,
             "seed": 1646780274,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -17651,7 +18043,9 @@
             "height": 56.50160362278165,
             "seed": 475891886,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -17704,7 +18098,9 @@
             "height": 72.27285531850953,
             "seed": 144646450,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -17761,7 +18157,9 @@
             "height": 101.56761756310107,
             "seed": 759448302,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -17810,7 +18208,9 @@
             "height": 22.846230609600298,
             "seed": 1783114482,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -17859,7 +18259,9 @@
             "height": 57.60498046875,
             "seed": 1302985906,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -17960,7 +18362,9 @@
             "height": 42.953092134916005,
             "seed": 931585902,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -18009,7 +18413,9 @@
             "height": 54.1433493966096,
             "seed": 275486322,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -18070,7 +18476,9 @@
             "height": 45.54930466871997,
             "seed": 781500846,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -18131,7 +18539,9 @@
             "height": 28.62247173602759,
             "seed": 1129576498,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133732,
             "link": null,
@@ -18176,7 +18586,9 @@
             "height": 19.979388897235594,
             "seed": 1177312238,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -18225,7 +18637,9 @@
             "height": 103.68663114659932,
             "seed": 1179263474,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -18382,7 +18796,9 @@
             "height": 14.786317114736448,
             "seed": 878095918,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -18435,7 +18851,9 @@
             "height": 10.569063074448536,
             "seed": 1683297202,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -18488,7 +18906,9 @@
             "height": 6.053786953351951,
             "seed": 100448366,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -18537,7 +18957,9 @@
             "height": 4.237395641850526,
             "seed": 1872481650,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -18582,7 +19004,9 @@
             "height": 21.48456049900426,
             "seed": 1122466478,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -18631,7 +19055,9 @@
             "height": 4.947509765625,
             "seed": 1566920498,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -18672,7 +19098,9 @@
             "height": 18.955570344002012,
             "seed": 297792750,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -18721,7 +19149,9 @@
             "height": 38.01964801290762,
             "seed": 1645779186,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -18802,7 +19232,7 @@
             "height": 22.71601750300483,
             "seed": 222079666,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -18828,7 +19258,9 @@
             "height": 39.67974465990824,
             "seed": 1916670318,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -18917,7 +19349,7 @@
             "height": 22.71601750300483,
             "seed": 1702397042,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -18943,7 +19375,9 @@
             "height": 39.67974465990824,
             "seed": 798340014,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -19032,7 +19466,9 @@
             "height": 475.8464558919271,
             "seed": 76752434,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -19113,7 +19549,9 @@
             "height": 137.15811593191972,
             "seed": 507448814,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -19154,7 +19592,9 @@
             "height": 134.46855817522317,
             "seed": 863211506,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -19203,7 +19643,9 @@
             "height": 145.83095005580344,
             "seed": 457383982,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -19264,7 +19706,9 @@
             "height": 1.4307512555803896,
             "seed": 102810034,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -19305,7 +19749,9 @@
             "height": 125.2971003605769,
             "seed": 2055924334,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -19378,7 +19824,9 @@
             "height": 145.79287015474767,
             "seed": 2009185138,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -19443,7 +19891,7 @@
             "height": 127.82577919388069,
             "seed": 719285422,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -19469,7 +19917,7 @@
             "height": 127.82577919388069,
             "seed": 110984498,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -19495,7 +19943,9 @@
             "height": 2.1193519005408916,
             "seed": 1508484846,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -19536,7 +19986,9 @@
             "height": 117.15306208683887,
             "seed": 1343948530,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -19577,7 +20029,9 @@
             "height": 60.20019531250023,
             "seed": 1811693166,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -19654,7 +20108,9 @@
             "height": 38.07526090251872,
             "seed": 1572298802,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -19755,7 +20211,9 @@
             "height": 65.65715277372897,
             "seed": 55057710,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -19836,7 +20294,9 @@
             "height": 125.5127125055019,
             "seed": 372797682,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -20021,7 +20481,9 @@
             "height": 61.384794616698855,
             "seed": 1090469486,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -20166,7 +20628,9 @@
             "height": 608.0877431233724,
             "seed": 169577458,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -20511,7 +20975,9 @@
             "height": 16.01639229910711,
             "seed": 231646450,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -20564,7 +21030,9 @@
             "height": 17.828448955829348,
             "seed": 1574548782,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -20609,7 +21077,9 @@
             "height": 17.355961398961632,
             "seed": 883162350,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -20662,7 +21132,9 @@
             "height": 3.108237182490298,
             "seed": 667251694,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -20707,7 +21179,9 @@
             "height": 8.849970120102626,
             "seed": 433149998,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -20748,7 +21222,9 @@
             "height": 5.470620498114658,
             "seed": 409669102,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -20797,7 +21273,9 @@
             "height": 3.331268310546875,
             "seed": 1101533490,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -20850,7 +21328,9 @@
             "height": 2.2764282226563637,
             "seed": 1901214194,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -20895,7 +21375,7 @@
             "height": 25,
             "seed": 1842281518,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -20930,7 +21410,9 @@
             "height": 254.3358079176685,
             "seed": 260565298,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -21015,7 +21497,9 @@
             "height": 277.29577105978274,
             "seed": 1544496942,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797133733,
             "link": null,
@@ -21110,7 +21594,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126852,
             "link": null,
@@ -21253,7 +21739,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -21396,7 +21884,7 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -21424,7 +21912,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -21467,7 +21957,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -21510,7 +22002,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -21553,7 +22047,7 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -21581,7 +22075,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -21624,7 +22120,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -21667,7 +22165,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -21710,7 +22210,7 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -21738,7 +22238,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -21781,7 +22283,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -21824,7 +22328,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -21867,7 +22373,7 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -21895,7 +22401,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -21938,7 +22446,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -21981,7 +22491,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -22024,7 +22536,7 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -22052,7 +22564,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -22095,7 +22609,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -22138,7 +22654,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -22181,7 +22699,7 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -22209,7 +22727,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -22252,7 +22772,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -22295,7 +22817,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -22338,7 +22862,7 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -22366,7 +22890,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -22409,7 +22935,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -22452,7 +22980,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -22495,7 +23025,7 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -22523,7 +23053,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -22566,7 +23098,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -22609,7 +23143,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -22652,7 +23188,7 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -22680,7 +23216,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -22723,7 +23261,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -22766,7 +23306,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -22809,7 +23351,9 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -22864,7 +23408,7 @@
             "groupIds": [
               "EP3R7yP73hCCGYMQ-y0P_"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -22899,7 +23443,9 @@
             "groupIds": [
               "exLyOsRVHFOHDAM8aBvRn"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 1
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -22927,7 +23473,9 @@
             "groupIds": [
               "exLyOsRVHFOHDAM8aBvRn"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 1
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -22955,7 +23503,9 @@
             "groupIds": [
               "exLyOsRVHFOHDAM8aBvRn"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -22983,7 +23533,9 @@
             "groupIds": [
               "exLyOsRVHFOHDAM8aBvRn"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -23011,7 +23563,9 @@
             "groupIds": [
               "exLyOsRVHFOHDAM8aBvRn"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 1
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -23039,7 +23593,9 @@
             "groupIds": [
               "exLyOsRVHFOHDAM8aBvRn"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666797126853,
             "link": null,
@@ -23074,7 +23630,7 @@
             "groupIds": [
               "cICvUrYhAr2W-OLNze5bB"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1648144211549,
             "link": null,
@@ -23103,7 +23659,7 @@
               "G2OeA6g-_VuHZA4We_0kM",
               "cICvUrYhAr2W-OLNze5bB"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1648144211549,
             "link": null,
@@ -23205,7 +23761,7 @@
               "f8DUYwi2rJUgEyfg0m8F6",
               "cICvUrYhAr2W-OLNze5bB"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1648144211549,
             "link": null,
@@ -23294,7 +23850,7 @@
             "groupIds": [
               "cICvUrYhAr2W-OLNze5bB"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1648144211549,
             "link": null,
@@ -23323,7 +23879,7 @@
               "QZej0kTzRbPNoNaf83bbW",
               "cICvUrYhAr2W-OLNze5bB"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1648144211549,
             "link": null,
@@ -23461,7 +24017,7 @@
               "-nnxhd-oC3huusvKfFzf0",
               "cICvUrYhAr2W-OLNze5bB"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1648144211549,
             "link": null,
@@ -23611,7 +24167,7 @@
               "AOMusX5zYr4yZC2APu7L-",
               "cICvUrYhAr2W-OLNze5bB"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1648144211549,
             "link": null,
@@ -23701,7 +24257,7 @@
               "bUsqiQscxJq9eEMGhY1M7",
               "cICvUrYhAr2W-OLNze5bB"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1648144211549,
             "link": null,
@@ -23803,7 +24359,7 @@
               "vFxFqfBNPkKZMYC6sTtgD",
               "cICvUrYhAr2W-OLNze5bB"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1648144211549,
             "link": null,
@@ -23909,7 +24465,7 @@
               "5orPtqTrYDYBIRgXxxlHx",
               "cICvUrYhAr2W-OLNze5bB"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1648144211549,
             "link": null,
@@ -24011,7 +24567,7 @@
               "-KpBA1F14IDU9mekIWOyO",
               "cICvUrYhAr2W-OLNze5bB"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1648144211549,
             "link": null,
@@ -24113,7 +24669,7 @@
               "N34mxB0aYhrYhJwT1sCmV",
               "cICvUrYhAr2W-OLNze5bB"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1648144211549,
             "link": null,
@@ -24251,7 +24807,7 @@
               "E86jGpuytbJlYgU_TOM76",
               "cICvUrYhAr2W-OLNze5bB"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1648144211549,
             "link": null,
@@ -24327,7 +24883,7 @@
             "groupIds": [
               "wJ_ZPh_96-kTwIVDEvQbp"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1648144169952,
             "link": null,
@@ -25015,7 +25571,9 @@
             "groupIds": [
               "J9pfMe7SYXD6thqgFLUGM"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 1
+            },
             "boundElements": [],
             "updated": 1647962839907,
             "link": null,
@@ -25043,7 +25601,9 @@
             "groupIds": [
               "J9pfMe7SYXD6thqgFLUGM"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -25088,7 +25648,9 @@
             "groupIds": [
               "Ni8RRCo1KHeV_Vffhq2zB"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 1
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -25116,7 +25678,9 @@
             "groupIds": [
               "Ni8RRCo1KHeV_Vffhq2zB"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -25153,7 +25717,9 @@
             "groupIds": [
               "Ni8RRCo1KHeV_Vffhq2zB"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 1
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -25181,7 +25747,9 @@
             "groupIds": [
               "Ni8RRCo1KHeV_Vffhq2zB"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -25225,7 +25793,9 @@
               "yyp2PdgHtBtiPxRoZ01zn",
               "Ni8RRCo1KHeV_Vffhq2zB"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -25269,7 +25839,9 @@
               "yyp2PdgHtBtiPxRoZ01zn",
               "Ni8RRCo1KHeV_Vffhq2zB"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -25321,7 +25893,9 @@
               "gEnPYnMfu3qbbL98khJvF",
               "ojKlDqNrXA99rdHd96oUr"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 1
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -25350,7 +25924,9 @@
               "gEnPYnMfu3qbbL98khJvF",
               "ojKlDqNrXA99rdHd96oUr"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -25388,7 +25964,9 @@
               "Yy13x-nnF3ol_dv6cRiHU",
               "ojKlDqNrXA99rdHd96oUr"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 1
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -25417,7 +25995,9 @@
               "Yy13x-nnF3ol_dv6cRiHU",
               "ojKlDqNrXA99rdHd96oUr"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 1
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -25446,7 +26026,9 @@
               "Yy13x-nnF3ol_dv6cRiHU",
               "ojKlDqNrXA99rdHd96oUr"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -25490,7 +26072,9 @@
               "Yy13x-nnF3ol_dv6cRiHU",
               "ojKlDqNrXA99rdHd96oUr"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -25539,7 +26123,9 @@
             "height": 91.84807256235844,
             "seed": 1651987076,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 1
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -25567,7 +26153,9 @@
             "groupIds": [
               "ssKI2tVi4gFqDjyI136lr"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 1
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -25595,7 +26183,9 @@
             "groupIds": [
               "ssKI2tVi4gFqDjyI136lr"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -25638,7 +26228,9 @@
             "groupIds": [
               "jOcdqEWxTWwsfsRXK-7uU"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 1
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -25666,7 +26258,9 @@
             "groupIds": [
               "jOcdqEWxTWwsfsRXK-7uU"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -25709,7 +26303,9 @@
             "groupIds": [
               "jOcdqEWxTWwsfsRXK-7uU"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -25760,7 +26356,9 @@
             "groupIds": [
               "QnrtcvWK88gC267KzOUwo"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -25839,7 +26437,9 @@
             "groupIds": [
               "QnrtcvWK88gC267KzOUwo"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -25873,7 +26473,9 @@
             "height": 94.15561720635927,
             "seed": 801562940,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -25901,7 +26503,9 @@
             "groupIds": [
               "cmZUI6etnFxQxV4ffbPxo"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -25929,7 +26533,9 @@
             "groupIds": [
               "cmZUI6etnFxQxV4ffbPxo"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -25965,7 +26571,9 @@
             "groupIds": [
               "r-CGb7V61ePHRBq-msY10"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 1
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -25993,7 +26601,9 @@
             "groupIds": [
               "r-CGb7V61ePHRBq-msY10"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -26030,7 +26640,9 @@
             "groupIds": [
               "r-CGb7V61ePHRBq-msY10"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -26086,7 +26698,9 @@
               "tRqxGU5SyRtDdgEKm5CJx",
               "oAsLckZqtdTyJ2geE6DUb"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -26114,7 +26728,9 @@
             "groupIds": [
               "oAsLckZqtdTyJ2geE6DUb"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -26157,7 +26773,9 @@
             "groupIds": [
               "oAsLckZqtdTyJ2geE6DUb"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1647962839908,
             "link": null,
@@ -26206,7 +26824,7 @@
             "height": 341.5291478351993,
             "seed": 963232100,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666796410037,
             "link": null,
@@ -26374,7 +26992,7 @@
             "height": 348.1368662549484,
             "seed": 1085311187,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666796410037,
             "link": null,
@@ -26435,7 +27053,7 @@
             "height": 210.2314240292917,
             "seed": 1628698557,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666796410037,
             "link": null,
@@ -26503,7 +27121,7 @@
             "height": 179.35984183404997,
             "seed": 1882680243,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666796410038,
             "link": null,
@@ -26529,7 +27147,7 @@
             "height": 179.35984183404997,
             "seed": 139820371,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666796410038,
             "link": null,
@@ -26555,7 +27173,7 @@
             "height": 179.35984183404997,
             "seed": 1107319539,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666796410038,
             "link": null,
@@ -26581,7 +27199,7 @@
             "height": 179.35984183404997,
             "seed": 1774093459,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666796410038,
             "link": null,
@@ -26607,7 +27225,7 @@
             "height": 179.35984183404997,
             "seed": 2001107507,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666796410038,
             "link": null,
@@ -26633,7 +27251,7 @@
             "height": 179.35984183404997,
             "seed": 662617043,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666796410038,
             "link": null,
@@ -26666,7 +27284,7 @@
             "height": 311.26785903409115,
             "seed": 1454662080,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666796410038,
             "link": null,
@@ -26719,7 +27337,7 @@
             "height": 309.18218440216395,
             "seed": 1757809088,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666796410038,
             "link": null,
@@ -26772,7 +27390,7 @@
             "height": 213.0700954529646,
             "seed": 724894272,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666796410038,
             "link": null,
@@ -26837,7 +27455,7 @@
             "height": 77.77875279979997,
             "seed": 269986368,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666796410038,
             "link": null,
@@ -26886,7 +27504,7 @@
             "height": 76.62957221978715,
             "seed": 1524531776,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666796410038,
             "link": null,
@@ -26942,7 +27560,7 @@
             "height": 63.66500708558231,
             "seed": 761286835,
             "groupIds": [],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666796410038,
             "link": null,
@@ -26968,7 +27586,9 @@
             "height": 147.9782748366026,
             "seed": 209809811,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796410038,
             "link": null,
@@ -27037,7 +27657,9 @@
             "height": 147.9782748366026,
             "seed": 1008817942,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796410038,
             "link": null,
@@ -27106,7 +27728,9 @@
             "height": 147.9782748366026,
             "seed": 676387978,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796410038,
             "link": null,
@@ -27184,7 +27808,9 @@
             "groupIds": [
               "7KrlZnMUUGqKlPT1bKVdh"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391822,
             "link": null,
@@ -27267,7 +27893,9 @@
             "groupIds": [
               "7KrlZnMUUGqKlPT1bKVdh"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391822,
             "link": null,
@@ -27338,7 +27966,9 @@
             "groupIds": [
               "7KrlZnMUUGqKlPT1bKVdh"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391822,
             "link": null,
@@ -27424,7 +28054,9 @@
             "groupIds": [
               "c4UQW_Rg-P5IRKl420Awn"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391823,
             "link": null,
@@ -27519,7 +28151,7 @@
             "groupIds": [
               "c4UQW_Rg-P5IRKl420Awn"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666796391823,
             "link": null,
@@ -27547,7 +28179,9 @@
             "groupIds": [
               "c4UQW_Rg-P5IRKl420Awn"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391823,
             "link": null,
@@ -27646,7 +28280,9 @@
             "groupIds": [
               "c4UQW_Rg-P5IRKl420Awn"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391823,
             "link": null,
@@ -27752,7 +28388,9 @@
             "groupIds": [
               "UAS1INkqhG2QisOWtNuLP"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391824,
             "link": null,
@@ -27820,7 +28458,9 @@
               "olFooLWWiEvhU9pvkxqLW",
               "UAS1INkqhG2QisOWtNuLP"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391824,
             "link": null,
@@ -27864,7 +28504,9 @@
               "olFooLWWiEvhU9pvkxqLW",
               "UAS1INkqhG2QisOWtNuLP"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391824,
             "link": null,
@@ -27908,7 +28550,9 @@
               "olFooLWWiEvhU9pvkxqLW",
               "UAS1INkqhG2QisOWtNuLP"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391824,
             "link": null,
@@ -27952,7 +28596,9 @@
               "olFooLWWiEvhU9pvkxqLW",
               "UAS1INkqhG2QisOWtNuLP"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391824,
             "link": null,
@@ -27996,7 +28642,9 @@
               "olFooLWWiEvhU9pvkxqLW",
               "UAS1INkqhG2QisOWtNuLP"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391824,
             "link": null,
@@ -28039,7 +28687,9 @@
             "groupIds": [
               "UAS1INkqhG2QisOWtNuLP"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391824,
             "link": null,
@@ -28134,7 +28784,9 @@
             "groupIds": [
               "UAS1INkqhG2QisOWtNuLP"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391825,
             "link": null,
@@ -28172,7 +28824,9 @@
               "U9KepCtsttfUOMlwdmkLs",
               "UAS1INkqhG2QisOWtNuLP"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391825,
             "link": null,
@@ -28216,7 +28870,9 @@
               "U9KepCtsttfUOMlwdmkLs",
               "UAS1INkqhG2QisOWtNuLP"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391825,
             "link": null,
@@ -28260,7 +28916,9 @@
               "U9KepCtsttfUOMlwdmkLs",
               "UAS1INkqhG2QisOWtNuLP"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391825,
             "link": null,
@@ -28304,7 +28962,9 @@
               "U9KepCtsttfUOMlwdmkLs",
               "UAS1INkqhG2QisOWtNuLP"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391825,
             "link": null,
@@ -28348,7 +29008,9 @@
               "U9KepCtsttfUOMlwdmkLs",
               "UAS1INkqhG2QisOWtNuLP"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391825,
             "link": null,
@@ -28398,7 +29060,9 @@
             "groupIds": [
               "s1plQWgFxozMXtpnTEdXP"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391826,
             "link": null,
@@ -28521,7 +29185,7 @@
             "groupIds": [
               "s1plQWgFxozMXtpnTEdXP"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666796391826,
             "link": null,
@@ -28549,7 +29213,9 @@
             "groupIds": [
               "s1plQWgFxozMXtpnTEdXP"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391826,
             "link": null,
@@ -28648,7 +29314,9 @@
             "groupIds": [
               "s1plQWgFxozMXtpnTEdXP"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391826,
             "link": null,
@@ -28738,7 +29406,7 @@
             "groupIds": [
               "cqYnOm_4eHUveiZz9Qe37"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666796391826,
             "link": null,
@@ -28805,7 +29473,7 @@
             "groupIds": [
               "cqYnOm_4eHUveiZz9Qe37"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666796391826,
             "link": null,
@@ -28872,7 +29540,7 @@
             "groupIds": [
               "cqYnOm_4eHUveiZz9Qe37"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666796391826,
             "link": null,
@@ -28934,7 +29602,9 @@
             "groupIds": [
               "zGbIiK1lH7W871H7tLbFx"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391826,
             "link": null,
@@ -29105,7 +29775,9 @@
             "groupIds": [
               "zGbIiK1lH7W871H7tLbFx"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -29184,7 +29856,9 @@
             "groupIds": [
               "zGbIiK1lH7W871H7tLbFx"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -29247,7 +29921,9 @@
             "groupIds": [
               "zGbIiK1lH7W871H7tLbFx"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -29322,7 +29998,9 @@
             "groupIds": [
               "zGbIiK1lH7W871H7tLbFx"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -29385,7 +30063,9 @@
             "groupIds": [
               "zGbIiK1lH7W871H7tLbFx"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -29440,7 +30120,9 @@
             "groupIds": [
               "zGbIiK1lH7W871H7tLbFx"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -29506,7 +30188,7 @@
             "groupIds": [
               "iJgtyyRIOQWP8F5YTFsjN"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -29534,7 +30216,9 @@
             "groupIds": [
               "iJgtyyRIOQWP8F5YTFsjN"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -29764,7 +30448,9 @@
             "groupIds": [
               "3gs8m_V8WF5ZG2Fw_ljc5"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -29867,7 +30553,9 @@
             "groupIds": [
               "3gs8m_V8WF5ZG2Fw_ljc5"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -29942,7 +30630,9 @@
             "groupIds": [
               "3gs8m_V8WF5ZG2Fw_ljc5"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -30013,7 +30703,9 @@
             "groupIds": [
               "3gs8m_V8WF5ZG2Fw_ljc5"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -30084,7 +30776,9 @@
             "groupIds": [
               "3gs8m_V8WF5ZG2Fw_ljc5"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -30187,7 +30881,9 @@
             "groupIds": [
               "3gs8m_V8WF5ZG2Fw_ljc5"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -30262,7 +30958,9 @@
             "groupIds": [
               "3gs8m_V8WF5ZG2Fw_ljc5"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -30333,7 +31031,9 @@
             "groupIds": [
               "3gs8m_V8WF5ZG2Fw_ljc5"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -30404,7 +31104,9 @@
             "groupIds": [
               "3gs8m_V8WF5ZG2Fw_ljc5"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -30507,7 +31209,9 @@
             "groupIds": [
               "3gs8m_V8WF5ZG2Fw_ljc5"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -30582,7 +31286,9 @@
             "groupIds": [
               "3gs8m_V8WF5ZG2Fw_ljc5"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -30653,7 +31359,9 @@
             "groupIds": [
               "3gs8m_V8WF5ZG2Fw_ljc5"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -30731,7 +31439,9 @@
             "groupIds": [
               "3nMx1YsL8v7EPcW--hPUj"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -30890,7 +31600,9 @@
             "groupIds": [
               "3nMx1YsL8v7EPcW--hPUj"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -31049,7 +31761,7 @@
             "groupIds": [
               "3nMx1YsL8v7EPcW--hPUj"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -31077,7 +31789,7 @@
             "groupIds": [
               "3nMx1YsL8v7EPcW--hPUj"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -31112,7 +31824,9 @@
             "groupIds": [
               "2k3W2FWmwKDORmizybD8j"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -31155,7 +31869,9 @@
             "groupIds": [
               "2k3W2FWmwKDORmizybD8j"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -31183,7 +31899,9 @@
             "groupIds": [
               "2k3W2FWmwKDORmizybD8j"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -31211,7 +31929,9 @@
             "groupIds": [
               "2k3W2FWmwKDORmizybD8j"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -31239,7 +31959,9 @@
             "groupIds": [
               "2k3W2FWmwKDORmizybD8j"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -31366,7 +32088,9 @@
             "groupIds": [
               "2k3W2FWmwKDORmizybD8j"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -31452,7 +32176,7 @@
             "groupIds": [
               "Rtgzbf94SkIKgJhVL6U6m"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -31480,7 +32204,9 @@
             "groupIds": [
               "Rtgzbf94SkIKgJhVL6U6m"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -31535,7 +32261,9 @@
             "groupIds": [
               "Rtgzbf94SkIKgJhVL6U6m"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -31590,7 +32318,7 @@
             "groupIds": [
               "Rtgzbf94SkIKgJhVL6U6m"
             ],
-            "strokeSharpness": "sharp",
+            "roundness": null,
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -31627,7 +32355,9 @@
             "groupIds": [
               "Rtgzbf94SkIKgJhVL6U6m"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -31678,7 +32408,9 @@
             "groupIds": [
               "Rtgzbf94SkIKgJhVL6U6m"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -31729,7 +32461,9 @@
             "groupIds": [
               "Rtgzbf94SkIKgJhVL6U6m"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -31780,7 +32514,9 @@
             "groupIds": [
               "Rtgzbf94SkIKgJhVL6U6m"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -31831,7 +32567,9 @@
             "groupIds": [
               "Rtgzbf94SkIKgJhVL6U6m"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -31874,7 +32612,9 @@
             "groupIds": [
               "Rtgzbf94SkIKgJhVL6U6m"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -31917,7 +32657,9 @@
             "groupIds": [
               "Rtgzbf94SkIKgJhVL6U6m"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -31960,7 +32702,9 @@
             "groupIds": [
               "Rtgzbf94SkIKgJhVL6U6m"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1666796391827,
             "link": null,
@@ -32010,7 +32754,9 @@
             "groupIds": [
               "weXa6YSVERtH4K3bBfszF"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1659630377467,
             "link": null,
@@ -32135,7 +32881,9 @@
             "groupIds": [
               "weXa6YSVERtH4K3bBfszF"
             ],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1659630377467,
             "link": null,
@@ -32346,7 +33094,9 @@
             "height": 30.81734296916816,
             "seed": 1480973808,
             "groupIds": [],
-            "strokeSharpness": "round",
+            "roundness": {
+              "type": 2
+            },
             "boundElements": [],
             "updated": 1660213236832,
             "link": null,

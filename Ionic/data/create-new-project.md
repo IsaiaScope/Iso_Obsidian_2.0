@@ -15,8 +15,13 @@ ionic start <name> <template> [options]
 ```
 ionic start quelliDiValencia blank --type=react --capacitor
 ```
-- Go to your new project: cd .\quelliDiValencia
-- Run ionic serve within the app directory to see your app in the browser
+3. Edit package.json and  rm package-lock.json after then npm i
+4. install CLI also locally
+```
+npm i @ionic/cli --save-dev --save-exact
+```
+5. add Splashscreen.hide()
+---
 - Run ionic capacitor add to add a native iOS or Android project using Capacitor
 - Generate your app icon and splash screens using cordova-res --skip-config --copy
 - Explore the Ionic docs for components, tutorials, and more: https://ion.link/docs

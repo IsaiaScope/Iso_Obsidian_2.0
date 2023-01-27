@@ -15,5 +15,5 @@ ionic cap open android
 ionic capacitor run --help
 ```
 ```
-ionic capacitor run --livereload --external
+ionic capacitor run android --livereload --external
 ```

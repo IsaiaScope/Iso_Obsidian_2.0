@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Ionic/data/capacitor.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -156,15 +156,15 @@
   },
   "active": "ce7301a88dd2985a",
   "lastOpenFiles": [
+    "Ionic/data/android-studio.md",
     "Ionic/data/create-new-project.md",
+    "Ionic/data/capacitor.md",
     "PowerShall/prompt.md",
     "Ionic/index.md",
-    "Ionic/data/android-studio.md",
     "React/lib/index.md",
     "React/theory/index.md",
     "React/lib/react-query/get-started.md",
     "NODE/npm/libraries.md",
-    "drowing/test.excalidraw.svg",
-    "drowing/test.excalidraw.md"
+    "drowing/test.excalidraw.svg"
   ]
 }

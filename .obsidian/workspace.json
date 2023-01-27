@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Ionic/data/create-new-project.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -144,15 +144,15 @@
   },
   "active": "c8e79b67e3564604",
   "lastOpenFiles": [
-    "Ionic/index.md",
+    "PowerShall/prompt.md",
     "Ionic/data/create-new-project.md",
+    "Ionic/index.md",
     "Ionic/data/android-studio.md",
     "React/lib/index.md",
     "React/theory/index.md",
     "React/lib/react-query/get-started.md",
     "NODE/npm/libraries.md",
     "drowing/test.excalidraw.svg",
-    "drowing/test.excalidraw.md",
-    "Firebase/theory.md"
+    "drowing/test.excalidraw.md"
   ]
 }

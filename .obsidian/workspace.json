@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Ionic/data/capacitor.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -156,9 +156,9 @@
   },
   "active": "ce7301a88dd2985a",
   "lastOpenFiles": [
-    "Ionic/data/create-new-project.md",
-    "Ionic/data/capacitor.md",
     "Ionic/data/android-studio.md",
+    "Ionic/data/capacitor.md",
+    "Ionic/data/create-new-project.md",
     "PowerShall/prompt.md",
     "Ionic/index.md",
     "React/lib/index.md",

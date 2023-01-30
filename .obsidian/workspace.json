@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "fcffebf7e918c25d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "volta/prompt.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "1705862acdc8fb9f",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ionic/data/capacitor.md",
+                "file": "volta/prompt.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,11 +166,11 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "ce7301a88dd2985a",
+  "active": "fcffebf7e918c25d",
   "lastOpenFiles": [
+    "Ionic/data/capacitor.md",
     "Ionic/data/create-new-project.md",
     "Ionic/data/android-studio.md",
-    "Ionic/data/capacitor.md",
     "PowerShall/prompt.md",
     "Ionic/index.md",
     "React/lib/index.md",

@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ionic/data/create-new-project.md",
+                "file": "Ionic/data/capacitor.md",
                 "mode": "preview",
                 "source": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ionic/data/create-new-project.md",
+                "file": "Ionic/data/capacitor.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,9 +156,9 @@
   },
   "active": "ce7301a88dd2985a",
   "lastOpenFiles": [
+    "Ionic/data/android-studio.md",
     "Ionic/data/capacitor.md",
     "Ionic/data/create-new-project.md",
-    "Ionic/data/android-studio.md",
     "Ionic/index.md",
     "PowerShall/prompt.md",
     "React/lib/index.md",

@@ -23,5 +23,4 @@ ionic capacitor run --help
 ```
 ```js
 ionic capacitor run android --livereload --external
-// remember to run project in localhost
 ```

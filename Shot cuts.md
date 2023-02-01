@@ -12,3 +12,5 @@
 7. ***alt + down*** => move Lines Down Action
 8. ***ctrl + alt + down*** => insert Cursor Below
 ---
+#### Terminal
+1.   **cd ..** => go back by one folder

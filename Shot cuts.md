@@ -11,6 +11,7 @@
 6. ***ctrl + b*** => toggle Sidebar Visibility
 7. ***alt + down*** => move Lines Down Action
 8. ***ctrl + alt + down*** => insert Cursor Below
+9.  **F12** => Go To Definition of the statement
 ---
 #### Terminal
 1.   **cd ..** => go back by one folder

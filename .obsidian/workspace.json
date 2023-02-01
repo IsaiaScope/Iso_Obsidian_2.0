@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "volta/prompt.md",
+                "file": "Shot cuts.md",
                 "mode": "preview",
                 "source": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "volta/prompt.md",
+                "file": "Shot cuts.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,15 +180,15 @@
   },
   "active": "bc54caac9b134e13",
   "lastOpenFiles": [
-    "volta/theory.md",
+    "conflic obsidian problem.md",
+    "Stuff.md",
     "volta/prompt.md",
+    "volta/theory.md",
     "Shot cuts.md",
     "GIT/prompt.md",
     "Ionic/data/create-new-project.md",
     "Ionic/data/capacitor.md",
     "Ionic/data/android-studio.md",
-    "PowerShall/prompt.md",
-    "Ionic/index.md",
-    "React/lib/index.md"
+    "PowerShall/prompt.md"
   ]
 }

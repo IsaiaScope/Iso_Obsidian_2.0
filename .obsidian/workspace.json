@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "volta/prompt.md",
+                "file": "Shot cuts.md",
                 "mode": "preview",
                 "source": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "volta/prompt.md",
+                "file": "Shot cuts.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,15 +168,15 @@
   },
   "active": "fcffebf7e918c25d",
   "lastOpenFiles": [
-    "Ionic/data/capacitor.md",
+    "GIT/prompt.md",
     "Ionic/data/create-new-project.md",
+    "Ionic/data/capacitor.md",
     "Ionic/data/android-studio.md",
+    "volta/prompt.md",
     "PowerShall/prompt.md",
     "Ionic/index.md",
     "React/lib/index.md",
     "React/theory/index.md",
-    "React/lib/react-query/get-started.md",
-    "NODE/npm/libraries.md",
-    "drowing/test.excalidraw.svg"
+    "React/lib/react-query/get-started.md"
   ]
 }

@@ -23,32 +23,38 @@ When you install a package to your toolchain, Volta takes your current default N
 node --version
 yarn --version
 ```
+5. Check version
+```console
+volta list
+```
+6. Help pannel
+```console
+The JavaScript Launcher ⚡
+    To install a tool in your toolchain, use `volta install`.
+    To pin your project's runtime or package manager, use `volta pin`.
+    
+USAGE:
+	 volta [FLAGS] [SUBCOMMAND]
+	 
+FLAGS:
+	--verbose    
+			Enables verbose diagnostics
+	--quiet      
+			Prevents unnecessary output
+	-v, --version    
+			Prints the current version of Volta
+	-h, --help       
+			Prints help information
+			
+SUBCOMMANDS:
+    fetch          Fetches a tool to the local machine
+    install        Installs a tool in your toolchain
+    uninstall      Uninstalls a tool from your toolchain
+    pin            Pins your project's runtime or package manager
+    list           Displays the current toolchain
+    completions    Generates Volta completions
+    which          Locates the actual binary that will be called by Volta
+    setup          Enables Volta for the current user / shell
+    help           Prints this message or the help of the given subcommand(s)
+```
 ---
-5. anaging your toolchain
-You control the tools managed by your Volta toolchain with two commands: `volta install` and `volta uninstall`.
-
-***Installing Node engines***
-
-To install a tool to your toolchain, you set the _default version_ of that tool. Volta will always use this default, unless you’re working within a project directory that has configured Volta to use a different version. When you choose a default version, Volta will also download that version to the local cache.
-
-For example, you can select an exact version of `node` to be your default version:
-
-```
-volta install node@14.15.5
-```
-
-You don’t need to specify a precise version, in which case Volta will choose a suitable version to match your request:
-
-```
-volta install node@14
-```
-
-You can also specify `latest`or even leave off the version entirely, and Volta will choose the latest LTS release:
-
-```
-volta install node
-```
-
-Once you’ve run one of these commands, the `node` executable provided by Volta in your `PATH` environment (or `Path` in Windows) will, by default, automatically run your chosen version of Node.
-
-Similarly, you can choose versions of the npm and Yarn package managers with `volta install npm` and `volta install yarn`, respectively. These tools will run using the default version of Node you selected

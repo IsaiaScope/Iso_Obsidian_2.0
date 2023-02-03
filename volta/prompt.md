@@ -17,6 +17,10 @@ volta install <name>
 ```
 npm i -g <package_name>
 ```
+```
+volta run npm i
+```
+
 When you install a package to your toolchain, Volta takes your current default Node version and _pins_ the tool to that engine (see [Package Binaries](https://docs.volta.sh/advanced/packages#pinned-node-version) for more information). Volta won’t change the tool’s pinned engine unless you update the tool, no matter what. This way, you can be confident that your installed tools don’t change behind your back.
 4. Check version
 ```console

@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shot cuts.md",
+                "file": "volta/prompt.md",
                 "mode": "preview",
                 "source": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ionic",
+                "query": "remote url",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shot cuts.md",
+                "file": "volta/prompt.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,15 +180,15 @@
   },
   "active": "bc54caac9b134e13",
   "lastOpenFiles": [
+    "GIT/prompt.md",
+    "TS/theory/non-null-assertion-operator.md",
+    "TS/theory/type-guards.md",
+    "TS/theory/generics.md",
+    "TS/theory/one-type-or-another.md",
+    "JS & TS/usefullMethods/data/add-prop-conditionally-to-object.md",
+    "Shot cuts.md",
     "conflic obsidian problem.md",
     "Stuff.md",
-    "volta/prompt.md",
-    "volta/theory.md",
-    "Shot cuts.md",
-    "GIT/prompt.md",
-    "Ionic/data/create-new-project.md",
-    "Ionic/data/capacitor.md",
-    "Ionic/data/android-studio.md",
-    "PowerShall/prompt.md"
+    "volta/prompt.md"
   ]
 }

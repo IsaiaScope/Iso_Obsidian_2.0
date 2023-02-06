@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "remote url",
+                "query": "ng g ",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -130,7 +130,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "bc54caac9b134e13",
+  "active": "d36c21238a87661e",
   "lastOpenFiles": [
     "GIT/prompt.md",
     "TS/theory/non-null-assertion-operator.md",

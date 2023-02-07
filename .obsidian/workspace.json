@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "volta/prompt.md",
+                "file": "Angular/components/@input().md",
                 "mode": "preview",
                 "source": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ng g ",
+                "query": "flat",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "volta/prompt.md",
+                "file": "Angular/components/@input().md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,15 +181,15 @@
   },
   "active": "d36c21238a87661e",
   "lastOpenFiles": [
+    "Shot cuts.md",
+    "E-commerce/prompt.md",
+    "volta/prompt.md",
     "GIT/prompt.md",
     "TS/theory/non-null-assertion-operator.md",
     "TS/theory/type-guards.md",
     "TS/theory/generics.md",
     "TS/theory/one-type-or-another.md",
     "JS & TS/usefullMethods/data/add-prop-conditionally-to-object.md",
-    "Shot cuts.md",
-    "conflic obsidian problem.md",
-    "Stuff.md",
-    "volta/prompt.md"
+    "conflic obsidian problem.md"
   ]
 }

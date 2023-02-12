@@ -9,5 +9,6 @@
   "defaultViewMode": "preview",
   "attachmentFolderPath": "/",
   "showLineNumber": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false
 }

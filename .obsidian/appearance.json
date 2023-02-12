@@ -1,5 +1,8 @@
 {
-  "baseFontSize": 13,
+  "baseFontSize": 12,
   "accentColor": "",
-  "cssTheme": "Obsidian Nord"
+  "cssTheme": "Obsidian Nord",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": false
 }

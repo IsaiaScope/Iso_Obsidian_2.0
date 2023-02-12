@@ -1,1 +1,8 @@
 1. [entry-point](entry-point.md)
+2. [components](components.md)
+3. [events](events.md)
+4. [useState()](useState().md)
+5. [best-practices](best-practices.md)
+6. [pass-data-bottom-up](pass-data-bottom-up.md)
+7.  [coding-knowledge](coding-knowledge.md)
+8. [style](style.md)

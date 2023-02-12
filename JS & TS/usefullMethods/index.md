@@ -1,3 +1,4 @@
-1. [[Add prop conditionally to object]]
-2. [[Camelcase to titlecase]]
-3. [[Clean useless keys]]
+1. [[add-prop-conditionally-to-object]]
+2. [[camelcase-to-titlecase]]
+3. [[clean-useless-keys]]
+4. [[method-called-once]]

@@ -3,22 +3,23 @@
 - Click on the "Branches" tab on the left hand side. There’s a “Default branch” drop-down list near the top of the screen. Where u can change the default branch
 - --
 ####  Creating a new branch & first push
-1. creating a new branch locally
+1. creating a new branch *locally*
 ```console
 git checkout -b  <myNewBranch> 
 ```
-1. first push to create the branch in the repo
+1. *first push* to create the branch in the repo
+	- remember to do the commit first
 ```console
 git push --set-upstream origin <myNewBranch>
 ```
 ---
 #### Delete branch & delete remote branch
-1. delete ***local*** branch
+1. delete *local* branch
 	- use -D if it's a merged one 
 ```console
 git branch -d <localBranchName> 
 ```
-2. delete ***remote*** branch 
+2. delete *remote* branch 
 ```console
 git push origin --delete <remoteBranchName>
 ```
@@ -32,14 +33,20 @@ git remote set-url origin <NEW URL>
 git push --mirror origin
 ```
 ---
-#### Check Url Repo or Directory where local repo clone is
+#### Check Url Repo or Directory where local repo-clone is
 1. check Url Repo
 ```console
 git remote show origin
 ```
-2. check directory where local repo clone is
+2. check directory where local repo-clone is
 ```console
 git rev-parse --show-toplevel
+```
+---
+#### How to update my old working Git branch from another branch
+```console
+git checkout <old_branch_to_update>
+git merge <branch_where_take_data_from>
 ```
 ---
 

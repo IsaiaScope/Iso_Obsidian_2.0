@@ -55,10 +55,11 @@ git merge <branch_where_take_data_from>
 ```console
 git log
 ```
-N.B u can a more options to modify rendering information
-- [Cool Docs](https://www.w3docs.com/snippets/git/how-to-retrieve-hash-for-commits-in-git.html)
+3. u can a more options to modify rendering information
+- [Cool Docs](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
+-  **HASH CODE** TO USE IN COMMANDS LINE IS GOTTEN FROM %h (Shot versione off full commit id; than again commit id includes the hash part thai is the first one)
 ```console
-git log -1 --format=format:"%H"
+git log --pretty=format:"%h %s"
 ```
 3. Create a New branch from a specific commit and checkout it 
 ```console

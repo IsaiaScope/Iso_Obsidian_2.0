@@ -49,7 +49,21 @@ git checkout <old_branch_to_update>
 git merge <branch_where_take_data_from>
 ```
 ---
-
+#### Check Commits & Create a New branch from a specific commit
+1. Q = quit 
+2.  Enter => show one more 
+```console
+git log
+```
+N.B u can a more options to modify rendering information
+```console
+git log -1 --format=format:"%H"
+```
+3. Create a New branch from a specific commit and checkout it 
+```console
+git checkout -b branch_name <commit-hash or HEAD~3>
+```
+---
 
 
 

@@ -56,6 +56,7 @@ git merge <branch_where_take_data_from>
 git log
 ```
 N.B u can a more options to modify rendering information
+- [Cool Docs](https://www.w3docs.com/snippets/git/how-to-retrieve-hash-for-commits-in-git.html)
 ```console
 git log -1 --format=format:"%H"
 ```

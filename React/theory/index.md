@@ -1,4 +1,4 @@
-1. [entry-point](entry-point.md)
+1. [entry-point](React/theory/data/entry-point.md)
 2. [components](components.md)
 3. [events](events.md)
 4. [useState()](useState().md)

@@ -1,17 +1,19 @@
 ##### Init new project
 - [Prisma MongoDB](https://www.prisma.io/docs/getting-started/setup-prisma/start-from-scratch/mongodb-typescript-mongodb)
 - install also nodemon, VS code extension for Prisma
-```console
+- 
+```js
 npx prisma format
 ```
-```console
+```js
 npx prisma init --datasource-provider <dbprovider name>
 // mongodb
 ```
-```console
+```js
 npx prisma migrate dev --name <migrateName>
 ```
-```console
+```js
 npx prisma generate
+// generate client or regenarte it
 ```
 ---

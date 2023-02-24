@@ -1,12 +1,10 @@
 ##### Init new project
 - [Prisma MongoDB](https://www.prisma.io/docs/getting-started/setup-prisma/start-from-scratch/mongodb-typescript-mongodb)
-- install also nodemon
+- install also nodemon, VS code extension for Prisma
 ```console
-
+npx prisma format
 ```
-- **fastify-swagger** => give us open Api documentation for Api
-- **uuid** => for generating random id
 ```console
-
+npx prisma init --datasource-provider <dbprovider name>
 ```
 ---

@@ -6,5 +6,12 @@ npx prisma format
 ```
 ```console
 npx prisma init --datasource-provider <dbprovider name>
+// mongodb
+```
+```console
+npx prisma migrate dev --name <migrateName>
+```
+```console
+npx prisma generate
 ```
 ---

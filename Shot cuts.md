@@ -9,7 +9,7 @@
 4. ***ctrl + shift + f*** => Search on the left menu the selected word
 5. ***shift + alt + down*** => copy Lines Down Action
 6. ***shift + alt + right*** => expand selection next parent
-7. 6. ***shift + alt + left*** => shrink selection previous parent
+7. ***shift + alt + left*** => shrink selection previous parent
 8.  ***shift + alt + up*** => copy Lines Up Action
 9. ***ctrl + d*** => Select Next Find Match
 10.  **ctrl + shift + l*** => select all matches

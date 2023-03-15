@@ -59,11 +59,18 @@ git log
 - [Cool Docs](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
 -  **HASH CODE** TO USE IN COMMANDS LINE IS GOTTEN FROM %h (Short versione off full commit id; than again commit id includes the hash part that is the first one)
 ```console
-git log --pretty=format:"%h %s"
+git log --pretty=format:"[hash: %h ~ %cn] => %s"
 ```
 3. Create a New branch from a specific commit and checkout it 
 ```console
 git checkout -b branch_name <commit-hash or HEAD~3>
+```
+---
+#### Cherry Pick
+1. add a specific commit to a branch
+2. 
+```console
+git log
 ```
 ---
 

@@ -68,9 +68,9 @@ git checkout -b branch_name <commit-hash or HEAD~3>
 ---
 #### Cherry Pick
 1. add a specific commit to a branch
-2. 
+2. positioning yourself on the branch to update with the hash code of the commit
 ```console
-git log
+git cherrypick <commit-hash or HEAD~3>
 ```
 ---
 

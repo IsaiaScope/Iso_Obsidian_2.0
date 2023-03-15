@@ -68,9 +68,11 @@ git checkout -b branch_name <commit-hash or HEAD~3>
 ---
 #### Cherry Pick
 1. add a specific commit to a branch
-2. positioning yourself on the branch to update with the hash code of the commit
+2. get hash by lunching git log in original branch where u want to take commit hash code 
+3. positioning yourself on the branch to update with the hash code of the commit and lunch cherry-pick
+4. cherry-pick make automatic commit; to avoid that put -n flag
 ```console
-git cherrypick <commit-hash or HEAD~3>
+git cherry-pick <commit-hash>
 ```
 ---
 

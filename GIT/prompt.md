@@ -95,4 +95,19 @@ Alternatively, there is a shorthand method to roll back the commit: To revert co
 git reset head~1
 ```
 ---
+---
+#### Revert a specific file 
+-   You can view the list of commits that modified `package-lock.json` using :
+    ```
+    git log package-lock.json
+    ```
+    
+-   You can set `package-lock.json` back to its version in commit `[ID]` using :
+- ID = **HASH**
+    
+    ```
+    git checkout [ID] -- package-lock.json
+    ```
+---
+
 

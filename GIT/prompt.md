@@ -79,11 +79,20 @@ git cherry-pick <commit-hash>
 ```
 ---
 #### Revert a branch to a specific commit
-2. get hash by lunching git log cmd branch where u want to take commit hash code 
+- When to Use `git reset` and `git revert`
+You should use `git reset` when working on a local repository with changes yet to be pushed remotely. This is because running this command after pulling changes from the remote repo will alter the commit history of the project, leading to merge conflicts for everyone working on the project. `git reset` will undo changes up to the state of the specified commit ID.
+
+`git reset` is a good option when you realize that the changes being made to a particular local branch should be somewhere else. You can reset and move to the desired branch without losing your file changes. 
+
+`git revert` is a good option for reverting changes pushed to a remote repository. Since this command creates a new commit, you can safely get rid of your mistakes without rearranging the commit history for everyone else. This command undoes the effects of a bad or incorrect commit. It creates a new head without the issues of the bad commit but doesn't revoke any previous work. However, this version contains history from the bad commit. This inclusion is by design: Git wants to track history accurately, and to delete current heads would create massive gaps in the system history.
+1. get hash by lunching git log cmd branch where u want to take commit hash code 
 ```console
 git revert <commit-hash>
 ```
+Alternatively, there is a shorthand method to roll back the commit: To revert commits without knowing the necessary commit ID, admins can use the command below to revert code versions relative to where the current head is. In the example, **~1** refers to the number of commits backward to which the code tree will revert. Figure 1 illustrates the results for adding several commits and then reverting back one version.
+
+```
+git reset head~1
+```
 ---
-
-
 

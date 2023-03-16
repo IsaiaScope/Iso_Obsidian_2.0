@@ -61,6 +61,9 @@ git log
 ```console
 git log --pretty=format:"[hash: %h ~ %cn] => %s"
 ```
+```console
+git log --oneline
+```
 3. Create a New branch from a specific commit and checkout it 
 ```console
 git checkout -b branch_name <commit-hash or HEAD~3>
@@ -73,6 +76,12 @@ git checkout -b branch_name <commit-hash or HEAD~3>
 4. cherry-pick make automatic commit; to avoid that put -n flag
 ```console
 git cherry-pick <commit-hash>
+```
+---
+#### Revert a branch to a specific commit
+2. get hash by lunching git log cmd branch where u want to take commit hash code 
+```console
+git revert <commit-hash>
 ```
 ---
 

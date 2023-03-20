@@ -27,4 +27,7 @@
 ---
 #### Terminal
 1.   **cd ..** => go back by one folder
-2. 
+2. Remove a file or folder
+```console
+ rm -rf node_modules
+```

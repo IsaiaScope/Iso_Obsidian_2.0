@@ -27,3 +27,4 @@
 ---
 #### Terminal
 1.   **cd ..** => go back by one folder
+2. 

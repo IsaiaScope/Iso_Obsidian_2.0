@@ -22,3 +22,5 @@ npm install -g @angular/cli@11.2.2
 ```csharp
 Invoke-Expression (& 'C:\Users\isaia.riva\Desktop\Ordine\terminal\starship.exe' init powershell --print-full-init | Out-String)
 ```
+
+npx http-server dist/preview_cr --cors --proxy https://preview.rte.ie/player_cr/

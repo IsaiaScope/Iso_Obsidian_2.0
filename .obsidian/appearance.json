@@ -1,8 +1,11 @@
 {
-  "baseFontSize": 19,
+  "baseFontSize": 11,
   "accentColor": "",
   "cssTheme": "Obsidian Nord",
   "showViewHeader": true,
   "nativeMenus": false,
-  "translucency": false
+  "translucency": false,
+  "enabledCssSnippets": [
+    "no-icon-link"
+  ]
 }

@@ -10,5 +10,8 @@
   "attachmentFolderPath": "/",
   "showLineNumber": false,
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "showFrontmatter": false
 }

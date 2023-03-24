@@ -1,0 +1,1 @@
+- **Alt + F7** => clear arrow up/down history

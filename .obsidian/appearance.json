@@ -6,7 +6,8 @@
   "nativeMenus": false,
   "translucency": false,
   "enabledCssSnippets": [
-    "no-icon-link"
+    "no-icon-link",
+    "my-obsidian"
   ],
   "interfaceFontFamily": "FiraCode Nerd Font Mono Retina",
   "monospaceFontFamily": "FiraCode Nerd Font Mono Retina",

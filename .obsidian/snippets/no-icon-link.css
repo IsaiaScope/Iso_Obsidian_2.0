@@ -18,3 +18,9 @@
   content: '🍄';
   font-size: var(--font-ui-smaller);
 }
+
+pre.table-script {
+  white-space: nowrap;
+  padding-right: 40px;
+}
+

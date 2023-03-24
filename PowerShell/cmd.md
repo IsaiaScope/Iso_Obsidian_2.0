@@ -1,9 +1,9 @@
 
 
 
-| Inline code |  Code Block            |
+| Inline code | Meanig | Code Block  |
 :----------------:|:-------------:|:-------------:
-|    | <pre><code>regegege gegegeget egetg</code></pre> |
+| `dsff`   |  | <pre><code>regegege gegegeget egetg</code></pre> |
 
 
 

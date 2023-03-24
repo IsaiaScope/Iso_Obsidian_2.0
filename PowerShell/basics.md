@@ -9,4 +9,4 @@
 
 
 
-- `.` => current location 
+- `. (DOT)` => current location 

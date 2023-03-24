@@ -1,9 +1,9 @@
 
 
 
-| Inline code | Meanig | Code Block  |
-:----------------:|:-------------:|:-------------:
-| `dsff`   |  | <pre><code>regegege gegegeget egetg</code></pre> |
+| Key | Meaning | Code Block  |
+:----------------:|:-------------:|:-------------
+| `explorer`   |  | <pre><code>explorer</code></pre> |
 
 
 

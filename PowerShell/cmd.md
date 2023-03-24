@@ -28,7 +28,7 @@ table th:nth-of-type(4) {
 
 | Inline code |  <div style="width:100%">Code block</div>            |
 |-------------|----------------------------|
-| <pre><code>`a = 1`</code></pre>   | <pre><code></code></pre> |
+| <pre><code>`a = 1`</code></pre>   | <pre><code>regegege gegegeget egetg</code></pre> |
 
 
 

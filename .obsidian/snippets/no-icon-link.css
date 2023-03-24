@@ -4,8 +4,8 @@
 }
 
 .markdown-rendered table {
-  width: 100%;
-  // margin: auto;
+  // width: 100%;
+  margin: auto;
 }
 
 .markdown-rendered button.copy-code-button {

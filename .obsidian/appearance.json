@@ -1,5 +1,5 @@
 {
-  "baseFontSize": 12,
+  "baseFontSize": 13,
   "accentColor": "",
   "cssTheme": "Obsidian Nord",
   "showViewHeader": true,
@@ -8,5 +8,7 @@
   "enabledCssSnippets": [
     "no-icon-link"
   ],
-  "interfaceFontFamily": "FiraCode Nerd Font Mono"
+  "interfaceFontFamily": "FiraCode Nerd Font Mono Retina",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono Retina",
+  "textFontFamily": "FiraCode Nerd Font Mono Retina"
 }

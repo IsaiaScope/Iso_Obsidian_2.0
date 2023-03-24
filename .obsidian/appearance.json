@@ -1,5 +1,5 @@
 {
-  "baseFontSize": 14,
+  "baseFontSize": 12,
   "accentColor": "",
   "cssTheme": "Obsidian Nord",
   "showViewHeader": true,
@@ -7,5 +7,6 @@
   "translucency": false,
   "enabledCssSnippets": [
     "no-icon-link"
-  ]
+  ],
+  "interfaceFontFamily": "FiraCode Nerd Font Mono"
 }

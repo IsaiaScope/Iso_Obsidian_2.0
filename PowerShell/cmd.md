@@ -9,7 +9,7 @@
 | `cls`   |  | <pre><code>explorer</code></pre> |
 | `get-command`   |  | <pre><code>explorer</code></pre> |
 | `help get-variable -examples`   |  | <pre><code>explorer</code></pre> |
-| `get-command`   |  | <pre><code>explorer</code></pre> |
+| `pwd`   |  | <pre><code>explorer</code></pre> |
 | `get-command`   |  | <pre><code>explorer</code></pre> |
 | `get-command`   |  | <pre><code>explorer</code></pre> |
 | `get-command`   |  | <pre><code>explorer</code></pre> |

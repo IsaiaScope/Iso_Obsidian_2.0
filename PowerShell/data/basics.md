@@ -1,6 +1,7 @@
 - [DOCS](https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3)
 - The Shell => gives Access to the Operating System
 - PowerShell => gives administrator tools to automate repetitive tasks (save security logs. Convert to HTML, copy to server)
+- An `Alias` is another name for a command that points to the real command that PowerShell recognizes.
 - PowerShell gives Access to:
 	 - active directory
 	 - registry

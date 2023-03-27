@@ -10,8 +10,4 @@
 	 - run tasks
 - Normal Mode => The ability to run some commands could be limited. 
 - Administrator Mode => Ability to run any command.
-
-
-
-
-- `. (DOT)` => current location 
+- `help` system is the secret to master PowerShell

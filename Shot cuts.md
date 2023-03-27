@@ -23,6 +23,7 @@
 18. **ctrl + shift + `]`** => unfold
 19. **ctrl + -** => zoom out
 20. **ctrl + =** => zoom in
+21. **ctrl + F4** => close current TAB
 
 ---
 #### Terminal

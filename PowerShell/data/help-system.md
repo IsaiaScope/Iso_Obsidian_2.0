@@ -1,9 +1,10 @@
+**Get-Help** => Displays information about PowerShell commands and concepts.
+
 Examining the **HELP SYSTEM**:
 - examples
 - detailed
 - full
 - online
-
 
 1. Get 11 examples of Get-Service cmd
 ```
@@ -23,7 +24,7 @@ get-help Get-Service -full
 ```
 get-help Get-Service -online
 ```
-5. get al
+5. get all information in a list form that contain word 'process'
 ```
 Get-Help *process*
 ```

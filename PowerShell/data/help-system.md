@@ -1,5 +1,6 @@
 - DOC: [get-help](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/get-help?view=powershell-7.3)
 - **Get-Help** => Displays information about PowerShell commands and concepts.
+- syntax => `get-help <cmd> <flags>`
 - Examining the **HELP SYSTEM**:
 	- examples
 	- detailed
@@ -28,3 +29,9 @@ get-help Get-Service -online
 ```
 Get-Help *process*
 ```
+6. open the result on a external window
+```
+Get-Help Get-EventLog -ShowWindow
+```
+
+

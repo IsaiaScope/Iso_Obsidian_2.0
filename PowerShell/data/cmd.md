@@ -14,7 +14,7 @@
 | `history`   | `get-history`, `clear-history`, `invoke-history <id>` id get from get-history (can run multiple commands from my command history => `invoke-history <id>; invoke-history <id>`), `N.B` history contains cmds just of the current session | <pre class="table-script"><code>get-history</code></pre> |
 | `get-alias`   | | <pre><code>explorer</code></pre> |
 | `get-verb`   |  | <pre><code>explorer</code></pre> |
-| `get-command`   |  | <pre><code>explorer</code></pre> |
+| `get-content`   | `Get-Content -Path C:\content\test.txt`| <pre><code>explorer</code></pre> |
 | `get-command`   |  | <pre><code>explorer</code></pre> |
 
 

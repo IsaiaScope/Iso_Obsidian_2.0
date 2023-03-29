@@ -22,3 +22,7 @@ get-help Get-Service -full
 ```
 get-help Get-Service -online
 ```
+5. open wiki on Get-Service cmd
+```
+Get-Help *process*
+```

@@ -11,4 +11,6 @@
 - Normal Mode => The ability to run some commands could be limited. 
 - Administrator Mode => Ability to run any command.
 - `help` system is the secret to master PowerShell
-- if a cmd support `pipeline` can chain the input from a previous cmd and generate a new output 
+- if a cmd support `pipeline` (`|`) can chain the input from a previous cmd and generate a new output, ex. => (`get-verb Measure-object`)
+- `*`process`*` => it's like a regex, return words that contains string process
+- 

@@ -4,6 +4,7 @@ Examining the **HELP SYSTEM**:
 - full
 - online
 
+
 1. Get 11 examples of Get-Service cmd
 ```
 Get-Help Get-Service -Examples
@@ -22,7 +23,7 @@ get-help Get-Service -full
 ```
 get-help Get-Service -online
 ```
-5. open wiki on Get-Service cmd
+5. get al
 ```
 Get-Help *process*
 ```

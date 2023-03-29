@@ -1,10 +1,10 @@
-**Get-Help** => Displays information about PowerShell commands and concepts.
-
-Examining the **HELP SYSTEM**:
-- examples
-- detailed
-- full
-- online
+- DOC: [get-help](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/get-help?view=powershell-7.3)
+- **Get-Help** => Displays information about PowerShell commands and concepts.
+- Examining the **HELP SYSTEM**:
+	- examples
+	- detailed
+	- full
+	- online
 
 1. Get 11 examples of Get-Service cmd
 ```

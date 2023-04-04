@@ -32,3 +32,6 @@
 ```console
  rm -rf node_modules
 ```
+
+#### Custom
+1.   **ctrl + alt + e** => gitlens => toggleLineBlame => show/hide git info on hover of the line

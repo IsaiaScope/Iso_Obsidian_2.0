@@ -33,5 +33,3 @@ Get-Help *process*
 ```
 Get-Help Get-EventLog -ShowWindow
 ```
-
-

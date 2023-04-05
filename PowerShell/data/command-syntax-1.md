@@ -1,3 +1,4 @@
+![[get-eventlog.png]]
 ```
 Get-EventLog 
 	[-LogName] <System.String> 

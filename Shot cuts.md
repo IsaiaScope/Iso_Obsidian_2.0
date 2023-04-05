@@ -5,25 +5,26 @@
 #### Visual Studio
 1. ***shift + esc*** => toggle down-bar terminal
 2. **ctrl + Shift + Back tick***  => add new terminal
-3. **alt + right/left** => focus pre/next tab opened; when terminal tab is focused woks as well in there
-4. ***ctrl + shift + f*** => Search on the left menu the selected word
-5. ***shift + alt + down*** => copy Lines Down Action
-6. ***shift + alt + right*** => expand selection next parent
-7. ***shift + alt + left*** => shrink selection previous parent
-8.  ***shift + alt + up*** => copy Lines Up Action
-9. ***ctrl + d*** => Select Next Find Match
-10.  **ctrl + shift + l*** => select all matches
-11. ***ctrl + b*** => toggle Sidebar Visibility
-12. ***alt + down*** => move Lines Down Action
-13. ***ctrl + alt + down*** => insert Cursor Below
-14.  **F12** => Go To Definition of the statement
-15. **ctrl + 0** => focus primary side bar
-16. **ctrl + 1** => focus first editor group
-17.  **ctrl + shift + `[`** => fold
-18. **ctrl + shift + `]`** => unfold
-19. **ctrl + -** => zoom out
-20. **ctrl + =** => zoom in
-21. **ctrl + F4** => close current TAB
+3. 4. ***ctrl + shift + c*** => Open external terminal
+4. **alt + right/left** => focus pre/next tab opened; when terminal tab is focused woks as well in there
+5. ***ctrl + shift + f*** => Search on the left menu the selected word
+6. ***shift + alt + down*** => copy Lines Down Action
+7. ***shift + alt + right*** => expand selection next parent
+8. ***shift + alt + left*** => shrink selection previous parent
+9.  ***shift + alt + up*** => copy Lines Up Action
+10. ***ctrl + d*** => Select Next Find Match
+11.  **ctrl + shift + l*** => select all matches
+12. ***ctrl + b*** => toggle Sidebar Visibility
+13. ***alt + down*** => move Lines Down Action
+14. ***ctrl + alt + down*** => insert Cursor Below
+15.  **F12** => Go To Definition of the statement
+16. **ctrl + 0** => focus primary side bar
+17. **ctrl + 1** => focus first editor group
+18.  **ctrl + shift + `[`** => fold
+19. **ctrl + shift + `]`** => unfold
+20. **ctrl + -** => zoom out
+21. **ctrl + =** => zoom in
+22. **ctrl + F4** => close current TAB
 
 ---
 #### Terminal

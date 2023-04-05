@@ -19,13 +19,15 @@ Get-EventLog
 	[-ComputerName <System.String[]>] 
 	[-List] [<CommonParameters>]
 ```
+----
 **Intro** 
 `get-eventlog -showwindow`
 
 **Command Structure**
 Every Cmdlet in PowerShell follows this basic structure: 
 `Verb-Noun -param1 -param2 separated by a comma.` 
-What are all these brackets, hyphens, angle brackets, braces all about? I’ve already shown you what parameters are. If you recall parameters always start with a hyphen. Parameters are options that describe what the cmdlet will do. 
+What are all these brackets, hyphens, angle brackets, braces all about? I’ve already shown you what parameters are. If you recall parameters always start with a hyphen. 
+Parameters are options that describe what the cmdlet will do. 
 
 **Parameter Sets** 
 If you see a command name more than once, that means that there'll be at least one unique parameter in each set. 
@@ -42,13 +44,16 @@ So, what I am showing you is that `if you start using the parameters from one se
 The angle brackets indicate an argument. 
 What’s inside the angle brackets is called a value type. 
 In our example we type get-eventlog, space dash logname. The logname parameter has a value type called which can be an alpha-numeric value. 
-In this case it’s a text string such as a single word like 'security' or 'application'. 
+In this case it’s a text string such as a single word like 'security' or 'application'.
+
 **Multiple Arguments []**
-Notice the parameter -InstanceID and the argument <Int64[]>. int satnds for integer. See the two square brackets? 
+Notice the parameter -InstanceID and the argument <Int64[]>. int stands for integer. See the two square brackets? 
 Note the square brackets are inside the angle brackets. 
 This means that it can take multiple arguments separated by a comma. 
 like => -instanceID now type 0,1. 
-Now we’ll explain it a little more. Our command is get-eventlog, our first parameter is - logname, the angle brackets indicate an argument. Inside the angle brackets is a value type and the value type is string which in this case is a text string. We chose the application log. The next parameter is – InstanceID which takes an argument < > the value type is <Int64> which refers to an integer or numeric. Again, notice that within the angled brackets are two square brackets. This means that -instanceID can take multiple arguments. In this case I’ll type 0,1 separated by a comma. 
+
+Our command is get-eventlog, our first parameter is -logname, the angle brackets indicate an argument. Inside the angle brackets is a value type and the value type is string which in this case is a text string. We chose the application log. The next parameter is – InstanceID which takes an argument < > the value type is <Int64> which refers to an integer or numeric. Again, notice that within the angled brackets are two square brackets. This means that -instanceID can take multiple arguments. In this case I’ll type 0,1 separated by a comma.
+
 Note: Not all parameters can take multiple arguments, you will always want to check this. For example, type get-eventlog -logname security -newest 3,2 press return, and you get an error. 
 Checkout the syntax for the parameter -newest. It can take an argument but not multiple arguments. Notice there are not two square brackets within the angle brackets. This shows that -newest can only take a single argument.
 
@@ -81,4 +86,6 @@ Now lets see if we can move these values out of order. Move the 0,1 in front of 
 
 **Named Parameters**
 Take a look at -Newest, notice that the position is named. Named means that you can put -newest anywhere in the order of parameters and it will work. Let’s check it out Type `get-eventlog -newest 5 application 0,1` and that worked. We see that we moved the parameter with a position called named and moved that in front of the positional parameter -logname and we see that the command ran
+
+
 

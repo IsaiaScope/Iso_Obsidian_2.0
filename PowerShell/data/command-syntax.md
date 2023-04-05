@@ -108,7 +108,7 @@ Type `get-service -displayname and pick an application` press return, and as you
 
 ---
 
-**Let’s go back to the get-evenlog syntax and review:** Get in the habit of analyzing the syntax of a cmdlet 
+**Let’s go back to the get-evenlog syntax and review:** Get in the habit of analyzing the syntax of a cmdlet
 1. – indicates a parameter 
 2. < > angle brackets indicate an argument 
 3. [] If there are two square brackets inside two angle brackets this means that the parameter can take multiple arguments, separated by a comma. In this case it would be two numbers. 
@@ -116,8 +116,10 @@ Type `get-service -displayname and pick an application` press return, and as you
 	 Because -logname is surrounded by square brackets and the argument is not, that makes -logname optional and the argument required. 
 5. Positional Because -logname is surrounded by square brackets and it’s position is 0, this makes this parameter positional. So, PowerShell expects -logname and it’s value type to be first in the order of cmdlets. 
 6. Named – A parameter that has a position of named can be placed anywhere in the order of cmdlets. 
-7. { } Curly braces - a parameter followed by several choices separated by vertical lines and surrounded by curly braces. Using this parameter, you can choose various items to expand the functionality of the cmdlet. 
-So, with what you have learned in the last two lectures you should be able to figure out command syntax. You’re on your way to understanding a lot more about PowerShell.
+7. { } Curly braces - a parameter followed by several choices separated by vertical lines and surrounded by curly braces. Using this parameter, you can choose various items to expand the functionality of the cmdlet.
+8. Verb-Noun is the name of cmd itself like get-eventlog
+
+
 
 
 

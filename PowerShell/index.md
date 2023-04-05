@@ -1,1 +1,4 @@
 1. [[basics]]
+2. [[help-system]]
+3. [[command-syntax]]
+4. [[short-cuts]]

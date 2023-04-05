@@ -1,5 +1,4 @@
-![[get-eventlog.png]]
-```
+```js
 Get-EventLog 
 	[-LogName] <System.String> 
 	[[-InstanceId] <System.Int64[]>] 
@@ -22,7 +21,7 @@ Get-EventLog
 ```
 ----
 **Intro** 
-`get-eventlog -showwindow`
+`help get-eventlog -showwindow`
 
 **Command Structure**
 Every Cmdlet in PowerShell follows this basic structure: 
@@ -32,7 +31,7 @@ Parameters are options that describe what the cmdlet will do.
 
 **Parameter Sets** 
 If you see a command name more than once, that means that there'll be at least one unique parameter in each set. 
-Notice in the first set there are several unique parameters such as -logname, - instanceId, - After, -Before, -Newest and several others. 
+Notice in the first set there are several unique parameters such as -logname, -instanceId, -After, -Before, -Newest and several others. 
 In the second set you have -AsString and -List.
 Notice also the -computername is parameter listed in both sets. That means you can use the -computername parameter when using either set.
 
@@ -63,11 +62,11 @@ To answer that question we need PowerShell’s Help system Type `help get-servic
 
 notice that this cmdlet can't run without adding any parameters.  
 
-`[Parameter Argument] Notice that all the parameters and the arguments are surrounded by square brackets. This means that adding the parameters are optional and not needed.
+`[Parameter Argument] Notice that all the parameters and the arguments are surrounded by square brackets. This means that adding the parameters are optional and not needed.`
 
-notice that almost every parameter and every argument are surrounded by square brackets, that means that they are all optional or not needed. 
-Notice -logname is surrounded by square brackets but the argument is not. Required Argument That means, because there are square brackets around the parameter -logname, the name logname is optional but the argument is required.
-That is why when you ran get-eventlog without any parameters, PowerShell asks for a value for -logname`
+`notice that almost every parameter and every argument are surrounded by square brackets, that means that they are all optional or not needed. `
+`Notice -logname is surrounded by square brackets but the argument is not. Required Argument That means, because there are square brackets around the parameter -logname, the name logname is optional but the argument is required.`
+`That is why when you ran get-eventlog without any parameters, PowerShell asks for a value for -logname`
 
 **Positional parameters **
 -InstanceID, -logname and -newest 
@@ -87,6 +86,38 @@ Now lets see if we can move these values out of order. Move the 0,1 in front of 
 
 **Named Parameters**
 Take a look at -Newest, notice that the position is named. Named means that you can put -newest anywhere in the order of parameters and it will work. Let’s check it out Type `get-eventlog -newest 5 application 0,1` and that worked. We see that we moved the parameter with a position called named and moved that in front of the positional parameter -logname and we see that the command ran
+
+**{} Curly braces** 
+In some of the commands you’ll see curly braces. 
+
+-Entrytype. Notice that it is surrounded by square brackets that start at -EntryType and end at warning} ]. 
+That shows that the parameter is optional. 
+But notice the curly braces surrounding {Error and ending at warning} 
+Also notice the vertical lines between information | FailureAudit | SuccessAudit and Warning. 
+What this means is, that if you want to use the parameter -Entrytype you have these choices. 
+Let’s try this Type `Get-EventLog application -EntryType warning, error -Newest 20`.
+This command displays any warnings and errors coming from our applications that we are currently running.
+
+**Required Parameters**
+There’s One thing that I need to show you. 
+Let go back to the syntax for get-service. 
+Take a look at the first parameter set, notice that the parameter -displayname doesn’t have the square brackets around it. This means that if you want to use the first parameter set, you would be required to use the parameter -DisplayName. That’s how you know what is required and what is optional. 
+Type `get-service -displayname and pick an application` press return, and as you can see that did command run. This command displays the service that is associated with the application. 
+
+`So, in most instances this rule would hold true. If there are no square brackets around the parameter and the argument, the parameter and the argument are required. If there are square brackets around the parameter and the argument the parameter is optional and not required. `
+
+---
+
+**Let’s go back to the get-evenlog syntax and review:** Get in the habit of analyzing the syntax of a cmdlet 
+1. – indicates a parameter 
+2. < > angle brackets indicate an argument 
+3. [] If there are two square brackets inside two angle brackets this means that the parameter can take multiple arguments, separated by a comma. In this case it would be two numbers. 
+4. [Param Arg] Square brackets around the parameter and the argument. Means the parameter is optional. [Param] Square brackets around the parameter 
+	 Because -logname is surrounded by square brackets and the argument is not, that makes -logname optional and the argument required. 
+5. Positional Because -logname is surrounded by square brackets and it’s position is 0, this makes this parameter positional. So, PowerShell expects -logname and it’s value type to be first in the order of cmdlets. 
+6. Named – A parameter that has a position of named can be placed anywhere in the order of cmdlets. 
+7. { } Curly braces - a parameter followed by several choices separated by vertical lines and surrounded by curly braces. Using this parameter, you can choose various items to expand the functionality of the cmdlet. 
+So, with what you have learned in the last two lectures you should be able to figure out command syntax. You’re on your way to understanding a lot more about PowerShell.
 
 
 

@@ -33,3 +33,7 @@ Get-Help *process*
 ```
 Get-Help Get-EventLog -ShowWindow
 ```
+6. get info and examples of common parameters
+```
+get-help about_common_parameters
+```

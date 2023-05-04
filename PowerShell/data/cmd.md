@@ -16,6 +16,7 @@
 | `get-verb`   |  | <pre><code>explorer</code></pre> |
 | `get-content`   | `Get-Content -Path C:\content\test.txt`| <pre><code>explorer</code></pre> |
 | `get-help about_common_parameters`   |  | <pre><code>explorer</code></pre> |
+| `get-process`   |  | <pre><code>explorer</code></pre> |
 
 
 

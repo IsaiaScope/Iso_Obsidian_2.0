@@ -1,0 +1,2 @@
+- object concept is the same as OOP
+- 

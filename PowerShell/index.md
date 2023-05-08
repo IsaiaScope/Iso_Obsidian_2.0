@@ -2,3 +2,5 @@
 2. [[help-system]]
 3. [[command-syntax]]
 4. [[short-cuts]]
+5. [[cmd]]
+6. [[objects-properties]]

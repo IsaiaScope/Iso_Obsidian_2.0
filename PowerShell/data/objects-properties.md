@@ -68,17 +68,17 @@ We want to use the `creationtime` property to find out the creation date of the 
 ```
 (Get-ChildItem $pshome\PowerShell.exe).creationtime
 ```
-• The most common way to get the values of the properties of an object is to
+- The most common way to get the values of the properties of an object is to
 use the dot method. That means that you first surround the parameter and the path with parenthesis. Then insert a (.) then the property. Which in this case is creationtime.
 And we get Wednesday, April 11, 2018 07:35 PM
-• By the way $pshome is the path to the PowerShell home folder
+- By the way $pshome is the path to the PowerShell home folder
 
 **3.1)** Another way to get the properties of an object is to use the select-object command. The select-object command has a parameter called –property that will get the properties of an object.
 
 ```
 Select-object -showwindow
 ```
-• The parameter that we are going to be using is called -property.
+- The parameter that we are going to be using is called -property.
 Select-object is the name of the cmdlet.
 Notice that the parameter -property and the argument’s value type - called object,
 both are surrounded by square brackets. That means that both parameter and
@@ -98,11 +98,11 @@ Instead of displaying the whole security log let’s just display the newest 6 e
 ```
 Get-eventlog -logname security -newest 6
 ```
-• Now let’s use Get-member, which will show us the properties and methods
+- Now let’s use Get-member, which will show us the properties and methods
 ```
 Get-eventlog -logname security -newest 6 | get-member
 ```
-• Let’s select a few useful properties. How about Time-Generated, EventID and
+- Let’s select a few useful properties. How about Time-Generated, EventID and
 machinename
 ```
 Get-eventlog -logname security -newest 6 | Select-object Source, TimeWritten,
@@ -118,4 +118,6 @@ whole lot easier to remember what get-service -name BITS is doing instead of gsv
 Both commands will work, but when you’ve type out the whole command it’s easier to
 understand especially when you’re first starting with PowerShell.
 
-[[20b+Answers+to+Q1-7+_O-P-M.pdf]]
+*Questions*
+- [[Obj-prop-methods-es-1.pdf]]
+- [[Obj-prop-methods-es-2.pdf]]

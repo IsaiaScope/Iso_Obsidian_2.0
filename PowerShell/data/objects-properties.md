@@ -117,3 +117,5 @@ and type them out. The same goes for aliases you can use gsv for get-service. Bu
 whole lot easier to remember what get-service -name BITS is doing instead of gsv bits.
 Both commands will work, but when you’ve type out the whole command it’s easier to
 understand especially when you’re first starting with PowerShell.
+
+[[20b+Answers+to+Q1-7+_O-P-M.pdf]]

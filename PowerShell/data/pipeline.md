@@ -182,37 +182,47 @@ now let’s check out our new aliases
 
 **4)** For the next byproperty example we’ll need to create another csv file.
 So let’s go ahead and open notepad again. We’ll use the same process as we did before.
-• Type svcname, svcstatus Press return
-• Bits, running
+```
+svcname, svcstatus
+Bits, running
+```
 • Now for a file name type bits.csv and save this to the test directory as well.
 This time we’ll just run the command.
-• Type import-csv -path c:\test\bits.csv | stop-service
-• And we see that the command failed, but why?
+```
+import-csv -path c:\test\bits.csv | stop-service
+```
+• `And we see that the command failed, but why?`
 • The error log says that stop-service Cannot find any service with service name
 '@{svcName=bits; SvcStatus=running }'.
-Now we’ll do some troubleshooting
+
 We’ll open two powershell windows again
 First we’ll check command 1, using get-member.
-• Type import-csv -path c:\test\bits | gm
+ ```
+import-csv -path c:\test\bits | gm
+```
 • Notice svcName noteproperty and string (which in this case is a text string)
 Now lets check the full help on the second command
 
-• Type get-help stop-service -full
+```
+get-help stop-service -full
+```
 • Scroll up until you see a parameter that supports a string.
 And we see that -Name supports a string
 it also accepts pipeline input ByPropertyName and ByValue
 • Ok now open our bits.csv file.
 • Open file explorer, click C:\test, right click and choose edit on the bits.csv file.
 all we have to do is to rename our column header from scvname to name.
-The column header determines the names of the properties of the object that Importcsv
+`The column header determines the names of the properties of the object that Importcsv
 creates and in this case are passed across the pipeline to our second command
-which is stop-service
+which is stop-service`
 • Go ahead del svc and then click save and close notepad.
-• Now run the command again, in this case go ahead and add the parameter -passthru,
-press return.
+• Now run the command again, in this case go ahead and add the parameter -passthru
+```
+import-csv -path c:\test\bits.csv | stop-service -passthru
+```
 • And you see that the status of bits is now stopped, so you can see that the command
 ran successfully.
-Let’s review
+
 • The only parameter that stop-service (our second cmd) would take bypropertyname
 was -name.
 • Import-csv (1st Cmd) tried to push SVCname across the pipeline to stop-service. But
@@ -220,4 +230,3 @@ stop-service will only match up with -name not svcname.
 • After we modified the column header inn notepad from SvcName to the property,
 Name, Stop-service was able to use the parameter -name as a match and the
 command ran.
-Thanks for watching as we’ll see you in the next lecture.

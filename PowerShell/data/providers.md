@@ -28,9 +28,8 @@ Try running this command instead.
 ```
 ---
 
-In this lecture we will take a look at several different cmdlets that are designed for use with Powershell Providers. If you want to follow along you will need to download the lesson that came with this lecture. We will be copying and pasting commands into PowerShell.
-If you would like a complete list of provider cmdlets and links for further information, download the document called PSProvider cmdlet links.pdf.
-Location Cmdlets – These cmdlets are used for directory navigation. The cd (change directory) command can be used to navigate between directories. But, as the number of directories that we need to track grows, this approach becomes more and more inefficient, as most of these paths are usually too long to type. And that’s why location cmdlets can be extremely useful.
+Location Cmdlets – These cmdlets are used for directory navigation. 
+The cd (change directory) command can be used to navigate between directories. But, as the number of directories that we need to track grows, this approach becomes more and more inefficient, as most of these paths are usually too long to type. And that’s why location cmdlets can be extremely useful.
 Get-Location – (alias GL) This cmdlet gets an object that represents the current directory. Sets the working location to a specified location
 Set-Location – (alias is SL) Sets the working location to a specified location. That location could be a directory, a subdirectory, a registry location, or any provider path.
 Push-Location – (alias is pushd) Adds ("pushes") the current location onto a location stack.

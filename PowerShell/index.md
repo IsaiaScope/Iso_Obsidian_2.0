@@ -4,3 +4,5 @@
 4. [[short-cuts]]
 5. [[cmd]]
 6. [[objects-properties]]
+7. [[providers]]
+	1. [[PSDrive]]

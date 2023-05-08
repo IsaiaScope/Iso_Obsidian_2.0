@@ -1,6 +1,6 @@
 - object concept is the same as OOP
 
-1) Let’s take a look at some examples using Methods:
+**1)** Let’s take a look at some examples using Methods:
 
 We’re going to be using get-process and the process named notepad
 - First let’s open notepad, open your search bar and press notepad, minimize to the taskbar
@@ -29,7 +29,7 @@ The point is that we don’t need a separate cmdlet to close the process notepad
 have the method kill.
 And we see that notepad has been closed.`
 
-2) Let’s try another example of using Methods
+**2)** Let’s try another example of using Methods
 
 Let’s say we want to copy files from one location to another. In this case we’ll use the
 get-childitem command.
@@ -57,3 +57,22 @@ And we see that the copyto method was successful. Go out to explorer and the tes
 folder, and there is our text file.
 This was just two examples of using methods, but it gives you an idea of how to use
 methods to accomplish an everyday task.
+
+**3)** Now let’s take a look at using the Properties of an object
+
+Let’s use the get-childitem command. 
+```
+ get-childitem | gm
+```
+We want to use the `creationtime` property to find out the creation date of the current version of PowerShell
+```
+(Get-ChildItem $pshome\PowerShell.exe).creationtime
+```
+• The most common way to get the values of the properties of an object is to
+use the dot method. That means that you first surround the parameter and the path with parenthesis. Then insert a (.) then the property. Which in this case is creationtime.
+And we get Wednesday, April 11, 2018 07:35 PM
+• By the way $pshome is the path to the PowerShell home folder
+
+Another way to get the properties of an object is to use the select-object command. The select-object command has a parameter called –property that will get the properties of an object.
+
+

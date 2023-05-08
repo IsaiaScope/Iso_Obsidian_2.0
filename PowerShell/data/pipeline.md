@@ -117,29 +117,31 @@ pipeline the second method is called ByProperty.
 
 As you already know pipeline parameter binding is the method of stringing together the right cmdlets to perform a task.
 `Byvalue or Byproperty is the glue that PowerShell uses to allow the output of one command to pass to the input of the second command`
+
 In the last lecture we demonstrated how to get commands through the pipeline Byvalue.
 In this lecture, we’ll demonstrate how PowerShell uses parameter binding byproperty.
+
 We’ll introduce two new commands:
-• import-csv and the new-alias command.
+• `import-csv and the new-alias command.`
 • The Import-Csv cmdlet creates table-like custom objects from the items in
 CSV files. Each column in the CSV file becomes a property of the custom
 object and the items in rows become the property values
 • The New-Alias cmdlet creates a new alias in the current PowerShell session.
-let’s Open windows explorer. From your c: drive create a folder named test. Close explorer
+let’s Open windows explorer. From your c: drive create a folder named test.
 Now we’ll use notepad to create a csv (Comma separated value) file and copy that to our test folder.
-• From the search bar type notepad.
-• Now type the following:
+• In notepad type the following:
+```
 Name, Value
 L, eventlog
 List, get-childitem
 P, ping
 W, winver
+```
 Now from file, click save-as. Click the C: drive and click the test folder.
 For a file name type aliases.csv
 Change save as type, press the down arrow and change .txt to All Files.
-Now click save., then click close.
-Now, the parameter binding process that PowerShell uses to determine what commands pass through the pipeline is basically the same for byproperty and for byvalue, with a few differences.
 
+Now, the parameter binding process that PowerShell uses to determine what commands pass through the pipeline is basically the same for byproperty and for byvalue, with a few differences.
 For command #1 you still use get-member and for command #2 you still use get-help. The
 difference is that now you are looking for things that are byproperty instead of byvalue.
 • Command 1 which in this case is import-csv. We’ll use get-member to get the property
@@ -147,14 +149,18 @@ and methods of the object import-csv.
 • Command 2 will be New-Alias. We’ll us get-help –full to get the parameters that take
 byproperty.
 • Now we’ll open two PowerShell windows.
-• Type import-csv -path c:\test\aliases.csv | gm now press return
+```
+import-csv -path c:\test\aliases.csv | gm
+```
 If you recall from our object’s lecture. Objects can have properties or methods. But what we’re
 interested in is properties and in this case Powershell displays them as noteProperty
 • (NoteProperties are just generic properties that are created by Powershell)
 • Notice that Name and Value match the column headings from our csv file.
 Now we need to use get-help to determine if Command 2 or in this case New-alias has a
 parameter that will bind with command 1 ByProperty
-• Type get-help new-alias -full press return
+```
+get-help new-alias -full
+```
 • Scroll up until you see a parameter that says ByPropertyName
 • So, we see that the -Value and -Name parameters both accept pipeline input
 BypropertyName
@@ -163,16 +169,18 @@ Command one which is import-csv passed two properties called name and value acro
 pipeline to the second command which is new-alias.
 From the second command new-alias Get-help told us that the parameters -name and -value
 can take pipeline input by propertyname
-So, these command should work. We can test that by typing (press return)
-• import-csv -path c:\test\aliases.csv | new-alias -verbose
-We see that the command ran.
-
+So, these command should work. We can test that by typing
+```
+ import-csv -path c:\test\aliases.csv | new-alias -verbose
+```
 now let’s check out our new aliases
 • Type L security and our security log is displayed
 • Type list and the files on the root of my C: drive are displayed
 • Type P 127.0.0.1 and we can test our loopback.
 • Press w and my current version of windows is displayed.
-For the next byproperty example we’ll need to create another csv file.
+
+
+**4)** For the next byproperty example we’ll need to create another csv file.
 So let’s go ahead and open notepad again. We’ll use the same process as we did before.
 • Type svcname, svcstatus Press return
 • Bits, running

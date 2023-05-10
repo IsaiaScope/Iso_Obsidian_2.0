@@ -231,7 +231,7 @@ Remove-Item -Path "HKLM:\Software\MyCompany"
 Rerun Command #4 and you will see that MyCompany has been removed.
 Path cmdlets
 Now let’s checkout several of the path cmdlets
-• Test-Path - Determines whether all elements of the path exist. This cmdlet is handy if you are writing a script and you want to test whether the path to a file is true or false. Test path can save you a lot of time.
+• `Test-Path - Determines whether all elements of the path exist. This cmdlet is handy if you are writing a script and you want to test whether the path to a file is true or false. Test path can save you a lot of time.`
 
 For Example: Perhaps you need to check to see if the password log is present in the debug directory.
 
@@ -250,11 +250,10 @@ Now let’s say you need to take a look at all the paths in the Windows director
 ```
 Resolve-path "C:\windows\*"
 ```
-Notice the wildcard in the command.
-Press return
 This command lists all the folders, subfolders and files in the Windows directory.
 
 • Let’s take a look at the Split-path cmdlet. Split-path returns a string that describes the location of the items and returns the specified part of a path. Let's say you want to list all the log files in this C:\Windows folder. You can use the split-path cmdlet.
+
 **Command #9**
 ```
 Split-Path -Path "C:\windows\*.Log" -Leaf -resolve

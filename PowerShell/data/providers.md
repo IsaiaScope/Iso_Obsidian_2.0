@@ -168,30 +168,40 @@ Now from Windows Explorer, If we take a look at test.txt we can see that the con
 
 ---
 
-In this lecture we will take a look at Item property and path cmdlets.
-ItemProperty cmdlets
-• New-ItemProperty - creates a new property for a specified item and sets its value. Typically, this cmdlet is used to create new registry values.
-• Get-itemProperty gets the property of an item like viewing registry properties and their values. You can use this cmdlet to get information about directories, files or registry entries.
-• Remove-ItemProperty – This deletes a property and its value from an item. You can use it to delete registry values and the data that they store.
+take a look at `Item property and path cmdlets`.
+**ItemProperty cmdlets**
+- New-ItemProperty - creates a new property for a specified item and sets its value. Typically, this cmdlet is used to create new registry values.
+- Get-itemProperty gets the property of an item like viewing registry properties and their values. You can use this cmdlet to get information about directories, files or registry entries.
+- Remove-ItemProperty – This deletes a property and its value from an item. You can use it to delete registry values and the data that they store.
 Please note: That the registry entry must exist before you can edit the entry.
+
 First, we need to create a new registry key in the HKLM registry hive. We will use the New-item cmdlet. In the file system, New-Item creates files and folders. In the registry, New-Item creates registry keys and entries.
 Be sure to open PowerShell as an Administrator.
 Using this command we will create a registry key named MyCompany.
-Command #1
+
+**Command #1**
+```
 New-Item -Path "HKLM:\Software\MyCompany"
-Press return
+```
+
 Displayed is our registry key MyCompany
 Now we need to use the command New-itemproperty to add a new registry entry to the MyCompany registry key.
-Command #2
+
+**Command #2**
+```
 New-Itemproperty -Path "HKLM:\Software\MyCompany" -name NewProperty -value NewPropertyValue
-Press return
+```
 We just added the name NewProperty to the registry.
 
 Now we need to add a new value of 400 employees to my company.
-Command #3
+
+**Command #3**
+```
 New-itemproperty -path HKLM:\Software\MyCompany -name NoOfEmployees -value 400
-Press return
+```
+
 And there is our employee values of 400.
+
 Let’s take a look at the results by taking a look at the windows registry editor.
 • From the search bar type registry
 • From HKLM, follow the path software\MyCompany

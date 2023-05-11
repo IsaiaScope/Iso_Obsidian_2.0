@@ -94,6 +94,11 @@ Alternatively, there is a shorthand method to roll back the commit: To revert co
 ```
 git reset head~1
 ```
+
+**Merge** => How to Revert the Last Merge Commit in Git
+```
+git revert -m 1 commit_hash
+```
 ---
 ---
 #### Revert a specific file 

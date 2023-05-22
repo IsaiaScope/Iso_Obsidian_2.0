@@ -24,7 +24,8 @@ $UserInput // Joe
 $UserInput > File.txt // create a file named File that contains $UserInput value
 cat .\File.txt // cat read files contet in this case: Joe
 ```
-- can store process result directly
+- same result writing in ps1 file
 ```
-echo $UserInput
+$UserInput = Read-Host "Please enter something to save in your file"
+Set-Content -Value SuserInput -Path File.txt
 ```

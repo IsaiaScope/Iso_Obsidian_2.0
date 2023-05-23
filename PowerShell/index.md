@@ -6,3 +6,6 @@
 6. [[objects-properties]]
 7. [[providers]]
 	1. [[PSDrive]]
+	2. [[provider-Cmdlets]]
+8. [[variables-and-arrays]]
+9. 

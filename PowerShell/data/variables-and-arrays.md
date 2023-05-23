@@ -1,4 +1,4 @@
-- `$` used for declaring a variabile
+- `$` used for declaring a **variabile**
 - can be declared in .ps1 files with following syntax => $var = 1
 - is possible to assign variables run time, just write:
 ```
@@ -29,3 +29,5 @@ cat .\File.txt // cat read files contet in this case: Joe
 $UserInput = Read-Host "Please enter something to save in your file"
 Set-Content -Value $UserInput -Path File.txt
 ```
+- `@` is used for **arrays**
+- 

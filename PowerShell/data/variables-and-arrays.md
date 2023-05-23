@@ -27,5 +27,5 @@ cat .\File.txt // cat read files contet in this case: Joe
 - same result writing in ps1 file
 ```
 $UserInput = Read-Host "Please enter something to save in your file"
-Set-Content -Value SuserInput -Path File.txt
+Set-Content -Value $UserInput -Path File.txt
 ```

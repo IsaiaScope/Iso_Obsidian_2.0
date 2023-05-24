@@ -29,5 +29,49 @@ cat .\File.txt // cat read files contet in this case: Joe
 $UserInput = Read-Host "Please enter something to save in your file"
 Set-Content -Value $UserInput -Path File.txt
 ```
+---
 - `@` is used for **arrays**
-- 
+- declare and adding elements
+```
+$MyArray = @("Elm1", "Elm2", "elm3")
+$MyArray = @() // declare empty array
+$MyArray [0] // Elm1
+$MyArray [3] // nothing
+$MyArray += 'Apples' // add an element
+$MyArray += @("Elm4", "Elm5", "elm6") // add multiple element
+```
+- arrays method:
+- **SORT**
+```
+$Alphabet = ("C", "D", "A", "E", "B")
+
+$Alphabet | Sort -Descending // N.B. not change data
+
+$Alphabet = $Alphabet I Sort // to change array value you need to reassign it
+```
+- **REMOVE**: Where is like filter 
+- -`ne => not equal`
+```
+$MyArray
+	Apple
+	Peppers
+	Olives
+$MyArray | where {$_ -ne "Peppers"} // this cmd doesn't change data without equal sign
+	Apple
+	Olives
+$MyArray
+	Apple
+	Peppers
+	Olives
+$MyArray = $MyArray | where {$_ -ne "Peppers"}
+$MyArray
+	Apple
+	Olives
+$MyArray = $MyArray | where {$_ -ne $MyArray[1]}
+	Apple
+```
+- Delete an array
+```
+$MyArray = $null
+```
+

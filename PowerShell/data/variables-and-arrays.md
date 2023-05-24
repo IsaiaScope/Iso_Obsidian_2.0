@@ -74,4 +74,26 @@ $MyArray = $MyArray | where {$_ -ne $MyArray[1]}
 ```
 $MyArray = $null
 ```
+- es_1 Variable Challenge
+  1. Store the user's first and last name in two separate variables
+  2. Create a new TXT file in the following location => C:VariableChallenge (create the directory before running script)
+  3. Name the new TXT file in the following format => Todays_Date-First_Name-Last_Name.txt
+```
+# Read user input
+
+$firstName = Read-Host -Prompt "Please enter your first name"
+$lastName = Read-Host "Please enter your last name"
+
+# Get todays date with propper formatting
+Stoday = Get-Date -Format "ddMMyyyy-HHmms"
+SlongDate = Get-Date -Format "F"
+
+a write this information to the file
+
+Set-Content -Value "..." -Path "C:\VariableChallenge\$today-$firstName-$lastName.txt
+
+
+```
+
+
 

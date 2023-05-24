@@ -85,12 +85,16 @@ $firstName = Read-Host -Prompt "Please enter your first name"
 $lastName = Read-Host "Please enter your last name"
 
 # Get todays date with propper formatting
-Stoday = Get-Date -Format "ddMMyyyy-HHmms"
-SlongDate = Get-Date -Format "F"
+$today = Get-Date -Format "ddMMyyyy-HHmms"
+$longDate = Get-Date -Format "F"
 
 a write this information to the file
 
-Set-Content -Value "..." -Path "C:\VariableChallenge\$today-$firstName-$lastName.txt
+Set-Content -Value "
+Fist Name: $fistName
+Last Name: $lastName
+Date: $longDate
+" -Path "C:\VariableChallenge\$today-$firstName-$lastName.txt
 
 
 ```

@@ -80,7 +80,6 @@ $MyArray = $null
   3. Name the new TXT file in the following format => Todays_Date-First_Name-Last_Name.txt
 ```
 # Read user input
-
 $firstName = Read-Host -Prompt "Please enter your first name"
 $lastName = Read-Host "Please enter your last name"
 
@@ -88,8 +87,7 @@ $lastName = Read-Host "Please enter your last name"
 $today = Get-Date -Format "ddMMyyyy-HHmms"
 $longDate = Get-Date -Format "F"
 
-a write this information to the file
-
+# write this information to the file
 Set-Content -Value "
 Fist Name: $fistName
 Last Name: $lastName

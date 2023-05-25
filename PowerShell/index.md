@@ -10,3 +10,4 @@
 8. [[variables-and-arrays]]
 9. [[cycles-and-loops]]
 10. [[conditional-statement]]
+11. [[function]]

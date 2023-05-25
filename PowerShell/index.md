@@ -9,3 +9,4 @@
 	2. [[provider-Cmdlets]]
 8. [[variables-and-arrays]]
 9. [[cycles-and-loops]]
+10. [[conditional-statement]]

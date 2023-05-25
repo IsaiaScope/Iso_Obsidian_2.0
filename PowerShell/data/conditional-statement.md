@@ -1,12 +1,36 @@
 - **if**
-
-#For loop allows you to repeat a section of code a specific number of times
-#for (Define the variable we want to use to count and its value; what kind of condition we will use when were counting: either increase or decres the variable) (
-     a Command we want to repeat
-#)
 ```
-$MyArray = @("Cars", "Trucks")
-for ($i=0; $i -lt $MyArray.Count; $i++) {
- echo ("Element $i value: " + $MyArray[$i])
+$MyVar1 = 1
+$MyVar2 = 2
+if ($MyVar1 -eq $MyVar2) {
+    echo "I like hotdogs"
+} else {
+	echo "I dislike hotdogs"
 }
+```
+- **elseif**
+```
+Schoice - Read-Host "Please select an option (1-3)"
+if (Schoice -eq 1) (
+     echo "You chose option 1"
+) elseif (Schoice -eg 2) (
+     echo "You chose option 2"
+) elseif (Schoice -eg 3) {
+     echo
+          "You chose option 3"
+) else {
+    echo "You did not chose a valid option"
+)
+ # Switch statement
+switch (Read-Host "Please select an option (1-3)") (
+     1 ("You chose option 1")
+     2
+      ("You chose option 2")
+     3 {"You chose option 3")
+     default ("You did not chose a vlid option")
+
+```
+- **switch**
+```
+
 ```

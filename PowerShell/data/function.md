@@ -54,3 +54,7 @@ Function EchoText ( $FirstParameter, $SecondParameter) {
 
 EchoText -SecondParameter "Hey" -FirstParameter "Cara"             
 ```
+- ex_3
+```
+           
+```

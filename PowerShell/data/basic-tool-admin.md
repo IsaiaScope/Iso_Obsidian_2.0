@@ -47,3 +47,35 @@ Get-ItemProperty HKLM:\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uni
 ``` 
 
 we see that our application information is all there, could use some formatting, but that all looks good. Ok, thanks for watching and I’ll see you in the next lecture.
+
+---
+**Running Process Retriever**
+These commands in this one-liner are all PowerShell commands that retrieve information about running processes on a Windows system: First, what is a Running Process? A running process is a set of instructions currently being processed by the computer processor. One way to view running processes is to open Task Manager then click the Processes tab.
+I’ll go ahead and open Task Manager – Take a look at the processes and their usage – CPU, Memory, disk, network, and GPU. I’m sure you are very familiar with task manager.
+Now let’s open Powershell in Admin mode
+Command Line: From your student handout - Go ahead and copy and paste the commands.
+tasklist /v
+query process *
+Get-Process
+Here is the Explanation:
+1. tasklist /v is a command that displays a list of all running processes on the system, along with additional information about each process such as its process ID, memory usage, and status.
+2. query process * is a command that queries the system for information about all running processes and can display it in the command prompt window.
+3. Get-Process is a PowerShell cmdlet that retrieves information about running processes on the local computer, including the process name, ID, and amount of memory and CPU time used.
+All of these commands can be used to view the list of running processes on a Windows system, but they differ in their syntax and the level of detail provided. tasklist /v and query process * will work using the command prompt or in PowerShell. While Get-Process is a PowerShell only cmdlet. Get-Process provides more detailed information about processes than the other two commands and can be used to perform additional operations on processes, such as stopping or restarting the process.
+If you’re following along go ahead and press return.
+Here is our task list, showing all our running processes
+If we scroll down we see the query process list
+And at the bottom is our get-process list
+Now Let’s say you want to start and stop a process
+To start a process, we would use the Start-Process cmdlet followed by the path to the executable file.
+Here's an example, let’s say you want to start and stop Microsoft Word
+In my case, because I have the latest copy of Word, I would type
+Start-Process "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"
+Press return and Microsoft Word starts
+Now if you wanted to stop word. First, you would need to run the get-process command and at the bottom, we would
+need to get the ID number for Winword.exe,
+Type Get-Process, then press return
+The ID #, in this case, is 22200
+Then you would type Stop-Process – Id Then type the ID number.
+Now press return and Microsoft Word Stops.
+Ok, that’s it for this lecture thanks for watching and we will see you in the next lecture.

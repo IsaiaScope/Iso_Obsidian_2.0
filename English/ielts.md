@@ -16,7 +16,9 @@ nessuno valuta l'intelligenza del testo non fare argomenti troppo complessi
 
 when speaking about inborn skills, it's hard to say if someone was born like that or train hardly himself to improve his capabilities. Sometime seeing good sports person or musician that can't do what a child can, could be the possibility that innate gifts are real or maybe not.
 
-innate gifts can be classified in different ways, because, even if their origin comes always from genetics, sometime are very unique. For example a child that can see into darkness or a guy that can use his body as a magnet. Training and hard work cannot reach that level, no metter how hard you are going to put yourself into those kind of skills are impossible to achieve.
+innate gifts can be classified in different ways, because, even if their origin comes always from genetics, sometime are very unique. For example a child that can see into darkness or a guy who can use his body as a magnet. Training and hard work cannot reach that level, no metter how hard you are going to put yourself into this kind of skills, they are impossible to achieve.
+
+on the other hand not everyone has a unique or strong talent witch can change his life forever, bringing himself money and fame. the first reason is that just a little number of humans born with a gift from childhood and the rest of us can just train and study harder than others to improve. Anyway this determination could give more success and achievements than an innate skill, than again a man who have everything from the start cannot know the effort to reach top of the mountain.
 
 
 

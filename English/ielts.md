@@ -20,6 +20,10 @@ innate gifts can be classified in different ways, because, even if their origin 
 
 on the other hand not everyone has a unique or strong talent witch can change his life forever, bringing himself money and fame. the first reason is that just a little number of humans born with a gift from childhood and the rest of us can just train and study harder than others to improve. Anyway this determination could give more success and achievements than an innate skill, than again a man who have everything from the start cannot know the effort to reach top of the mountain.
 
+to sum up anyone can believe in himself and put effort every single day in what they love doing. In this way of seeing the world there is nothing that is impossible to do. In my mind, people with just pure talent cannot beat a life of sacrifice and feelings after get what someone really want from life.
+
+grammarly
+
 
 
 	

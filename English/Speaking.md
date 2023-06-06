@@ -26,3 +26,11 @@ phrases => freisis
 alright gentlement
 put the fire out => spegnere il fuoco
 gathered => ghederd
+
+actrisz
+afliz
+outor
+antroponoors
+craud 
+crowd - a large number of people gathered together in a disorganized or unruly way
+traiv

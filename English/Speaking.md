@@ -28,9 +28,12 @@ put the fire out => spegnere il fuoco
 gathered => ghederd
 
 actrisz
-afliz
+atliz
 outor
 antroponoors
 craud 
 crowd - a large number of people gathered together in a disorganized or unruly way
 traiv
+ivents
+
+then again

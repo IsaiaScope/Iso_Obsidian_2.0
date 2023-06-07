@@ -20,14 +20,18 @@ on the other hand not everyone has a unique or strong talent witch can change hi
 
 to sum up anyone can believe in himself and put effort every single day in what they love doing. In this way of seeing the world there is nothing that is impossible to do. In my mind, people with just pure talent cannot beat a life of sacrifice and feelings after get what someone really want from life.
 
+handout => dispense di materiale scolastico
+evaulate => valutativi
+
+
 grammarly
 
-h
+e
 c
-g
-b
-i
-a
+
+
+e
+d
 
 
 

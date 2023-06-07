@@ -22,14 +22,12 @@ to sum up anyone can believe in himself and put effort every single day in what 
 
 grammarly
 
-egg
-tower
-car
-
-bridge
-film 
-decorate
-stone
+h
+c
+g
+b
+i
+a
 
 
 

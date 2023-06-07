@@ -9,8 +9,6 @@ non punti esclamativi, sospensione o di domanda
 no elenchi
 nessuno valuta l'intelligenza del testo non fare argomenti troppo complessi
 
-
-
 • For example/To give an example/To take one example • Such as/namely • Moreover/Furthermore/In addition • On the other hand/However/Nevertheless • Although/Despite this • First of all/The first reason is that/Another reason is that/Finally • If/Provided that/unless • Consequently/As a result/Therefore • In short/To sum up/thus • In conclusion/To conclude
 
 
@@ -24,6 +22,14 @@ to sum up anyone can believe in himself and put effort every single day in what 
 
 grammarly
 
+egg
+tower
+car
+
+bridge
+film 
+decorate
+stone
 
 
 

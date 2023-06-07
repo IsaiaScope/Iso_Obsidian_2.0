@@ -26,20 +26,14 @@ evaulate => valutativi
 
 grammarly
 
-e
-c
 
 
-e
-d
+capitalism
+depression
+logic
+opportunity
+practics
 
 
-d
-c
-a
-h
-
-f
-g
 
 	

@@ -50,7 +50,7 @@ we see that our application information is all there, could use some formatting,
 
 ---
 **Running Process Retriever**
-These commands in this one-liner are all PowerShell commands that retrieve information about running processes on a Windows system: First, what is a Running Process? A running process is a set of instructions currently being processed by the computer processor. One way to view running processes is to open Task Manager then click the Processes tab.
+These commands in this one-liner are all PowerShell commands that retrieve information about running processes on a Windows system: `First, what is a Running Process? A running process is a set of instructions currently being processed by the computer processor.` One way to view running processes is to open Task Manager then click the Processes tab.
 I’ll go ahead and open Task Manager – Take a look at the processes and their usage – CPU, Memory, disk, network, and GPU. I’m sure you are very familiar with task manager.
 Now let’s open Powershell in Admin mode
 Command Line: From your student handout - Go ahead and copy and paste the commands.
@@ -79,3 +79,5 @@ The ID #, in this case, is 22200
 Then you would type Stop-Process – Id Then type the ID number.
 Now press return and Microsoft Word Stops.
 Ok, that’s it for this lecture thanks for watching and we will see you in the next lecture.
+
+

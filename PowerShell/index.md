@@ -13,3 +13,4 @@
 11. [[function]]
 12. [[basic-tool-admin]]
 	1. [[create-a-scheduled]]
+	2. [[KB-patch-retriever]]

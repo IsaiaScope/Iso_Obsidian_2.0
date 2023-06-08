@@ -149,7 +149,9 @@ If you need additional information about scheduled tasks check out the link in t
 By default, Windows Media Player is installed on Windows Server 2019 and possibly later version as well. Because this tool is not needed on production servers, it is an unnecessary function and therefore a potential security vulnerability. To uninstall media player, perform the following. I have two one-liners that you could use. In this lecture, we will discuss both.
 Go ahead and copy and paste the first command from your student guide
 Here is the Command Line:
+```
 dism /online /Disable-Feature /FeatureName:WindowsMediaPlayer /norestart
+```
 Here is the Explanation:
 This is a command-line script that uses the Deployment Image Servicing and Management (DISM) tool to disable the Windows Media Player feature on the currently running Windows operating system.
 dism: This is the name of the command-line tool used to manage Windows images.
@@ -158,7 +160,10 @@ dism: This is the name of the command-line tool used to manage Windows images.
 /FeatureName:WindowsMediaPlayer: This parameter specifies the name of the feature that should be disabled, which is "WindowsMediaPlayer" in this case.
 /norestart: This parameter specifies that the computer should not be restarted after the command has completed.
 So, when you run this script, it will use the DISM tool to disable the Windows Media Player feature on the currently running Windows operating system, without requiring a system restart.
-Here is the 2nd Command Line: I’ll go ahead and copy and paste this command from the student guide. Disable-WindowsOptionalFeature -Online -FeatureName "WindowsMediaPlayer"
+Here is the 2nd Command Line: I’ll go ahead and copy and paste this command from the student guide. 
+```
+Disable-WindowsOptionalFeature -Online -FeatureName "WindowsMediaPlayer"
+```
 Here is the Explanation:
 1. Disable-WindowsOptionalFeature is a cmdlet that allows you to disable or remove an optional Windows feature.
 2. -Online is a parameter of Disable-WindowsOptionalFeature that specifies that the operation should be performed on the currently running operating system, rather than on an offline image.

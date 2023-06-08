@@ -53,31 +53,99 @@ we see that our application information is all there, could use some formatting,
 These commands in this one-liner are all PowerShell commands that retrieve information about running processes on a Windows system: `First, what is a Running Process? A running process is a set of instructions currently being processed by the computer processor.` One way to view running processes is to open Task Manager then click the Processes tab.
 I’ll go ahead and open Task Manager – Take a look at the processes and their usage – CPU, Memory, disk, network, and GPU. I’m sure you are very familiar with task manager.
 Now let’s open Powershell in Admin mode
-Command Line: From your student handout - Go ahead and copy and paste the commands.
+
+```
 tasklist /v
 query process *
 Get-Process
+```
 Here is the Explanation:
-1. tasklist /v is a command that displays a list of all running processes on the system, along with additional information about each process such as its process ID, memory usage, and status.
+1. `tasklist /v` is a command that displays a list of all running processes on the system, along with additional information about each process such as its process ID, memory usage, and status.
 2. query process * is a command that queries the system for information about all running processes and can display it in the command prompt window.
 3. Get-Process is a PowerShell cmdlet that retrieves information about running processes on the local computer, including the process name, ID, and amount of memory and CPU time used.
 All of these commands can be used to view the list of running processes on a Windows system, but they differ in their syntax and the level of detail provided. tasklist /v and query process * will work using the command prompt or in PowerShell. While Get-Process is a PowerShell only cmdlet. Get-Process provides more detailed information about processes than the other two commands and can be used to perform additional operations on processes, such as stopping or restarting the process.
-If you’re following along go ahead and press return.
-Here is our task list, showing all our running processes
-If we scroll down we see the query process list
-And at the bottom is our get-process list
-Now Let’s say you want to start and stop a process
+
+
 To start a process, we would use the Start-Process cmdlet followed by the path to the executable file.
 Here's an example, let’s say you want to start and stop Microsoft Word
 In my case, because I have the latest copy of Word, I would type
+```
 Start-Process "C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"
+```
 Press return and Microsoft Word starts
 Now if you wanted to stop word. First, you would need to run the get-process command and at the bottom, we would
 need to get the ID number for Winword.exe,
 Type Get-Process, then press return
 The ID #, in this case, is 22200
-Then you would type Stop-Process – Id Then type the ID number.
+Then you would type
+```
+ Stop-Process – Id Then type the ID number
+```
 Now press return and Microsoft Word Stops.
-Ok, that’s it for this lecture thanks for watching and we will see you in the next lecture.
+
+---
+**Active Directory Module checker for Powershell**
+This one-liner checks to see if the `ActiveDirectory` module is present on a system.
+Let’s go ahead and open Powershell in Admin mode and Copy and Paste the one-liner from the Student guide.
+Here is the Command Line:
+```
+if($(Get-Module -ListAvailable) -match "ActiveDirectory"){"Module Present"}else{"Module Not Present"}
+```
+Here is the Explanation:
+1. Get-Module -ListAvailable is a cmdlet that retrieves information about the PowerShell modules that are currently available on the computer.
+2. $() is a subexpression operator that encloses the Get-Module -ListAvailable command, causing PowerShell to evaluate the command first and return its output as a result.
+3. -match is a comparison operator that tests whether a string matches a specified pattern. In this case, the pattern being searched for is the string "ActiveDirectory".
+4. The result of the comparison is a boolean value: $true if the pattern is found, $false if it is not found 1:16.
+5. The if statement checks whether the result of the comparison is $true or $false. If the result is $true, meaning that the "ActiveDirectory" module is present, the code block "Module Present" is executed. If the result is $false, meaning that the "ActiveDirectory" module is not present, the code block "Module Not Present" is executed.
+Therefore, if($(Get-Module -ListAvailable) -match "ActiveDirectory"){"Module Present"}else{"Module Not Present"} checks whether the "ActiveDirectory" module is present among the available PowerShell modules and returns a message indicating whether the module is present or not.
+If you want to install Active Directory feature for Powershell on your Windows 10 computer:
+1. Click Start, Settings, Apps, Optional Features
+2. Click Add a Feature button at the top, and then scroll down and check RSAT: Active Directory Domain Services and Lightweight Directory Services Tools.
+3. Click the Install button and Windows 10 will then enable the feature.
+I have already installed the module, so if I run the Powershell one-liner
+it should respond with module present.
+For more information on RSAT click the link below [link_1](https://learn.microsoft.com/en-us/powershell/module/activedirectory/?view=windowsserver2022-ps)
+And check this out as well: [link_2](https://learn.microsoft.com/en-us/windows-server/remote/remote-server-administration-tools?source=recommendations)
+
+---
+
+**Scheduled Task Retriever**
+This script retrieves a list of running scheduled tasks on the local computer.
+First, if you want to follow along, if you have not done so stop the video and create a folder on your C: drive called test.
+Let’s open Powershell ISE in Admin mode
+
+Go ahead and copy and paste the one-liner from the student guide into the Script Pane
+Here is the Command Line:
+```
+Get-ScheduledTask | Get-ScheduledTaskInfo | Select TaskName,TaskPath,LastRunTime, LastTaskResult,NextRunTime,NumberofMissedRuns | Sort-Object -Property TaskName
+```
+Here is the Explanation:
+Get-ScheduledTask: This cmdlet is used to retrieve the list of scheduled tasks on the local computer. It generates a list of TaskScheduler objects representing the tasks that are scheduled to run on the system.
+Get-ScheduledTaskInfo: This cmdlet is used to get detailed information about the scheduled tasks. It retrieves information such as the LastRunTime, LastTaskResult, NextRunTime, and NumberofMissedRuns for each scheduled task.
+Select: This cmdlet selects specific properties from the objects returned by Get-ScheduledTaskInfo. In this case, the script selects the task name, task path, last run time, last task result, next run time, and number of missed runs.
+Sort-Object -Property TaskName: This cmdlet sorts the output returned by Select in alphabetical order based on the TaskName property.
+You can Save your script file by clicking on File, Save as, then in this case I will name the file Get-ScheduledTasks.ps1 and save this script to the C:\test folder
+Let’s clear the screen and verify that our script is working. From File, click New From the console Pane type cls and press return
+To run your script, from PowerShell, click File, Open, and navigate to the folder where your script file is located, in this case, it's C:\test. Then, click the file name of the script file and click Open.
+Then click the Run Script tab or press F5.
+This will execute your script and display the scheduled tasks on the screen.
+
+`Overall, this PowerShell script retrieves the list of scheduled tasks on the local computer, gets detailed information about each scheduled task, selects specific properties to display, and sorts the output alphabetically by the TaskName property.`
+You now have a PowerShell script that can get the scheduled tasks from a Windows 10 computer.
+Now let's say instead of displaying all the scheduled tasks on the computer, you want to check on just one scheduled task called TaskInfo that you previously configured.
+Go ahead and clear the screen again and copy and paste this command from the student handout
+Here is the Command Line:
+```
+Get-ScheduledTask -Taskname loginfo | Get-ScheduledTaskInfo 
+```
+Taskname loginfo: This part of the command specifies the name of the task that you want to retrieve information about. In this case, the task is named "loginfo".
+• And the script runs every day at 9:00 AM
+
+So there you have it, now you know how to retrieve all or just one of the scheduled tasks on a local computer.
+If you need additional information about scheduled tasks check out the link in the handout. [link_1](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/?view=windowsserver2022-ps)
+
+
+
+
 
 

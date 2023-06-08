@@ -144,7 +144,27 @@ Taskname loginfo: This part of the command specifies the name of the task that y
 So there you have it, now you know how to retrieve all or just one of the scheduled tasks on a local computer.
 If you need additional information about scheduled tasks check out the link in the handout. [link_1](https://learn.microsoft.com/en-us/powershell/module/scheduledtasks/?view=windowsserver2022-ps)
 
-
+---
+**Security Check - Uninstalling Media Player**
+By default, Windows Media Player is installed on Windows Server 2019 and possibly later version as well. Because this tool is not needed on production servers, it is an unnecessary function and therefore a potential security vulnerability. To uninstall media player, perform the following. I have two one-liners that you could use. In this lecture, we will discuss both.
+Go ahead and copy and paste the first command from your student guide
+Here is the Command Line:
+dism /online /Disable-Feature /FeatureName:WindowsMediaPlayer /norestart
+Here is the Explanation:
+This is a command-line script that uses the Deployment Image Servicing and Management (DISM) tool to disable the Windows Media Player feature on the currently running Windows operating system.
+dism: This is the name of the command-line tool used to manage Windows images.
+/online: This parameter specifies that the DISM command should be run on the currently running Windows operating system, as opposed to an offline Windows image.
+/Disable-Feature: This parameter specifies that the feature being targeted should be disabled.
+/FeatureName:WindowsMediaPlayer: This parameter specifies the name of the feature that should be disabled, which is "WindowsMediaPlayer" in this case.
+/norestart: This parameter specifies that the computer should not be restarted after the command has completed.
+So, when you run this script, it will use the DISM tool to disable the Windows Media Player feature on the currently running Windows operating system, without requiring a system restart.
+Here is the 2nd Command Line: I’ll go ahead and copy and paste this command from the student guide. Disable-WindowsOptionalFeature -Online -FeatureName "WindowsMediaPlayer"
+Here is the Explanation:
+1. Disable-WindowsOptionalFeature is a cmdlet that allows you to disable or remove an optional Windows feature.
+2. -Online is a parameter of Disable-WindowsOptionalFeature that specifies that the operation should be performed on the currently running operating system, rather than on an offline image.
+3. -FeatureName "WindowsMediaPlayer" is another parameter of Disable-WindowsOptionalFeature that specifies the name of the Windows feature to disable or remove. In this case, the feature being disabled is "Windows Media Player".
+To summarize: -Disable-WindowsOptionalFeature -Online -FeatureName "WindowsMediaPlayer" This command is a PowerShell one-liner that disables the "Windows Media Player" feature on the currently running operating system.
+This is not something that I want to do on my Windows 10 computer. But as we have already said Windows media player is considered a security issue when running on a production server, so it is best to disable or remove this feature.
 
 
 

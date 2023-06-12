@@ -14,3 +14,4 @@
 12. [[basic-tool-admin]]
 	1. [[create-a-scheduled]]
 	2. [[KB-patch-retriever]]
+13. [[file-manipulation]]

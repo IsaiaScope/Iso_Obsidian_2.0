@@ -35,5 +35,6 @@ craud
 crowd - a large number of people gathered together in a disorganized or unruly way
 traiv
 ivents
+calindar => calendar
 
 then again

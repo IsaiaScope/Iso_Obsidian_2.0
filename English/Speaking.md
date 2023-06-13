@@ -43,8 +43,10 @@ cafeis => cafes
 veicol 
 applaiensis => appliances
 demeged => damaged
-menufactur => 
+menufacturars => 
 lounch
 cloding
 porcius
+risorst
 
+Cafes Resorts Vehicle Appliances Damaged Equipment Manufacturers Launch Clothing Request Purchase Neighborhood

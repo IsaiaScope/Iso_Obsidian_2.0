@@ -39,4 +39,12 @@ calindar => calendar
 
 then again
 
+cafeis => cafes
+veicol 
+applaiensis => appliances
+demeged => damaged
+menufactur => 
+lounch
+cloding
+porcius
 

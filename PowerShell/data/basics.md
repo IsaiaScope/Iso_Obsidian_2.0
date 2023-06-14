@@ -13,4 +13,3 @@
 - `help` system is the secret to master PowerShell
 - if a cmd support `pipeline` (`|`) can chain the input from a previous cmd and generate a new output, ex. => (`get-verb Measure-object`)
 - `*`process`*` => it's like a regex, return words that contains string process
-- 

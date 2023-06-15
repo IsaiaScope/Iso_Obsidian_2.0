@@ -30,8 +30,6 @@ grammarly
 reading =>
 tipo es di collegare le domande e/o risposte non sono in ordine
 
-1. 
-
 
 
 	

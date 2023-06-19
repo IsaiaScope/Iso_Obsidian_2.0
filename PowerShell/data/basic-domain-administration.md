@@ -1,5 +1,5 @@
 
-What are Script Execution Policies?
+What are Script Execution Policies? [DOC](https://learn.microsoft.com/it-it/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.3)
   Policies that are designed to assist users
 	Users assign basic rules
   Prevent users from unintentionally violating those rules
@@ -32,3 +32,15 @@ Execution Policy Precedence
 	3. Execution Policy: Process (or powershell.exe -ExecutionPolicy)
 	4. Execution Policy: CurrentUser
 	5. Execution Policy: LocalMachine
+---
+apre il file di profilo
+```
+notepad $PROFILE
+``` 
+per vedere il path
+```
+$PROFILE.CurrentUserCurrentHost
+```
+----
+
+

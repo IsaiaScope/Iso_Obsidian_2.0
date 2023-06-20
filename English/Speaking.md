@@ -40,13 +40,11 @@ calindar => calendar
 then again
 
 cafeis => cafes
-veicol 
-applaiensis => appliances
+veicol => Vehicle
+applaiensis => Appliances
 demeged => damaged
-menufacturars => 
-lounch
-cloding
-porcius
+menufacturars => Manufacturers
+lounch => Launch
+cloding => Clothing
+porcius => Purchase
 risorst
-
-Cafes Resorts Vehicle Appliances Damaged Equipment Manufacturers Launch Clothing Request Purchase Neighborhood

@@ -7,3 +7,6 @@ npm create vite@latest
 ```
 npm i
 ```
+```
+npx create-next-app@latest .
+```

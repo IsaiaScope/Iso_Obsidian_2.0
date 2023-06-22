@@ -30,6 +30,12 @@ grammarly
 reading =>
 tipo es di collegare le domande e/o risposte non sono in ordine
 
+talk/walk
+sorry, I didn’t quite catch/understand the question, could you repeat it, please?
+sorry, I didn’t quite catch the question could you please rephrase it?
+I meant
+Let me put in another way
+
 
 
 	

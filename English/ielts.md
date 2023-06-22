@@ -30,90 +30,30 @@ grammarly
 reading =>
 tipo es di collegare le domande e/o risposte non sono in ordine
 
-Edusogno (No Reply)
-
-18:11
 
 answer/sword
-
 question
-
 talk/walk
-
-Edusogno (No Reply)
-
-18:14
-
 sorry, I didn’t quite catch/understand the question, could you repeat it, please?
-
 sorry, I didn’t quite catch the question could you please rephrase it?
-
-Edusogno (No Reply)
-
-18:17
-
 I meant
-
 Let me put in another way
-
-Edusogno (No Reply)
-
-18:22
-
 -advantages, disadvantages
-
-- causes/reasons
-
+-causes/reasons
 -solutions
-
 -personal opinion
-
-Edusogno (No Reply)
-
-18:24
-
 - that's a difficult/interesting question...
-
 - frankly speaking, I've never thought about it before
-
 - to be honest I don't know much about it
-
-Edusogno (No Reply)
-
-18:26
-
 - off the top of my head I would say
-
-Matteo Idda
-
-18:27
-
-in questa parte è considerato errore argomentare con un esperienza propria? (in questo caso riguardo l'online learning)
-
-Edusogno (No Reply)
-
-18:27
-
 in a nutshell
-
 in short
-
 to recap
-
 to sum up
-
 overall
-
 in conclusion
-
 to conclude
-
-Edusogno (No Reply)
-
-18:30
-
 on the other hand,
-
 however,
 
 

@@ -36,6 +36,11 @@ sorry, I didn’t quite catch the question could you please rephrase it?
 I meant
 Let me put in another way
 
+-advantages, disadvantages
+- causes/reasons
+-solutions
+-personal opinion
+
 
 
 	

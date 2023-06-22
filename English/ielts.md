@@ -42,10 +42,12 @@ Let me put in another way
 -causes/reasons
 -solutions
 -personal opinion
+
 - that's a difficult/interesting question...
 - frankly speaking, I've never thought about it before
 - to be honest I don't know much about it
 - off the top of my head I would say
+
 in a nutshell
 in short
 to recap
@@ -55,6 +57,8 @@ in conclusion
 to conclude
 on the other hand,
 however,
+
+instead of reading
 
 
 

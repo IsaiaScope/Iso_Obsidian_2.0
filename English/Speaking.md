@@ -48,3 +48,9 @@ lounch => Launch
 cloding => Clothing
 porcius => Purchase
 risorst
+
+sowing => sewing  cucire
+draom => drum => tamburo
+trail => sentiero
+to borrow => prestare
+to lend => ricevere

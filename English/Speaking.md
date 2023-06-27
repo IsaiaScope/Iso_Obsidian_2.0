@@ -54,3 +54,5 @@ draom => drum => tamburo
 trail => sentiero
 to borrow => prestare
 to lend => ricevere
+to engage in> fare con molto effort
+

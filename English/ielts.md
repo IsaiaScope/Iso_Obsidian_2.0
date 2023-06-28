@@ -75,7 +75,7 @@ The present table provides information about consumer expenses on multiple trend
 
 At fist glance is possible to notice that Turkey was at the top of the leaderboard per foodstuff expenses, on the other hand Sweden was in the lower position right behind Italy. Secondly speaking about wearing the values were all close together but Italy took the first place with a nine percent expenditure. Subsequently the third column explain the budget spent on education were Turkey took the lead again and beat every one.
 
-
+As a result table shows how Turkey and Ireland, with their costumer expenses around 30%, had almost the double of budget spent on alimentary goodies then other countries. Instead Italy had just around 17% in foodstuff but 9% in clothing and footwear that was more than Sweden with a little more of 5%. In conclusion telling education Spain was behind with 2% so his percentage was lower than Ireland and Italy. 
 
 
 	

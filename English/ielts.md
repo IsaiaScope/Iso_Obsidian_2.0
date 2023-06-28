@@ -66,8 +66,14 @@ spend on
 invest in
 allocate.......to
 expenditure
+Although= sebbene, nonostante By comparison= in confronto Conversely= al contrario, invece Despite= nonostante However=tuttavia In contrast=diversamente In spite of= sebbene, nonostante Instead= invece Nevertheless= nonostante ciò Nonetheless=tuttavia In the same way= allo stesso modo Likewise= allo stesso modo Similarly= in modo simile Accordingly=di conseguenza As a consequence= di conseguenza As a result=di conseguenza Hence= perciò Therefore= perciò Thus= perciò
+
+At first glance= a prima vista Besides= inoltre First/Firstly/First of all= in primo luogo Furthermore=inoltre In addition/Additionally=in aggiunta Last/Lastly=in ultima istanza Moreover=inoltre Second/Secondly=in secondo luogo Subsequently= successivamente Third/Thirdly= in terzo luogo
+At first glance,
 
 The present table provides information about consumer expenses on multiple trends; data was collected in 2002 and build around education, clothing and foodstuff.  Table tells us information about five country indicating for each one where the percentage of consumer budget was spent on. Reporting to as an accurate dataset which could be analyzed.
+
+At fist glance is possible to notice that Turkey was at the top of the leaderboard per foodstuff expenses, on the other hand Sweden was in the lower position right behind Italy. Secondly speaking about wearing the values were all close together but Italy took the first place with a nine percent expenditure. Subsequently the third column explain the budget spent on education were Turkey took the lead again and beat every one.
 
 
 

@@ -62,6 +62,12 @@ however,
 
 instead of reading
 
+spend on
+invest in
+allocate.......to
+expenditure
+
+The present table provides information about consumer expenses on multiple trends; data was collected in 2002 and build around education, clothing and foodstuff.  Table tells us information about five country indicating for each one where the percentage of consumer budget was spent on. Reporting to as an accurate dataset which could be analyzed.
 
 
 

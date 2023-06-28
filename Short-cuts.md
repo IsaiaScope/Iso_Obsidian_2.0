@@ -25,6 +25,7 @@
 20. **ctrl + -** => zoom out
 21. **ctrl + =** => zoom in
 22. **ctrl + F4** => close current TAB
+23. . ***shift + alt + F*** => format document
 
 ---
 #### Terminal

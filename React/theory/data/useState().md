@@ -32,7 +32,7 @@ const addExpenseHandler = (expense) => {
 ```
 ````
 ---
-4. *Multiple state management* could be done in different ways someone better than other in different situation, using a single useState() or multiple
+5. *Multiple state management* could be done in different ways someone better than other in different situation, using a single useState() or multiple
 
 ````ad-example
 title: *multiple useState()*
@@ -123,4 +123,25 @@ const dateChangeHandler = (event) => {
 ```
 ````
 ---
+6.  ***Computed value / Derived State***
+when a variable depends on state value, because useState rerender the component also al the code inside the component function is executed so any variable could be reassign and modify by some logic
+```jsx
+const Comp = (props) => {
+	const [var, func] = useState('2020');
+	let var2 = 'some value'
 
+	if(var === '2021') {
+		var2 = 'ex 1'
+	}
+	if(var === '2022') {
+		var2 = 'ex 2'
+	}
+	if(var === '2023') {
+		var2 = 'ex 3'
+	}
+
+	const changeYearHandle = (year) => {
+		func(year);
+	}
+}
+```

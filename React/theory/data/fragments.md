@@ -5,3 +5,9 @@
 	<AnotherChild />  
 </>
 ```
+```jsx
+<React.Fragment>  
+	<OneChild />  
+	<AnotherChild />  
+<React.Fragment/>
+```

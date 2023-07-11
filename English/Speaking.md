@@ -88,5 +88,18 @@ Motorcycle game simulator
 Wheel ride
 Hatching
 
+reservation - noun
+make an announcement
+DEPARTURE
+TO ACCOMPANY
+AN HOUSEKEEPER?
+TO DROP OFF
+SEAT
+TO PULL
+BAGGAGE CLAIM
+CONVEYOR
+TO PICK UP / COLLECT
+TO ENQUIRE
+
 
 

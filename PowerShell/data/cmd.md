@@ -1,6 +1,3 @@
-
-
-
 | Key | Meaning | Code Block  |
 :----------------:|:-------------|:-------------
 | `explorer`   | open file explorer, `explorer .` open file explorer in current location  | <pre><code>explorer</code></pre> |

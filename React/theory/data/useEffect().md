@@ -12,6 +12,7 @@
 2. [useEffect](https://react.dev/reference/react/useEffect)
 3. useEffect(setup, dependencies?)
 4.  ex
+
 ```jsx
 import { useEffect } from 'react';  
 import { createConnection } from './chat.js';  
@@ -43,6 +44,108 @@ When the `ChatRoom` component above gets added to the page, it will connect to t
     - First, your cleanup code runs with the old props and state.
     - Then, your setup code runs with the new props and state.
 3. Your cleanup code runs one final time after your component is removed from the page _(unmounts)._
+4. ex `NOT USE THIS CODE BEACUSE TOO MANY STATE USED EVEN WITHOUT FUNCTION, SO IN RARE CASE CANNOT WORK PROPERLY` => USE USEREDUCER(), following example is just to show how  ***cleanup function*** works
+
+```jsx
+import React, { useState, useEffect } from 'react';
+
+import Card from '../UI/Card/Card';
+import classes from './Login.module.css';
+import Button from '../UI/Button/Button';
+
+const Login = (props) => {
+  const [enteredEmail, setEnteredEmail] = useState('');
+  const [emailIsValid, setEmailIsValid] = useState();
+  const [enteredPassword, setEnteredPassword] = useState('');
+  const [passwordIsValid, setPasswordIsValid] = useState();
+  const [formIsValid, setFormIsValid] = useState(false);
+
+  useEffect(() => {  // <--
+    console.log('EFFECT RUNNING');
+
+    return () => {
+      console.log('EFFECT CLEANUP');
+    };
+  }, []);
+
+  useEffect(() => { // <--
+    const identifier = setTimeout(() => {
+      console.log('Checking form validity!');
+      setFormIsValid(
+        enteredEmail.includes('@') && enteredPassword.trim().length > 6
+      );
+    }, 500);
+
+    return () => { // <--  cleanup function
+      console.log('CLEANUP');
+      clearTimeout(identifier);
+    };
+  }, [enteredEmail, enteredPassword]);
+
+  const emailChangeHandler = (event) => {
+    setEnteredEmail(event.target.value);
+  };
+
+  const passwordChangeHandler = (event) => {
+    setEnteredPassword(event.target.value);
+  };
+
+  const validateEmailHandler = () => {
+    setEmailIsValid(enteredEmail.includes('@'));
+  };
+
+  const validatePasswordHandler = () => {
+    setPasswordIsValid(enteredPassword.trim().length > 6);
+  };
+
+  const submitHandler = (event) => {
+    event.preventDefault();
+    props.onLogin(enteredEmail, enteredPassword);
+  };
+
+  return (
+    <Card className={classes.login}>
+      <form onSubmit={submitHandler}>
+        <div
+          className={`${classes.control} ${
+            emailIsValid === false ? classes.invalid : ''
+          }`}
+        >
+          <label htmlFor="email">E-Mail</label>
+          <input
+            type="email"
+            id="email"
+            value={enteredEmail}
+            onChange={emailChangeHandler}
+            onBlur={validateEmailHandler}
+          />
+        </div>
+        <div
+          className={`${classes.control} ${
+            passwordIsValid === false ? classes.invalid : ''
+          }`}
+        >
+          <label htmlFor="password">Password</label>
+          <input
+            type="password"
+            id="password"
+            value={enteredPassword}
+            onChange={passwordChangeHandler}
+            onBlur={validatePasswordHandler}
+          />
+        </div>
+        <div className={classes.actions}>
+          <Button type="submit" className={classes.btn} disabled={!formIsValid}>
+            Login
+          </Button>
+        </div>
+      </form>
+    </Card>
+  );
+};
+
+export default Login;
+```
 
 
 

@@ -6,5 +6,8 @@
 7.  [coding-knowledge](coding-knowledge.md)
 8. [style](style.md)
 9. [[fragments-and-portal]]
-10. [[useRef()]]
-11. [[useEffect()]]
+10. [[rule-of-hooks]]
+	1. [[useRef()]]
+	2. [[useEffect()]]
+	3. [[useReducer()]]
+	4. [[createContext()-useContext()]]

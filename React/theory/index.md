@@ -12,3 +12,5 @@
 	3. [[useReducer()]]
 	4. [[createContext()-useContext()]]
 	5. [forwardRef()](https://react.dev/reference/react/forwardRef)
+11. [[how-react-works]]
+12. [[class-component]]

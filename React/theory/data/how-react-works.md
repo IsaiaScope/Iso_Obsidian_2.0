@@ -1,3 +1,4 @@
 - How Does React Work Behind The Scenes?
+	- make a snapshot of DOM, when changes are made (by State, Context, props) React create a new snapshot of the DOM, compare with the previous one and modifies the DOM just with necessary, don't recreate the entire of the DOM. React modifies the only parts needed nothing else. 
 - Understanding the Virtual DOM & DOM Updates
 - Understanding State & State Updates

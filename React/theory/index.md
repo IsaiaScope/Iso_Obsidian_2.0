@@ -11,3 +11,4 @@
 	2. [[useEffect()]]
 	3. [[useReducer()]]
 	4. [[createContext()-useContext()]]
+	5. [forwardRef()](https://react.dev/reference/react/forwardRef)

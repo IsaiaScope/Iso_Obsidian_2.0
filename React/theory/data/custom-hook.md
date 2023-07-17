@@ -1,0 +1,4 @@
+- Outsource stateful logic into re-usable functions
+- Unlike "regular functions". custom hooks can use other React hooks and React state
+- [custom-hooks](https://react.dev/learn/reusing-logic-with-custom-hooks)
+- 

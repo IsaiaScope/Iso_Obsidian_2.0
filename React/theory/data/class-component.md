@@ -8,7 +8,8 @@
 	- lifecycle
 		- [[class-component-react.png]]
 
-ex. class component
+- ex. class component
+	- [git](https://github.com/academind/react-complete-guide-code/tree/13-class-based-cmp/code/08-finished/src)
 ```jsx
 import { Component } from 'react';
 
@@ -189,6 +190,66 @@ class User extends Component {
 // };
 
 export default User;
+```
+
+```jsx
+import { Component } from 'react';
+
+class ErrorBoundary extends Component {
+  constructor() {
+    super();
+    this.state = { hasError: false };
+  }
+
+  componentDidCatch(error) {
+    console.log(error);
+    this.setState({ hasError: true });
+  }
+
+  render() {
+    if (this.state.hasError) {
+      return <p>Something went wrong!</p>;
+    }
+    return this.props.children;
+  }
+}
+
+export default ErrorBoundary;
+```
+
+```jsx
+import React from 'react';
+
+const UsersContext = React.createContext({
+  users: []
+});
+
+export default UsersContext;
+```
+
+```jsx
+import UserFinder from './components/UserFinder';
+import UsersContext from './store/users-context';
+
+const DUMMY_USERS = [
+  { id: 'u1', name: 'Max' },
+  { id: 'u2', name: 'Manuel' },
+  { id: 'u3', name: 'Julie' },
+];
+
+function App() {
+  const usersContext = {
+    users: DUMMY_USERS
+  }
+
+  return (
+    <UsersContext.Provider value={usersContext}>
+      <UserFinder />
+    </UsersContext.Provider>
+  );
+}
+
+export default App;
 ```
 
 ```jsx

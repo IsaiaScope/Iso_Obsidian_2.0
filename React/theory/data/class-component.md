@@ -2,6 +2,7 @@
 	- prop = this.props
 	- need super()
 	- render() {}
+	- this.toggleUsersHandler.bind(this) => to bind jsx function in template
 	- managing state
 		- instead useState(), initialize state in constructor this.state() , and declare a normal method where use this.setState() to update the state
 	- lifecycle

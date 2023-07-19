@@ -1,1 +1,2 @@
 - [[state-redux.png]]
+- [[how-redux-works.png]]

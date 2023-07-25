@@ -109,5 +109,5 @@ climate change
 censorship => censura
 aware => consapevole
 Do you think Media can shape how people think ?
-
+depiction => rappresentazione
 

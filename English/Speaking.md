@@ -106,6 +106,7 @@ siblings fratelli e sorelle
 Paralympian
 
 climate change
-
+censorship => censura
+aware => consapevole
 
 

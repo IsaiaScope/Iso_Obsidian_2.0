@@ -111,3 +111,6 @@ aware => consapevole
 Do you think Media can shape how people think ?
 depiction => rappresentazione
 
+
+tick it off with a pen => spuntare per esempio in una to do list
+

@@ -1,2 +1,3 @@
+- [Redux](https://redux.js.org/introduction/getting-started)
 - [[state-redux.png]]
 - [[how-redux-works.png]]

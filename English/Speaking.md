@@ -114,3 +114,6 @@ depiction => rappresentazione
 
 tick it off with a pen => spuntare per esempio in una to do list
 overslept => mi sono addormentato e fatto tardi
+
+signal => signal => mettere la freccia
+to board => salire a bordo

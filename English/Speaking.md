@@ -117,3 +117,5 @@ overslept => mi sono addormentato e fatto tardi
 
 signal => signal => mettere la freccia
 to board => salire a bordo
+
+enjoy spending time with family

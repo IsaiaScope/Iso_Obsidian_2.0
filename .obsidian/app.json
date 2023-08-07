@@ -1,10 +1,7 @@
 {
   "spellcheck": true,
   "tabSize": 2,
-  "spellcheckLanguages": [
-    "it",
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "livePreview": false,
   "defaultViewMode": "preview",
   "attachmentFolderPath": "/",

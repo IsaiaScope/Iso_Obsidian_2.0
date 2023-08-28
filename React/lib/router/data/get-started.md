@@ -8,7 +8,7 @@
 	5. id => useRouteLoaderData() to force route where take data from; because static route have a high priority then dynamic one 
 	6. actions => send data, in Form component provided by the lib when the form is submitted or useSubmit() is triggered
 	7. fetcher => prevent to navigate, on the other hand consent to use loader and actions (newSletterSignUp.js)
-	8. defer => 
+	8. defer => your code can easily switch between rendering the fallback and waiting for the data, await to control when data is loaded. If you want to show something before data is load 
 ---
 ```jsx
 //app
@@ -127,7 +127,100 @@ export default EventsRootLayout;
 ```
 
 ---
-
+- defer
 ```jsx
+import { Suspense } from 'react';
+import {
+  useRouteLoaderData,
+  json,
+  redirect,
+  defer,
+  Await,
+} from 'react-router-dom';
 
+import EventItem from '../components/EventItem';
+import EventsList from '../components/EventsList';
+
+function EventDetailPage() {
+  const { event, events } = useRouteLoaderData('event-detail');
+
+  return (
+    <>
+      <Suspense fallback={<p style={{ textAlign: 'center' }}>Loading...</p>}>
+        <Await resolve={event}>
+          {(loadedEvent) => <EventItem event={loadedEvent} />}
+        </Await>
+      </Suspense>
+      <Suspense fallback={<p style={{ textAlign: 'center' }}>Loading...</p>}>
+        <Await resolve={events}>
+          {(loadedEvents) => <EventsList events={loadedEvents} />}
+        </Await>
+      </Suspense>
+    </>
+  );
+}
+
+export default EventDetailPage;
+
+async function loadEvent(id) {
+  const response = await fetch('http://localhost:8080/events/' + id);
+
+  if (!response.ok) {
+    throw json(
+      { message: 'Could not fetch details for selected event.' },
+      {
+        status: 500,
+      }
+    );
+  } else {
+    const resData = await response.json();
+    return resData.event;
+  }
+}
+
+async function loadEvents() {
+  const response = await fetch('http://localhost:8080/events');
+
+  if (!response.ok) {
+    // return { isError: true, message: 'Could not fetch events.' };
+    // throw new Response(JSON.stringify({ message: 'Could not fetch events.' }), {
+    //   status: 500,
+    // });
+    throw json( // trigger errorElement of the child router or move up to the parent one
+      { message: 'Could not fetch events.' },
+      {
+        status: 500,
+      }
+    );
+  } else {
+    const resData = await response.json();
+    return resData.events;
+  }
+}
+
+export async function loader({ request, params }) {
+  const id = params.eventId;
+
+  return defer({
+    event: await loadEvent(id),
+    events: loadEvents(),
+  });
+}
+
+export async function action({ params, request }) {
+  const eventId = params.eventId;
+  const response = await fetch('http://localhost:8080/events/' + eventId, {
+    method: request.method,
+  });
+
+  if (!response.ok) {
+    throw json(
+      { message: 'Could not delete event.' },
+      {
+        status: 500,
+      }
+    );
+  }
+  return redirect('/events');
+}
 ```

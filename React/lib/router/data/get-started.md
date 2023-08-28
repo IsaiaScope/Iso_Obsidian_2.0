@@ -6,7 +6,7 @@
 	3. loader => function executed before routing, data isn't accessible bottom up, just deeping throught child route or same level
 	4. errorElement => is triggered when some route code throw an error bottom up, if children throw an error on loader function errorElement is triggered
 	5. id => useRouteLoadederData() to force route where take data from; because static route have a high priority then dynamic one 
-	6. actions => send data
+	6. actions => send data, in Form component provided by the lib
 ---
 ```jsx
 //app

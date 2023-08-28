@@ -4,7 +4,7 @@
 	1. end => useful for "/" path in navLink for set active just when "/" is matched and not always
 	2. index => set default
 	3. loader => function executed before routing, data isn't accessible bottom up, just deeping throught child route or same level
-	4. 
+	4. errorElement => is triggered when some route code throw an error bottom up, if children throw an error on loader function errorElement is triggered
 ---
 ```jsx
 ```

@@ -5,8 +5,8 @@
 	2. index => set default
 	3. loader => function executed before routing, data isn't accessible bottom up, just deeping throught child route or same level
 	4. errorElement => is triggered when some route code throw an error bottom up, if children throw an error on loader function errorElement is triggered
-	5. id => useRouteLoadederData() to force route where take data from; because static route have a high priority then dynamic one 
-	6. actions => send data, in Form component provided by the lib
+	5. id => useRouteLoaderData() to force route where take data from; because static route have a high priority then dynamic one 
+	6. actions => send data, in Form component provided by the lib when the form is submitted or useSubmit() is triggered
 ---
 ```jsx
 //app
@@ -80,4 +80,52 @@ function App() {
 }
 
 export default App;
+```
+---
+- layouts are just html elements
+```jsx
+// Layout
+import { Outlet, useNavigation } from 'react-router-dom';
+
+import MainNavigation from '../components/MainNavigation';
+
+function RootLayout() {
+  // const navigation = useNavigation();
+
+  return (
+    <>
+      <MainNavigation />
+      <main>
+        {/* {navigation.state === 'loading' && <p>Loading...</p>} */}
+        <Outlet />
+      </main>
+    </>
+  );
+}
+
+export default RootLayout;
+```
+
+```jsx
+// Layout
+import { Outlet } from 'react-router-dom';
+
+import EventsNavigation from '../components/EventsNavigation';
+
+function EventsRootLayout() {
+  return (
+    <>
+      <EventsNavigation />
+      <Outlet />
+    </>
+  );
+}
+
+export default EventsRootLayout;
+```
+
+---
+
+```jsx
+
 ```

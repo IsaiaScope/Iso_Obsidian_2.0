@@ -20,3 +20,5 @@
 16. libs
 	1. [[React/lib/react-query/index|react-query]]
 	2. [[React/lib/redux/index|redux]]
+17. [[lazy-loading]]
+18. 

@@ -1,1 +1,1 @@
-1. [[React/lib/redux/data/get-started|get-started]]
+1. [[React/lib/Redux/data/get-started|get-started]]

@@ -1,2 +1,2 @@
-1. https://react-query-v3.tanstack.com
-2. https://react-query-v3.tanstack.com/devtools#_top (included in main package maybe)
+1. [lib](https://tanstack.com/query/v3/docs/react/overview)
+2. [dev tool](https://react-query-v3.tanstack.com/devtools#_top) (included in main package maybe)

@@ -11,8 +11,9 @@
 	2. enable => set isPending to true when is disabled, useful when insert spinner under some circostanze
 	3. isLoanding vs isPending => isLoading is not true when query is disabled
 5.  useMutation() => every call that aren't get
-	1. mutate => destructed from useMutation() is the function  that pass data to function declared in mutationFn
+	1. mutate() => destructed from useMutation() is the function  that pass data to function declared in mutationFn
 	2. onSuccess => excute when query successed
+	3. onMutate => called when is callled mutate()
 6. queryClient.invalidateQueries({ queryKey: ['events'] }) => invalidate query couse to refetch data from queryes that includes 'events' key, can be added exact property if only 'event' key must be present
 	1. reFetch :none => remove automatic refetch, and redo api call when it's needed 
 7. 

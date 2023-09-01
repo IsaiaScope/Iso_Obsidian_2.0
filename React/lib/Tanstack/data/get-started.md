@@ -12,6 +12,8 @@
 	3. isLoanding vs isPending => isLoading is not true when query is disabled
 5.  useMutation() => every call that aren't get
 	1. mutate => destructed from useMutation() is the function  that pass data to function declared in mutationFn
+	2. onSuccess => excute when query successed
+6. queryClient.invalidateQueries({ queryKey: ['events'] }) => invalidate query couse to refetch data from queryes that includes 'events' key, can be added exact property if only 'event' key must be present
 
 ---
 
@@ -328,6 +330,63 @@ export default function FindEventSection() {
 
 ```jsx
 //newEvent
+import { Link, useNavigate } from 'react-router-dom';
+import { useMutation } from '@tanstack/react-query';
+
+import Modal from '../UI/Modal.jsx';
+import EventForm from './EventForm.jsx';
+import { createNewEvent } from '../../util/http.js';
+import ErrorBlock from '../UI/ErrorBlock.jsx';
+import { queryClient } from '../../util/http.js';
+
+export default function NewEvent() {
+  const navigate = useNavigate();
+
+  const { mutate, isPending, isError, error } = useMutation({
+    mutationFn: createNewEvent,
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ['events'] });
+      navigate('/events');
+    },
+  });
+
+  function handleSubmit(formData) {
+    mutate({ event: formData });
+  }
+
+  return (
+    <Modal onClose={() => navigate('../')}>
+      <EventForm onSubmit={handleSubmit}>
+        {isPending && 'Submitting...'}
+        {!isPending && (
+          <>
+            <Link to="../" className="button-text">
+              Cancel
+            </Link>
+            <button type="submit" className="button">
+              Create
+            </button>
+          </>
+        )}
+      </EventForm>
+      {isError && (
+        <ErrorBlock
+          title="Failed to create event"
+          message={
+            error.info?.message ||
+            'Failed to create event. Please check your inputs and try again later.'
+          }
+        />
+      )}
+    </Modal>
+  );
+}
+```
+
+---
+
+```jsx
+// newEvent
 import { Link, useNavigate } from 'react-router-dom';
 import { useMutation } from '@tanstack/react-query';
 

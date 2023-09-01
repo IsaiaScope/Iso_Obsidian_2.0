@@ -5,6 +5,7 @@
 	2. cashing => RQ cash data and behind the scene fetch the same data, meanwhile display the cashed data
 		1. scaleData => manage when behind scene call happen
 		2. gcTime => garbage collector time, how long data is stored in the cash
+		3. staleTime => the cash data is reused if is not old as the time expressed from staleTime (useful to avoid redundant calls before a certain amount of time)
 4. useQuery is not retriggered by the changing data, use useState to avoid this behaviour
 	1. queryFn => function triggered by useQuery => queryFn: ({ signal, queryKey }) => fetchEvents({ signal, ...queryKey[1] }),
 		1.  signal => useful for know status or abort of a call, passed to fetch consent to abort a call when cange page for ex
@@ -16,7 +17,40 @@
 	3. onMutate => called when is callled mutate()
 6. queryClient.invalidateQueries({ queryKey: ['events'] }) => invalidate query couse to refetch data from queryes that includes 'events' key, can be added exact property if only 'event' key must be present
 	1. reFetch :none => remove automatic refetch, and redo api call when it's needed 
-7. 
+	2.   cancelQueries & getQueryData & setQueryData can use to manipolate cashdata and annul api calls, keeping old data stored instead new one
+	
+```jsx
+	const { mutate } = useMutation({
+   mutationFn: updateEvent,
+   onMutate: async (data) => {
+     const newEvent = data.event;
+     await queryClient.cancelQueries({ queryKey: ['events', params.id] });
+     const previousEvent = queryClient.getQueryData(['events', params.id]);
+
+      queryClient.setQueryData(['events', params.id], newEvent);
+       return { previousEvent };
+     },
+     onError: (error, data, context) => {
+       queryClient.setQueryData(['events', params.id], context.previousEvent);
+     },
+     onSettled: () => {
+       queryClient.invalidateQueries(['events', params.id]);
+     },
+   });
+```
+
+7.  perform api call when outside a component, btw is better to use the hook for extra feature that offer as isLoading, ecc..
+```jsx
+export function loader({ params }) {
+  return queryClient.fetchQuery({
+    queryKey: ['events', params.id],
+    queryFn: ({ signal }) => fetchEvent({ signal, id: params.id }),
+  });
+}
+```
+8. like point 7 u can mix React router and RQ but in a component is better, on the other hand RR permits to prefetch data with loader and use actions.
+9. another important and useful hook is useIsFetching => is greater than 0 is RQ is fatching data somewhere in the application, useful for global loader
+10. [[RQ_1.png]]
 
 ---
 

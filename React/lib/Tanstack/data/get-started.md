@@ -1,11 +1,17 @@
-1. [lib](https://tanstack.com/query/v3/docs/react/overview)
+1. [lib](https://tanstack.com/query/v3/docs/react/overview) V5
 2. [dev tool](https://react-query-v3.tanstack.com/devtools#_top) (included in main package maybe)
 3.  feature
 	1. isError => destructed from useQuery() is populated if response throw an error
 	2. cashing => RQ cash data and behind the scene fetch the same data, meanwhile display the cashed data
 		1. scaleData => manage when behind scene call happen
 		2. gcTime => garbage collector time, how long data is stored in the cash
-		3. 
+4. useQuery is not retriggered by the changing data, use useState to avoid this behaviour
+	1. queryFn => function triggered by useQuery => queryFn: ({ signal, queryKey }) => fetchEvents({ signal, ...queryKey[1] }),
+		1.  signal => useful for know status or abort of a call, passed to fetch consent to abort a call when cange page for ex
+	2. enable => set isPending to true when is disabled, useful when insert spinner under some circostanze
+	3. isLoanding vs isPending => isLoading is not true when query is disabled
+5.  useMutation() => every call that aren't get
+	1. mutate => destructed from useMutation() is the function  that pass data to function declared in mutationFn
 
 ---
 
@@ -242,5 +248,135 @@ export async function updateEvent({ id, event }) {
   }
 
   return response.json();
+}
+```
+
+---
+
+```jsx
+//FindEventSection
+import { useRef, useState } from 'react';
+import { useQuery } from '@tanstack/react-query';
+
+import { fetchEvents } from '../../util/http.js';
+import LoadingIndicator from '../UI/LoadingIndicator.jsx';
+import ErrorBlock from '../UI/ErrorBlock.jsx';
+import EventItem from './EventItem.jsx';
+
+export default function FindEventSection() {
+  const searchElement = useRef();
+  const [searchTerm, setSearchTerm] = useState(); // retrigger useQuery
+
+  const { data, isLoading, isError, error } = useQuery({
+    queryKey: ['events', { searchTerm: searchTerm }],
+    queryFn: ({ signal, queryKey }) => fetchEvents({ signal, ...queryKey[1] }),
+    enabled: searchTerm !== undefined
+  });
+
+  function handleSubmit(event) {
+    event.preventDefault();
+    setSearchTerm(searchElement.current.value);
+  }
+
+  let content = <p>Please enter a search term and to find events.</p>;
+
+  if (isLoading) {
+    content = <LoadingIndicator />;
+  }
+
+  if (isError) {
+    content = (
+      <ErrorBlock
+        title="An error occurred"
+        message={error.info?.message || 'Failed to fetch events.'}
+      />
+    );
+  }
+
+  if (data) {
+    content = (
+      <ul className="events-list">
+        {data.map((event) => (
+          <li key={event.id}>
+            <EventItem event={event} />
+          </li>
+        ))}
+      </ul>
+    );
+  }
+
+  return (
+    <section className="content-section" id="all-events-section">
+      <header>
+        <h2>Find your next event!</h2>
+        <form onSubmit={handleSubmit} id="search-form">
+          <input
+            type="search"
+            placeholder="Search events"
+            ref={searchElement}
+          />
+          <button>Search</button>
+        </form>
+      </header>
+      {content}
+    </section>
+  );
+}
+```
+
+---
+
+```jsx
+//newEvent
+import { Link, useNavigate } from 'react-router-dom';
+import { useMutation } from '@tanstack/react-query';
+
+import Modal from '../UI/Modal.jsx';
+import EventForm from './EventForm.jsx';
+import { createNewEvent } from '../../util/http.js';
+import ErrorBlock from '../UI/ErrorBlock.jsx';
+import { queryClient } from '../../util/http.js';
+
+export default function NewEvent() {
+  const navigate = useNavigate();
+
+  const { mutate, isPending, isError, error } = useMutation({
+    mutationFn: createNewEvent,
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ['events'] });
+      navigate('/events');
+    },
+  });
+
+  function handleSubmit(formData) {
+    mutate({ event: formData });
+  }
+
+  return (
+    <Modal onClose={() => navigate('../')}>
+      <EventForm onSubmit={handleSubmit}>
+        {isPending && 'Submitting...'}
+        {!isPending && (
+          <>
+            <Link to="../" className="button-text">
+              Cancel
+            </Link>
+            <button type="submit" className="button">
+              Create
+            </button>
+          </>
+        )}
+      </EventForm>
+      {isError && (
+        <ErrorBlock
+          title="Failed to create event"
+          message={
+            error.info?.message ||
+            'Failed to create event. Please check your inputs and try again later.'
+          }
+        />
+      )}
+    </Modal>
+  );
 }
 ```

@@ -2,3 +2,4 @@
 2. [[camelcase-to-titlecase]]
 3. [[clean-useless-keys]]
 4. [[method-called-once]]
+5. [[create-query-params]]

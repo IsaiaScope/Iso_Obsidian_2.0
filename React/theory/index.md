@@ -18,7 +18,8 @@
 14. [[custom-hook]]
 15. [[forms]]
 16. libs
-	1. [[React/lib/react-query/index|react-query]]
-	2. [[React/lib/Redux/index|redux]]
+	1. [[React/lib/Tanstack/index|Tanstack]]
+	2. [[React/lib/Redux/index|Redux]]
+	3. [[React/lib/React Router/index|React Router]]
 17. [[lazy-loading]]
 18. 

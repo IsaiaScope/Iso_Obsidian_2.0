@@ -1,8 +1,14 @@
+- get  env var list
+```console
+gci env:* | sort-object name
+```
+
+---
+
 | Key | Meaning | Code Block  |
 :----------------:|:-------------|:-------------
 | `explorer`   | open file explorer, `explorer .` open file explorer in current location  | <pre><code>explorer</code></pre> |
 | `dir`   | get list of files | <pre><code></code></pre> |
-| `ENV`   | get  env var list | <pre><code></code>gci env:* | sort-object name</pre> |
 | `mkdir`   | create a new folder | <pre><code></code></pre> |
 | `cls`   | clear console | <pre><code></code></pre> |
 | `get-command`   | get list of commands | <pre><code></code></pre> |
@@ -15,6 +21,4 @@
 | `get-content`   | `Get-Content -Path C:\content\test.txt`| <pre><code></code></pre> |
 | `get-help about_common_parameters`   |  | <pre><code></code></pre> |
 | `get-process`   |  | <pre><code></code></pre> |
-
-
 

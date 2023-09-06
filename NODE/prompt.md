@@ -35,3 +35,9 @@ npm un <package_name>
 npm update <package_name> 
 ```
 ---
+#### Update a package
+- This command removes "extraneous" packages. If a package name is provided, then only packages matching one of the supplied names are removed. Extraneous packages are those present in the `node_modules` folder that are not listed as any package's dependency list.
+
+```console
+npm prune [[<@scope>/]<pkg>...]
+```

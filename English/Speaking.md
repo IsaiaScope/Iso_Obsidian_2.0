@@ -121,3 +121,4 @@ to board => salire a bordo
 enjoy spending time with family
 go on plain
 go in 
+hurdle => ostacolo (gara olimpiadi)

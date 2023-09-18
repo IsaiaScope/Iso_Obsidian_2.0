@@ -117,5 +117,20 @@ git revert -m 1 commit_hash
 ```
 git commit --amend -m "New commit message"n
 ```
+--
+---
+#### stash 
+- To add changes to stash stack
+```console
+git stash  
+```
+- Shows list of stashed changes
+```console
+git stash list  
+```
+- Retrieve stas, N.B. git Add . before aplly stash files to prevent errors 
+```console
+git stash apply stash@{0} 
+```
 ---
 

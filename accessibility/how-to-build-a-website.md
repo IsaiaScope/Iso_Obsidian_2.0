@@ -1,0 +1,1 @@
+- just one H1 on top the page, than again h2 and so on going down the page and inside sections of the page. In other words inside 

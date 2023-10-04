@@ -21,3 +21,15 @@ const result = await create(dashboardUsers, {
 }
 // {a: 'ciao', role: 'beppe'}
 ```
+3. ex array
+```js
+	const trueCondition = true;
+	const falseCondition = false;
+	
+	const arr = [
+	  ...(trueCondition ? ["dog"] : []),
+	  ...(falseCondition ? ["cat"] : [])
+	];
+	
+	// ['dog']
+```

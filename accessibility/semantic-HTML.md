@@ -5,5 +5,21 @@
 5. https://github.com/Stefany93/furbaby-accessible-website
 ![[to-delete.png]]
 
-aria-expanded (boolean) => per esempio burger menu aperto o chiuso
+aria-expanded (boolean) => to tell to screen reader if is open or close
+<button id="hamburger" aria-expanded="false">
+
+
+---
 aria-label => <svg> insie <a> insert aria-label in svg to describe the svg icon
+<a href="https://www.instagram.com"> <svg version="1.1" aria-label="Follow company on Instagram"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w.org/1999/Xlink" width="32" height="32" viewBox="0 0 16 16">*</svg> </a>
+---
+aria-labelledby => 
+<img src="https://images.unsplash.com/photo- 1563046937-9824d5725660?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid= eyJhcHBfawQiojEoNTg5 fQ" alt="" aria-labelledby="caption" width="200"> <p id="caption"›Captions</p› 
+---
+role => change an elemet into another, NEEDS TABINDEX to be interactive
+---
+img 
+https://webaim.org/techniques/images/ accessibile img
+
+<figure>
+<img src="https://images.unsplas h.com/photo-1489345745021- 740d36bbda21?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entr opy&cs=srgb&ixid=eyJhcHBfawQiOjEONTg5fQ" alt="" aria- labelledby="caption" width="400" height="200"> <figcaption id="caption"> A white cotton shirt. </figcaption></figure>

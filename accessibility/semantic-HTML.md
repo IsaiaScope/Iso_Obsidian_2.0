@@ -20,6 +20,13 @@ role => change an elemet into another, NEEDS TABINDEX to be interactive
 ---
 img 
 https://webaim.org/techniques/images/ accessibile img
-
+use alt or labelledby; NOTE leave alt empty to guarantee accessibility 
 <figure>
 <img src="https://images.unsplas h.com/photo-1489345745021- 740d36bbda21?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entr opy&cs=srgb&ixid=eyJhcHBfawQiOjEONTg5fQ" alt="" aria- labelledby="caption" width="400" height="200"> <figcaption id="caption"> A white cotton shirt. </figcaption></figure>
+
+or 
+
+<img src="https://images.unsplas h.com/photo-1554597998- 97267a7?bob?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entr opy&cs=srgb&ixid=eyJhcHBfawQiojEONT8sfQ" alt="Dog says 'I can make it to the fence in 2.8 seconds. Can you?'" width="400" height="400">
+
+---
+outline

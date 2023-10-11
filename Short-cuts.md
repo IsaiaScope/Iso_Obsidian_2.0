@@ -38,3 +38,4 @@
 #### Custom
 1.   **shift + alt + e** => gitlens => toggleLineBlame => show/hide git info on hover of the line
 2.  **shift + alt + /** => turbo console log
+3. **ctrl+shift+c** => open termina in current project folder

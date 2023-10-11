@@ -36,4 +36,5 @@
 ```
 
 #### Custom
-1.   **ctrl + alt + e** => gitlens => toggleLineBlame => show/hide git info on hover of the line
+1.   **shift + alt + e** => gitlens => toggleLineBlame => show/hide git info on hover of the line
+2.  **shift + alt + /** => turbo console log

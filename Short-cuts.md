@@ -19,7 +19,7 @@
 14. ***ctrl + alt + down*** => insert Cursor Below
 15.  **F12** => Go To Definition of the statement
 16. **ctrl + 0** => focus primary side bar
-17. **ctrl + 1** => focus first editor group
+17. **ctrl + 1** => focus first editor group and so on
 18.  **ctrl + shift + `[`** => fold
 19. **ctrl + shift + `]`** => unfold
 20. **ctrl + -** => zoom out

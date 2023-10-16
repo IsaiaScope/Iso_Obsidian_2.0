@@ -26,6 +26,7 @@
 21. **ctrl + =** => zoom in
 22. **ctrl + F4** => close current TAB
 23. . ***shift + alt + F*** => format document
+24. ***Alt+z*** => toggle line break
 
 ---
 #### Terminal

@@ -29,5 +29,13 @@ or
 <img src="https://images.unsplas h.com/photo-1554597998- 97267a7?bob?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entr opy&cs=srgb&ixid=eyJhcHBfawQiojEONT8sfQ" alt="Dog says 'I can make it to the fence in 2.8 seconds. Can you?'" width="400" height="400">
 
 ---
-outline
+outline must have
+focus and hover same style
 
+
+---
+
+tabindex  adds interactivity to the element
+value 0 doesn't put the element in order make that just 'tabbable' 
+value -1 removes the elm from 'tabbable'  group but still focussable with js
+value 1 to x is the tab order of focussing elms

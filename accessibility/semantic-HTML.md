@@ -43,3 +43,13 @@ value 1 to x is the tab order of focussing elms
 ---
 
 bypass block (skip links)
+
+---
+tags u need
+nav
+ul 
+li
+a
+
+
+

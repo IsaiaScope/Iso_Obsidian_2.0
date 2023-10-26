@@ -39,3 +39,7 @@ tabindex  adds interactivity to the element
 value 0 doesn't put the element in order make that just 'tabbable' 
 value -1 removes the elm from 'tabbable'  group but still focussable with js
 value 1 to x is the tab order of focussing elms
+
+---
+
+bypass block (skip links)

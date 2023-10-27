@@ -6,7 +6,10 @@
 ![[to-delete.png]]
 
 aria-expanded (boolean) => to tell to screen reader if is open or close
+```html
 <button id="hamburger" aria-expanded="false">
+```
+
 
 
 ---
@@ -43,6 +46,43 @@ value 1 to x is the tab order of focussing elms
 ---
 
 bypass block (skip links)
+**Bypass blocks** are mechanisms that skip over repeated material on a webpage. They are important for users who navigate with a keyboard because as they will allow users to skip over repeated sections and go to the content they are looking for immediately.
+The example below is a simple example of how a skip navigation functions. The “skip to main content” link will skip over the list of websites and jump to the main content of the page instead. This allows for a keyboard user to bypass the section and get to the main information right away instead of having to go through every single link before getting to the main information.
+CSS is added to make the skip navigation link invisible until it gains keyboard focus. Once it gains focus it becomes visible to a sighted user and will also be read by a screen reader user. The CSS used sets the link at the top left corner of the page. Once tabbed into, it will gain focus and be visible to sighted users. It will also be read by screen readers.
+<body>
+    <div id = "skip-to-main">
+        <a href = "#main-content">Skip to main content</a>
+    </div>
+    <nav>
+        <ol>
+            <li><a href = "https://www.google.com" target = "_blank">Google</a></li>
+            <li><a href = "https://www.youtube.com" target ="_blank">Youtube</a></li>
+            <li><a href = "https://www.webaim.org" target = "_blank">WebAIM</a></li>
+            <li><a href = "https://www.csun.edu" target ="_blank">CSUN</a></li>
+        </ol>
+    </nav>
+ 
+    <main id = "main-content">
+            <h1> Welcome!</h1>
+            <div tabindex = "0">How is your day going?</div>
+    </main>
+</body>
+
+#skip-to-main a{
+	position: absolute;
+	left: -10000px;
+	top: auto;
+	width: 1px;
+	height: 1px;
+	overflow: hidden;
+}
+
+#skip-to-main a:focus{
+	position: static;
+	width: auto;
+	height: auto;
+}
+
 
 ---
 tags u need

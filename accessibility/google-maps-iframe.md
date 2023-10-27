@@ -1,5 +1,5 @@
 https://accessibility.psu.edu/images/maps/
-add more information like title
+add more information like title and div and p to explain where we are and also give whiten directions with link or file to download
 ```html
 <div class="col-sm">
 	<h2 class="mb-3">Come visit us!</h2>

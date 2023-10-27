@@ -1,12 +1,13 @@
-- https://www.w3.org/WAI/tutorials/forms/
-- https://webaim.org/techniques/forms/
-- https://www.nngroup.com/articles/form-design-placeholders/
+- Add labels and additional notes (read after the form field) with ARIA
+  - [[form.png.png | IMG of form example]]
+- [DOC of Forms Tutorial](https://www.w3.org/WAI/tutorials/forms/)
+  - witch fields are mandatory => [DOC of Form Instructions](https://www.w3.org/WAI/tutorials/forms/instructions/)
+- [DOC of Creating Accessible Forms](https://webaim.org/techniques/forms/)
+- [DOC of Why Placeholders in Form Fields Are Harmful](https://www.nngroup.com/articles/form-design-placeholders/)
+- required attribute is read by screen reader in HTML5 or is possible to use _aria-required=true_
+  - [DOC of aria-required](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-required)
 
-- witch fields are mandatory
-- https://www.w3.org/WAI/tutorials/forms/instructions/
-
-- required attribute is read by screen reader in HTML5 or is possible to use aria-required=true
-- https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-required
+---
 
 ```html
 <section>

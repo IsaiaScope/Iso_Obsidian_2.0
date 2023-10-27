@@ -1,5 +1,4 @@
 - Screen readers
-- [[accessibility-udemy-theory.pdf]]
 - lighthouse => dev tool chrome, section audits is a good way to check accessibility
 ---
 1. voice over => mac/iPhone

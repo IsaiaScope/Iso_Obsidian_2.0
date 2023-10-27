@@ -1,6 +1,5 @@
 - [DOC of good hamburger navigation](https://codepen.io/Stefany93/post/good-hamburger-navigation)
 
-
 ```html
 <body>
 	<!-- <button> is semantically correct for a hamburger because it is

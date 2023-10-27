@@ -1,2 +1,2 @@
 - site must be scalable at least to 400%
--  also elements on page must be responsive to zoom level
+- also elements on page must be responsive to zoom level

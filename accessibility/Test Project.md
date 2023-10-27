@@ -31,3 +31,5 @@ Accessibility project workbook result after analysis
 
 https://www.a11yproject.com/checklist/
 https://webaim.org/techniques/skipnav/
+
+test Hight contrast theme from windows settings 

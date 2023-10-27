@@ -22,3 +22,12 @@ Accessibility project workbook result after analysis
 |Unlabelled form input|Add a label to the email input box|Screen reader, WAVE|
 |Insufficient colour contrast on the submit button|Increase the contrast by changing the text or background colour|WAVE|
 |“Submit” button unclear|Add a more descriptive label like “Join newsletter”||
+
+
+
+
+---
+
+
+https://www.a11yproject.com/checklist/
+https://webaim.org/techniques/skipnav/

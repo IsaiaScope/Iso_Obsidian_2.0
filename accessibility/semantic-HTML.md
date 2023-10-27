@@ -5,6 +5,9 @@
 5. https://github.com/Stefany93/furbaby-accessible-website
 ![[to-delete.png]]
 
+
+using semantic html dont need to specify the element inside label because screen readers are going to tell that anyway 
+
 aria-expanded (boolean) => to tell to screen reader if is open or close
 ```html
 <button id="hamburger" aria-expanded="false">

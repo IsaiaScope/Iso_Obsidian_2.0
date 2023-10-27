@@ -1,5 +1,5 @@
+- [DOC of good hamburger navigation](https://codepen.io/Stefany93/post/good-hamburger-navigation)
 
-https://codepen.io/Stefany93/post/good-hamburger-navigation
 
 ```html
 <body>

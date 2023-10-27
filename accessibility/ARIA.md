@@ -1,29 +1,22 @@
-#INTRODUCTION TO ARIA
-Web Accessibility Initiative — Accessible
-Rich Internet Applications (WAI-ARIA)
-Created by W 3C
-Part ofHTML
-Allows you to make your website
-comprehensive to screenreaders, even if it
-is an interactive web application
+***INTRODUCTION TO ARIA***  Web Accessibility Initiative Accessible
+- Rich Internet Applications (WAI-ARIA)
+- Created by W3C
+- Part of HTML
+- Allows you to make your website comprehensive to screenreaders, even if it is an interactive web application
 
-USE OF ARIA
-ARIA is not designed to replace semantic
-HTML - this should always be your first
-port of call
-However, there are times you want to use
-ARIA instead of vanilla HTML
-For example, disable buttons with ARIA
-rather than the disabled attribute
+_USE OF ARIA_
+- ARIA is not designed to replace semantic => HTML should always be your first port of call
+- However, there are times you want to use ARIA instead of vanilla HTML
+	- For example, disable buttons with ARIA rather than the disabled attribute
 
-ROLES
-The role attribute can be used to mimic a HTML element
-Again, we want to use semantic HTML first, and this as a last resort
-role="navigation"
-role="checkbox"
-role="text" (not part of specification)
-Avoid redundancy <nav role="navigation">
-![[role.png.png]]
+_ROLES_
+- The role attribute can be used to mimic a HTML element
+- Again, _we want to use semantic HTML first, and this as a last resort_
+- role="navigation"
+- role="checkbox"
+- role="text" (not part of specification)
+- Avoid redundancy <nav role="navigation">
+- [[role.png.png | IMG of role example]]
 
 LABELS
 Labels can be added to anything and override other label attributes

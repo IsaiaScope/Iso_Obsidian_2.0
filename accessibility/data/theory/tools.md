@@ -18,7 +18,9 @@ _Screen readers_
 4. Microsoft narrator => built in screen reader in window 10 and beyond
 
 ---
-_SITES FOR VALIDATIONS_
+_SITES FOR VALIDATIONS & SETTINGS_
+- Hight contrast
+	- check the website with Hight contrast theme from windows settings enabled
 - WAVE
 	- [Website of WAVE](https://wave.webaim.org/).
 - W3C validator

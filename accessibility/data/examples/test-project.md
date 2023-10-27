@@ -15,13 +15,4 @@
 |Insufficient colour contrast on the submit button|Increase the contrast by changing the text or background colour|WAVE|
 |“Submit” button unclear|Add a more descriptive label like “Join newsletter”||
 
-
-
-
 ---
-
-
-https://www.a11yproject.com/checklist/
-https://webaim.org/techniques/skipnav/
-
-test Hight contrast theme from windows settings 

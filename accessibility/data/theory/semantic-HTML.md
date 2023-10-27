@@ -77,6 +77,8 @@ _Bypass Block (skip links)_
 - are mechanisms that skip over repeated material on a webpage. They are important for users who navigate with a keyboard because as they will allow users to skip over repeated sections and go to the content they are looking for immediately.
 - The example below is a simple example of how a skip navigation functions. The “skip to main content” link will skip over the list of websites and jump to the main content of the page instead. This allows for a keyboard user to bypass the section and get to the main information right away instead of having to go through every single link before getting to the main information.
 - CSS is added to make the skip navigation link invisible until it gains keyboard focus. Once it gains focus it becomes visible to a sighted user and will also be read by a screen reader user. The CSS used sets the link at the top left corner of the page. Once tabbed into, it will gain focus and be visible to sighted users. It will also be read by screen readers.
+- [DOC of Skip links](https://webaim.org/techniques/skipnav/)
+
 
 ```html
 <body>

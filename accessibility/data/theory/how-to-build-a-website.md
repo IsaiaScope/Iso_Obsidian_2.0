@@ -1,5 +1,7 @@
 - [[accessibility-udemy-theory.pdf | PDF of General Lines to Follow]]
 - [DOC of building an accessible menu systems](https://www.smashingmagazine.com/2017/11/building-accessible-menu-systems/)
+- Checklist
+	- [DOC of a checklist for good accessibility](https://www.a11yproject.com/checklist/)
 ---
 _ACCESSIBILITY GUIDELINES_
 - **WCAG**: Web Content Accessibility Guidelines

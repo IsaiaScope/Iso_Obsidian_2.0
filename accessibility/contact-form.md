@@ -1,6 +1,8 @@
 https://www.w3.org/WAI/tutorials/forms/
 https://webaim.org/techniques/forms/
 https://www.nngroup.com/articles/form-design-placeholders/
+
+witch fields are mandatory
 https://www.w3.org/WAI/tutorials/forms/instructions/
 
 

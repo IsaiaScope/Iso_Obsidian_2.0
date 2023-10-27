@@ -2,5 +2,6 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-git",
   "obsidian-excalidraw-plugin",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "obsidian-plugin-prettier"
 ]

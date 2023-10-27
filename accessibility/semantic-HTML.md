@@ -42,6 +42,7 @@ tabindex  adds interactivity to the element
 value 0 doesn't put the element in order make that just 'tabbable' 
 value -1 removes the elm from 'tabbable'  group but still focussable with js
 value 1 to x is the tab order of focussing elms
+https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex
 
 ---
 
@@ -84,18 +85,43 @@ CSS is added to make the skip navigation link invisible until it gains keyboard 
 }
 
 
----
-tags u need
-nav
-ul 
-li
-a
 
+
+<style>
+  .skip a{
+  position:absolute;
+  left:10000px;
+  top:auto;
+  width:1px;
+  height:1px;
+  overflow:hidden;
+  font-size:2em;
+  background:white;
+  font-weight: bold;
+  display:block;
+  padding:10px;
+}
+
+.skip a:focus{
+  position:static;
+  width:auto;
+  height:auto;
+}
+
+</style>
+
+<div class="skip"><a href="#content">Skip to Main Content</a></div>
+<main id="content">
+  // main content 
+</main>
+
+---
 https://www.smashingmagazine.com/2017/11/building-accessible-menu-systems/
+
+nav
 
 
 ---
 humburger
 
 
-https://codepen.io/Stefany93/post/good-hamburger-navigation

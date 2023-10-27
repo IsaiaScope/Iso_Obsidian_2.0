@@ -1,17 +1,9 @@
-https://xmeltrut.github.io/accessibility-project/index.html
+- [Index of A Test Site to Improve with Accessibility](https://xmeltrut.github.io/accessibility-project/index.html)
+	- use those sites to analize the site accessibility and add corrections where needed 
+- Accessibility project workbook result after analysis
+	- using WAVE and W3
 
-
-use those sites to analize the site accessibility and add corrections where needed 
-
-[Click here to access the WAVE tool](https://wave.webaim.org/).
-[Click here to access the W3C validator](https://validator.w3.org/).
-
-
-
-
-Accessibility project workbook result after analysis
-
-|   |   |   |
+| :)  |   |   |
 |---|---|---|
 |**Issue**|**Suggested fix**|**Related tools**|
 |Unclear link “click here”|Change the link text to something more obvious.|Screen reader, WAVE|

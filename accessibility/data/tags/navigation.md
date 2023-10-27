@@ -3,7 +3,7 @@
   - ul
   - li
   - a
-- not use title='xxx' on anchor (a tag) because screenreaders are gonna read the title value and the text inside the tag so probably ripeting them self
+- _not use title='xxx'_ on anchor (a tag) because screenreaders are gonna read the title value and the text inside the tag so probably ripeting them self
 - _manage selection by aria-current_
   - [DOC of aria-current](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-current)
 

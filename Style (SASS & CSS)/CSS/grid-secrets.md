@@ -1,3 +1,8 @@
+- minmax(0, 1fr) makes the grid to fill 100% height
+- sometimes are needed
+	- min-width: 0;
+	- min-height: 0;
+- grid-auto-rows: permit to repeat a specific pattern and avoid to write a specific number of rows
 ```css
 & .caption-list {
 	display: grid;

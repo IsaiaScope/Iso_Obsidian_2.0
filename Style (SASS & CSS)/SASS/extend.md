@@ -1,4 +1,4 @@
-1. extend
+- extend
 ```scss
 %name {
   width: 100%;

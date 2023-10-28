@@ -1,0 +1,1 @@
+- [DOC of UseQuery()](https://tanstack.com/query/latest/docs/react/reference/useQuery)

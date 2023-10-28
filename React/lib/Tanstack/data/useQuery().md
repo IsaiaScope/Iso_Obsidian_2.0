@@ -62,4 +62,13 @@ Solution?
 - Query function values should be part of the key
   - ['comments', post.id]
 
+```jsx
+const { data, isLoading, isError, error } = useQuery(
+	["comments", post.id],
+	() => fetchComments(post.id)
+);
+```
+
+
+
 

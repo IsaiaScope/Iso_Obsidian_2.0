@@ -25,3 +25,37 @@ _useInfiniteQuery_
 	"results": [...]
 }
 ```
+
+---
+
+_Shape of useInfiniteQuery Data_
+
+- Shape of data different than useQuery
+- Object with two properties:
+  - pages
+  - pageParams
+- Every query has its own element in the pages array
+- pageParams tracks the keys of queries that have been retrieved
+  - rarely used, won't use here
+
+_useInfiniteQuery Syntax_
+
+- pageParam is a parameter passed to the queryfn
+  - `useInfiniteQuery ("sw-people", ({ pageParam = defaultUrl }) => fetchUrl (pageParam)`
+  - Current value of pageParam is maintained by React Query
+- useInfiniteQuery options
+  - getNextPageParam: (lastPage, allPages)
+    - Updates pageParam
+    - Might use all of the pages of data (a 11Pages)
+    - we will use just the lastPage of data (specifically the next property)
+
+_useInfiniteQuery Return Object Properties_
+
+- fetchNextPage 
+	- function to call when the user needs more data
+- hasNextPage 
+	- Based on return value of getNextPageParam
+	- If undefined, no more data
+- isFetchingNextPage 
+	- For displaying a loading spinner
+	- We'll see an example of when it's useful to distinguish between isFetching and isFetchingNextPage

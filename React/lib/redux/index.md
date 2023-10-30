@@ -1,1 +1,0 @@
-1. [[React/lib/Redux/data/get-started|get-started]]

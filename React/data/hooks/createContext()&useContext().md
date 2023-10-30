@@ -1,4 +1,4 @@
-1. [createContext & useContext()](https://react.dev/reference/react/createContext)
+1. [createContext() & useContext()](https://react.dev/reference/react/createContext)
 2. Context Limitations
 	React Context is NOT optimized for high frequency Changes!
 	React Context also shouldn't be used to replace ALL component communications and props

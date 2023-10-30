@@ -1,1 +1,0 @@
-1. [[React/lib/Next.js/data/get-started|get-started]]

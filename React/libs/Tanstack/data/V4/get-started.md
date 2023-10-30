@@ -1,7 +1,8 @@
 - [DOC of TanStack](https://tanstack.com/query/latest/docs/react/overview)
 - [DOC of TanStack Installation](https://tanstack.com/query/latest/docs/react/installation)
 - [DOC of TanStack Quick Start](https://tanstack.com/query/latest/docs/react/quick-start?from=reactQueryV3&original=https%3A%2F%2Ftanstack.com%2Fquery%2Fv3%2Fdocs%2Fquick-start)
-- [DOC f TansStack Dev Tool](https://react-query-v3.tanstack.com/devtools#_top)
+- [DOC of TansStack Dev Tool](https://react-query-v3.tanstack.com/devtools#_top)
+- [DOC of TansStack ESLint Plugin Query](https://tanstack.com/query/v4/docs/react/eslint/eslint-plugin-query)
 
 ---
 
@@ -61,7 +62,7 @@ export function loader({ params }) {
 
 - like point 7 u can mix React router and RQ but in a component is better, on the other hand RR permits to prefetch data with loader and use actions.
 - another important and useful hook is useIsFetching => is greater than 0 is RQ is fatching data somewhere in the application, useful for global loader
-- [[RQ_1.png | IMG of Cache Query Data]]
+- [[caches-query-data.png| IMG of Cache Query Data]]
 
 ---
 

@@ -1,4 +1,4 @@
-- [Class component](https://react.dev/reference/react/Component) => no more necessari after React v16.8 when hook are introduced
+- [DOC of Class components](https://react.dev/reference/react/Component) => no more necessari after React v16.8 when hook are introduced
 	- prop = this.props
 	- need super()
 	- render() {}
@@ -6,10 +6,10 @@
 	- managing state
 		- instead useState(), initialize state in constructor this.state() , and declare a normal method where use this.setState() to update the state
 	- lifecycle
-		- [[class-component-react.png]]
+		- [[class-component-react.png | IMG of class component flow]]
 
 - ex. class component
-	- [git](https://github.com/academind/react-complete-guide-code/tree/13-class-based-cmp/code/08-finished/src)
+	- [GitHub Repo of class-based-cmp](https://github.com/academind/react-complete-guide-code/tree/13-class-based-cmp/code/08-finished/src)
 ```jsx
 import { Component } from 'react';
 

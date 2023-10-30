@@ -1,33 +1,39 @@
 - _THEORY_
-  - [entry-point](React/theory/data/entry-point.md)
-  - [components](components.md)
-  - [events](events.md)
-  - [useState()](<useState().md>)
-  - [pass-data-bottom-up](pass-data-bottom-up.md)
-  - [coding-knowledge](coding-knowledge.md)
-  - [style](style.md)
-  - [[fragments-and-portal]]
-  - [[rule-of-hooks]]
-    - [[useRef()]]
-    - [[useEffect()]]
-    - [[useReducer()]]
-    - [[createContext()-useContext()]]
-    - [forwardRef()](https://react.dev/reference/react/forwardRef)
-  - [[how-react-works]]
-  - [[class-component]]
-  - [[http-request]]
-  - [[custom-hook]]
-  - [[forms]]
-  - [[lazy-loading]]
-  - [[tests]]
+
+  - [Starting Up](entry-point.md)
+  - [Functional Components](components.md)
+  - [Events](events.md)
+  - [Pass data bottom up](pass-data-bottom-up.md)
+  - [Coding knowledge](coding-knowledge.md)
+  - [How to Style ?](style.md)
+  - [[fragments-and-portal | Fragments and Portals]]
+  - [[how-react-works | How React works ?]]
+  - [[class-component | Class components]]
+  - [[http-request | http request]]
+  - [[forms | Forms]]
+  - [[lazy-loading | Lazy loading...]]
+  - [[tests | Tests]]
+  - [[create-react-app | New Project set up]]
 
 ---
 
+_HOOKS_
+
+- [[rule-of-hooks | Hooks theory]]
+- [useState()](<useState().md>)
+- [[useRef()]]
+- [[useEffect()]]
+- [[useReducer()]]
+- [[createContext()&useContext()]]
+- [forwardRef()](https://react.dev/reference/react/forwardRef)
+- [[custom-hook | Custom Hooks]]
+---
+
 - _LIBS_
-  - [[React/lib/Tanstack/index|Tanstack]]
-  - [[React/lib/Redux/index|Redux]]
-  - [[React/lib/React Router/index|React Router]]
-  - [[React/lib/Next.js/index|Next.js]]
+  - [[React/libs/Tanstack/index|Tanstack]]
+  - [[React/libs/Redux/index|Redux]]
+  - [[React/libs/React Router/index|React Router]]
+  - [[React/libs/Next.js/index|Next.js]]
 
 ---
 

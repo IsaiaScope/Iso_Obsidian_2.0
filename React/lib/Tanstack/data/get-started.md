@@ -1,23 +1,30 @@
-1. [DOC of TanStack](https://tanstack.com/query/latest/docs/react/overview)
-2. [DOC f TansStack Dev Tool](https://react-query-v3.tanstack.com/devtools#_top) (included in main package maybe)
-3. _Feature_
-   1. isError => destructed from useQuery() is populated if response throw an error
-   2. cashing => RQ cash data and behind the scene fetch the same data, meanwhile display the cashed data
-      - scaleData => manage when behind scene call happen
-      - gcTime => garbage collector time, how long data is stored in the cash
-      - staleTime => the cash data is reused if is not old as the time expressed from staleTime (useful to avoid redundant calls before a certain amount of time)
-4. _useQuery()_ is not retriggered by the changing data, use useState to avoid this behaviour
-   1. queryFn => function triggered by useQuery => queryFn: ({ signal, queryKey }) => fetchEvents({ signal, ...queryKey[1] }),
-      1. signal => useful for know status or abort of a call, passed to fetch consent to abort a call when cange page for ex
-   2. enable => set isPending to true when is disabled, useful when insert spinner under some circostanze
-   3. isLoanding vs isPending => isLoading is not true when query is disabled
-5. _useMutation()_ => every call that aren't get
-   1. mutate() => destructed from useMutation() is the function that pass data to function declared in mutationFn
-   2. onSuccess => excute when query successed
-   3. onMutate => called when is callled mutate()
-6. _queryClient.invalidateQueries({ queryKey: ['events'] })_ => invalidate query cause to refetch data from queryes that includes 'events' key, can be added exact property if only 'event' key must be present
-   1. reFetch :none => remove automatic refetch, and redo api call when it's needed
-   2. cancelQueries & getQueryData & setQueryData can use to manipolate cashdata and annul api calls, keeping old data stored instead new one
+- [DOC of TanStack](https://tanstack.com/query/latest/docs/react/overview)
+- [DOC of TanStack Installation](https://tanstack.com/query/latest/docs/react/installation)
+- [DOC of TanStack Quick Start](https://tanstack.com/query/latest/docs/react/quick-start?from=reactQueryV3&original=https%3A%2F%2Ftanstack.com%2Fquery%2Fv3%2Fdocs%2Fquick-start)
+- [DOC f TansStack Dev Tool](https://react-query-v3.tanstack.com/devtools#_top)
+
+---
+
+- _Feature_
+  - isError => destructed from useQuery() is populated if response throw an error
+  - cashing => RQ cash data and behind the scene fetch the same data, meanwhile display the cashed data
+    - scaleData => manage when behind scene call happen
+    - gcTime => garbage collector time, how long data is stored in the cash
+    - staleTime => the cash data is reused if is not old as the time expressed from staleTime (useful to avoid redundant calls before a certain amount of time)
+- _useQuery()_ is not retriggered by the changing data, use useState to avoid this behaviour
+
+  - queryFn => function triggered by useQuery => queryFn: ({ signal, queryKey }) => fetchEvents({ signal, ...queryKey[1] }),
+    - signal => useful for know status or abort of a call, passed to fetch consent to abort a call when cange page for ex
+  - enable => set isPending to true when is disabled, useful when insert spinner under some circostanze
+  - isLoanding vs isPending => isLoading is not true when query is disabled
+
+- _useMutation()_ => every call that aren't get
+  - mutate() => destructed from useMutation() is the function that pass data to function declared in mutationFn
+  - onSuccess => excute when query successed
+  - onMutate => called when is callled mutate()
+- _queryClient.invalidateQueries({ queryKey: ['events'] })_ => invalidate query cause to refetch data from queryes that includes 'events' key, can be added exact property if only 'event' key must be present
+  - reFetch :none => remove automatic refetch, and redo api call when it's needed
+  - cancelQueries & getQueryData & setQueryData can use to manipolate cashdata and annul api calls, keeping old data stored instead new one
 
 ```jsx
 const { mutate } = useMutation({
@@ -41,7 +48,7 @@ const { mutate } = useMutation({
 
 ---
 
-7.  perform api call when outside a component, btw is better to use the hook for extra feature that offer as isLoading, ecc..
+- perform api call when outside a component, btw is better to use the hook for extra feature that offer as isLoading, ecc..
 
 ```jsx
 export function loader({ params }) {
@@ -52,9 +59,9 @@ export function loader({ params }) {
 }
 ```
 
-8. like point 7 u can mix React router and RQ but in a component is better, on the other hand RR permits to prefetch data with loader and use actions.
-9. another important and useful hook is useIsFetching => is greater than 0 is RQ is fatching data somewhere in the application, useful for global loader
-10. [[RQ_1.png | IMG of Cache Query Data]]
+- like point 7 u can mix React router and RQ but in a component is better, on the other hand RR permits to prefetch data with loader and use actions.
+- another important and useful hook is useIsFetching => is greater than 0 is RQ is fatching data somewhere in the application, useful for global loader
+- [[RQ_1.png | IMG of Cache Query Data]]
 
 ---
 

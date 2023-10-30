@@ -29,3 +29,4 @@
   - [ ] Handling Errors Globally with Chakra UI Toas
   - [ ]  Adding Data to the Cache
 	  - [ ] [[cache-methods.png | Cache methods]]
+	  - [ ] [[prefetch&cache-flow.png | Cache Flow]]

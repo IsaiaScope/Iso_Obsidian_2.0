@@ -39,3 +39,4 @@ _HOOKS_
 
 - _LIBS LINK_
   - [NPM | react-infinite-scroller](https://www.npmjs.com/package/react-infinite-scroller)
+  - [NPM | chakra-ui](https://chakra-ui.com/getting-started)

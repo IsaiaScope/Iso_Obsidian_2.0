@@ -4,6 +4,7 @@
 	- [[useMutation()]]
 	- [[Pagination&Prefetching]]
 	- [[useInfiniteQuery()]]
+	- [[useIsFetching()]]
 
 ---
 

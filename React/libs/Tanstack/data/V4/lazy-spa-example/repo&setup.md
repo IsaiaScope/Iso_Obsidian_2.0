@@ -23,3 +23,7 @@
 
 ---
 
+- _Check_
+  - Wrap React Query in a Custom Hoom
+  - useIsFetching()
+  - Handling Errors Globally with Chakra UI Toas

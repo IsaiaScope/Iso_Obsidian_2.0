@@ -72,6 +72,17 @@ _React Infinite Scroller_
 - Component takes care of detecting when to load more 
 - Data in data. pages [x]. results
 
+---
+
+_Infinite Scroll Summary_ 
+- React Query manages 
+	- pageParam for next page to be fetched 
+		- getNextPageParam option 
+		- could be from last Page, or allPages 
+	- hasNextPage 
+		- boolean indicating whether pageParam is undefined 
+- Component handles calling fetchNext Page 
+	- use hasNext Page value to determine when to stop
 
 ---
 

@@ -3,30 +3,39 @@
 ---
 
 - _Caveats about Lazy Days App_
-- Not production ready!
-  - not responsive
-  - not mobile friendly
-  - appointment updates aren't auth-protected
-  - no admin user / interface to update staff, treatments
-- Client and server
-
-  - download both and run npm install
-  - create env file in server and add EXPRESS_SECRET !
+	- Not production ready!
+	  - not responsive
+	  - not mobile friendly
+	  - appointment updates aren't auth-protected
+	  - no admin user / interface to update staff, treatments
+	- Client and server
+	  - download both and run npm install
+	  - create env file in server and add EXPRESS_SECRET !
 
 - _React Query in Larger App_
-- centralizing fetching indicator / error handling
-- refetching data
-- integrating with auth
-- dependent queries
-- testing
-- more examples of useQuery, mutations, pagination, prefetching
+	- centralizing fetching indicator / error handling
+	- refetching data
+	- integrating with auth
+	- dependent queries
+	- testing
+	- more examples of useQuery, mutations, pagination, prefetching
 
 ---
 
 - _Check_
-  - [ ] Wrap React Query in a Custom Hoom
-  - [ ] useIsFetching()
-  - [ ] Handling Errors Globally with Chakra UI Toas
-  - [ ]  Adding Data to the Cache
-	  - [ ] [[cache-methods.png | Cache methods]]
-	  - [ ] [[prefetch&cache-flow.png | Cache Flow]]
+
+	  - [ ] Wrap React Query in a Custom Hoom
+	  - [ ] useIsFetching()
+	  - [ ] Handling Errors Globally with Chakra UI Toas
+	  - [ ] Adding Data to the Cache
+	    - [ ] [[cache-methods.png | Cache methods]]
+	    - [ ] [[prefetch&cache-flow.png | Cache Flow]]
+
+- _Summary_
+	- Pre-populating data options: -
+	  - pre-fetch, setQueryData, placeholderData, initialData
+	- Pre-fetch to pre-populate cache
+	  - on component render
+	  - on page (month/year) update
+	  - keepPreviousData only useful if background doesn't change
+	- Treat keys as dependency arrays

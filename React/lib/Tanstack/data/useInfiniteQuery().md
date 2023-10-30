@@ -63,6 +63,18 @@ _useInfiniteQuery Return Object Properties_
 
 ---
 
+_React Infinite Scroller_
+- Works really nicely with useInfiniteQuery 
+	- [NPM | react-infinite-scroller](https://www.npmjs.com/package/react-infinite-scroller)
+- Populate two props for InfiniteScroll component:
+	- loadMore= {fetchNextPage}
+	- hasMore= (hasNextPage}
+- Component takes care of detecting when to load more 
+- Data in data. pages [x]. results
+
+
+---
+
 ```jsx
 import { useInfiniteQuery } from "@tanstack/react-query";
 import InfiniteScroll from "react-infinite-scroller";

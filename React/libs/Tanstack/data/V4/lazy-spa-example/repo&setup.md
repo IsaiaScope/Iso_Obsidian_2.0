@@ -187,3 +187,19 @@ export const queryClient = generateQueryClient();
 ```
 
 ---
+
+- _NOTE No more call if the same one is already running_
+- _Remove userAppointments Query_
+  - Make sure user appointments data is cleared on sign out
+  - queryClient. removeQueries
+  - Why not use removeQueries for user data?
+    - setQueryData invokes onSuccess (removeQueries does not )
+    - userAppointments does not need onSuccess for useUser
+- _Summary Auth_
+  - useQuery caches user data and refreshes from server
+    - refreshing from server will be important for mutations
+  - useUser manages user data in query cache and localStorage
+    - set query cache using setQueryData on signin / signout
+    - onSuccess callback manages localStorage
+  - user appointments query dependent on user state
+    - Remove data on signout with removeQueries

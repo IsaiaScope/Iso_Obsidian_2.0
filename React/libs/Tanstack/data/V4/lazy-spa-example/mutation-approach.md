@@ -26,7 +26,17 @@
   - reference:
     - https:/react-query.tanstack.com/reference/useMutation
     - https://react-query.tanstack.com/guides/mutations
-  
+- _Query Key Prefix for Appointments_
+  - For user appointments
+    - [ querykeys.appointments, queryKeys.user, user?.id ]
+  - For appointments
+    - [queryKeys. appointments, queryMonthYear.year, queryMonthYear. month]
+  - Pass [ queryKeys. appointments ] as prefix to invalidateQueries
+    - invalidates both
+  - For more complicated apps, use functions to create query keys to ensure consistency
+  - reference
+    - https://react-query.tanstack.com/guides/query-keys
+    - https://react-query.tanstack.com/guides/query-invalidation#query-matching-with-invalidatequeries
 
 ---
 
@@ -83,3 +93,6 @@ export function useReserveAppointment(): UseMutateFunction<
   return mutate;
 }
 ```
+
+---
+

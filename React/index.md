@@ -27,6 +27,7 @@ _HOOKS_
 - [[createContext()&useContext()]]
 - [forwardRef()](https://react.dev/reference/react/forwardRef)
 - [[custom-hook | Custom Hooks]]
+
 ---
 
 - _LIBS_
@@ -39,4 +40,5 @@ _HOOKS_
 
 - _LIBS LINK_
   - [NPM | react-infinite-scroller](https://www.npmjs.com/package/react-infinite-scroller)
-  - [NPM | chakra-ui](https://chakra-ui.com/getting-started)
+  - [Chakra-ui](https://chakra-ui.com/getting-started)
+  - [Framer Motion, animation library](https://www.framer.com/motion/)

@@ -30,7 +30,7 @@
     - pass _signal_ to axios via argument to query function
     - https://axios-http.com/docs/cancellation
 - [[aborting-via-signal.png| IMG of Aborting via signal]]
-- 
+- Mutations Summary • Ways to keep in sync with server after mutation • invalidate queries • update cache with data returned from server with setQueryData • optimistic updates • send mutation • cancel outgoing queries • update cache • save previous value • roll back if necessary
 
 ---
 

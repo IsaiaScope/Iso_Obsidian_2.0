@@ -27,6 +27,10 @@
     - https:/react-query.tanstack.com/reference/useMutation
     - https://react-query.tanstack.com/guides/mutations
 
+---
+
+- [[mutate-function-from-custom-hook.png| IMG of returning mutate function from custom hook]]
+
 ```tsx
 import {
   UseMutateFunction,

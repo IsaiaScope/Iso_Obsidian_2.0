@@ -37,6 +37,13 @@
   - reference
     - https://react-query.tanstack.com/guides/query-keys
     - https://react-query.tanstack.com/guides/query-invalidation#query-matching-with-invalidatequeries
+- _Update Cache from Mutation Response_
+  - New custom hook usePatchUser
+    - update query cache with results from mutation server call
+  - Use the handy updateUser function from useUser
+    - will update query cache and localStorage
+  - reference:
+    - https://react-querytanstack.com/guides/updates-from-mutation-responses
 
 ---
 
@@ -95,4 +102,3 @@ export function useReserveAppointment(): UseMutateFunction<
 ```
 
 ---
-

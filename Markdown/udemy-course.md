@@ -84,11 +84,10 @@
 
 # Enhanced Markdown
 
-[DOC of Enhanced Markdown](https://www.markdownguide.org/extended-syntax/ "Enhanced Markdown")
-
----
+- [DOC of Enhanced Markdown](https://www.markdownguide.org/extended-syntax/ "Enhanced Markdown")
 
 ## _Tables_
+
 - :-------: align column in center
 - :------- align column to the left
 - -------: align column to the right
@@ -103,5 +102,3 @@
 ![[Fenced-Code-Blocks.png]]
 
 ---
-
-

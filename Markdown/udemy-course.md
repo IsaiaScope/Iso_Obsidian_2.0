@@ -1,3 +1,5 @@
+# Markdown
+
 - _Paragraphs and Line Breaks_
   - double space force hard line break
 
@@ -63,10 +65,79 @@
 
 
 
-- \_\_
+- _Images_
+- 
+![[Pasted image 20231102160908.png]]
+![[Pasted image 20231102161015.png]]
 
 ---
 
-- \_\_
+- _Inline HITMl_
+
+![[Pasted image 20231102161222.png]]
+![[Pasted image 20231102161248.png]]
+
+---
+
+# Enhanced Markdown 
+
+https://www.markdownguide.org/extended-syntax/
+
+---
+
+- _Tables_
+- :-------: align column in center
+- :------- align column to the left
+- -------: align column to the right
+- default align is to the left
+
+
+![[Pasted image 20231102162158.png]]
+
+
+---
+
+- _Fenced Code Blocks_
+
+![[Pasted image 20231102162558.png]]
+
+---
+
+- __
+
+
+
+---
+
+
+- __
+
+
+
+---
+
+
+- __
+
+
+
+---
+
+- __
+
+
+
+---
+
+- __
+
+
+
+---
+
+
+- __
+
+
 
 ---

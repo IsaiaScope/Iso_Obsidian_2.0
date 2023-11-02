@@ -134,3 +134,23 @@ The request triggers these events in order during its handling:
 
 [DOC of Server options](https://fastify.dev/docs/latest/Reference/Server/)
 
+---
+
+## Application instance methods
+
+- _app.route(options[, handler])_ adds a new endpoint to the server.
+- _app.register(plugin)_ adds plugins to the server instance, creating a new server context if needed. This method provides Fastify with encapsulation, which will be covered in Chapter 2.
+- _app.ready([callback])_ loads all the applications without listening for the HTTP request.
+- _app.listen(port|options [,host, callback])_ starts the server and loads the application.
+- _app.close([callback])_ turns off the server and starts the closing flow. This generates the possibility to close all the pending connections to a database or to complete running tasks.
+- _app.inject(options[, callback])_ loads the server until it reaches the ready status and submits a mock HTTP request. You will learn about this method in Chapter 9.
+
+```js
+app.route({
+	url: "/hello",
+	method: "GET",
+	handler: function myHandler(request, reply) {
+		reply.send("world");
+	},
+});
+```

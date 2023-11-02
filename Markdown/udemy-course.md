@@ -103,7 +103,8 @@ https://www.markdownguide.org/extended-syntax/
 
 ---
 
-- __
+- _Outlining and Brainstorming with markdown_
+
 
 
 

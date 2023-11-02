@@ -1,0 +1,1 @@
+- It is crucial to keep in mind that you should take care of the response status code when you implement your error handler; otherwise, it will be 500 – Server Error by default.”

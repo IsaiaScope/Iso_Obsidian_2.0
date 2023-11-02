@@ -1,49 +1,54 @@
 # Markdown
 
-- _Paragraphs and Line Breaks_
-  - double space force hard line break
+## _Paragraphs and Line Breaks_
+
+- double space force hard line break
 
 ![[Paragraphs-and-Line-Breake.png]]
 
 ---
 
-- _Headers_
-  - maximum of six header levels in markdown with `#` syntax
-  - no equivalent for `=` and dashes syntax `-` for header beyond
-  - end line `#` is optioal (see Horizontal Rules section below)
+## _Headers_
+
+- maximum of six header levels in markdown with `#` syntax
+- no equivalent for `=` and dashes syntax `-` for header beyond
+- end line `#` is optioal (see Horizontal Rules section below)
 
 ![[Headers.png]]
 
 ---
 
-- _Showing Emphasis_
+## _Showing Emphasis_
 
 ![[Showing-Emphasis.png]]
 
 ---
 
-- _Quotes_
+## _Quotes_
 
 ![[Quotes.png]]
 
 ---
 
-- _Code Styles and Blocks_
-  - 4 spaces define a code block
+## _Code Styles and Blocks_
+
+- 4 spaces define a code block
 
 ![[Code-Styles-and-Blocks.png]]
 
 ---
 
-- _Ordered and Unordered Lists_
-  - two spaces create a sub element (some editor need 4 spaces but standard is 2 spaces)
+## _Ordered and Unordered Lists_
+
+- two spaces create a sub element (some editor need 4 spaces but standard is 2 spaces)
 
 ![[Ordered-and-Unordered-Lists-1.png]]
 ![[Ordered-and-Unordered-Lists-2.png]]
 
 ---
 
-- _Horizontal Rules_
+## _Horizontal Rules_
+
 - could be 3 and more consecutive of:
   - \*\*\*
   - \-\-\-
@@ -53,92 +58,50 @@
 
 ---
 
-- _Using Links in Documents_
-  - text between `""` is the tool tip on hover
-  - mail to someone <iso_on_fire@hotmail.com>
+## _Using Links in Documents_
+
+- text between `""` is the tool tip on hover
+- mail to someone <iso_on_fire@hotmail.com>
 
 ![[Using-Links-in-Documents-1.png]]
 ![[Using-Links-in-Documents-2.png]]
 
 ---
 
+## _Images_
 
-
-
-- _Images_
-- 
-![[Pasted image 20231102160908.png]]
-![[Pasted image 20231102161015.png]]
+![[Images-1.png]]
+![[Images-2.png]]
 
 ---
 
-- _Inline HITMl_
+## _Inline HITMl_
 
-![[Pasted image 20231102161222.png]]
-![[Pasted image 20231102161248.png]]
-
----
-
-# Enhanced Markdown 
-
-https://www.markdownguide.org/extended-syntax/
+![[Inline-HITMl-1.png]]
+![[Inline-HITMl-2.png]]
 
 ---
 
-- _Tables_
+# Enhanced Markdown
+
+[DOC of Enhanced Markdown](https://www.markdownguide.org/extended-syntax/ "Enhanced Markdown")
+
+---
+
+## _Tables_
 - :-------: align column in center
 - :------- align column to the left
 - -------: align column to the right
 - default align is to the left
 
-
-![[Pasted image 20231102162158.png]]
-
+![[Tables.png]]
 
 ---
 
-- _Fenced Code Blocks_
+## _Fenced Code Blocks_
 
-![[Pasted image 20231102162558.png]]
-
----
-
-- _Outlining and Brainstorming with markdown_
-
-
-
+![[Fenced-Code-Blocks.png]]
 
 ---
 
 
-- __
-
-
-
----
-
-
-- __
-
-
-
----
-
-- __
-
-
-
----
-
-- __
-
-
-
----
-
-
-- __
-
-
-
----

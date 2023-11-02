@@ -182,8 +182,34 @@ function business(request, reply) {
 app.get("/server", business);
 ```
 
+_The business logic can be synchronous or asynchronous_: Fastify supports both interfaces, but you must be aware of how to manage the reply object in your source code. In both situations, the handler should _never call reply.send(payload)more than once_
+
+### Shorthand declaration
+
+To ease this task (avoid multiple reply), Fastify supports the return even in the synchronous function handler. So, we will be able to rewrite our first section example as the following:
+
+```js
+function business(request, reply) {
+	return { helloFrom: this.server.address() };
+}
+```
+
+### NOTE
+1. The async handler function may completely avoid calling the reply.send method instead. It can return the payload directly.
+2. we have updated a synchronous interface to an async interface, updating how we manage the response payload accordingly. The async functions that do not execute the send method can be beneficial to reuse handlers in other handler functions, as in the following example:
+
+```js
+async function foo(request, reply) {
+	return { one: 1 };
+}
+async function bar(request, reply) {
+	const oneResponse = await foo(request, reply);
+	return { one: oneResponse, two: 2 };
+}
+app.get("/foo", foo);
+app.get("/bar", bar);
+```
+
+
+
 ---
-
-
-
-

@@ -154,3 +154,36 @@ app.route({
 	},
 });
 ```
+
+### Shorthand declaration
+
+All the HTTP methods, including GET, POST, PUT, HEAD, DELETE, OPTIONS, and PATCH, support this declaration. You need to call the correlated function accordingly: app.post(), app.put(), app.head(), and so on.
+
+```js
+app.get(url, handlerFunction); // [1]
+app.get(url, {
+	// [2]
+	handler: handlerFunction, // other options
+});
+app.get(url, [options], handlerFunction); // [3]
+```
+
+---
+
+## The handler
+
+Using an arrow function will prevent you from getting the function context. Without the context, you don’t have the possibility to use the _this_ keyword to access the application instance. The arrow function syntax may not be a good choice because it can cause you to lose a great non-functional feature
+
+```js
+function business(request, reply) {
+	// `this` is the Fastify application instance
+	reply.send({ helloFrom: this.server.address() });
+}
+app.get("/server", business);
+```
+
+---
+
+
+
+

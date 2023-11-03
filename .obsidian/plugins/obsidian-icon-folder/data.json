@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiObsidian",
-      "LiPlayCircle",
-      "BoBxMoviePlay",
-      "TiPlayerPlay",
-      "RiYoutubeLine"
+      "IbDashboard",
+      "SiMarkdown",
+      "RiMarkdownLine",
+      "SiUdemy",
+      "LiFiles"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -26,8 +26,11 @@
     "iconsBackgroundCheckEnabled": false
   },
   "Obsidian Tutorial": "SiObsidian",
-  "Obsidian Tutorial/Chapters Links.md": "RiPlayList2Fill",
   "Obsidian Tutorial/Data": "TiDatabase",
   "Obsidian Tutorial/Data/Add Media.md": "LiPlayCircle",
-  "Markdown/Obsidian.md": "SiObsidian"
+  "Markdown/Obsidian.md": "SiObsidian",
+  "Markdown/Udemy-course.md": "SiUdemy",
+  "Markdown/Files": "LiFiles",
+  "Markdown": "SiMarkdown",
+  "Obsidian Tutorial/Dashboard.md": "IbDashboard"
 }

@@ -10,7 +10,7 @@
 
 ## _Headers_
 
-- maximum of six header levels in markdown with `#` syntax
+- maximum of six header levels in markdown with `#` syntax ^c94268
 - no equivalent for `=` and dashes syntax `-` for header beyond
 - end line `#` is optioal (see Horizontal Rules section below)
 
@@ -32,7 +32,7 @@
 
 ## _Code Styles and Blocks_
 
-- 4 spaces define a code block
+- 4 spaces define a code block ^fdf951
 
 ![[Code-Styles-and-Blocks.png]]
 

@@ -5,16 +5,16 @@
       "path": "Obsidian Tutorial/index.md"
     },
     {
+      "basename": "Obsidian",
+      "path": "Markdown/Obsidian.md"
+    },
+    {
       "basename": "Conflic-Obsidian",
       "path": "Conflic-Obsidian.md"
     },
     {
       "basename": "Theory",
       "path": "Fastify/Theory.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "Markdown/Obsidian.md"
     },
     {
       "basename": "Udemy-course",

@@ -6,10 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiListSearch",
-      "LiListVideo",
-      "BoBxsBookmarks",
-      "SiAdobephotoshop"
+      "TiDatabase",
+      "SiObsidian",
+      "FasBookBookmark",
+      "LiListEnd",
+      "RiPlayList2Fill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -24,5 +25,7 @@
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false
   },
-  "Obsidian Tutorial/index.md": "TiListSearch"
+  "Obsidian Tutorial": "SiObsidian",
+  "Obsidian Tutorial/Chapters Links.md": "RiPlayList2Fill",
+  "Obsidian Tutorial/Data": "TiDatabase"
 }

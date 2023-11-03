@@ -1,7 +1,7 @@
 [
-  "cm-editor-syntax-highlight-obsidian",
   "obsidian-git",
   "obsidian-excalidraw-plugin",
-  "obsidian-admonition",
-  "obsidian-plugin-prettier"
+  "obsidian-plugin-prettier",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-admonition"
 ]

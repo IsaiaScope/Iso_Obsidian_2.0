@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBookmark",
       "TiCertificate",
       "SiCoursera",
       "TiFileTypePdf",
-      "FasFilePdf",
-      "FarFilePdf"
+      "FasFilePdf"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,7 +39,8 @@
   "Fastify/Dashboard.md": "IbDashboard",
   "Fastify/Data": "TiDatabase",
   "Fastify/Data/Book": "TiBook",
-  "Fastify/Data/Book/Chapter-1.md": "LiBookmark",
   "Certificates": "TiCertificate",
-  "Certificates/Udemy": "SiUdemy"
+  "Certificates/Udemy": "SiUdemy",
+  "Fastify/Data/Book/Overview.md": "LiBookmark",
+  "Fastify/Data/Book/Plugin.md": "LiBookmark"
 }

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
+      "basename": "Plugin",
+      "path": "Fastify/Data/Book/Plugin.md"
     },
     {
-      "basename": "Chapter-1",
-      "path": "Fastify/Data/Book/Chapter-1.md"
+      "basename": "Overview",
+      "path": "Fastify/Data/Book/Overview.md"
+    },
+    {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
     },
     {
       "basename": "index",

@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiBook",
+      "SiFastify",
       "IbDashboard",
       "SiMarkdown",
-      "RiMarkdownLine",
-      "SiUdemy",
-      "LiFiles"
+      "RiMarkdownLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -32,5 +32,8 @@
   "Markdown/Udemy-course.md": "SiUdemy",
   "Markdown/Files": "LiFiles",
   "Markdown": "SiMarkdown",
-  "Obsidian Tutorial/Dashboard.md": "IbDashboard"
+  "Obsidian Tutorial/Dashboard.md": "IbDashboard",
+  "Fastify": "SiFastify",
+  "Fastify/Files": "LiFiles",
+  "Fastify/SEBA Book.pdf": "TiBook"
 }

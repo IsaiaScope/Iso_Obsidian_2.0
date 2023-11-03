@@ -1,28 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Obsidian Tutorial/Dashboard.md"
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
     },
     {
-      "basename": "Cheatsheet",
-      "path": "Markdown/Cheatsheet.pdf"
+      "basename": "Theory",
+      "path": "Fastify/Theory.md"
     },
     {
-      "basename": "Add Media",
-      "path": "Obsidian Tutorial/Data/Add Media.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "Markdown/Obsidian.md"
+      "basename": "Extra",
+      "path": "Fastify/Extra.md"
     },
     {
       "basename": "Conflic-Obsidian",
       "path": "Conflic-Obsidian.md"
     },
     {
-      "basename": "Theory",
-      "path": "Fastify/Theory.md"
+      "basename": "Application-lifecycle",
+      "path": "Fastify/Files/Application-lifecycle.png"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Obsidian Tutorial/Dashboard.md"
+    },
+    {
+      "basename": "Add Media",
+      "path": "Obsidian Tutorial/Data/Add Media.md"
+    },
+    {
+      "basename": "Short-cuts",
+      "path": "Short-cuts.md"
+    },
+    {
+      "basename": "Cheatsheet",
+      "path": "Markdown/Cheatsheet.pdf"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Markdown/Obsidian.md"
     },
     {
       "basename": "Udemy-course",

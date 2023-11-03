@@ -3,5 +3,7 @@
   "obsidian-excalidraw-plugin",
   "obsidian-plugin-prettier",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "calendar",
+  "periodic-notes"
 ]

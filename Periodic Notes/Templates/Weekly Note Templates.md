@@ -1,0 +1,5 @@
+# Weekly Notes
+
+## TODOS
+
+- [ ] 

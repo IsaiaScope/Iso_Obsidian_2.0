@@ -9,7 +9,7 @@
 
 ## Plugins
 
-- periodic notes, calendar 
+- periodic notes, calendar, recent files
 	- [YouTube Video](https://www.youtube.com/watch?v=Byy-QNgtHIg)
 
 

@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiBook",
-      "SiFastify",
-      "IbDashboard",
-      "SiMarkdown",
-      "RiMarkdownLine"
+      "TiCertificate",
+      "SiCoursera",
+      "TiFileTypePdf",
+      "FasFilePdf",
+      "FarFilePdf"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,5 +35,11 @@
   "Obsidian Tutorial/Dashboard.md": "IbDashboard",
   "Fastify": "SiFastify",
   "Fastify/Files": "LiFiles",
-  "Fastify/SEBA Book.pdf": "TiBook"
+  "Fastify/SEBA Book.pdf": "TiBook",
+  "Fastify/Dashboard.md": "IbDashboard",
+  "Fastify/Data": "TiDatabase",
+  "Fastify/Data/Book": "TiBook",
+  "Fastify/Data/Book/Chapter-1.md": "LiBookmark",
+  "Certificates": "TiCertificate",
+  "Certificates/Udemy": "SiUdemy"
 }

@@ -5,12 +5,68 @@
       "path": "Fastify/SEBA Book.pdf"
     },
     {
-      "basename": "Theory",
-      "path": "Fastify/Theory.md"
+      "basename": "Chapter-1",
+      "path": "Fastify/Data/Book/Chapter-1.md"
     },
     {
-      "basename": "Extra",
-      "path": "Fastify/Extra.md"
+      "basename": "index",
+      "path": "accessibility/index.md"
+    },
+    {
+      "basename": "Creating Accessible Websites",
+      "path": "Certificates/Udemy/Accessibility/Creating Accessible Websites.pdf"
+    },
+    {
+      "basename": "Web Design Accessibility",
+      "path": "Certificates/Udemy/Accessibility/Web Design Accessibility.jpg"
+    },
+    {
+      "basename": "PowerShell 5.1",
+      "path": "Certificates/Udemy/PowerShell 5.1.pdf"
+    },
+    {
+      "basename": "NodeJS",
+      "path": "Certificates/Udemy/NodeJS.jpg"
+    },
+    {
+      "basename": "Markdown",
+      "path": "Certificates/Udemy/Markdown.pdf"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "Certificates/Udemy/JavaScript.pdf"
+    },
+    {
+      "basename": "Ionic",
+      "path": "Certificates/Udemy/React/Ionic.pdf"
+    },
+    {
+      "basename": "React",
+      "path": "Certificates/Udemy/React/React.pdf"
+    },
+    {
+      "basename": "TanStack Query V4",
+      "path": "Certificates/Udemy/React/TanStack Query V4.pdf"
+    },
+    {
+      "basename": "Cheatsheet",
+      "path": "Markdown/Cheatsheet.pdf"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Markdown/Obsidian.md"
+    },
+    {
+      "basename": "Udemy-course",
+      "path": "Markdown/Udemy-course.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Fastify/Dashboard.md"
+    },
+    {
+      "basename": "Extra Notes",
+      "path": "Fastify/Extra Notes.md"
     },
     {
       "basename": "Conflic-Obsidian",
@@ -31,18 +87,6 @@
     {
       "basename": "Short-cuts",
       "path": "Short-cuts.md"
-    },
-    {
-      "basename": "Cheatsheet",
-      "path": "Markdown/Cheatsheet.pdf"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "Markdown/Obsidian.md"
-    },
-    {
-      "basename": "Udemy-course",
-      "path": "Markdown/Udemy-course.md"
     }
   ],
   "omittedPaths": [],

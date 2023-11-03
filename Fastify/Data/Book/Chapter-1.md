@@ -113,7 +113,7 @@ app.addHook("onReady", async function preLoading() {
 ### Application lifecycle
 
 - [[Application-lifecycle.png]]
-  
+
 At the start of the application, the onRoute and onRegister hooks are executed whenever a new route or a new encapsulated context is created (we will discuss the encapsulated context by the end of this chapter, in the Adding a basic plugin instance section). The dashed lines in Figure 1.1 mean that these hooks’ functions are run synchronously and are not awaited before the server starts up. When the application is loaded, the onReady hooks queue is performed, and the server will start listening if there are no errors during this startup phase. Only after the application is up and running will it be able to receive stop events. These events will start the closing stage, during which the onClose hooks’ queue will be executed before stopping the server. The closing phase will be discussed in the Shutting down the application section.
 
 ### The request lifecycle
@@ -196,6 +196,7 @@ function business(request, reply) {
 ```
 
 ### NOTE
+
 1. The async handler function may completely avoid calling the reply.send method instead. It can return the payload directly.
 2. we have updated a synchronous interface to an async interface, updating how we manage the response payload accordingly. The async functions that do not execute the send method can be beneficial to reuse handlers in other handler functions, as in the following example:
 
@@ -211,6 +212,5 @@ app.get("/foo", foo);
 app.get("/bar", bar);
 ```
 
-
-
 ---
+

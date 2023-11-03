@@ -214,3 +214,5 @@ app.get("/bar", bar);
 
 ---
 
+The Reply component We have already met the Reply object component. It forwards the response to the client, and it exposes all you need in order to provide a complete answer to the request. It provides a full set of functions to control all response aspects: • reply.send(payload) will send the response payload to the client. The payload can be a String, a JSON object, a Buffer, a Stream, or an Error object. It can be replaced by returning the response’s body in the handler’s function. • reply.code(number) will set the response status code. • reply.header(key, value) will add a response header. • reply.type(string) is a shorthand to define the Content-Type header. The Reply component’s methods can be chained to a single statement to reduce the code noise as follows: reply.code(201).send('done').
+

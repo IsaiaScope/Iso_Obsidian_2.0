@@ -18,6 +18,8 @@
   - [Google](https://www.google.com)
 - External links absolute path
   - [Link to TS/theory/as-const.md](TS/theory/as-const.md)
+- Link to External Media
+	
 - Embedding Links
   - ![[Udemy-course#^c94268]]
 - Images

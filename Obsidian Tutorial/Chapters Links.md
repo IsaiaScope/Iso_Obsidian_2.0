@@ -2,7 +2,7 @@
 
 ## Markdown
 
-- [[Obsidian | Link to Local Obsidian Markdown Notes]]
+- [[Obsidian | Obsidian Markdown Note]]
 
 
 ---
@@ -11,6 +11,13 @@
 
 - periodic notes, calendar, recent files
 	- [YouTube Video](https://www.youtube.com/watch?v=Byy-QNgtHIg) 
+
+
+---
+
+## Add Media
+
+- [[Add Media | Add Media Note]]
 
 
 ---

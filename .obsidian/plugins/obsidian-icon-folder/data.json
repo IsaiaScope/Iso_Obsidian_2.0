@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiDatabase",
-      "SiObsidian",
-      "FasBookBookmark",
-      "LiListEnd",
-      "RiPlayList2Fill"
+      "LiPlayCircle",
+      "BoBxMoviePlay",
+      "TiPlayerPlay",
+      "RiYoutubeLine",
+      "TiVideo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -20,12 +20,13 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false,
+    "iconInTabsEnabled": true,
     "iconInTitleEnabled": false,
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false
   },
   "Obsidian Tutorial": "SiObsidian",
   "Obsidian Tutorial/Chapters Links.md": "RiPlayList2Fill",
-  "Obsidian Tutorial/Data": "TiDatabase"
+  "Obsidian Tutorial/Data": "TiDatabase",
+  "Obsidian Tutorial/Data/Add Media.md": "LiPlayCircle"
 }

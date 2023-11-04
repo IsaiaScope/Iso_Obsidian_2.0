@@ -50,3 +50,77 @@ app.register(
 ```
 
 Instead of adding our custom properties at the top level of the options parameter, we will group them in a custom key, lowering the chances for future name collisions. Passing an object is fine in most cases, but sometimes, we need more flexibility.
+
+### The prefix option
+
+The prefix option comes in handy here because it allows us to add a namespace to our route declarations.
+
+- Maintaining different versions of our APIs
+- Reusing the same plugin and routes definition for various applications, giving another mount point each time
+
+```js
+// users-router.cjs
+module.exports = async function usersRouter(fastify, _) {
+	fastify.register(
+		async function routes(child, _options) {
+			// [1]
+			child.get("/", async (_request, reply) => {
+				reply.send(child.users);
+			});
+			child.post("/", async (request, reply) => {
+				// [2]
+				const newUser = request.body;
+				child.users.push(newUser);
+				reply.send(newUser);
+			});
+		},
+		{ prefix: "users" } // [3]
+	);
+};
+```
+
+```js
+// users-router-index.cjs
+const Fastify = require("fastify");
+const usersRouter = require("./users-router.cjs");
+
+const app = Fastify();
+app.decorate("users", [
+	// [1]
+	{
+		name: "Sam",
+		age: 23,
+	},
+	{
+		name: "Daphne",
+		age: 21,
+	},
+]);
+
+app.register(usersRouter, { prefix: "v1" }); // [2]
+app.register(
+	async function usersRouterV2(fastify, options) {
+		// [3]
+		fastify.register(usersRouter); // [4]
+		fastify.delete("/users/:name", (request, reply) => {
+			// [5]
+			const userIndex = fastify.users.findIndex(
+				(user) => user.name === request.params.name
+			);
+			fastify.users.splice(userIndex, 1);
+			reply.send();
+		});
+	},
+	{ prefix: "v2" }
+);
+
+app.ready().then(() => {
+	console.log(app.printRoutes());
+}); // [6]
+```
+
+First of all, we decorate the Fastify root instance with the users property ([1]); as previously, this will act as our database for this example. On [2], we register our user’s router with the v1 prefix. Then, we register a new inline-declared plugin ([3]), using the v2 namespace (every route added in this plugin will have the v2 namespace). On [4], we register the same user’s routes for a second time, and we also add a newly declared delete route ([5])
+
+Indeed, prefixing route definitions is a compelling feature. It allows us to reuse the same route declarations more than once. It is one of the crucial elements of the reusability of the Fastify plugins
+
+---

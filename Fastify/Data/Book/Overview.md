@@ -1,5 +1,7 @@
 # Fastify
 
+- [GitHub Repo of the Book Chapters](https://github.com/IsaiaRiva/Accelerating-Server-Side-Development-with-Fastify/tree/main)
+
 ## What is Fastify?
 
 Fastify is a Node.js web framework used to build server applications. It helps you develop an HTTP server and create your API in an easy, fast, scalable, and secure way!
@@ -249,6 +251,5 @@ app.register(
 	{ hello: "the opts object" }
 );
 ```
-
 
 ---

@@ -77,7 +77,10 @@ root -- hello from the root instance.
 root -- hello from myPlugin.
 ```
 
-Instead of using just the skip-override property as a string, Fastify uses Symbol.for to hide it and avoid name collisions.
+Instead of using just the skip-override property as a string, Fastify uses Symbol.for to hide it and avoid name collisions. [MDN Symbol](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol)
 
+#### fastify-plugin
 
+Using skip-override is perfectly fine, but there is a better way to control encapsulation behavior. Like many things in the Fastify world, the fastify-plugin module is nothing more than a function that wraps a plugin, adds some metadata to it, and returns it.
 
+- [fastify-plugin](https://www.npmjs.com/package/fastify-plugin)

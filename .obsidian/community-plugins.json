@@ -8,5 +8,7 @@
   "periodic-notes",
   "recent-files-obsidian",
   "obsidian-icon-folder",
-  "obsidian-plugin-update-tracker"
+  "obsidian-plugin-update-tracker",
+  "obsidian-show-file-path",
+  "obsidian-hider"
 ]

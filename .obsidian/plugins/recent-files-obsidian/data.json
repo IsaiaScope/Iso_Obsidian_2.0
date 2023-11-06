@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Plugin",
-      "path": "Fastify/Data/Book/Plugin.md"
-    },
-    {
       "basename": "SEBA Book",
       "path": "Fastify/SEBA Book.pdf"
     },
     {
+      "basename": "Context(this)-vs-scope",
+      "path": "Fastify/Data/Theory/Context(this)-vs-scope.md"
+    },
+    {
+      "basename": "encapsulation",
+      "path": "Fastify/Data/Theory/encapsulation.png"
+    },
+    {
+      "basename": "Application-lifecycle",
+      "path": "Fastify/Files/Application-lifecycle.png"
+    },
+    {
+      "basename": "Plugin",
+      "path": "Fastify/Data/Book/Plugin.md"
+    },
+    {
+      "basename": "prompt",
+      "path": "GitHub/prompt.md"
+    },
+    {
+      "basename": "index",
+      "path": "GitHub/index.md"
+    },
+    {
       "basename": "Overview",
       "path": "Fastify/Data/Book/Overview.md"
+    },
+    {
+      "basename": "Add Media",
+      "path": "Obsidian Tutorial/Data/Add Media.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Obsidian Tutorial/Dashboard.md"
+    },
+    {
+      "basename": "Extra Notes",
+      "path": "Fastify/Extra Notes.md"
     },
     {
       "basename": "index",
@@ -69,24 +101,8 @@
       "path": "Fastify/Dashboard.md"
     },
     {
-      "basename": "Extra Notes",
-      "path": "Fastify/Extra Notes.md"
-    },
-    {
       "basename": "Conflic-Obsidian",
       "path": "Conflic-Obsidian.md"
-    },
-    {
-      "basename": "Application-lifecycle",
-      "path": "Fastify/Files/Application-lifecycle.png"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Obsidian Tutorial/Dashboard.md"
-    },
-    {
-      "basename": "Add Media",
-      "path": "Obsidian Tutorial/Data/Add Media.md"
     },
     {
       "basename": "Short-cuts",

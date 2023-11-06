@@ -124,3 +124,4 @@ First of all, we decorate the Fastify root instance with the users property ([1]
 Indeed, prefixing route definitions is a compelling feature. It allows us to reuse the same route declarations more than once. It is one of the crucial elements of the reusability of the Fastify plugins
 
 ---
+

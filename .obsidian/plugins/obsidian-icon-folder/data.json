@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBookmark",
-      "TiCertificate",
-      "SiCoursera",
-      "TiFileTypePdf",
-      "FasFilePdf"
+      "SiIonic",
+      "LiGitFork",
+      "FabGithub",
+      "LiGithub",
+      "LiBookmark"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,7 @@
   "Certificates": "TiCertificate",
   "Certificates/Udemy": "SiUdemy",
   "Fastify/Data/Book/Overview.md": "LiBookmark",
-  "Fastify/Data/Book/Plugin.md": "LiBookmark"
+  "Fastify/Data/Book/Plugin.md": "LiBookmark",
+  "GitHub": "FabGithub",
+  "Ionic": "SiIonic"
 }

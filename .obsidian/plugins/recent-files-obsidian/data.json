@@ -5,6 +5,10 @@
       "path": "Fastify/Data/Theory/Context(this)-vs-scope.md"
     },
     {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
+    },
+    {
       "basename": "encapsulation",
       "path": "Fastify/Files/encapsulation.png"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Plugin",
       "path": "Fastify/Data/Book/Plugin.md"
-    },
-    {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
     },
     {
       "basename": "Application-lifecycle",

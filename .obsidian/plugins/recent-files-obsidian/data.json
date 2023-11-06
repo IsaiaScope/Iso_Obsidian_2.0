@@ -1,28 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "The-after-instance-method",
-      "path": "Fastify/Data/Theory/The-after-instance-method.md"
+      "basename": "Routes",
+      "path": "Fastify/Data/Book/Routes.md"
     },
     {
       "basename": "Plugin",
       "path": "Fastify/Data/Book/Plugin.md"
     },
     {
-      "basename": "Overview",
-      "path": "Fastify/Data/Book/Overview.md"
+      "basename": "Obsidian",
+      "path": "Markdown/Obsidian.md"
     },
     {
-      "basename": "The-register-instance-method",
-      "path": "Fastify/Data/Theory/The-register-instance-method.md"
+      "basename": "Handling boot and plugin errors",
+      "path": "Fastify/Data/Theory/Handling boot and plugin errors.md"
     },
     {
       "basename": "SEBA Book",
       "path": "Fastify/SEBA Book.pdf"
     },
     {
-      "basename": "Context(this)-vs-scope",
-      "path": "Fastify/Data/Theory/Context(this)-vs-scope.md"
+      "basename": "The after instance method",
+      "path": "Fastify/Data/Theory/The after instance method.md"
+    },
+    {
+      "basename": "The register instance method",
+      "path": "Fastify/Data/Theory/The register instance method.md"
+    },
+    {
+      "basename": "Context (This) versus scope",
+      "path": "Fastify/Data/Theory/Context (This) versus scope.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Fastify/Data/Book/Overview.md"
     },
     {
       "basename": "encapsulation",
@@ -99,10 +111,6 @@
     {
       "basename": "Cheatsheet",
       "path": "Markdown/Cheatsheet.pdf"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "Markdown/Obsidian.md"
     },
     {
       "basename": "Udemy-course",

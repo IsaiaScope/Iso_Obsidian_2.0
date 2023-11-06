@@ -127,7 +127,7 @@ Indeed, prefixing route definitions is a compelling feature. It allows us to reu
 
 ## Context (This) versus scope
 
-- [[Context(this)-vs-scope]]
+- [[Context (This) versus scope]]
 
 ---
 
@@ -137,6 +137,16 @@ But how does Fastify know the correct order of plugin registration? Is it even a
 
 _Firstly, it is essential to say that the Fastify boot sequence is asynchronous too. Fastify loads every plugin added with the register method, one by one, respecting the order of the registration. Fastify starts this process only after .listen() or .ready() are called. After that, it waits for all promises to be settled (or for all completed callbacks to be called, if the callback style is used), and then it emits the ready event. If we have already got this far, we can be sure that our application is up and running and ready to receive incoming requests_
 
-Even if Fastify’s boot process is very versatile, it handles almost everything out of the box. The exposed API is small – there are just two methods! The first one is the register method, which we have already used many times. The other one is *after*, and as we will see, it is rarely used because register integrates its functionalities for most of the use cases.
+Even if Fastify’s boot process is very versatile, it handles almost everything out of the box. The exposed API is small – there are just two methods! The first one is the register method, which we have already used many times. The other one is _after_, and as we will see, it is rarely used because register integrates its functionalities for most of the use cases.
 
+- [[The register instance method]]
+- [[The after instance method]]
+- [[Handling boot and plugin errors]]
 
+Using the following declaration order will help figure out what the issue is:
+
+- Plugins installed from npmjs.com
+- Our plugins
+- Decorators The Plugin System and the Boot Process54
+- Hooks
+- Services, routes, and so on

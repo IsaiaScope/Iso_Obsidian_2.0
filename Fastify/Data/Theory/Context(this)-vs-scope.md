@@ -85,5 +85,6 @@ Using skip-override is perfectly fine, but there is a better way to control enca
 
 - [fastify-plugin](https://www.npmjs.com/package/fastify-plugin)
 
-The *fp naming* convention In the Fastify community, it is common to import the fastify-plugin package as fp because it is a short yet meaningful variable name. In this book, we will use this convention every time we deal with it.
+The _fp naming_ convention In the Fastify community, it is common to import the fastify-plugin package as fp because it is a short yet meaningful variable name. In this book, we will use this convention every time we deal with it.
 
+---

@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Context(this)-vs-scope",
-      "path": "Fastify/Data/Theory/Context(this)-vs-scope.md"
+      "basename": "The-register-instance-method",
+      "path": "Fastify/Data/Theory/The-register-instance-method.md"
     },
     {
       "basename": "SEBA Book",
       "path": "Fastify/SEBA Book.pdf"
+    },
+    {
+      "basename": "Overview",
+      "path": "Fastify/Data/Book/Overview.md"
+    },
+    {
+      "basename": "Context(this)-vs-scope",
+      "path": "Fastify/Data/Theory/Context(this)-vs-scope.md"
+    },
+    {
+      "basename": "Plugin",
+      "path": "Fastify/Data/Book/Plugin.md"
     },
     {
       "basename": "encapsulation",
@@ -15,10 +27,6 @@
     {
       "basename": "Plugins List",
       "path": "Fastify/Data/Plugins List.md"
-    },
-    {
-      "basename": "Plugin",
-      "path": "Fastify/Data/Book/Plugin.md"
     },
     {
       "basename": "Application-lifecycle",
@@ -31,10 +39,6 @@
     {
       "basename": "index",
       "path": "GitHub/index.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "Fastify/Data/Book/Overview.md"
     },
     {
       "basename": "Add Media",

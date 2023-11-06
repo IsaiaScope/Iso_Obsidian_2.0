@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "The-after-instance-method",
+      "path": "Fastify/Data/Theory/The-after-instance-method.md"
+    },
+    {
+      "basename": "Plugin",
+      "path": "Fastify/Data/Book/Plugin.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Fastify/Data/Book/Overview.md"
+    },
+    {
       "basename": "The-register-instance-method",
       "path": "Fastify/Data/Theory/The-register-instance-method.md"
     },
@@ -9,16 +21,8 @@
       "path": "Fastify/SEBA Book.pdf"
     },
     {
-      "basename": "Overview",
-      "path": "Fastify/Data/Book/Overview.md"
-    },
-    {
       "basename": "Context(this)-vs-scope",
       "path": "Fastify/Data/Theory/Context(this)-vs-scope.md"
-    },
-    {
-      "basename": "Plugin",
-      "path": "Fastify/Data/Book/Plugin.md"
     },
     {
       "basename": "encapsulation",

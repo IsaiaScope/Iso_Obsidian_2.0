@@ -5,6 +5,10 @@
       "path": "Fastify/Data/Book/Routes.md"
     },
     {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
+    },
+    {
       "basename": "Plugin",
       "path": "Fastify/Data/Book/Plugin.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Handling boot and plugin errors",
       "path": "Fastify/Data/Theory/Handling boot and plugin errors.md"
-    },
-    {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
     },
     {
       "basename": "The after instance method",

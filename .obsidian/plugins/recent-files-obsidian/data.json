@@ -1,24 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "plugins",
-      "path": "Fastify/Data/plugins.md"
+      "basename": "Context(this)-vs-scope",
+      "path": "Fastify/Data/Theory/Context(this)-vs-scope.md"
+    },
+    {
+      "basename": "encapsulation",
+      "path": "Fastify/Files/encapsulation.png"
+    },
+    {
+      "basename": "Plugins List",
+      "path": "Fastify/Data/Plugins List.md"
     },
     {
       "basename": "Plugin",
       "path": "Fastify/Data/Book/Plugin.md"
     },
     {
-      "basename": "Context(this)-vs-scope",
-      "path": "Fastify/Data/Theory/Context(this)-vs-scope.md"
-    },
-    {
       "basename": "SEBA Book",
       "path": "Fastify/SEBA Book.pdf"
-    },
-    {
-      "basename": "encapsulation",
-      "path": "Fastify/Data/Theory/encapsulation.png"
     },
     {
       "basename": "Application-lifecycle",

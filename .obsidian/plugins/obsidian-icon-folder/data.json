@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiPlug",
       "BoBxsFlask",
       "TiBrain",
       "SiIonic",
-      "LiGitFork",
-      "FabGithub"
+      "LiGitFork"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -45,5 +45,6 @@
   "Fastify/Data/Book/Plugin.md": "LiBookmark",
   "GitHub": "FabGithub",
   "Ionic": "SiIonic",
-  "Fastify/Data/Theory": "BoBxsFlask"
+  "Fastify/Data/Theory": "BoBxsFlask",
+  "Fastify/Data/Plugins List.md": "TiPlug"
 }

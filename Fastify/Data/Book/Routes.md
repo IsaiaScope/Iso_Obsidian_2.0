@@ -16,6 +16,8 @@ async function asyncHandler(request, reply) {
 }
 ```
 
+---
+
 ## Reply is a Promise
 
 In an async function handler, it is highly discouraged to call reply.send() to send a response back to the client. Use _return_ keyword
@@ -53,9 +55,49 @@ As you can see, at first sight, the differences are minimal: in [1], the send me
 
 ---
 
-## The error handler 
-is a function that is executed whenever an Error object or a JSON is thrown or sent; this means that the error handler is the same regardless of the implementation of the route.
+## The error handler
+
+- respect hierarchy
 
 ```js
-
+async function errorTrigger(request, reply) {
+	throw new Error("ops");
+}
+app.register(async function plugin(pluginInstance) {
+	pluginInstance.setErrorHandler(function (error, request, reply) {
+		request.log.error(error, "an error happened");
+		reply.status(503).send({ ok: false });
+	});
+	pluginInstance.get("/customError", errorTrigger); // [1]
+});
+app.get("/defaultError", errorTrigger); // [2]
 ```
+
+Declaring API endpoints and managing the errors 69 We have defined a bad route handle, errorTrigger, that will always throw an Error. Then, we registered two routes:
+
+- The GET /customError [1] route is inside a plugin, so it is in a new Fastify context.
+- The root application instance registers the GET /defaultError [2] route instead.
+
+We set pluginInstance.setErrorHandler, so all the routes registered inside that plugin and its children’s contexts will use your custom error handler function during the plugin creation. Meanwhile, the app’s routes will use the default error handler because we didn’t customize it. At this stage, making an HTTP request to those endpoints will give us two different outputs, as expected:
+
+- The GET /customError route triggers the error, and it is managed by the custom error handler, so the output will be {"ok":false}.
+- The GET /defaultError endpoint replies with the Fastify default JSON format that was shown at the beginning of this section.
+
+It is not over yet! Fastify implements an outstanding granularity for most of the features it supports. This means that you can set a custom error handler for every route!
+
+```js
+app.get("/routeError", {
+	handler: errorTrigger,
+	errorHandler: async function (error, request, reply) {
+		request.log.error(error, "a route error happened");
+		return { routeFail: false };
+	},
+});
+```
+
+- [[Differences between the async and sync handlers.png]]
+
+---
+
+## Routing to the endpoint
+

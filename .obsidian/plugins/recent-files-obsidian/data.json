@@ -9,6 +9,10 @@
       "path": "Fastify/SEBA Book.pdf"
     },
     {
+      "basename": "Differences between the async and sync handlers",
+      "path": "Fastify/Files/Differences between the async and sync handlers.png"
+    },
+    {
       "basename": "Summary",
       "path": "Fastify/Data/Book/Summary.md"
     },

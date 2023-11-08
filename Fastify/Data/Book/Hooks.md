@@ -190,5 +190,44 @@ Since we have access to the reply object, we can also change the reply’s respo
 
 ### The preParsing hook
 
-Declaring a preParsing hook allows us to transform the incoming request payload before it is parsed. This callback is asynchronous
+Declaring a preParsing hook allows us to transform the incoming request payload before it is parsed. This callback is asynchronous and accepts three parameters: Request, Reply, and the payload stream. Again, the body request is null since this hook is triggered before preValidation. Therefore, we must return a stream if we want to modify the incoming payload. Moreover, developers are also in charge of adding and updating the receivedEncodedLength property of the returned value.
+
+The example shows how to change the incoming payload working directly with streams:
+
+```js
+// pre-parsing.cjs
+const Fastify = require("fastify");
+const { Readable } = require("stream");
+
+const app = Fastify({ logger: true });
+app.addHook("preParsing", async (request, _reply, payload) => {
+	let body = "";
+	for await (const chunk of payload) {
+		// [1]
+		body += chunk;
+	}
+	request.log.info(JSON.parse(body)); // [2]
+
+	const newPayload = new Readable(); // [3]
+	newPayload.receivedEncodedLength = parseInt(
+		request.headers["content-length"],
+		10
+	);
+	newPayload.push(JSON.stringify({ changed: "payload" }));
+	newPayload.push(null);
+
+	return newPayload;
+});
+app.post("/", (request, _reply) => {
+	request.log.info(request.body); // [4]
+	return "done";
+});
+
+app.listen({ port: 3000 }).catch((err) => {
+	app.log.error(err);
+	process.exit();
+});
+```
+
+At [1], we declare our preParsing hook that consumes the incoming payload stream and creates a body string. We then parse the body ([2]) and log the content to the console. At [3], we create a new Readable stream, assign the correct receivedEncodedLength value, push new content into it, and return it. Finally, we declare a dummy route ([4]) to log the body object.
 

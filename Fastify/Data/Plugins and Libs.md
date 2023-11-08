@@ -6,3 +6,4 @@
 
 - [find-my-way](https://github.com/delvedor/find-my-way)
 - [header-constraint-strategy](https://github.com/Eomm/header-constraint-strategy)
+- [qs](https://www.npmjs.com/package/qs)

@@ -5,16 +5,16 @@
       "path": "Fastify/SEBA Book.pdf"
     },
     {
+      "basename": "Routes",
+      "path": "Fastify/Data/Book/Routes.md"
+    },
+    {
       "basename": "Plugins and Libs",
       "path": "Fastify/Data/Plugins and Libs.md"
     },
     {
       "basename": "Resources",
       "path": "Fastify/Data/Resources.md"
-    },
-    {
-      "basename": "Routes",
-      "path": "Fastify/Data/Book/Routes.md"
     },
     {
       "basename": "Context (This) versus scope",

@@ -171,4 +171,29 @@ If you are struggling while choosing whether your endpoint should be named /fast
 
 ---
 
+## The body
 
+The request’s body can be read through the request.body property. Fastify handles two input content types:
+
+- The application/json produces a JavaScript object as a body value
+- The text/plain produces a string that will be set as a request.body value
+
+Note that the request payload will be read for the POST, PUT, PATCH, OPTIONS, and DELETE HTTP methods. The GET and HEAD ones don’t parse the body, as per the HTTP/1.1 specification.
+
+Fastify sets a length limit to the payload to protect the application from Denial-of-Service (DOS) attacks, sending a huge payload to block your server in the parsing phase. When a client hits the default 1-megabyte limit, it receives a 413 - Request body is too large error response. For example, this could be an unwanted behavior during an image upload. So, you should customize the default body size limit by setting the options as follows:
+
+```js
+const app = fastify({
+	// [1]
+	bodyLimit: 1024, // 1 KB
+});
+app.post(
+	"/",
+	{
+		// [2]
+		bodyLimit: 2097152, // 2 MB
+	},
+	handler
+);
+```
+The [1] configuration defines the maximum length for every route without a custom limit, such as route [2].

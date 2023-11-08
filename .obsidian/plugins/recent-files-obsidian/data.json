@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Routes",
-      "path": "Fastify/Data/Book/Routes.md"
-    },
-    {
       "basename": "SEBA Book",
       "path": "Fastify/SEBA Book.pdf"
+    },
+    {
+      "basename": "Plugins and Libs",
+      "path": "Fastify/Data/Plugins and Libs.md"
+    },
+    {
+      "basename": "Resources",
+      "path": "Fastify/Data/Resources.md"
+    },
+    {
+      "basename": "Routes",
+      "path": "Fastify/Data/Book/Routes.md"
     },
     {
       "basename": "Context (This) versus scope",
@@ -15,10 +23,6 @@
     {
       "basename": "Summary",
       "path": "Fastify/Data/Book/Summary.md"
-    },
-    {
-      "basename": "Plugins and Libs",
-      "path": "Fastify/Data/Plugins and Libs.md"
     },
     {
       "basename": "The register instance method",

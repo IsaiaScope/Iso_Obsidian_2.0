@@ -215,4 +215,6 @@ The printPlugins() method of [1] returns a string with a tree representation con
 Fastify internals
 The output shows the bound \_after string. You can simply ignore this string output because it is an internal Fastify behavior, and it does not give us information about our application.
 
+---
+
 

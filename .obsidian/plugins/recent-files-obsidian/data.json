@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Routes",
+      "path": "Fastify/Data/Book/Routes.md"
+    },
+    {
       "basename": "SEBA Book",
       "path": "Fastify/SEBA Book.pdf"
+    },
+    {
+      "basename": "Prompt",
+      "path": "GitHub/Prompt.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "GitHub/Dashboard.md"
+    },
+    {
+      "basename": "index",
+      "path": "Ionic/index.md"
     },
     {
       "basename": "Plugins and Libs",
@@ -11,10 +27,6 @@
     {
       "basename": "Summary",
       "path": "Fastify/Data/Book/Summary.md"
-    },
-    {
-      "basename": "Routes",
-      "path": "Fastify/Data/Book/Routes.md"
     },
     {
       "basename": "Resources",
@@ -63,14 +75,6 @@
     {
       "basename": "Application-lifecycle",
       "path": "Fastify/Files/Application-lifecycle.png"
-    },
-    {
-      "basename": "prompt",
-      "path": "GitHub/prompt.md"
-    },
-    {
-      "basename": "index",
-      "path": "GitHub/index.md"
     },
     {
       "basename": "Add Media",

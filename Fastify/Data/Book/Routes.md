@@ -22,4 +22,31 @@ In an async function handler, it is highly discouraged to call reply.send() to s
 
 ---
 
+## How to reply with errors
+
+Generally, in Fastify, an error can be sent when the handler function is sync or thrown when the handler is async. Let’s put this into practice:
+
+```js
+function syncHandler(request, reply) {
+	const myErr = new Error("this is a 500 error");
+	reply.send(myErr); // [1]
+}
+
+async function ayncHandler(request, reply) {
+	const myErr = new Error("this is a 500 error");
+	throw myErr; // [2]
+}
+
+async function ayncHandlerCatched(request, reply) {
+	try {
+		await ayncHandler(request, reply);
+	} catch (err) {
+		// [3]
+		this.log.error(err);
+		reply.status(200);
+		return { success: false };
+	}
+}
+```
+As you can see, at first sight, the differences are minimal: in [1], the send method accepts a Node.js Error object with a custom message. The [2] example is quite similar, but we are throwing the error. The [3] example shows how you can manage your errors with a try/catch block and choose to reply with a 200 HTTP success in any case!
 

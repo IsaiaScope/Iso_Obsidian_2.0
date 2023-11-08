@@ -9,20 +9,28 @@
       "path": "Fastify/SEBA Book.pdf"
     },
     {
-      "basename": "Differences between the async and sync handlers",
-      "path": "Fastify/Files/Differences between the async and sync handlers.png"
+      "basename": "Context (This) versus scope",
+      "path": "Fastify/Data/Theory/Context (This) versus scope.md"
     },
     {
       "basename": "Summary",
       "path": "Fastify/Data/Book/Summary.md"
     },
     {
-      "basename": "The after instance method",
-      "path": "Fastify/Data/Theory/The after instance method.md"
+      "basename": "Plugins and Libs",
+      "path": "Fastify/Data/Plugins and Libs.md"
     },
     {
       "basename": "The register instance method",
       "path": "Fastify/Data/Theory/The register instance method.md"
+    },
+    {
+      "basename": "Differences between the async and sync handlers",
+      "path": "Fastify/Files/Differences between the async and sync handlers.png"
+    },
+    {
+      "basename": "The after instance method",
+      "path": "Fastify/Data/Theory/The after instance method.md"
     },
     {
       "basename": "grid-secrets",
@@ -45,16 +53,8 @@
       "path": "Fastify/Data/Theory/Handling boot and plugin errors.md"
     },
     {
-      "basename": "Context (This) versus scope",
-      "path": "Fastify/Data/Theory/Context (This) versus scope.md"
-    },
-    {
       "basename": "encapsulation",
       "path": "Fastify/Files/encapsulation.png"
-    },
-    {
-      "basename": "Plugins List",
-      "path": "Fastify/Data/Plugins List.md"
     },
     {
       "basename": "Application-lifecycle",

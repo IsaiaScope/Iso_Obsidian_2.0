@@ -46,9 +46,9 @@
   "GitHub": "FabGithub",
   "Ionic": "SiIonic",
   "Fastify/Data/Theory": "BoBxsFlask",
-  "Fastify/Data/Plugins List.md": "TiPlug",
   "Fastify/Data/Book/Routes.md": "LiBookmark",
   "Style (SASS & CSS)": "FabCss3",
   "Style (SASS & CSS)/CSS": "SiCss3",
-  "Style (SASS & CSS)/SASS": "FabSass"
+  "Style (SASS & CSS)/SASS": "FabSass",
+  "Fastify/Data/Plugins and Libs.md": "TiPlug"
 }

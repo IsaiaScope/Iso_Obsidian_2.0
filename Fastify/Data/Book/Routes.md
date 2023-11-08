@@ -97,7 +97,78 @@ app.get("/routeError", {
 
 - [[Differences between the async and sync handlers.png]]
 
+### The 404 handler
+
+Fastify provides a way to configure a 404 handler. It is like a typical route handler, and it exposes the same interfaces and async or sync logic:
+
+```js
+app.register(
+	async function plugin(instance, opts) {
+		instance.setNotFoundHandler(function html404(request, reply) {
+			reply.type("application/html").send(niceHtmlPage);
+		});
+	},
+	{ prefix: "/site" } // [1]
+);
+
+app.setNotFoundHandler(function custom404(request, reply) {
+	reply.send({ not: "found" });
+});
+```
+
+In this example, we have set the custom404 root 404 handler and the plugin instance html404. This can be useful when your server manages multiple contents, such as a static website that shows a cute and funny HTML page when an non-existent page is requested, or shows a JSON when a missing API is queried.
+
+The previous code example tells Fastify to search for the handler to execute into the plugin instance when the requested URL starts with the /site string. If Fastify doesn’t find a match in this context, it will use the Not Found handler of that context. So, for example, let’s consider the following URLs:
+
+- The http://localhost:8080/site/foo URL will be served by the html404 handler
+- The http://localhost:8080/foo URL will be served by the custom404 instead
+
+The prefix parameter (marked as [1] in the previous code block) is mandatory to set multiple 404 handlers; otherwise, Fastify will not start the server, because it doesn’t know when to execute which one, and it will trigger a startup error.
+
 ---
 
-## Routing to the endpoint
+## Router application tuning
+
+- The trailing slash
+
+Fastify thinks that the /foo and /foo/ URLs are different, and you can register them and let them reply to two completely different outputs:
+
+```js
+app.get("/foo", function (request, reply) {
+	reply.send("plain foo");
+});
+app.get("/foo/", function (request, reply) {
+	reply.send("foo with trailin slash");
+});
+```
+
+- Case-insensitive URLs
+
+  - Another common issue you could face is having to support both the /fooBar and /foobar URLs as a single endpoint (note the case of the B character). As per the trailing slash example, Fastify will manage these routes as two distinct items; in fact, you can register both routes with two different handler functions
+  - The caseSensitive option will instruct the router to match all your endpoints in lowercase
+
+- Rewrite URL
+
+This feature adds the possibility of changing the HTTP’s requested URL before the routing takes place:
+
+```js
+const app = fastify({
+	rewriteUrl: function rewriteUrl(rawRequest) {
+		if (rawRequest.url.startsWith("/api")) {
+			return rawRequest.url;
+		}
+		return `/public/${rawRequest.url}`;
+	},
+});
+```
+
+The rewriteUrl parameter accepts an input sync function that must return a string. The returned line will be set as the request URL, and it will be used during the routing process. Note that the function argument is the standard http.IncomingMessage class and not the Fastify Request component.
+This technique could be useful as a URL expander or to avoid redirecting the client with the 302 HTTP response status code.
+
+### The URL’s pathname
+
+If you are struggling while choosing whether your endpoint should be named /fast-car or /fast_car, you should know that a hyphen is broadly used for web page URLs, whereas the underscore is used for API endpoints.
+
+---
+
 

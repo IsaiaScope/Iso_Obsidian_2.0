@@ -137,7 +137,15 @@ First, we decorate the top-level Fastify instance with a custom data object ([1]
 
 ```console
 $ node on-register.cjs
-{"level":30,"time":1636192862276,"pid":13381,"hostname":"localhost", "options":{"name":"plugin1"}} {"level":30,"time":1636192862276,"pid":13381,"hostname":"localhost", "data":{"foo":"bar","plugin1":"hi"}} {"level":30,"time":1636192862277,"pid":13381,"hostname":"localhost", "data":{"foo":"bar","plugin2":"hi2"}} {"level":30,"time":1636192862284,"pid":13381,"hostname":"localhost", "msg":"Application is ready."} {"level":30,"time":1636192862284,"pid":13381,"hostname":"localhost", "data":{"foo":"bar","plugin2":"hi2"}}
+{"level":30,"time":1636192862276,"pid":13381,"hostname":"localhost", "options":{"name":"plugin1"}}
+
+{"level":30,"time":1636192862276,"pid":13381,"hostname":"localhost", "data":{"foo":"bar","plugin1":"hi"}}
+
+{"level":30,"time":1636192862277,"pid":13381,"hostname":"localhost", "data":{"foo":"bar","plugin2":"hi2"}}
+
+{"level":30,"time":1636192862284,"pid":13381,"hostname":"localhost", "msg":"Application is ready."}
+
+{"level":30,"time":1636192862284,"pid":13381,"hostname":"localhost", "data":{"foo":"bar","plugin2":"hi2"}}
 ```
 
 #### Shallow-copy versus deep copy
@@ -179,5 +187,3 @@ fastify.addHook("onResponse", async (request, reply) => {
 ```
 
 Since we have access to the reply object, we can also change the reply’s response code and reply to the client directly from the hook. If we choose not to reply in the case of an error or to reply with an error, then Fastify will call the onError hook.
-
-

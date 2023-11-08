@@ -31,6 +31,7 @@ The onRoute hook event is triggered every time a route is added to the Fastify i
 _onRoute_ application hook, which listens for every route registered in the app context (and its children contexts). It can mutate the routeOptions object before Fastify instantiates the route endpoint.
 
 ```js
+// on-route.cjs
 const Fastify = require("fastify");
 const app = Fastify({ logger: true });
 
@@ -95,4 +96,88 @@ The onRegister hook is similar to the previous one regarding how it works, but w
 The onRegister hook accepts a synchronous callback
 
 ```js
+// on-register.cjs
+const Fastify = require("fastify");
+const fp = require("fastify-plugin");
+
+const app = Fastify({ logger: true });
+app.decorate("data", { foo: "bar" }); // [1]
+app.addHook("onRegister", (instance, options) => {
+	app.log.info({ options });
+	instance.data = { ...instance.data }; // [2]
+});
+app.register(
+	async function plugin1(instance, options) {
+		instance.data.plugin1 = "hi"; // [3]
+		instance.log.info({ data: instance.data });
+	},
+	{ name: "plugin1" }
+);
+app.register(
+	fp(async function plugin2(instance, options) {
+		instance.data.plugin2 = "hi2"; // [4]
+		instance.log.info({ data: instance.data });
+	}),
+	{ name: "plugin2" }
+);
+
+app
+	.ready()
+	.then(() => {
+		app.log.info("Application is ready.");
+		app.log.info({ data: app.data }); // [5]
+	})
+	.catch((err) => {
+		app.log.error(err);
+		process.exit();
+	});
 ```
+
+First, we decorate the top-level Fastify instance with a custom data object ([1]). Then we attach an onRegister hook that logs the options plugin and shallow-copy the data object ([2]). This will effectively create a new object that inherits the foo property, allowing us to have encapsulated the data object. At [3], we register our first plugin that adds the plugin1 property to the object. On the other hand, the second plugin is registered using fastify-plugin ([4]), and therefore Fastify will not trigger our onRegister hook. Here, we modify the data object again, adding the plugin2 property to it.
+
+```console
+$ node on-register.cjs
+{"level":30,"time":1636192862276,"pid":13381,"hostname":"localhost", "options":{"name":"plugin1"}} {"level":30,"time":1636192862276,"pid":13381,"hostname":"localhost", "data":{"foo":"bar","plugin1":"hi"}} {"level":30,"time":1636192862277,"pid":13381,"hostname":"localhost", "data":{"foo":"bar","plugin2":"hi2"}} {"level":30,"time":1636192862284,"pid":13381,"hostname":"localhost", "msg":"Application is ready."} {"level":30,"time":1636192862284,"pid":13381,"hostname":"localhost", "data":{"foo":"bar","plugin2":"hi2"}}
+```
+
+#### Shallow-copy versus deep copy
+
+Since an object is just a reference to the allocated memory address in JavaScript, we can copy the objects in two different ways. By default, we “shallow-copy” them: if one source object’s property references another object, the copied property will point to the same memory address. We implicitly create a link between the old and new property. If we change it in one place, it is reflected in the other. On the other hand, deep-copying an object means that whenever a property references another object, we will create a new reference and, therefore, a memory allocation. Since deep copying is expensive, all methods and operators included in JavaScript make shallow copies.
+
+---
+
+### onReady hook
+
+The onReady hook is triggered after fastify.ready() is invoked and before the server starts listening. If the call to ready is omitted, then listen will automatically call it, and these hooks will be executed anyway. Since we can define multiple onReady hooks, the server will be ready to accept incoming requests only after all of them are completed
+
+Contrary to the other two hooks we already saw, this one is asynchronous. Therefore, it is crucial to define it as an async function or manually call the done callback to progress with the server boot and code execution. In addition to this, the onReady hooks are invoked with the this value bound to the Fastify instance.
+
+---
+
+### onClose hook
+
+onClose is triggered during the shutdown phase right after fastify.close() is called. Thus, it is handy when plugins need to do something right before stopping the server, such as cleaning database connections. This hook is _asynchronous_ and accepts one argument, the Fastify instance. As usual, when dealing with async functionalities, there is also an optional done callback (the second argument) if the async function isn’t used.
+
+---
+
+## Understanding the request and reply lifecycle
+
+Since they are part of the request/reply cycle, the trigger order of these events is crucial. OnError and onTimeout can be triggered in no specific order at every step in the cycle since an error or a timeout can happen at any point
+
+![[Request and reply lifecycle.png]]
+
+Inside the dotted bubble, we can see the request phase. These callback hooks are called, in top-down order, following the arrow’s direction, before the user-defined handler for the current route.
+
+The dashed bubble contains the reply phase, whose hooks are called after the user-defined route handler. Every hook, at every point, can throw an error or go into the timeout. If it happens, the request will finish in the solid bubble, leaving the normal flow.
+
+### Handling errors inside hooks
+
+```js
+fastify.addHook("onResponse", async (request, reply) => {
+	throw new Error("Some error");
+});
+```
+
+Since we have access to the reply object, we can also change the reply’s response code and reply to the client directly from the hook. If we choose not to reply in the case of an error or to reply with an error, then Fastify will call the onError hook.
+
+

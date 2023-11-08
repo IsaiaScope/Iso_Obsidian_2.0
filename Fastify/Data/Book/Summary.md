@@ -3,6 +3,8 @@
 ## Best Practice
 
 - No CallBack, Async code prefered
+- A bound this *context* 
+	- When dealing with Fastify functionalities that have an explicitly bound this value, as in the case of the onReady hook, it is essential to *use the old function syntax instead of the arrow function one*. Using the latter will prevent binding, making it impossible to access the instance and custom data added to it.
 
 ---
 

@@ -13,6 +13,18 @@
       "path": "Fastify/Data/Book/Summary.md"
     },
     {
+      "basename": "Plugins and Libs",
+      "path": "Fastify/Data/Plugins and Libs.md"
+    },
+    {
+      "basename": "Request and reply lifecycle",
+      "path": "Fastify/Files/Request and reply lifecycle.png"
+    },
+    {
+      "basename": "Extra Notes",
+      "path": "Fastify/Extra Notes.md"
+    },
+    {
       "basename": "The after instance method",
       "path": "Fastify/Data/Theory/The after instance method.md"
     },
@@ -53,10 +65,6 @@
       "path": "Ionic/index.md"
     },
     {
-      "basename": "Plugins and Libs",
-      "path": "Fastify/Data/Plugins and Libs.md"
-    },
-    {
       "basename": "Differences between the async and sync handlers",
       "path": "Fastify/Files/Differences between the async and sync handlers.png"
     },
@@ -87,10 +95,6 @@
     {
       "basename": "Dashboard",
       "path": "Obsidian Tutorial/Dashboard.md"
-    },
-    {
-      "basename": "Extra Notes",
-      "path": "Fastify/Extra Notes.md"
     },
     {
       "basename": "index",

@@ -5,12 +5,12 @@
       "path": "Fastify/Data/Book/Hooks.md"
     },
     {
-      "basename": "Encapsulation",
-      "path": "Fastify/Data/Theory/Encapsulation.md"
-    },
-    {
       "basename": "SEBA Book",
       "path": "Fastify/SEBA Book.pdf"
+    },
+    {
+      "basename": "Encapsulation",
+      "path": "Fastify/Data/Theory/Encapsulation.md"
     },
     {
       "basename": "Summary",

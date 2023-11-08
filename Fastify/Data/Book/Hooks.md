@@ -187,3 +187,8 @@ fastify.addHook("onResponse", async (request, reply) => {
 ```
 
 Since we have access to the reply object, we can also change the reply’s response code and reply to the client directly from the hook. If we choose not to reply in the case of an error or to reply with an error, then Fastify will call the onError hook.
+
+### The preParsing hook
+
+Declaring a preParsing hook allows us to transform the incoming request payload before it is parsed. This callback is asynchronous
+

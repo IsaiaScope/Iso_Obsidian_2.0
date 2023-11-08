@@ -217,4 +217,58 @@ The output shows the bound \_after string. You can simply ignore this string out
 
 ---
 
+## Adding new behaviors to routes
 
+- config option
+
+This simple field gives us the power to do the following:
+
+- Access the config in the handler and hook functions
+- Implement the Aspect-Oriented Programming (AOP) that we are going to see later
+
+### config
+
+How does it work in practice?
+For example, we can have a preHandler hook that runs before the schedule handler function in each route:
+
+```js
+app.addHook("preHandler", async function calculatePriority(request) {
+	request.priority = request.context.config.priority;
+});
+app.get("/private", {
+	handler: schedule,
+	config: { priority: 5 },
+});
+app.get("/public", {
+	handler: schedule,
+	config: { priority: 1 },
+});
+```
+
+The calculatePriority hook adds a level of priority to the request object, based on the route configuration: the /public URL has less importance than the /private one. By doing so, you could have generic components: handlers or hooks that act differently based on the route’s options.
+
+### AOP
+
+The AOP paradigm focuses on isolating cross-cutting concerns from the business logic and improving the system’s modularity.
+To be less theoretical and more practical, AOP in Fastify means that you can isolate boring stuff into hooks and add it to the routes that need it!
+Here is a complete example:
+
+```js
+app.addHook("onRoute", function hook(routeOptions) {
+	if (routeOptions.config.private === true) {
+		routeOptions.onRequest = async function auth(request) {
+			if (request.headers.token !== "admin") {
+				const authError = new Error("Private zone");
+				authError.statusCode = 401;
+				throw authError;
+			}
+		};
+	}
+});
+app.get("/private", { config: { private: true }, handler });
+app.get("/public", { config: { private: false }, handler });
+```
+
+The routes have config.private fields that tell the hook function to add an onRequest hook to the endpoint, which is only created if the value is true.
+
+---

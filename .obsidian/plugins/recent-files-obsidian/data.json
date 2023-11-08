@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Routes",
-      "path": "Fastify/Data/Book/Routes.md"
-    },
-    {
       "basename": "SEBA Book",
       "path": "Fastify/SEBA Book.pdf"
+    },
+    {
+      "basename": "Summary",
+      "path": "Fastify/Data/Book/Summary.md"
+    },
+    {
+      "basename": "Hooks",
+      "path": "Fastify/Data/Book/Hooks.md"
+    },
+    {
+      "basename": "Resources",
+      "path": "Fastify/Data/Resources.md"
+    },
+    {
+      "basename": "Routes",
+      "path": "Fastify/Data/Book/Routes.md"
     },
     {
       "basename": "Prompt",
@@ -23,14 +35,6 @@
     {
       "basename": "Plugins and Libs",
       "path": "Fastify/Data/Plugins and Libs.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Fastify/Data/Book/Summary.md"
-    },
-    {
-      "basename": "Resources",
-      "path": "Fastify/Data/Resources.md"
     },
     {
       "basename": "Context (This) versus scope",

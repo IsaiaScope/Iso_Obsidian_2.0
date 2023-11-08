@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBookmark",
       "SiSass",
       "FabSass",
       "SiCss3",
-      "TiFileTypeCss",
-      "FabCss3"
+      "TiFileTypeCss"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -50,5 +50,6 @@
   "Style (SASS & CSS)": "FabCss3",
   "Style (SASS & CSS)/CSS": "SiCss3",
   "Style (SASS & CSS)/SASS": "FabSass",
-  "Fastify/Data/Plugins and Libs.md": "TiPlug"
+  "Fastify/Data/Plugins and Libs.md": "TiPlug",
+  "Fastify/Data/Book/Hooks.md": "LiBookmark"
 }

@@ -12,6 +12,7 @@
 
 ---
 
-## Routes
+## Plugins
 
-- _onRoute_ application hook, which listens for every route registered in the app context (and its children contexts). It can mutate the routeOptions object before Fastify instantiates the route endpoint.
+- during the plugin’s registration and thanks to its robust encapsulation, Fastify creates a new instance with a child context
+

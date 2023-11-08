@@ -196,4 +196,20 @@ app.post(
 	handler
 );
 ```
+
 The [1] configuration defines the maximum length for every route without a custom limit, such as route [2].
+
+---
+
+## Printing the routes tree
+
+```js
+app.ready().then(function started() {
+	console.log(app.printPlugins()); // [1]
+	console.log(app.printRoutes({ commonPrefix: false })); // [2]
+});
+```
+The printPlugins() method of [1] returns a string with a tree representation containing all the encapsulated contexts and loading times. The output gives you a complete overview of all the plugins created and the nesting level. Instead, the printRoutes() method of [2] shows us the application’s routes list
+
+Fastify internals 
+The output shows the bound \_after string. You can simply ignore this string output because it is an internal Fastify behavior, and it does not give us information about our application.

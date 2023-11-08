@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
-    },
-    {
       "basename": "Routes",
       "path": "Fastify/Data/Book/Routes.md"
+    },
+    {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
     },
     {
       "basename": "Plugins and Libs",

@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Routes",
+      "path": "Fastify/Data/Book/Routes.md"
+    },
+    {
       "basename": "SEBA Book",
       "path": "Fastify/SEBA Book.pdf"
     },
     {
       "basename": "Summary",
       "path": "Fastify/Data/Book/Summary.md"
-    },
-    {
-      "basename": "Routes",
-      "path": "Fastify/Data/Book/Routes.md"
     },
     {
       "basename": "The after instance method",

@@ -48,5 +48,14 @@ async function ayncHandlerCatched(request, reply) {
 	}
 }
 ```
+
 As you can see, at first sight, the differences are minimal: in [1], the send method accepts a Node.js Error object with a custom message. The [2] example is quite similar, but we are throwing the error. The [3] example shows how you can manage your errors with a try/catch block and choose to reply with a 200 HTTP success in any case!
 
+---
+
+## The error handler 
+is a function that is executed whenever an Error object or a JSON is thrown or sent; this means that the error handler is the same regardless of the implementation of the route.
+
+```js
+
+```

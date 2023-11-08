@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
+    },
+    {
       "basename": "Routes",
       "path": "Fastify/Data/Book/Routes.md"
     },
     {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
+      "basename": "The after instance method",
+      "path": "Fastify/Data/Theory/The after instance method.md"
+    },
+    {
+      "basename": "The register instance method",
+      "path": "Fastify/Data/Theory/The register instance method.md"
+    },
+    {
+      "basename": "grid-secrets",
+      "path": "Style (SASS & CSS)/CSS/grid-secrets.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Fastify/Data/Book/Overview.md"
     },
     {
       "basename": "Plugin",
@@ -21,20 +37,8 @@
       "path": "Fastify/Data/Theory/Handling boot and plugin errors.md"
     },
     {
-      "basename": "The after instance method",
-      "path": "Fastify/Data/Theory/The after instance method.md"
-    },
-    {
-      "basename": "The register instance method",
-      "path": "Fastify/Data/Theory/The register instance method.md"
-    },
-    {
       "basename": "Context (This) versus scope",
       "path": "Fastify/Data/Theory/Context (This) versus scope.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "Fastify/Data/Book/Overview.md"
     },
     {
       "basename": "encapsulation",

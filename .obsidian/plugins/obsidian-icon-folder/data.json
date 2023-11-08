@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBookmark",
-      "TiPlug",
-      "BoBxsFlask",
-      "TiBrain",
-      "SiIonic"
+      "SiSass",
+      "FabSass",
+      "SiCss3",
+      "TiFileTypeCss",
+      "FabCss3"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,8 @@
   "Ionic": "SiIonic",
   "Fastify/Data/Theory": "BoBxsFlask",
   "Fastify/Data/Plugins List.md": "TiPlug",
-  "Fastify/Data/Book/Routes.md": "LiBookmark"
+  "Fastify/Data/Book/Routes.md": "LiBookmark",
+  "Style (SASS & CSS)": "FabCss3",
+  "Style (SASS & CSS)/CSS": "SiCss3",
+  "Style (SASS & CSS)/SASS": "FabSass"
 }

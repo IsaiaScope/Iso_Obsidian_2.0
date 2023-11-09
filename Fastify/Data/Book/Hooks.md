@@ -360,3 +360,7 @@ app.listen({ port: 3000 }).catch((err) => {
 
 First, we define an onError hook at [1] that logs the incoming error message. We don’t want to change the error object to return any value from this hook, as we already said. So then, we define two routes: /foo ([2]) returns an error while /bar ([3]) throws an error.
 
+---
+
+### The onTimeout hook
+

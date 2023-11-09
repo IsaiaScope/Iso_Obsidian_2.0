@@ -364,3 +364,126 @@ First, we define an onError hook at [1] that logs the incoming error message. We
 
 ### The onTimeout hook
 
+It depends on the connectionTimeout option, whose default value is 0. Therefore, onTimeout will be called if we pass a custom connectionTimeout value to the Fastify factory. In on-timeout.cjs, we use this hook to monitor the requests that time out. Since it is only executed when the connection socket is hung up, we can’t send any data to the client:
+
+```js
+const Fastify = require("fastify");
+const { promisify } = require("util");
+
+const wait = promisify(setTimeout);
+const app = Fastify({ logger: true, connectionTimeout: 1000 }); // [1]
+app.addHook("onTimeout", async (request, reply) => {
+	request.log.info("The connection is closed."); // [2]
+});
+
+app.get("/", async (_request, _reply) => {
+	await wait(5000); // [3]
+	return "";
+});
+
+app.listen({ port: 3000 }).catch((err) => {
+	app.log.error(err);
+	process.exit();
+});
+```
+
+At [1], we pass the connectionTimeout option to the Fastify factory, setting its value to 1 second. Then we add an onTimeout hook that prints to logs every time a connection is closed ([2]). Finally, we add a route that waits for 5 seconds before responding to the client ([3]).
+
+The connection was closed by the server, and the client received an empty response.
+
+---
+
+Replying from a hook
+
+Besides throwing an error, there is another way of early exiting from the request phase execution flow at any point. Terminating the chain is just a matter of sending the reply from a hook: this will prevent everything that comes after the current hook from being executed. For example, this can be useful when implementing authentication and authorization logic.
+
+**However, there are some quirks when dealing with asynchronous hooks. For example, after calling reply.send to respond from a hook, we need to return the reply object to signal that we are replying from the current hook**.
+
+The reply-from-hook.cjs example will make everything clear:
+
+```js
+const Fastify = require("fastify");
+
+async function isAuthorized() {
+	return false;
+}
+
+const app = Fastify({ logger: true });
+
+app.addHook("preParsing", async (request, reply) => {
+	const authorized = await isAuthorized(request); // [1]
+	if (!authorized) {
+		reply.code(401);
+		reply.send("Unauthorized"); // [2]
+		return reply; // [3]
+	}
+});
+
+app.listen({ port: 3000 }).catch((err) => {
+	app.log.error(err);
+	process.exit();
+});
+```
+
+We check whether the current user is authorized to access the resource [1]. Then, when the user misses the correct permissions, we reply from the hook directly [2] and return the reply object to signal it [3]. We are sure that the hook chain will stop its execution here, and the user will receive the 'Unauthorized' message.
+
+---
+
+## Route-level hooks
+
+Until now, we declared our hooks at the application level. However, as we mentioned previously in this chapter, request/response hooks can also be declared on a route level. Thus, as we can see in route- level-hooks.cjs, we can use the route definition to add as many hooks as we like, allowing us to perform actions only for a specific route:
+
+```js
+const Fastify = require("fastify");
+
+const app = Fastify({ logger: true });
+
+app.route({
+	method: "GET",
+	url: "/",
+	onRequest: async (request, reply) => {
+		request.log.info("onRequest hook");
+	},
+	onResponse: async (request, reply) => {
+		request.log.info("onResponse hook");
+	},
+	preParsing: async (request, reply) => {
+		request.log.info("preParsing hook");
+	},
+	preValidation: async (request, reply) => {
+		request.log.info("preValidation hook");
+	},
+	preHandler: async (request, reply) => {
+		request.log.info("preHandler hook");
+	},
+	preSerialization: async (request, reply, payload) => {
+		request.log.info("preSerialization hook");
+		return payload;
+	},
+	onSend: [
+		async (request, reply, payload) => {
+			request.log.info("onSend hook 1");
+			return payload;
+		},
+		async (request, reply, payload) => {
+			request.log.info("onSend hook 2");
+			return payload;
+		},
+	], // [1]
+	onError: async (request, reply, error) => {},
+	onTimeout: async (request, reply) => {},
+	handler: function (request, reply) {
+		reply.send({ foo: "bar" });
+	},
+});
+
+app.listen({ port: 3000 }).catch((err) => {
+	app.log.error(err);
+	process.exit();
+});
+```
+
+_If we need to declare more than one hook for each category, we can define an array of hooks instead_ ([1]). As a final note, it is worth mentioning that these hooks are always executed as last in the chain.
+
+---
+

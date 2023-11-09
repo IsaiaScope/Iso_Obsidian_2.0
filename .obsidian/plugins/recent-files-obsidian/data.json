@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Hooks",
-      "path": "Fastify/Data/Book/Hooks.md"
-    },
-    {
       "basename": "SEBA Book",
       "path": "Fastify/SEBA Book.pdf"
+    },
+    {
+      "basename": "Hooks",
+      "path": "Fastify/Data/Book/Hooks.md"
     },
     {
       "basename": "Encapsulation",

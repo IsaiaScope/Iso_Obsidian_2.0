@@ -190,6 +190,12 @@ Since we have access to the reply object, we can also change the reply’s respo
 
 ---
 
+### The onRequest hook
+
+As the name implies, the onRequest hook is triggered every time there is an incoming request. Since it is the first event on the execution list, the body request is always null because body parsing doesn’t happen yet. The hook function is asynchronous
+
+---
+
 ### The preParsing hook
 
 Declaring a preParsing hook allows us to transform the incoming request payload before it is parsed. This callback is asynchronous and accepts three parameters: Request, Reply, and the payload stream. Again, the body request is null since this hook is triggered before preValidation. Therefore, we must return a stream if we want to modify the incoming payload. Moreover, developers are also in charge of adding and updating the receivedEncodedLength property of the returned value.
@@ -260,4 +266,97 @@ app.listen({ port: 3000 }).catch((err) => {
 The example adds a simple preValidation hook that modifies the parsed body object. Inside the hook, we use the spread operator to add a property to the body, and then we assign the new value to the request.body property again.
 
 ---
+
+### The preSerialization hook
+
+Since we are dealing with the response payload, preSerialization has a similar signature to the preParsing hook. It accepts a request object, a reply object, and a third payload parameter. We can use its return value to change or replace the response object before serializing and sending it to the clients.
+
+There are two essential things to remember about this hook:
+
+- _It is not called if the payload argument is string, Buffer, stream, or null_
+- _If we change the payload, it will be changed for every response, including errored ones_
+
+The following pre-serialization.cjs example shows how we can add this hook to the Fastify instance:
+
+```js
+const Fastify = require("fastify");
+
+const app = Fastify({ logger: true });
+app.addHook("preSerialization", async (request, reply, payload) => {
+	return { ...payload, preSerialization: "added" };
+});
+app.get("/", (request, _reply) => {
+	return { foo: "bar" };
+});
+
+app.listen({ port: 3000 }).catch((err) => {
+	app.log.error(err);
+	process.exit();
+});
+```
+
+Inside the hook, we use the spread operator to copy the original payload and then add a new property. At this point, it is just a matter of returning this newly created object to modify the body before returning it to the client.
+
+---
+
+### The onSend hook
+
+The onSend hook is the last hook invoked before replying to the client. Contrary to preSerialization, the onSend hook receives a payload that is already serialized. Moreover, it is always called, no matter the type of response payload. Even if it is harder to do, we can use this hook to change our response too, but this time we have to return one of string, Buffer, stream, or null. Finally, the signature is identical to preSerialization.
+
+Let’s make an example in the on-send.cjs snippet with the most straightforward payload, a string:
+
+```js
+const Fastify = require("fastify");
+
+const app = Fastify({ logger: true });
+app.addHook("onSend", async (request, reply, payload) => {
+	const newPayload = payload.replace("foo", "onSend");
+	return newPayload;
+});
+app.get("/", (request, _reply) => {
+	return { foo: "bar" };
+});
+
+app.listen({ port: 3000 }).catch((err) => {
+	app.log.error(err);
+	process.exit();
+});
+```
+
+Since the payload is already serialized as a string, we can use the replace method to modify it before returning it to the client.
+
+---
+
+### The onResponse hook
+
+The onResponse hook is the last hook of the request-reply lifecycle. This callback is called after the reply has already been sent to the client. Therefore, we can’t change the payload anymore. However, we can use it to perform additional logic, such as calling external services or collecting metrics
+
+---
+
+### The onError hook
+
+This hook _is triggered only when the server sends an error as the payload to the client. It runs after customErrorHandler if provided or after the default one integrated into Fastify_. Its primary use is to do additional logging or to modify the reply headers. We should keep the error intact and avoid calling reply.send directly. The latter will result in the same error we encountered trying to do the same inside the onResponse hook. The snippet shown in the on-error.cjs example makes it easier to understand:
+
+```js
+const Fastify = require("fastify");
+
+const app = Fastify({ logger: true });
+app.addHook("onError", async (request, _reply, error) => {
+	// [1]
+	request.log.info(`Hi from onError hook: ${error.message}`);
+});
+app.get("/foo", async (_request, _reply) => {
+	return new Error("foo"); // [2]
+});
+app.get("/bar", async (_request, _reply) => {
+	throw new Error("bar"); // [3]
+});
+
+app.listen({ port: 3000 }).catch((err) => {
+	app.log.error(err);
+	process.exit();
+});
+```
+
+First, we define an onError hook at [1] that logs the incoming error message. We don’t want to change the error object to return any value from this hook, as we already said. So then, we define two routes: /foo ([2]) returns an error while /bar ([3]) throws an error.
 

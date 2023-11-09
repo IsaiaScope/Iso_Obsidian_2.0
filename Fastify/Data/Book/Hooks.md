@@ -188,6 +188,8 @@ fastify.addHook("onResponse", async (request, reply) => {
 
 Since we have access to the reply object, we can also change the reply’s response code and reply to the client directly from the hook. If we choose not to reply in the case of an error or to reply with an error, then Fastify will call the onError hook.
 
+---
+
 ### The preParsing hook
 
 Declaring a preParsing hook allows us to transform the incoming request payload before it is parsed. This callback is asynchronous and accepts three parameters: Request, Reply, and the payload stream. Again, the body request is null since this hook is triggered before preValidation. Therefore, we must return a stream if we want to modify the incoming payload. Moreover, developers are also in charge of adding and updating the receivedEncodedLength property of the returned value.
@@ -230,4 +232,32 @@ app.listen({ port: 3000 }).catch((err) => {
 ```
 
 At [1], we declare our preParsing hook that consumes the incoming payload stream and creates a body string. We then parse the body ([2]) and log the content to the console. At [3], we create a new Readable stream, assign the correct receivedEncodedLength value, push new content into it, and return it. Finally, we declare a dummy route ([4]) to log the body object.
+
+---
+
+### The preValidation hook
+
+We can use the preValidation hook to change the incoming payload before it is validated. Since the parsing has already happened, we finally have access to the body request, which we can modify directly.
+
+```js
+const Fastify = require("fastify");
+
+const app = Fastify({ logger: true });
+app.addHook("preValidation", async (request, _reply) => {
+	request.body = { ...request.body, preValidation: "added" };
+});
+app.post("/", (request, _reply) => {
+	request.log.info(request.body);
+	return "done";
+});
+
+app.listen({ port: 3000 }).catch((err) => {
+	app.log.error(err);
+	process.exit();
+});
+```
+
+The example adds a simple preValidation hook that modifies the parsed body object. Inside the hook, we use the spread operator to add a property to the body, and then we assign the new value to the request.body property again.
+
+---
 

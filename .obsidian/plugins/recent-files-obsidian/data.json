@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
-    },
-    {
       "basename": "Validation and Serialization",
       "path": "Fastify/Data/Book/Validation and Serialization.md"
+    },
+    {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
     },
     {
       "basename": "The validation execution workflow",

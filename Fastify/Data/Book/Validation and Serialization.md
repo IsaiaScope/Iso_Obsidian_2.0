@@ -140,7 +140,7 @@ Let’s understand the flow diagram step by step:
 - The dotted arrow is an HTTP request that has started its lifecycle into the Fastify server and has reached the preValidation hooks step. All will work as expected, and we are ready to start the Validation Execution.
 - Every HTTP part is validated if a JSON Schema has been provided during the route’s declaration.
 - The validation passes and proceeds to the next step.
-- When the validation fails, a particular Error object is thrown, and it will be processed by the* error handler* configured in the server instance where the route has been registered. Note that the error is suppressed if the attachValidation route option is set. We will look at an example in the Flow control section.
+- When the validation fails, a particular Error object is thrown, and it will be processed by the _error handler_ configured in the server instance where the route has been registered. Note that the error is suppressed if the attachValidation route option is set. We will look at an example in the Flow control section.
 - If all the validations are successful, the lifecycle continues its flow to the preHandler hooks
 - The Business Logic dashed box represents the handler execution that has been omitted because the image is specifically focused on validating the execution flow.
 
@@ -149,3 +149,7 @@ These steps happen when the schema option is set into the route definition, as i
 Now we have a complete overview of the entire validation process, from the startup to the server’s runtime. The information provided covers the most common use cases for an application and, thanks to Fastify’s default settings, it is ready to use.
 
 Great applications need great features. This is why we will now focus on the validator compiler customization.
+
+### Customizing the validator compiler
+
+- SEBA BOOK pdf page n.149 to page n.

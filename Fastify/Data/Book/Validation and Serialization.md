@@ -153,3 +153,6 @@ Great applications need great features. This is why we will now focus on the val
 ### Customizing the validator compiler
 
 - SEBA BOOK pdf page n.149 to page n.
+	- Flow control
+	- Understanding the Ajv configuration
+	- 

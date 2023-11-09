@@ -53,6 +53,99 @@ We expect a type object as input with some properties that we have named and con
 - An optional hobbies string array
 
 In this case, a software interpreter’s output that checks if the input JSON is compliant with the schema would be successful. The same check would fail if the input object doesn’t contain one of the mandatory fields, or if one of the types doesn’t match the schema’s type field.
-
 The _serialization_ is a nice “side effect,” introduced to improve security and performance; we will see how within this section.
 
+- [DOC of json-schema](https://json-schema.org/)
+
+Describing last snippet as you may have noticed, some keywords have the dollar symbol prefix, $. This is special metadata defined in the draft standard. One of the most important and most used ones is the _\$id_ property. It identifies the JSON Schema univocally, and Fastify relies upon it to process the schema objects and reuse them across the application.
+
+The _\$schema_ keyword in the example tells us the JSON document’s format, which is Draft-07. Whenever you see a JSON Schema in these pages, it is implicit that it follows that version due to Fastify’s default setup.
+
+### Compiling a JSON Schema
+
+A JSON Schema is not enough to validate a JSON document. We need to transform the schema into a function that our software can execute. For this reason, it is necessary to use a _compiler_ that does the work.
+
+This improves the application’s security. In fact, the compiler’s implementation has a secure mechanism to block code injection, and you can configure it to reject bad input data, such as strings that are too long.
+
+#### Fastify’s compilers
+
+Fastify has two compilers by default:
+
+- The Validator Compiler: Compiles the JSON Schema to validate the request’s input
+- The Serializer Compiler: Compiles the response’s JSON Schema to serialize the application’s data
+
+These compilers are basically Node.js modules that take JSON Schema as input and give us back a function.
+
+![[Fastify’s JSON Schema compilation workflow.png]] ^036f7f
+
+As you can see, there are two distinct processes:
+
+- The Route initialization, where the schemas are compiled during the startup phase.
+- The request through the Request Lifecycle, which uses the compiled functions stored in the route’s context.
+
+---
+
+## Understanding the validation process
+
+The validation process in Fastify follows the same logic to validate the incoming HTTP request parts. This business logic comprises two main steps, as we saw in [[Validation and Serialization#^036f7f | Validation and Serialization]]:
+
+- The schema compilation executed by the _Validator Compiler _
+- The validation execution
+
+### The validator compiler
+
+Fastify doesn’t implement a JSON Schema interpreter itself. Still, it has integrated the _Ajv_ module to accomplish the validation process. The Ajv integration into Fastify is implemented to keep it as fast as possible and support the encapsulation as well. You will always be able to change the default settings and provide a new JSON Schema interprete
+
+```js
+app.post(
+	"/echo/:myInteger",
+	{
+		schema: {
+			params: jsonSchemaPathParams,
+			body: jsonSchemaBody,
+			querystring: jsonSchemaQuery,
+			headers: jsonSchemaHeaders,
+		},
+	},
+	function handler(request, reply) {
+		reply.send(request.body);
+	}
+);
+```
+
+All these properties are optional, so you can choose freely which HTTP part has to be validated. The schemas must be provided during the route declaration:
+
+You are done! Now, whenever you start the application, the schemas will be compiled by the default validator compiler. The generated functions will be stored in the route’s context, so every HTTP request that hits the /echo/:myinteger endpoint will execute the validation process.
+
+### Validation execution
+
+Fastify applies the HTTP request part’s validation during the request lifecycle: after executing the preValidation hooks and before the preHandler hooks.
+
+The purpose of this validation is to check the input format and to produce one of these actions:
+
+- Pass: Validates the HTTP request part successfully
+- Deny: Throws an error when an HTTP request part’s validation fails
+- Append error: When an HTTP request part’s validation fails and continues the process successfully – configuring the attachValidation route option
+
+This process is not designed to verify data correctness – for that, you should rely on the preHandler hook.
+
+_route doesn't have the schema route option. By doing so, we skipped the validation phase of the request lifecycle_
+
+The validation process is quite straightforward. Let’s zoom in on this process’ logic, looking at the entire request lifecycle:
+
+![[The validation execution workflow.png]]
+
+Let’s understand the flow diagram step by step:
+
+- The dotted arrow is an HTTP request that has started its lifecycle into the Fastify server and has reached the preValidation hooks step. All will work as expected, and we are ready to start the Validation Execution.
+- Every HTTP part is validated if a JSON Schema has been provided during the route’s declaration.
+- The validation passes and proceeds to the next step.
+- When the validation fails, a particular Error object is thrown, and it will be processed by the* error handler* configured in the server instance where the route has been registered. Note that the error is suppressed if the attachValidation route option is set. We will look at an example in the Flow control section.
+- If all the validations are successful, the lifecycle continues its flow to the preHandler hooks
+- The Business Logic dashed box represents the handler execution that has been omitted because the image is specifically focused on validating the execution flow.
+
+These steps happen when the schema option is set into the route definition, as in the previous code snippet in The validator compiler section.
+
+Now we have a complete overview of the entire validation process, from the startup to the server’s runtime. The information provided covers the most common use cases for an application and, thanks to Fastify’s default settings, it is ready to use.
+
+Great applications need great features. This is why we will now focus on the validator compiler customization.

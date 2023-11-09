@@ -13,3 +13,5 @@
   - Registering the same URLs
 - [qs](https://www.npmjs.com/package/qs)
   - change the default query string parser
+- [Ajv](https://www.npmjs.com/package/ajv)
+  - Fastify doesn’t implement a JSON Schema interpreter itself. Still, it has integrated the Ajv module

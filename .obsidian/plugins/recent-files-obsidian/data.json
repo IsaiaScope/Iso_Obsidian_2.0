@@ -9,12 +9,36 @@
       "path": "Fastify/SEBA Book.pdf"
     },
     {
-      "basename": "Validation and Serialization",
-      "path": "Fastify/Files/Validation and Serialization.png"
+      "basename": "The validation execution workflow",
+      "path": "Fastify/Files/The validation execution workflow.png"
+    },
+    {
+      "basename": "Plugins and Libs",
+      "path": "Fastify/Data/Plugins and Libs.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Markdown/Obsidian.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Obsidian Tutorial/Dashboard.md"
+    },
+    {
+      "basename": "Fastify’s JSON Schema compilation workflow",
+      "path": "Fastify/Files/Fastify’s JSON Schema compilation workflow.png"
     },
     {
       "basename": "Summary",
       "path": "Fastify/Data/Book/Summary.md"
+    },
+    {
+      "basename": "DOC Resources",
+      "path": "Fastify/Data/DOC Resources.md"
+    },
+    {
+      "basename": "Validation and Serialization",
+      "path": "Fastify/Files/Validation and Serialization.png"
     },
     {
       "basename": "Hooks",
@@ -23,10 +47,6 @@
     {
       "basename": "Encapsulation",
       "path": "Fastify/Data/Theory/Encapsulation.md"
-    },
-    {
-      "basename": "Plugins and Libs",
-      "path": "Fastify/Data/Plugins and Libs.md"
     },
     {
       "basename": "Request and reply lifecycle",
@@ -51,10 +71,6 @@
     {
       "basename": "Context (This) versus scope",
       "path": "Fastify/Data/Theory/Context (This) versus scope.md"
-    },
-    {
-      "basename": "DOC Resources",
-      "path": "Fastify/Data/DOC Resources.md"
     },
     {
       "basename": "The register instance method",
@@ -85,10 +101,6 @@
       "path": "Style (SASS & CSS)/CSS/grid-secrets.md"
     },
     {
-      "basename": "Obsidian",
-      "path": "Markdown/Obsidian.md"
-    },
-    {
       "basename": "Handling boot and plugin errors",
       "path": "Fastify/Data/Theory/Handling boot and plugin errors.md"
     },
@@ -103,10 +115,6 @@
     {
       "basename": "Add Media",
       "path": "Obsidian Tutorial/Data/Add Media.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Obsidian Tutorial/Dashboard.md"
     },
     {
       "basename": "index",

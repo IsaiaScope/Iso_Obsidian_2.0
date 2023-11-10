@@ -2,9 +2,10 @@
 
 - [Doc of Git](https://git-scm.com/)
 
-
 # Prompt
 
-- [[Commands]]
+## Git Bash
 
+- [[Commands | Basic Commands]]
 
+---

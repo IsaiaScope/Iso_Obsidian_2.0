@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Commands",
-      "path": "Prompt/Commands.md"
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
     },
     {
-      "basename": "cmd",
-      "path": "PowerShell/data/cmd.md"
+      "basename": "Commands",
+      "path": "Prompt/Commands.md"
     },
     {
       "basename": "touch",
       "path": "Prompt/Linux/Data/touch.md"
     },
     {
+      "basename": "rm",
+      "path": "Prompt/Windows/Data/rm.md"
+    },
+    {
       "basename": "cd",
       "path": "Prompt/Windows/Data/cd.md"
+    },
+    {
+      "basename": "cmd",
+      "path": "PowerShell/data/cmd.md"
     },
     {
       "basename": "Dashboard",
@@ -35,10 +43,6 @@
     {
       "basename": "SEBA Book",
       "path": "Fastify/SEBA Book.pdf"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
     },
     {
       "basename": "Dashboard",
@@ -195,10 +199,6 @@
     {
       "basename": "Udemy-course",
       "path": "Markdown/Udemy-course.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Fastify/Dashboard.md"
     }
   ],
   "omittedPaths": [],

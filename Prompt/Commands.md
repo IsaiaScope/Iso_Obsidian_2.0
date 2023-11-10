@@ -1,6 +1,7 @@
 # Commands
 
-- paths can be added after every commands to specific the path where execute the command specifically, on the other and `.` is a replace to say 'current directory'
+- path can be added after every commands to specific the path where execute the command specifically, on the other and `.` is a replace to say 'current directory'
+- during creation of files and folder u can pass multiple name to create more file/folder at a time
 
 ## Windows
 
@@ -13,16 +14,17 @@
 | `start .`    | open File Explorer in current directory   | :FasCheck: |                                              |
 | `explorer .` | open File Explorer in current directory   | :FasCheck: |                                              |
 | `pwd`        | show current location                     | :FasCheck: |                                              |
-| `cd`         | change directory                          | :FasCheck: | [:TiFileSymlink:](Prompt/Windows/Data/cd.md) |
+| `cd <path>`  | change directory                          | :FasCheck: | [:TiFileSymlink:](Prompt/Windows/Data/cd.md) |
 | `cls`        | clear console                             |            |                                              |
 
 ---
 
 ### File and Folder Manipulation
 
-| Command | Meaning             |  Git Bash  | Link |
-| ------- | ------------------- | :--------: | :--: |
-| `mkdir` | create a new folder | :FasCheck: |      |
+| Command              | Meaning                              |  Git Bash  |                     Link                     |
+| -------------------- | ------------------------------------ | :--------: | :------------------------------------------: |
+| `mkdir <folderName>` | create a new folder                  | :FasCheck: |                                              |
+| `rm`                 | delete a file or a folder with `-rf` | :FasCheck: | [:TiFileSymlink:](Prompt/Windows/Data/rm.md) |
 
 ---
 
@@ -44,5 +46,15 @@
 | Command | Meaning           |  Git Bash  |                     Link                      |
 | ------- | ----------------- | :--------: | :-------------------------------------------: |
 | `touch` | create a new file | :FasCheck: | [:TiFileSymlink:](Prompt/Linux/Data/touch.md) |
+
+---
+
+## VS Code CLI
+
+### Navigation
+
+| Command  | Meaning                           |  Git Bash  | Link |
+| -------- | --------------------------------- | :--------: | :--: |
+| `code .` | Open VS Code in current directory | :FasCheck: |      |
 
 ---

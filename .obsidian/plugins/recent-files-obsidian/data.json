@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Git+&+Github_+Basics",
+      "path": "Git and GitHub/Files/Git+&+Github_+Basics.pdf"
+    },
+    {
+      "basename": "Theory",
+      "path": "Git and GitHub/Git/Data/Theory.md"
+    },
+    {
       "basename": "Summary",
       "path": "Git and GitHub/Git/Summary.md"
     },
     {
+      "basename": "git commit",
+      "path": "Git and GitHub/Git/Prompt/git commit.md"
+    },
+    {
+      "basename": "git init",
+      "path": "Git and GitHub/Git/Prompt/git init.md"
+    },
+    {
+      "basename": "git status",
+      "path": "Git and GitHub/Git/Prompt/git status.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Git and GitHub/Git/Prompt/Untitled 1.md"
+    },
+    {
+      "basename": "git config",
+      "path": "Git and GitHub/Git/Prompt/git config.md"
+    },
+    {
       "basename": "Commands",
       "path": "Prompt/Commands.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Fastify/Data/Book/Summary.md"
+    },
+    {
+      "basename": "Plugins and Libs",
+      "path": "Fastify/Data/Plugins and Libs.md"
+    },
+    {
+      "basename": "Git+&+Github_+Installation",
+      "path": "Git and GitHub/Files/Git+&+Github_+Installation.pdf"
     },
     {
       "basename": "touch",
@@ -25,20 +69,8 @@
       "path": "PowerShell/data/cmd.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
-    },
-    {
       "basename": "DOC Resources",
       "path": "Fastify/Data/DOC Resources.md"
-    },
-    {
-      "basename": "Plugins and Libs",
-      "path": "Fastify/Data/Plugins and Libs.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Fastify/Data/Book/Summary.md"
     },
     {
       "basename": "SEBA Book",
@@ -51,10 +83,6 @@
     {
       "basename": "index",
       "path": "PowerShell/index.md"
-    },
-    {
-      "basename": "Git+&+Github_+Installation",
-      "path": "Git and GitHub/Files/Git+&+Github_+Installation.pdf"
     },
     {
       "basename": "Old Prompt",
@@ -171,34 +199,6 @@
     {
       "basename": "NodeJS",
       "path": "Certificates/Udemy/NodeJS.jpg"
-    },
-    {
-      "basename": "Markdown",
-      "path": "Certificates/Udemy/Markdown.pdf"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "Certificates/Udemy/JavaScript.pdf"
-    },
-    {
-      "basename": "Ionic",
-      "path": "Certificates/Udemy/React/Ionic.pdf"
-    },
-    {
-      "basename": "React",
-      "path": "Certificates/Udemy/React/React.pdf"
-    },
-    {
-      "basename": "TanStack Query V4",
-      "path": "Certificates/Udemy/React/TanStack Query V4.pdf"
-    },
-    {
-      "basename": "Cheatsheet",
-      "path": "Markdown/Cheatsheet.pdf"
-    },
-    {
-      "basename": "Udemy-course",
-      "path": "Markdown/Udemy-course.md"
     }
   ],
   "omittedPaths": [],

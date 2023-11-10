@@ -5,16 +5,16 @@
       "path": "Git and GitHub/Git/Data/git ignore.md"
     },
     {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
       "basename": "Theory",
       "path": "Git and GitHub/Git/Data/Theory.md"
     },
     {
       "basename": "git log",
       "path": "Git and GitHub/Git/Prompt/git log.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
     },
     {
       "basename": "git add",

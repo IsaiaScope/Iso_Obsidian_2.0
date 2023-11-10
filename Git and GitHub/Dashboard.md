@@ -1,7 +1,7 @@
 # Git
 
 - is the version control software that runs locally on your machine. You don't need to register for an account. You don't need the internet to use it. You can use Git without ever touching Github.
-- [[Prompt List]]
+- [[Git and GitHub/Git/Summary  | Git Summary]]
 
 # GitHub
 

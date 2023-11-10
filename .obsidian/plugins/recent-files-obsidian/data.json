@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Prompt List",
-      "path": "Git and GitHub/Git/Prompt List.md"
+      "basename": "Windows Terminal",
+      "path": "Git and GitHub/Windows Terminal.md"
     },
     {
-      "basename": "Prompt",
-      "path": "Git and GitHub/Git/Prompt.md"
+      "basename": "index",
+      "path": "PowerShell/index.md"
+    },
+    {
+      "basename": "cmd",
+      "path": "PowerShell/data/cmd.md"
+    },
+    {
+      "basename": "Git+&+Github_+Installation",
+      "path": "Git and GitHub/Files/Git+&+Github_+Installation.pdf"
     },
     {
       "basename": "Dashboard",
       "path": "Git and GitHub/Dashboard.md"
     },
     {
-      "basename": "Git+&+Github_+Installation",
-      "path": "Git and GitHub/Files/Git+&+Github_+Installation.pdf"
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "Old Prompt",
+      "path": "Git and GitHub/Git/Data/Old Prompt.md"
     },
     {
       "basename": "DOC Resources",

@@ -2,7 +2,39 @@
   "recentFiles": [
     {
       "basename": "Commands",
-      "path": "Prompt/Windows/Commands.md"
+      "path": "Prompt/Commands.md"
+    },
+    {
+      "basename": "cmd",
+      "path": "PowerShell/data/cmd.md"
+    },
+    {
+      "basename": "touch",
+      "path": "Prompt/Linux/Data/touch.md"
+    },
+    {
+      "basename": "cd",
+      "path": "Prompt/Windows/Data/cd.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
+      "basename": "DOC Resources",
+      "path": "Fastify/Data/DOC Resources.md"
+    },
+    {
+      "basename": "Plugins and Libs",
+      "path": "Fastify/Data/Plugins and Libs.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Fastify/Data/Book/Summary.md"
+    },
+    {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
     },
     {
       "basename": "Summary",
@@ -10,31 +42,11 @@
     },
     {
       "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
-    },
-    {
-      "basename": "Dashboard",
       "path": "Obsidian Tutorial/Dashboard.md"
-    },
-    {
-      "basename": "cd",
-      "path": "Prompt/Windows/Data/cd.md"
-    },
-    {
-      "basename": "DOC Resources",
-      "path": "Fastify/Data/DOC Resources.md"
-    },
-    {
-      "basename": "touch",
-      "path": "Prompt/Windows/Data/touch.md"
     },
     {
       "basename": "index",
       "path": "PowerShell/index.md"
-    },
-    {
-      "basename": "cmd",
-      "path": "PowerShell/data/cmd.md"
     },
     {
       "basename": "Git+&+Github_+Installation",
@@ -57,24 +69,12 @@
       "path": "Fastify/Files/The validation execution workflow.png"
     },
     {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
-    },
-    {
-      "basename": "Plugins and Libs",
-      "path": "Fastify/Data/Plugins and Libs.md"
-    },
-    {
       "basename": "Obsidian",
       "path": "Markdown/Obsidian.md"
     },
     {
       "basename": "Fastify’s JSON Schema compilation workflow",
       "path": "Fastify/Files/Fastify’s JSON Schema compilation workflow.png"
-    },
-    {
-      "basename": "Summary",
-      "path": "Fastify/Data/Book/Summary.md"
     },
     {
       "basename": "Validation and Serialization",

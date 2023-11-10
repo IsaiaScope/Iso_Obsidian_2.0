@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCode",
+      "LiCode2",
+      "SiLinux",
       "TiDatabase",
-      "FabWindows",
-      "BoBxPlusCircle",
-      "TiTerminal2",
-      "LiFiles"
+      "FabWindows"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -67,5 +67,8 @@
   "Git and GitHub/Files": "LiFiles",
   "Prompt": "TiTerminal2",
   "Prompt/Windows": "FabWindows",
-  "Prompt/Windows/Data": "TiDatabase"
+  "Prompt/Windows/Data": "TiDatabase",
+  "Prompt/Linux": "SiLinux",
+  "Prompt/Linux/Data": "TiDatabase",
+  "Prompt/Commands.md": "LiCode"
 }

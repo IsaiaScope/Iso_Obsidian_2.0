@@ -1,5 +1,8 @@
 # git ignore
 
+- [Ignoring-files](https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files)
+- [DOC of gitignore](https://git-scm.com/docs/gitignore)
+
 ## Ignoring Files
 
 - We can tell Git which files and directories to ignore in a given repository, using a .gitignore file. This is useful for files you know you NEVER want to commit, including:

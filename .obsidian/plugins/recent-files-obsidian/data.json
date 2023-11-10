@@ -1,20 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "git commit",
-      "path": "Git and GitHub/Git/Prompt/git commit.md"
+      "basename": "git ignore",
+      "path": "Git and GitHub/Git/Data/git ignore.md"
     },
     {
       "basename": "Theory",
       "path": "Git and GitHub/Git/Data/Theory.md"
     },
     {
-      "basename": "git init",
-      "path": "Git and GitHub/Git/Prompt/git init.md"
-    },
-    {
-      "basename": "git config",
-      "path": "Git and GitHub/Git/Prompt/git config.md"
+      "basename": "git log",
+      "path": "Git and GitHub/Git/Prompt/git log.md"
     },
     {
       "basename": "Summary",
@@ -23,6 +19,18 @@
     {
       "basename": "git add",
       "path": "Git and GitHub/Git/Prompt/git add.md"
+    },
+    {
+      "basename": "git commit",
+      "path": "Git and GitHub/Git/Prompt/git commit.md"
+    },
+    {
+      "basename": "git init",
+      "path": "Git and GitHub/Git/Prompt/git init.md"
+    },
+    {
+      "basename": "git config",
+      "path": "Git and GitHub/Git/Prompt/git config.md"
     },
     {
       "basename": "Commit flow",
@@ -45,10 +53,6 @@
       "path": "Markdown/Obsidian.md"
     },
     {
-      "basename": "git log",
-      "path": "Git and GitHub/Git/Prompt/git log.md"
-    },
-    {
       "basename": "Old Prompt",
       "path": "Git and GitHub/Git/Data/Old Prompt.md"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "git status",
       "path": "Git and GitHub/Git/Prompt/git status.md"
-    },
-    {
-      "basename": "git ignore",
-      "path": "Git and GitHub/Git/Data/git ignore.md"
     },
     {
       "basename": "Commands",

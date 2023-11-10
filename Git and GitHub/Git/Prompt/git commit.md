@@ -15,3 +15,9 @@ git commit -m "my message"
 ```
 
 ---
+
+## Amending Commits
+
+- Suppose you just made a commit and then realized you forgot to include a file! Or, maybe you made a typo in the commit message that you want to correct.
+- Rather than making a brand new separate commit, you can "redo" the previous commit using the `--amend` option
+- 

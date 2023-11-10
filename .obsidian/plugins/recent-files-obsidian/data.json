@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "git commit",
+      "path": "Git and GitHub/Git/Prompt/git commit.md"
+    },
+    {
+      "basename": "Git+&+Github_+Committing+In+Detail",
+      "path": "Git and GitHub/Files/Git+&+Github_+Committing+In+Detail.pdf"
+    },
+    {
       "basename": "Summary",
       "path": "Git and GitHub/Git/Summary.md"
     },
     {
-      "basename": "Old Prompt",
-      "path": "Git and GitHub/Git/Data/Old Prompt.md"
+      "basename": "Theory",
+      "path": "Git and GitHub/Git/Data/Theory.md"
     },
     {
-      "basename": "git commit",
-      "path": "Git and GitHub/Git/Prompt/git commit.md"
+      "basename": "Old Prompt",
+      "path": "Git and GitHub/Git/Data/Old Prompt.md"
     },
     {
       "basename": "git add",
@@ -27,10 +35,6 @@
     {
       "basename": "git status",
       "path": "Git and GitHub/Git/Prompt/git status.md"
-    },
-    {
-      "basename": "Theory",
-      "path": "Git and GitHub/Git/Data/Theory.md"
     },
     {
       "basename": "Git+&+Github_+Basics",
@@ -195,10 +199,6 @@
     {
       "basename": "Creating Accessible Websites",
       "path": "Certificates/Udemy/Accessibility/Creating Accessible Websites.pdf"
-    },
-    {
-      "basename": "Web Design Accessibility",
-      "path": "Certificates/Udemy/Accessibility/Web Design Accessibility.jpg"
     }
   ],
   "omittedPaths": [],

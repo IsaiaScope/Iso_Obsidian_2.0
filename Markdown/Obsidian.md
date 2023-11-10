@@ -18,8 +18,9 @@
   - [Google](https://www.google.com)
 - External links absolute path
   - [Link to TS/theory/as-const.md](TS/theory/as-const.md)
-- Link to External Media
-	
+- Link in Tables
+  - `|` breaks table layout so use `\` escape to avoid that behavior
+  - [[git commit#Atomic Commits \| Link git commit - Atomic Commits]]
 - Embedding Links
   - ![[Udemy-course#^c94268]]
 - Images
@@ -38,5 +39,3 @@
   - Check these lists^[[[Udemy-course#_Headers_| Headers]]]
 - Images
   - [[Obsidian-footnotes.png]]
-
-

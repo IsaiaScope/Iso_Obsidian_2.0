@@ -16,7 +16,7 @@ git config --global user.email blah@blah.com
 
 ---
 
-- retrive email or name value
+- retrive email or name value, in general `git config <variable>`
 
 ```bash
 git config user.email

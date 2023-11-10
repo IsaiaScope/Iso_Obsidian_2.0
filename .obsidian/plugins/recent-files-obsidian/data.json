@@ -5,48 +5,68 @@
       "path": "Git and GitHub/Git/Prompt/git commit.md"
     },
     {
-      "basename": "Git+&+Github_+Committing+In+Detail",
-      "path": "Git and GitHub/Files/Git+&+Github_+Committing+In+Detail.pdf"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
       "basename": "Theory",
       "path": "Git and GitHub/Git/Data/Theory.md"
-    },
-    {
-      "basename": "Old Prompt",
-      "path": "Git and GitHub/Git/Data/Old Prompt.md"
-    },
-    {
-      "basename": "git add",
-      "path": "Git and GitHub/Git/Prompt/git add.md"
-    },
-    {
-      "basename": "git log",
-      "path": "Git and GitHub/Git/Prompt/git log.md"
     },
     {
       "basename": "git init",
       "path": "Git and GitHub/Git/Prompt/git init.md"
     },
     {
-      "basename": "git status",
-      "path": "Git and GitHub/Git/Prompt/git status.md"
+      "basename": "git config",
+      "path": "Git and GitHub/Git/Prompt/git config.md"
     },
     {
-      "basename": "Git+&+Github_+Basics",
-      "path": "Git and GitHub/Files/Git+&+Github_+Basics.pdf"
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "git add",
+      "path": "Git and GitHub/Git/Prompt/git add.md"
     },
     {
       "basename": "Commit flow",
       "path": "Git and GitHub/Git/Files/Commit flow.png"
     },
     {
-      "basename": "git config",
-      "path": "Git and GitHub/Git/Prompt/git config.md"
+      "basename": "Git+&+Github_+Basics",
+      "path": "Git and GitHub/Files/Git+&+Github_+Basics.pdf"
+    },
+    {
+      "basename": "Git+&+Github_+Committing+In+Detail",
+      "path": "Git and GitHub/Files/Git+&+Github_+Committing+In+Detail.pdf"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Obsidian Tutorial/Dashboard.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Markdown/Obsidian.md"
+    },
+    {
+      "basename": "git log",
+      "path": "Git and GitHub/Git/Prompt/git log.md"
+    },
+    {
+      "basename": "Old Prompt",
+      "path": "Git and GitHub/Git/Data/Old Prompt.md"
+    },
+    {
+      "basename": "Add Media",
+      "path": "Obsidian Tutorial/Data/Add Media.md"
+    },
+    {
+      "basename": "obsidian-link-1",
+      "path": "Markdown/Files/obsidian-link-1.png"
+    },
+    {
+      "basename": "git status",
+      "path": "Git and GitHub/Git/Prompt/git status.md"
+    },
+    {
+      "basename": "git ignore",
+      "path": "Git and GitHub/Git/Data/git ignore.md"
     },
     {
       "basename": "Commands",
@@ -93,10 +113,6 @@
       "path": "Fastify/SEBA Book.pdf"
     },
     {
-      "basename": "Dashboard",
-      "path": "Obsidian Tutorial/Dashboard.md"
-    },
-    {
       "basename": "index",
       "path": "PowerShell/index.md"
     },
@@ -111,10 +127,6 @@
     {
       "basename": "The validation execution workflow",
       "path": "Fastify/Files/The validation execution workflow.png"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "Markdown/Obsidian.md"
     },
     {
       "basename": "Fastify’s JSON Schema compilation workflow",
@@ -187,18 +199,6 @@
     {
       "basename": "Application-lifecycle",
       "path": "Fastify/Files/Application-lifecycle.png"
-    },
-    {
-      "basename": "Add Media",
-      "path": "Obsidian Tutorial/Data/Add Media.md"
-    },
-    {
-      "basename": "index",
-      "path": "accessibility/index.md"
-    },
-    {
-      "basename": "Creating Accessible Websites",
-      "path": "Certificates/Udemy/Accessibility/Creating Accessible Websites.pdf"
     }
   ],
   "omittedPaths": [],

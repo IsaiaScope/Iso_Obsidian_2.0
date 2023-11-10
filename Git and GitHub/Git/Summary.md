@@ -20,6 +20,14 @@
 | `git init`   | Use git init to create a new git repository                                  |  [:TiFileSymlink:](git%20init.md)  |
 | `git add`    | command to stage changes to be committed                                     |  [:TiFileSymlink:](git%20add.md)   |
 | `git commit` | takes a snapshot of a git repository in time                                 | [:TiFileSymlink:](git%20commit.md) |
-| `git log`    | shows the commit logs                                                        |                                    |
+| `git log`    | shows the commit logs                                                        |  [:TiFileSymlink:](git%20log.md)   |
 
 ---
+
+### Solve Problems
+
+| Process                          |                         Link                          |
+| -------------------------------- | :---------------------------------------------------: |
+| _change default Git text editor_ | [[git commit#Change default Git text editor \| Link]] |
+| _git ignore_                     |          [:TiFileSymlink:](git%20ignore.md)           |
+| _fix last commit mistake_        |        [[git commit#Amending Commits \| Link]]        |

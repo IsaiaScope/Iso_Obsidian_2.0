@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Git+&+Github_+Basics",
-      "path": "Git and GitHub/Files/Git+&+Github_+Basics.pdf"
-    },
-    {
-      "basename": "Theory",
-      "path": "Git and GitHub/Git/Data/Theory.md"
+      "basename": "Old Prompt",
+      "path": "Git and GitHub/Git/Data/Old Prompt.md"
     },
     {
       "basename": "Summary",
@@ -17,6 +13,14 @@
       "path": "Git and GitHub/Git/Prompt/git commit.md"
     },
     {
+      "basename": "git add",
+      "path": "Git and GitHub/Git/Prompt/git add.md"
+    },
+    {
+      "basename": "git log",
+      "path": "Git and GitHub/Git/Prompt/git log.md"
+    },
+    {
       "basename": "git init",
       "path": "Git and GitHub/Git/Prompt/git init.md"
     },
@@ -25,8 +29,16 @@
       "path": "Git and GitHub/Git/Prompt/git status.md"
     },
     {
-      "basename": "Untitled 1",
-      "path": "Git and GitHub/Git/Prompt/Untitled 1.md"
+      "basename": "Theory",
+      "path": "Git and GitHub/Git/Data/Theory.md"
+    },
+    {
+      "basename": "Git+&+Github_+Basics",
+      "path": "Git and GitHub/Files/Git+&+Github_+Basics.pdf"
+    },
+    {
+      "basename": "Commit flow",
+      "path": "Git and GitHub/Git/Files/Commit flow.png"
     },
     {
       "basename": "git config",
@@ -83,10 +95,6 @@
     {
       "basename": "index",
       "path": "PowerShell/index.md"
-    },
-    {
-      "basename": "Old Prompt",
-      "path": "Git and GitHub/Git/Data/Old Prompt.md"
     },
     {
       "basename": "Git+&+Github_+Intro+To+Git",
@@ -191,14 +199,6 @@
     {
       "basename": "Web Design Accessibility",
       "path": "Certificates/Udemy/Accessibility/Web Design Accessibility.jpg"
-    },
-    {
-      "basename": "PowerShell 5.1",
-      "path": "Certificates/Udemy/PowerShell 5.1.pdf"
-    },
-    {
-      "basename": "NodeJS",
-      "path": "Certificates/Udemy/NodeJS.jpg"
     }
   ],
   "omittedPaths": [],

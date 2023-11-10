@@ -11,7 +11,7 @@
 - [DOC of Complete list of all commands](https://git-scm.com/docs)
 - [[Commands | Basic Commands]]
 
-### Init Commands
+### Git CLI
 
 | Command      | Meaning                                                                      |                Link                |
 | ------------ | ---------------------------------------------------------------------------- | :--------------------------------: |

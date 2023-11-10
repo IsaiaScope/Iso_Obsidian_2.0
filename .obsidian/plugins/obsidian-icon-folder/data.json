@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiDatabase",
+      "FabWindows",
       "BoBxPlusCircle",
       "TiTerminal2",
-      "LiFiles",
-      "LiMapPin",
-      "TiDatabase"
+      "LiFiles"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -64,5 +64,8 @@
   "Git and GitHub/Git/Data/Old Prompt.md": "TiTerminal2",
   "Git and GitHub/Git/Summary.md": "BoBxPlusCircle",
   "Git and GitHub/Git/Prompt": "TiTerminal2",
-  "Git and GitHub/Files": "LiFiles"
+  "Git and GitHub/Files": "LiFiles",
+  "Prompt": "TiTerminal2",
+  "Prompt/Windows": "FabWindows",
+  "Prompt/Windows/Data": "TiDatabase"
 }

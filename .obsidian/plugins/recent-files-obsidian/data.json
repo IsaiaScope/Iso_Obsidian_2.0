@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Windows Terminal",
-      "path": "Git and GitHub/Windows Terminal.md"
+      "basename": "Commands",
+      "path": "Prompt/Windows/Commands.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Obsidian Tutorial/Dashboard.md"
+    },
+    {
+      "basename": "cd",
+      "path": "Prompt/Windows/Data/cd.md"
+    },
+    {
+      "basename": "DOC Resources",
+      "path": "Fastify/Data/DOC Resources.md"
+    },
+    {
+      "basename": "touch",
+      "path": "Prompt/Windows/Data/touch.md"
     },
     {
       "basename": "index",
@@ -17,20 +41,8 @@
       "path": "Git and GitHub/Files/Git+&+Github_+Installation.pdf"
     },
     {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
       "basename": "Old Prompt",
       "path": "Git and GitHub/Git/Data/Old Prompt.md"
-    },
-    {
-      "basename": "DOC Resources",
-      "path": "Fastify/Data/DOC Resources.md"
     },
     {
       "basename": "Git+&+Github_+Intro+To+Git",
@@ -55,10 +67,6 @@
     {
       "basename": "Obsidian",
       "path": "Markdown/Obsidian.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Obsidian Tutorial/Dashboard.md"
     },
     {
       "basename": "Fastify’s JSON Schema compilation workflow",
@@ -191,14 +199,6 @@
     {
       "basename": "Dashboard",
       "path": "Fastify/Dashboard.md"
-    },
-    {
-      "basename": "Conflic-Obsidian",
-      "path": "Conflic-Obsidian.md"
-    },
-    {
-      "basename": "Short-cuts",
-      "path": "Short-cuts.md"
     }
   ],
   "omittedPaths": [],

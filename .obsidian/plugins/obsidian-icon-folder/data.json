@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiPlusCircle",
-      "LiBookmark",
-      "SiSass",
-      "FabSass",
-      "SiCss3"
+      "TiTerminal2",
+      "LiFiles",
+      "LiMapPin",
+      "TiDatabase",
+      "SiGitkraken"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,7 +43,6 @@
   "Certificates/Udemy": "SiUdemy",
   "Fastify/Data/Book/Overview.md": "LiBookmark",
   "Fastify/Data/Book/Plugin.md": "LiBookmark",
-  "GitHub": "FabGithub",
   "Ionic": "SiIonic",
   "Fastify/Data/Theory": "BoBxsFlask",
   "Fastify/Data/Book/Routes.md": "LiBookmark",
@@ -53,5 +52,16 @@
   "Fastify/Data/Plugins and Libs.md": "TiPlug",
   "Fastify/Data/Book/Hooks.md": "LiBookmark",
   "Fastify/Data/Book/Validation and Serialization.md": "LiBookmark",
-  "Fastify/Data/Book/Summary.md": "LiPlusCircle"
+  "Fastify/Data/Book/Summary.md": "LiPlusCircle",
+  "Git and GitHub": "LiGitPullRequest",
+  "Git and GitHub/Dashboard.md": "IbDashboard",
+  "Git and GitHub/GitHub": "FabGithub",
+  "Git and GitHub/Git": "SiGit",
+  "Git and GitHub/GitKraken": "SiGitkraken",
+  "Git and GitHub/GitHub/Data": "TiDatabase",
+  "Git and GitHub/Git/Data": "TiDatabase",
+  "Git and GitHub/GitKraken/Data": "TiDatabase",
+  "Git and GitHub/Git/Prompt.md": "TiTerminal2",
+  "Git and GitHub/Files": "LiFiles",
+  "Git and GitHub/Git/Prompt List.md": "TiTerminal2"
 }

@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Prompt List",
+      "path": "Git and GitHub/Git/Prompt List.md"
+    },
+    {
+      "basename": "Prompt",
+      "path": "Git and GitHub/Git/Prompt.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
+      "basename": "Git+&+Github_+Installation",
+      "path": "Git and GitHub/Files/Git+&+Github_+Installation.pdf"
+    },
+    {
+      "basename": "DOC Resources",
+      "path": "Fastify/Data/DOC Resources.md"
+    },
+    {
+      "basename": "Git+&+Github_+Intro+To+Git",
+      "path": "Git and GitHub/Files/Git+&+Github_+Intro+To+Git.pdf"
+    },
+    {
       "basename": "Validation and Serialization",
       "path": "Fastify/Data/Book/Validation and Serialization.md"
     },
     {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
-    },
-    {
       "basename": "The validation execution workflow",
       "path": "Fastify/Files/The validation execution workflow.png"
+    },
+    {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
     },
     {
       "basename": "Plugins and Libs",
@@ -31,10 +55,6 @@
     {
       "basename": "Summary",
       "path": "Fastify/Data/Book/Summary.md"
-    },
-    {
-      "basename": "DOC Resources",
-      "path": "Fastify/Data/DOC Resources.md"
     },
     {
       "basename": "Validation and Serialization",
@@ -79,14 +99,6 @@
     {
       "basename": "Routes",
       "path": "Fastify/Data/Book/Routes.md"
-    },
-    {
-      "basename": "Prompt",
-      "path": "GitHub/Prompt.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "GitHub/Dashboard.md"
     },
     {
       "basename": "index",

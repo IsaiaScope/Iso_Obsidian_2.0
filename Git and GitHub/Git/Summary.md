@@ -21,6 +21,7 @@
 | `git add`    | command to stage changes to be committed                                     |  [:TiFileSymlink:](git%20add.md)   |
 | `git commit` | takes a snapshot of a git repository in time                                 | [:TiFileSymlink:](git%20commit.md) |
 | `git log`    | shows the commit logs                                                        |  [:TiFileSymlink:](git%20log.md)   |
+| `git branch` | to view your existing branches                                               | [:TiFileSymlink:](git%20branch.md) |
 
 ---
 

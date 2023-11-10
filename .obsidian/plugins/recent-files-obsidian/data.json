@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "git ignore",
-      "path": "Git and GitHub/Git/Data/git ignore.md"
+      "basename": "git branch",
+      "path": "Git and GitHub/Git/Prompt/git branch.md"
     },
     {
       "basename": "Summary",
       "path": "Git and GitHub/Git/Summary.md"
     },
     {
+      "basename": "Dashboard",
+      "path": "Obsidian Tutorial/Dashboard.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
+      "basename": "Commands",
+      "path": "Prompt/Commands.md"
+    },
+    {
+      "basename": "touch",
+      "path": "Prompt/Linux/Data/touch.md"
+    },
+    {
+      "basename": "rm",
+      "path": "Prompt/Windows/Data/rm.md"
+    },
+    {
+      "basename": "Git+&+Github_+Branching",
+      "path": "Git and GitHub/Files/Git+&+Github_+Branching.pdf"
+    },
+    {
+      "basename": "git ignore",
+      "path": "Git and GitHub/Git/Data/git ignore.md"
+    },
+    {
       "basename": "Theory",
       "path": "Git and GitHub/Git/Data/Theory.md"
+    },
+    {
+      "basename": "Old Prompt",
+      "path": "Git and GitHub/Git/Data/Old Prompt.md"
     },
     {
       "basename": "git log",
@@ -45,16 +77,8 @@
       "path": "Git and GitHub/Files/Git+&+Github_+Committing+In+Detail.pdf"
     },
     {
-      "basename": "Dashboard",
-      "path": "Obsidian Tutorial/Dashboard.md"
-    },
-    {
       "basename": "Obsidian",
       "path": "Markdown/Obsidian.md"
-    },
-    {
-      "basename": "Old Prompt",
-      "path": "Git and GitHub/Git/Data/Old Prompt.md"
     },
     {
       "basename": "Add Media",
@@ -69,14 +93,6 @@
       "path": "Git and GitHub/Git/Prompt/git status.md"
     },
     {
-      "basename": "Commands",
-      "path": "Prompt/Commands.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
-    },
-    {
       "basename": "Summary",
       "path": "Fastify/Data/Book/Summary.md"
     },
@@ -87,14 +103,6 @@
     {
       "basename": "Git+&+Github_+Installation",
       "path": "Git and GitHub/Files/Git+&+Github_+Installation.pdf"
-    },
-    {
-      "basename": "touch",
-      "path": "Prompt/Linux/Data/touch.md"
-    },
-    {
-      "basename": "rm",
-      "path": "Prompt/Windows/Data/rm.md"
     },
     {
       "basename": "cd",
@@ -191,14 +199,6 @@
     {
       "basename": "Handling boot and plugin errors",
       "path": "Fastify/Data/Theory/Handling boot and plugin errors.md"
-    },
-    {
-      "basename": "encapsulation",
-      "path": "Fastify/Files/encapsulation.png"
-    },
-    {
-      "basename": "Application-lifecycle",
-      "path": "Fastify/Files/Application-lifecycle.png"
     }
   ],
   "omittedPaths": [],

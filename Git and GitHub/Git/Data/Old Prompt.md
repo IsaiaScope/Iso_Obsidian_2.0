@@ -5,40 +5,6 @@
 
 ---
 
-#### Creating a new branch & first push
-
-1. creating a new branch _locally_
-
-```console
-git checkout -b  <myNewBranch>
-```
-
-1. _first push_ to create the branch in the repo
-   - remember to do the commit first
-
-```console
-git push --set-upstream origin <myNewBranch>
-```
-
----
-
-#### Delete branch & delete remote branch
-
-1. delete _local_ branch
-   - use -D if it's a merged one
-
-```console
-git branch -d <localBranchName>
-```
-
-2. delete _remote_ branch
-
-```console
-git push origin --delete <remoteBranchName>
-```
-
----
-
 #### Migrate Repository to Another Url
 
 - this change also reference in the project so next pull/push actions are gonna be on new Url
@@ -48,6 +14,26 @@ git clone --mirror <URL OLD>
 cd <directory where your OLD repo was cloned>
 git remote set-url origin <NEW URL>
 git push --mirror origin
+```
+
+---
+
+# Push new branch to origin or delete
+
+_first push_ to create the branch in the GitHub repo
+
+- remember to do the commit first
+
+```bash
+git push --set-upstream origin <myNewBranch>
+```
+
+---
+
+2. delete _remote_ branch
+
+```console
+git push origin --delete <remoteBranchName>
 ```
 
 ---

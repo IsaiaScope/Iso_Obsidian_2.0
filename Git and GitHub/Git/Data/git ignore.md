@@ -1,6 +1,5 @@
 # git ignore
 
-- [Ignoring-files](https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files)
 - [DOC of gitignore](https://git-scm.com/docs/gitignore)
 
 ## Ignoring Files
@@ -26,11 +25,11 @@
 
 ##  Ignore a file that is already checked in
 
+- [Ignoring-files](https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files)
 - If you want to ignore a file that is already checked in, you must untrack the file before you add a rule to ignore it. From your terminal, untrack the file.
 - The command with flag `git rm --cached` removes the file from the index but leaves it in the working directory. This indicates to `git` that you don't want to track the file any more.
 - _this commands doesn't remove tracking of files in previous commits_
 - _files could be readded by just removing that specific line from .gitignore_
-
 - change `.gitignore` file and execute the following snippet
 
 ```bash

@@ -16,6 +16,16 @@ git commit -m "my message"
 
 ---
 
+## Committing all in one go
+
+- The `-a` flag allows us to bypass `git add .` and do the commit all in one go
+
+```bash
+git commit -a -m "my message"
+```
+
+---
+
 ## Change default Git text editor
 
 - `git commit` It also opens up a text editor (VIM is default) and prompts you for a commit message.

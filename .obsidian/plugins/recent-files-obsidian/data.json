@@ -1,24 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "git switch",
+      "path": "Git and GitHub/Git/Prompt/git switch.md"
+    },
+    {
       "basename": "git init",
       "path": "Git and GitHub/Git/Prompt/git init.md"
+    },
+    {
+      "basename": "HEAD",
+      "path": "Git and GitHub/Git/Data/HEAD.md"
+    },
+    {
+      "basename": "git branch",
+      "path": "Git and GitHub/Git/Prompt/git branch.md"
     },
     {
       "basename": "Theory",
       "path": "Git and GitHub/Git/Data/Theory.md"
     },
     {
+      "basename": "Dashboard",
+      "path": "Obsidian Tutorial/Dashboard.md"
+    },
+    {
+      "basename": "Commands",
+      "path": "Prompt/Commands.md"
+    },
+    {
+      "basename": "git log",
+      "path": "Git and GitHub/Git/Prompt/git log.md"
+    },
+    {
       "basename": "git ignore",
       "path": "Git and GitHub/Git/Data/git ignore.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
-      "basename": "git branch",
-      "path": "Git and GitHub/Git/Prompt/git branch.md"
     },
     {
       "basename": "DOC Resources",
@@ -27,10 +47,6 @@
     {
       "basename": "Old Prompt",
       "path": "Git and GitHub/Git/Data/Old Prompt.md"
-    },
-    {
-      "basename": "git switch",
-      "path": "Git and GitHub/Git/Prompt/git switch.md"
     },
     {
       "basename": "Git+&+Github_+Branching",
@@ -42,15 +58,7 @@
     },
     {
       "basename": "Dashboard",
-      "path": "Obsidian Tutorial/Dashboard.md"
-    },
-    {
-      "basename": "Dashboard",
       "path": "Git and GitHub/Dashboard.md"
-    },
-    {
-      "basename": "Commands",
-      "path": "Prompt/Commands.md"
     },
     {
       "basename": "touch",
@@ -59,10 +67,6 @@
     {
       "basename": "rm",
       "path": "Prompt/Windows/Data/rm.md"
-    },
-    {
-      "basename": "git log",
-      "path": "Git and GitHub/Git/Prompt/git log.md"
     },
     {
       "basename": "git add",
@@ -195,10 +199,6 @@
     {
       "basename": "Differences between the async and sync handlers",
       "path": "Fastify/Files/Differences between the async and sync handlers.png"
-    },
-    {
-      "basename": "grid-secrets",
-      "path": "Style (SASS & CSS)/CSS/grid-secrets.md"
     }
   ],
   "omittedPaths": [],

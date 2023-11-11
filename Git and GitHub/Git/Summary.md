@@ -2,7 +2,7 @@
 
 - [Doc of Git](https://git-scm.com/)
 - [[Git and GitHub/Git/Data/Theory|Theory]]
-- [[Old Prompt]]
+  - [[HEAD]]
 
 # Prompt
 
@@ -28,10 +28,9 @@
 
 ### Solve Problems
 
-| Description                      |                         Link                          |
-| -------------------------------- | :---------------------------------------------------: |
-| _Change default Git text editor_ | [[git commit#Change default Git text editor \| Link]] |
-| _git ignore_                     |          [:TiFileSymlink:](git%20ignore.md)           |
-| _Fix last commit mistake_        |        [[git commit#Amending Commits \| Link]]        |
-| _Committing All Changes in one go_       |    [[git commit#Committing all in one go \| Link]]    |
-|       Remane a local branch   |            |
+| Description                        |                         Link                          |
+| ---------------------------------- | :---------------------------------------------------: |
+| _Change default Git text editor_   | [[git commit#Change default Git text editor \| Link]] |
+| _git ignore_                       |          [:TiFileSymlink:](git%20ignore.md)           |
+| _Fix last commit mistake_          |        [[git commit#Amending Commits \| Link]]        |
+| _Committing All Changes in one go_ |    [[git commit#Committing all in one go \| Link]]    |

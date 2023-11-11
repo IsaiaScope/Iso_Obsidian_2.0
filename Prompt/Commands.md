@@ -7,15 +7,16 @@
 
 ### Navigation
 
-| Command      | Meaning                                   |  Git Bash  |                     Link                     |
-| :----------- | ----------------------------------------- | :--------: | :------------------------------------------: |
-| `ls`         | look file and folder in current directory | :FasCheck: |                                              |
-| `dir`        | look file in current directory            | :FasCheck: |                                              |
-| `start .`    | open File Explorer in current directory   | :FasCheck: |                                              |
-| `explorer .` | open File Explorer in current directory   | :FasCheck: |                                              |
-| `pwd`        | show current location                     | :FasCheck: |                                              |
-| `cd <path>`  | change directory                          | :FasCheck: | [:TiFileSymlink:](Prompt/Windows/Data/cd.md) |
-| `cls`        | clear console                             |            |                                              |
+| Command      | Meaning                                                                                                                        |  Git Bash  |                     Link                     |
+| :----------- | ------------------------------------------------------------------------------------------------------------------------------ | :--------: | :------------------------------------------: |
+| `ls`         | look file and folder in current directory                                                                                      | :FasCheck: |                                              |
+| `dir`        | look file in current directory                                                                                                 | :FasCheck: |                                              |
+| `start .`    | open File Explorer in current directory                                                                                        | :FasCheck: |                                              |
+| `explorer .` | open File Explorer in current directory                                                                                        | :FasCheck: |                                              |
+| `pwd`        | show current location                                                                                                          | :FasCheck: |                                              |
+| `cd <path>`  | change directory                                                                                                               | :FasCheck: | [:TiFileSymlink:](Prompt/Windows/Data/cd.md) |
+| `cls`        | clear console                                                                                                                  |            |                                              |
+| `cat`        | allows us to create single or multiple files,view contain of file, concatenate files and redirect output in terminal or files. | :FasCheck: |                                              |
 
 ---
 

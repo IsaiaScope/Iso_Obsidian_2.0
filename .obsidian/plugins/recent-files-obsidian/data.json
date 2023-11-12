@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Old Prompt",
-      "path": "Git and GitHub/Git/Data/Old Prompt.md"
+      "basename": "git stash",
+      "path": "Git and GitHub/Git/Prompt/git stash.md"
+    },
+    {
+      "basename": "Git+&+Github_+Stashing",
+      "path": "Git and GitHub/Files/Git+&+Github_+Stashing.pdf"
     },
     {
       "basename": "Summary",
       "path": "Git and GitHub/Git/Summary.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
+      "basename": "Old Prompt",
+      "path": "Git and GitHub/Git/Data/Old Prompt.md"
+    },
+    {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
     },
     {
       "basename": "DOC Resources",
       "path": "Fastify/Data/DOC Resources.md"
     },
     {
-      "basename": "Git+&+Github_+Diffs",
-      "path": "Git and GitHub/Files/Git+&+Github_+Diffs.pdf"
+      "basename": "Plugins and Libs",
+      "path": "Fastify/Data/Plugins and Libs.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Fastify/Data/Book/Summary.md"
     },
     {
       "basename": "git diff",
@@ -27,6 +39,14 @@
     {
       "basename": "git branch",
       "path": "Git and GitHub/Git/Prompt/git branch.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
+      "basename": "Git+&+Github_+Diffs",
+      "path": "Git and GitHub/Files/Git+&+Github_+Diffs.pdf"
     },
     {
       "basename": "git commit",
@@ -141,24 +161,12 @@
       "path": "Markdown/Files/obsidian-link-1.png"
     },
     {
-      "basename": "Summary",
-      "path": "Fastify/Data/Book/Summary.md"
-    },
-    {
-      "basename": "Plugins and Libs",
-      "path": "Fastify/Data/Plugins and Libs.md"
-    },
-    {
       "basename": "Git+&+Github_+Installation",
       "path": "Git and GitHub/Files/Git+&+Github_+Installation.pdf"
     },
     {
       "basename": "cmd",
       "path": "PowerShell/data/cmd.md"
-    },
-    {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
     },
     {
       "basename": "index",
@@ -191,14 +199,6 @@
     {
       "basename": "Encapsulation",
       "path": "Fastify/Data/Theory/Encapsulation.md"
-    },
-    {
-      "basename": "Request and reply lifecycle",
-      "path": "Fastify/Files/Request and reply lifecycle.png"
-    },
-    {
-      "basename": "Extra Notes",
-      "path": "Fastify/Extra Notes.md"
     }
   ],
   "omittedPaths": [],

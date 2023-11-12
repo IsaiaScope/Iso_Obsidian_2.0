@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxHeading",
+      "TiNote",
       "LiFiles",
       "BoBxsFlask",
-      "SiVisualstudiocode",
-      "LiCode",
-      "LiCode2"
+      "SiVisualstudiocode"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -72,5 +72,6 @@
   "Prompt/Linux/Data": "TiDatabase",
   "Prompt/Commands.md": "LiCode",
   "Git and GitHub/Git/Data/Theory.md": "BoBxsFlask",
-  "Git and GitHub/Git/Files": "LiFiles"
+  "Git and GitHub/Git/Files": "LiFiles",
+  "Periodic Notes": "TiNote"
 }

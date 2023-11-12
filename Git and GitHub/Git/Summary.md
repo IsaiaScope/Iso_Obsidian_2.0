@@ -24,6 +24,7 @@
 | `git branch` | to view your existing branches and work with them                            | [:TiFileSymlink:](git%20branch.md) |
 | `git switch` | once you have created a new branch, use `git switch` switch to it            | [:TiFileSymlink:](git%20switch.md) |
 | `git merge`  | used to incorporate changes from one branch into anothe                      | [:TiFileSymlink:](git%20merge.md)  |
+| `git diff`   | show changes between commits, commit and working tree, etc                   |  [:TiFileSymlink:](git%20diff.md)  |
 
 ---
 

@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "git merge",
-      "path": "Git and GitHub/Git/Prompt/git merge.md"
-    },
-    {
       "basename": "Summary",
       "path": "Git and GitHub/Git/Summary.md"
     },
     {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
+      "basename": "DOC Resources",
+      "path": "Fastify/Data/DOC Resources.md"
+    },
+    {
+      "basename": "Git+&+Github_+Diffs",
+      "path": "Git and GitHub/Files/Git+&+Github_+Diffs.pdf"
+    },
+    {
+      "basename": "git diff",
+      "path": "Git and GitHub/Git/Prompt/git diff.md"
+    },
+    {
+      "basename": "git branch",
+      "path": "Git and GitHub/Git/Prompt/git branch.md"
+    },
+    {
+      "basename": "git commit",
+      "path": "Git and GitHub/Git/Prompt/git commit.md"
+    },
+    {
+      "basename": "git switch",
+      "path": "Git and GitHub/Git/Prompt/git switch.md"
+    },
+    {
       "basename": "Git+&+Github+Course_+Merging",
       "path": "Git and GitHub/Files/Git+&+Github+Course_+Merging.pdf"
+    },
+    {
+      "basename": "git merge",
+      "path": "Git and GitHub/Git/Prompt/git merge.md"
     },
     {
       "basename": "Not All Merges Are Fast Forwards",
@@ -27,14 +55,6 @@
     {
       "basename": "git status",
       "path": "Git and GitHub/Git/Prompt/git status.md"
-    },
-    {
-      "basename": "git switch",
-      "path": "Git and GitHub/Git/Prompt/git switch.md"
-    },
-    {
-      "basename": "git branch",
-      "path": "Git and GitHub/Git/Prompt/git branch.md"
     },
     {
       "basename": "This is what merge really looks like",
@@ -65,10 +85,6 @@
       "path": "Git and GitHub/Git/Prompt/git add.md"
     },
     {
-      "basename": "git commit",
-      "path": "Git and GitHub/Git/Prompt/git commit.md"
-    },
-    {
       "basename": "git config",
       "path": "Git and GitHub/Git/Prompt/git config.md"
     },
@@ -79,10 +95,6 @@
     {
       "basename": "git log",
       "path": "Git and GitHub/Git/Prompt/git log.md"
-    },
-    {
-      "basename": "DOC Resources",
-      "path": "Fastify/Data/DOC Resources.md"
     },
     {
       "basename": "git ignore",
@@ -107,10 +119,6 @@
     {
       "basename": "Git+&+Github_+Branching",
       "path": "Git and GitHub/Files/Git+&+Github_+Branching.pdf"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
     },
     {
       "basename": "Commit flow",
@@ -191,14 +199,6 @@
     {
       "basename": "Extra Notes",
       "path": "Fastify/Extra Notes.md"
-    },
-    {
-      "basename": "The after instance method",
-      "path": "Fastify/Data/Theory/The after instance method.md"
-    },
-    {
-      "basename": "Plugin",
-      "path": "Fastify/Data/Book/Plugin.md"
     }
   ],
   "omittedPaths": [],

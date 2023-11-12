@@ -17,6 +17,8 @@ Running `git stash` will take all uncommitted changes (staged and unstaged) and 
 git stash
 ```
 
+---
+
 ### Heads Up!
 
 If you have untracked files (files that you have never checked in to Git), they will not be included in the stash.
@@ -43,6 +45,8 @@ git stash pop
 
 You can use` git stash apply` to apply whatever is stashed away, _without removing_ it from the stash. This can be useful if you want to apply stashed changes to multiple branches.
 
+git applies _most recent stash_ when you run `git stash apply`
+
 ```bash
 git stash apply
 ```
@@ -60,6 +64,32 @@ You can add multiple stashes onto the stack of stashes. They will all be stashed
 git stash list
 ```
 
+---
+
 ### Applying Specific Stashes
 
+git assumes you want to apply the most recent stash when you run git stash apply, but you can also specify a particular stash like `git stash apply stash@{2}`
 
+```bash
+git stash apply stash@{2}
+```
+
+---
+
+### Dropping Stashes
+
+To delete a particular stash, you can use `git stash drop <stash-id>`
+
+```bash
+git stash drop stash@{2}
+```
+
+### Clearing The Stash
+
+To clear out all stashes, run `git stash clear`
+
+```bash
+git stash clear
+```
+
+---

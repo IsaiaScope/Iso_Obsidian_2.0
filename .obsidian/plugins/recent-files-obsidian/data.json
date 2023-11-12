@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "git stash",
-      "path": "Git and GitHub/Git/Prompt/git stash.md"
-    },
-    {
-      "basename": "Git+&+Github_+Stashing",
-      "path": "Git and GitHub/Files/Git+&+Github_+Stashing.pdf"
+      "basename": "git diff",
+      "path": "Git and GitHub/Git/Prompt/git diff.md"
     },
     {
       "basename": "Summary",
       "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "git stash",
+      "path": "Git and GitHub/Git/Prompt/git stash.md"
+    },
+    {
+      "basename": "Git+&+Github+Course_+Undoing+Stuff",
+      "path": "Git and GitHub/Files/Git+&+Github+Course_+Undoing+Stuff.pdf"
+    },
+    {
+      "basename": "Git+&+Github_+Stashing",
+      "path": "Git and GitHub/Files/Git+&+Github_+Stashing.pdf"
     },
     {
       "basename": "Old Prompt",
@@ -31,10 +39,6 @@
     {
       "basename": "Summary",
       "path": "Fastify/Data/Book/Summary.md"
-    },
-    {
-      "basename": "git diff",
-      "path": "Git and GitHub/Git/Prompt/git diff.md"
     },
     {
       "basename": "git branch",
@@ -195,10 +199,6 @@
     {
       "basename": "Hooks",
       "path": "Fastify/Data/Book/Hooks.md"
-    },
-    {
-      "basename": "Encapsulation",
-      "path": "Fastify/Data/Theory/Encapsulation.md"
     }
   ],
   "omittedPaths": [],

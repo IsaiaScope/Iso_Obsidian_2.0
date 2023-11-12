@@ -5,24 +5,64 @@
       "path": "Git and GitHub/Git/Prompt/git merge.md"
     },
     {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
       "basename": "Git+&+Github+Course_+Merging",
       "path": "Git and GitHub/Files/Git+&+Github+Course_+Merging.pdf"
     },
     {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
+      "basename": "Not All Merges Are Fast Forwards",
+      "path": "Git and GitHub/Git/Files/Not All Merges Are Fast Forwards.png"
+    },
+    {
+      "basename": "Conflict Markers",
+      "path": "Git and GitHub/Git/Files/Conflict Markers.png"
+    },
+    {
+      "basename": "Theory",
+      "path": "Git and GitHub/Git/Data/Theory.md"
     },
     {
       "basename": "git status",
       "path": "Git and GitHub/Git/Prompt/git status.md"
     },
     {
-      "basename": "git add",
-      "path": "Git and GitHub/Git/Prompt/git add.md"
+      "basename": "git switch",
+      "path": "Git and GitHub/Git/Prompt/git switch.md"
     },
     {
       "basename": "git branch",
       "path": "Git and GitHub/Git/Prompt/git branch.md"
+    },
+    {
+      "basename": "This is what merge really looks like",
+      "path": "Git and GitHub/Git/Files/This is what merge really looks like.png"
+    },
+    {
+      "basename": "Merging",
+      "path": "Git and GitHub/Git/Files/Merging.png"
+    },
+    {
+      "basename": "Commands",
+      "path": "Prompt/Commands.md"
+    },
+    {
+      "basename": "rm",
+      "path": "Prompt/Windows/Data/rm.md"
+    },
+    {
+      "basename": "cd",
+      "path": "Prompt/Windows/Data/cd.md"
+    },
+    {
+      "basename": "touch",
+      "path": "Prompt/Linux/Data/touch.md"
+    },
+    {
+      "basename": "git add",
+      "path": "Git and GitHub/Git/Prompt/git add.md"
     },
     {
       "basename": "git commit",
@@ -41,10 +81,6 @@
       "path": "Git and GitHub/Git/Prompt/git log.md"
     },
     {
-      "basename": "git switch",
-      "path": "Git and GitHub/Git/Prompt/git switch.md"
-    },
-    {
       "basename": "DOC Resources",
       "path": "Fastify/Data/DOC Resources.md"
     },
@@ -61,16 +97,8 @@
       "path": "Git and GitHub/Git/Data/HEAD.md"
     },
     {
-      "basename": "Theory",
-      "path": "Git and GitHub/Git/Data/Theory.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Obsidian Tutorial/Dashboard.md"
-    },
-    {
-      "basename": "Commands",
-      "path": "Prompt/Commands.md"
     },
     {
       "basename": "Old Prompt",
@@ -83,14 +111,6 @@
     {
       "basename": "Dashboard",
       "path": "Git and GitHub/Dashboard.md"
-    },
-    {
-      "basename": "touch",
-      "path": "Prompt/Linux/Data/touch.md"
-    },
-    {
-      "basename": "rm",
-      "path": "Prompt/Windows/Data/rm.md"
     },
     {
       "basename": "Commit flow",
@@ -123,10 +143,6 @@
     {
       "basename": "Git+&+Github_+Installation",
       "path": "Git and GitHub/Files/Git+&+Github_+Installation.pdf"
-    },
-    {
-      "basename": "cd",
-      "path": "Prompt/Windows/Data/cd.md"
     },
     {
       "basename": "cmd",
@@ -183,22 +199,6 @@
     {
       "basename": "Plugin",
       "path": "Fastify/Data/Book/Plugin.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "Fastify/Data/Book/Overview.md"
-    },
-    {
-      "basename": "Context (This) versus scope",
-      "path": "Fastify/Data/Theory/Context (This) versus scope.md"
-    },
-    {
-      "basename": "The register instance method",
-      "path": "Fastify/Data/Theory/The register instance method.md"
-    },
-    {
-      "basename": "Routes",
-      "path": "Fastify/Data/Book/Routes.md"
     }
   ],
   "omittedPaths": [],

@@ -21,11 +21,31 @@ To merge, follow these basic steps:
 - Switch to or checkout the branch you want to merge the changes into (the receiving branch)
 - Use the git merge command to merge changes from a specific branch into the current branch.
 
-![[Pasted image 20231111191656.png]]
-### This is what it really looks like
-Remember, branches are just defined by a branch pointer
-```bash
-
-```
+[[Merging.png]]
 
 ---
+
+### Fast Forwards Merge
+
+[[This is what merge really looks like.png]]
+
+---
+
+### Not All Merges Are Fast Forwards!
+
+[[Not All Merges Are Fast Forwards.png]]
+
+---
+
+## Resolving Conflicts
+
+Depending on the specific changes your are trying to merge, Git may not be able to automatically merge. This results in merge conflicts, which you need to manually resolve
+
+![[Conflict Markers.png]]
+
+Whenever you encounter merge conflicts, follow these steps to resolve them:
+
+- Open up the file(s) with merge conflicts
+- Edit the file(s) to remove the conflicts. Decide which branch's content you want to keep in each conflict. Or keep the content from both.
+- Remove the conflict "markers" in the document
+- Add your changes and then make a commit!

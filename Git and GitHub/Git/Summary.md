@@ -3,6 +3,7 @@
 - [Doc of Git](https://git-scm.com/)
 - [[Git and GitHub/Git/Data/Theory|Theory]]
   - [[HEAD]]
+  - [[HASH]]
 
 # Prompt
 

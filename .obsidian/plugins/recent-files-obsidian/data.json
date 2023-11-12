@@ -1,20 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "git diff",
-      "path": "Git and GitHub/Git/Prompt/git diff.md"
+      "basename": "Git+&+Github+Course_+Undoing+Stuff",
+      "path": "Git and GitHub/Files/Git+&+Github+Course_+Undoing+Stuff.pdf"
+    },
+    {
+      "basename": "HASH",
+      "path": "Git and GitHub/Git/Data/HASH.md"
+    },
+    {
+      "basename": "HEAD",
+      "path": "Git and GitHub/Git/Data/HEAD.md"
+    },
+    {
+      "basename": "git checkout",
+      "path": "Git and GitHub/Git/Prompt/git checkout.md"
     },
     {
       "basename": "Summary",
       "path": "Git and GitHub/Git/Summary.md"
     },
     {
+      "basename": "git switch",
+      "path": "Git and GitHub/Git/Prompt/git switch.md"
+    },
+    {
+      "basename": "git status",
+      "path": "Git and GitHub/Git/Prompt/git status.md"
+    },
+    {
       "basename": "git stash",
       "path": "Git and GitHub/Git/Prompt/git stash.md"
     },
     {
-      "basename": "Git+&+Github+Course_+Undoing+Stuff",
-      "path": "Git and GitHub/Files/Git+&+Github+Course_+Undoing+Stuff.pdf"
+      "basename": "git merge",
+      "path": "Git and GitHub/Git/Prompt/git merge.md"
+    },
+    {
+      "basename": "git log",
+      "path": "Git and GitHub/Git/Prompt/git log.md"
+    },
+    {
+      "basename": "git init",
+      "path": "Git and GitHub/Git/Prompt/git init.md"
+    },
+    {
+      "basename": "git diff",
+      "path": "Git and GitHub/Git/Prompt/git diff.md"
+    },
+    {
+      "basename": "git config",
+      "path": "Git and GitHub/Git/Prompt/git config.md"
+    },
+    {
+      "basename": "git commit",
+      "path": "Git and GitHub/Git/Prompt/git commit.md"
+    },
+    {
+      "basename": "git branch",
+      "path": "Git and GitHub/Git/Prompt/git branch.md"
+    },
+    {
+      "basename": "git add",
+      "path": "Git and GitHub/Git/Prompt/git add.md"
     },
     {
       "basename": "Git+&+Github_+Stashing",
@@ -41,10 +89,6 @@
       "path": "Fastify/Data/Book/Summary.md"
     },
     {
-      "basename": "git branch",
-      "path": "Git and GitHub/Git/Prompt/git branch.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Git and GitHub/Dashboard.md"
     },
@@ -53,20 +97,8 @@
       "path": "Git and GitHub/Files/Git+&+Github_+Diffs.pdf"
     },
     {
-      "basename": "git commit",
-      "path": "Git and GitHub/Git/Prompt/git commit.md"
-    },
-    {
-      "basename": "git switch",
-      "path": "Git and GitHub/Git/Prompt/git switch.md"
-    },
-    {
       "basename": "Git+&+Github+Course_+Merging",
       "path": "Git and GitHub/Files/Git+&+Github+Course_+Merging.pdf"
-    },
-    {
-      "basename": "git merge",
-      "path": "Git and GitHub/Git/Prompt/git merge.md"
     },
     {
       "basename": "Not All Merges Are Fast Forwards",
@@ -79,10 +111,6 @@
     {
       "basename": "Theory",
       "path": "Git and GitHub/Git/Data/Theory.md"
-    },
-    {
-      "basename": "git status",
-      "path": "Git and GitHub/Git/Prompt/git status.md"
     },
     {
       "basename": "This is what merge really looks like",
@@ -109,32 +137,12 @@
       "path": "Prompt/Linux/Data/touch.md"
     },
     {
-      "basename": "git add",
-      "path": "Git and GitHub/Git/Prompt/git add.md"
-    },
-    {
-      "basename": "git config",
-      "path": "Git and GitHub/Git/Prompt/git config.md"
-    },
-    {
-      "basename": "git init",
-      "path": "Git and GitHub/Git/Prompt/git init.md"
-    },
-    {
-      "basename": "git log",
-      "path": "Git and GitHub/Git/Prompt/git log.md"
-    },
-    {
       "basename": "git ignore",
       "path": "Git and GitHub/Git/Data/git ignore.md"
     },
     {
       "basename": "Git+&+Github_+Committing+In+Detail",
       "path": "Git and GitHub/Files/Git+&+Github_+Committing+In+Detail.pdf"
-    },
-    {
-      "basename": "HEAD",
-      "path": "Git and GitHub/Git/Data/HEAD.md"
     },
     {
       "basename": "Dashboard",
@@ -191,14 +199,6 @@
     {
       "basename": "Fastify’s JSON Schema compilation workflow",
       "path": "Fastify/Files/Fastify’s JSON Schema compilation workflow.png"
-    },
-    {
-      "basename": "Validation and Serialization",
-      "path": "Fastify/Files/Validation and Serialization.png"
-    },
-    {
-      "basename": "Hooks",
-      "path": "Fastify/Data/Book/Hooks.md"
     }
   ],
   "omittedPaths": [],

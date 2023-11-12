@@ -62,8 +62,8 @@ git diff branch1..branch2
 
 ## Comparing Commits
 
-- To compare two commits, provide git diff with the commit hashes of the commits in question.
-  - _commit hashes_ can be acquired with `git log --oneline`
+- To compare two commits, provide git diff with the _commit hashes_ of the commits in question.
+  - [[HASH]]
 
 ```bash
 git diff commit1..commit2

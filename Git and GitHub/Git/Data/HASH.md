@@ -2,7 +2,7 @@
 
 ## Commit Hash
 
-Remember, you can use the `git log` command to view commit hashes. We just need the first 7 digits of a commit hash
+Remember, you can use the `git log` command to view commit hashes. We just _need the first 7 digits of a commit hash_
 
 ```bash
 git log

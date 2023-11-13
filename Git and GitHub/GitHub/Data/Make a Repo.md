@@ -16,7 +16,7 @@ If you already have an existing repo locally that you want to get on Github...
 
 ---
 
-## Cloning a new/existing Repo from GitHub
+## Cloning a existing Repo from GitHub
 
 If you haven't begun work on your local repo, you can...
 

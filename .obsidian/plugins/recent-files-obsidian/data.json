@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "git init",
+      "path": "Git and GitHub/Git/Prompt/git init.md"
+    },
+    {
+      "basename": "Old Prompt",
+      "path": "Git and GitHub/Old Prompt.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
+    },
+    {
+      "basename": "Git+&+Github_+Github+Basics",
+      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Github+Basics.pdf"
+    },
+    {
+      "basename": "_Git+&+Github_+Fetch+&+Pull",
+      "path": "Git and GitHub/Files/Udemy Course/_Git+&+Github_+Fetch+&+Pull.pdf"
+    },
+    {
       "basename": "Make a Repo",
       "path": "Git and GitHub/GitHub/Data/Make a Repo.md"
     },
     {
       "basename": "git clone",
       "path": "Git and GitHub/GitHub/Prompt/git clone.md"
-    },
-    {
-      "basename": "git init",
-      "path": "Git and GitHub/Git/Prompt/git init.md"
     },
     {
       "basename": "git remote",
@@ -21,14 +37,6 @@
       "path": "Git and GitHub/GitHub/Prompt/git push.md"
     },
     {
-      "basename": "Git+&+Github_+Github+Basics",
-      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Github+Basics.pdf"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
-    },
-    {
       "basename": "git pull",
       "path": "Git and GitHub/GitHub/Prompt/git pull.md"
     },
@@ -37,16 +45,8 @@
       "path": "Git and GitHub/GitHub/Prompt/git fetch.md"
     },
     {
-      "basename": "Old Prompt",
-      "path": "Git and GitHub/Old Prompt.md"
-    },
-    {
       "basename": "git push -u",
       "path": "Git and GitHub/GitHub/Files/git push -u.png"
-    },
-    {
-      "basename": "_Git+&+Github_+Fetch+&+Pull",
-      "path": "Git and GitHub/Files/Udemy Course/_Git+&+Github_+Fetch+&+Pull.pdf"
     },
     {
       "basename": "Summary",

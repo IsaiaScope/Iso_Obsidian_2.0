@@ -1,8 +1,9 @@
 # DOCS
 
 - [Site of GitHub](https://docs.github.com/en)
-  - [[git remote#Remote | Remote]]
-  - [[git remote#Origin?! Remote Default Name (Customizable) | Origin?! Remote Default Name (Customizable)]]
+- [[git remote#Remote | Remote]]
+- [[git remote#Origin?! Remote Default Name (Customizable) | Origin?! Remote Default Name (Customizable)]]
+- [[Remote Branches]]
 
 # Prompt
 
@@ -22,10 +23,17 @@
 
 ### Common Problems
 
-| Command       |                 Link                  |
-| ------------- | :-----------------------------------: |
-| `Make a Repo` | [:TiFileSymlink:](Make%20a%20Repo.md) |
+| Command                          |                             Link                             |
+| -------------------------------- | :----------------------------------------------------------: |
+| _Make a Repo_                    |            [:TiFileSymlink:](Make%20a%20Repo.md)             |
+| _Change default branch_          |          [[git init#Change default branch \| Link]]          |
+| _Create Local and Remote Branch_ | [:TiFileSymlink:](Create%20Local%20and%20Remote%20Branch.md) |
+| _Delete Local and Remote Branch_ | [:TiFileSymlink:](Delete%20Local%20and%20Remote%20Branch.md) |
 
 ---
 
-![[Pasted image 20231113223634.png]]
+## Workflow Recap
+
+![[Workflow Recap.png]]
+
+---

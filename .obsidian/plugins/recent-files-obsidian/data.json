@@ -1,72 +1,124 @@
 {
   "recentFiles": [
     {
-      "basename": "git init",
-      "path": "Git and GitHub/Git/Prompt/git init.md"
+      "basename": "git fetch",
+      "path": "Git and GitHub/GitHub/Prompt/git fetch.md"
     },
     {
-      "basename": "Old Prompt",
-      "path": "Git and GitHub/Old Prompt.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
-    },
-    {
-      "basename": "Git+&+Github_+Github+Basics",
-      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Github+Basics.pdf"
+      "basename": "git fetch",
+      "path": "Git and GitHub/GitHub/Files/git fetch.png"
     },
     {
       "basename": "_Git+&+Github_+Fetch+&+Pull",
       "path": "Git and GitHub/Files/Udemy Course/_Git+&+Github_+Fetch+&+Pull.pdf"
     },
     {
-      "basename": "Make a Repo",
-      "path": "Git and GitHub/GitHub/Data/Make a Repo.md"
+      "basename": "git push",
+      "path": "Git and GitHub/GitHub/Prompt/git push.md"
     },
     {
-      "basename": "git clone",
-      "path": "Git and GitHub/GitHub/Prompt/git clone.md"
+      "basename": "Delete Local and Remote Branch",
+      "path": "Git and GitHub/GitHub/Data/Delete Local and Remote Branch.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
+    },
+    {
+      "basename": "git init",
+      "path": "Git and GitHub/Git/Prompt/git init.md"
     },
     {
       "basename": "git remote",
       "path": "Git and GitHub/GitHub/Prompt/git remote.md"
     },
     {
-      "basename": "git push",
-      "path": "Git and GitHub/GitHub/Prompt/git push.md"
-    },
-    {
       "basename": "git pull",
       "path": "Git and GitHub/GitHub/Prompt/git pull.md"
     },
     {
-      "basename": "git fetch",
-      "path": "Git and GitHub/GitHub/Prompt/git fetch.md"
-    },
-    {
-      "basename": "git push -u",
-      "path": "Git and GitHub/GitHub/Files/git push -u.png"
+      "basename": "git clone",
+      "path": "Git and GitHub/GitHub/Prompt/git clone.md"
     },
     {
       "basename": "Summary",
       "path": "Git and GitHub/Git/Summary.md"
     },
     {
+      "basename": "Old Prompt",
+      "path": "Git and GitHub/Old Prompt.md"
+    },
+    {
+      "basename": "Create Local and Remote Branch",
+      "path": "Git and GitHub/GitHub/Data/Create Local and Remote Branch.md"
+    },
+    {
+      "basename": "Remote Branches",
+      "path": "Git and GitHub/GitHub/Data/Remote Branches.md"
+    },
+    {
+      "basename": "Remote Branches",
+      "path": "Git and GitHub/GitHub/Files/Remote Branches.png"
+    },
+    {
+      "basename": "git switch",
+      "path": "Git and GitHub/Git/Prompt/git switch.md"
+    },
+    {
+      "basename": "git branch",
+      "path": "Git and GitHub/Git/Prompt/git branch.md"
+    },
+    {
+      "basename": "Workflow Recap",
+      "path": "Git and GitHub/GitHub/Files/Workflow Recap.png"
+    },
+    {
+      "basename": "Make a Repo",
+      "path": "Git and GitHub/GitHub/Data/Make a Repo.md"
+    },
+    {
+      "basename": "git stash",
+      "path": "Git and GitHub/Git/Prompt/git stash.md"
+    },
+    {
       "basename": "git checkout",
       "path": "Git and GitHub/Git/Prompt/git checkout.md"
     },
     {
-      "basename": "git restore",
-      "path": "Git and GitHub/Git/Prompt/git restore.md"
+      "basename": "HEAD",
+      "path": "Git and GitHub/Git/Data/HEAD.md"
+    },
+    {
+      "basename": "Theory",
+      "path": "Git and GitHub/Git/Data/Theory.md"
+    },
+    {
+      "basename": "Git+&+Github_+Github+Basics",
+      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Github+Basics.pdf"
+    },
+    {
+      "basename": "git log",
+      "path": "Git and GitHub/Git/Prompt/git log.md"
+    },
+    {
+      "basename": "git merge",
+      "path": "Git and GitHub/Git/Prompt/git merge.md"
     },
     {
       "basename": "git reset",
       "path": "Git and GitHub/Git/Prompt/git reset.md"
     },
     {
+      "basename": "git restore",
+      "path": "Git and GitHub/Git/Prompt/git restore.md"
+    },
+    {
       "basename": "git revert",
       "path": "Git and GitHub/Git/Prompt/git revert.md"
+    },
+    {
+      "basename": "git push -u",
+      "path": "Git and GitHub/GitHub/Files/git push -u.png"
     },
     {
       "basename": "git push",
@@ -125,16 +177,8 @@
       "path": "Git and GitHub/Git/Data/HASH.md"
     },
     {
-      "basename": "git switch",
-      "path": "Git and GitHub/Git/Prompt/git switch.md"
-    },
-    {
       "basename": "HEAD ~",
       "path": "Git and GitHub/Git/Files/HEAD ~.png"
-    },
-    {
-      "basename": "HEAD",
-      "path": "Git and GitHub/Git/Data/HEAD.md"
     },
     {
       "basename": "Time traveled",
@@ -153,48 +197,8 @@
       "path": "Git and GitHub/Git/Prompt/git status.md"
     },
     {
-      "basename": "git stash",
-      "path": "Git and GitHub/Git/Prompt/git stash.md"
-    },
-    {
-      "basename": "git merge",
-      "path": "Git and GitHub/Git/Prompt/git merge.md"
-    },
-    {
-      "basename": "git log",
-      "path": "Git and GitHub/Git/Prompt/git log.md"
-    },
-    {
       "basename": "git diff",
       "path": "Git and GitHub/Git/Prompt/git diff.md"
-    },
-    {
-      "basename": "git config",
-      "path": "Git and GitHub/Git/Prompt/git config.md"
-    },
-    {
-      "basename": "git branch",
-      "path": "Git and GitHub/Git/Prompt/git branch.md"
-    },
-    {
-      "basename": "git add",
-      "path": "Git and GitHub/Git/Prompt/git add.md"
-    },
-    {
-      "basename": "Git+&+Github_+Stashing",
-      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Stashing.pdf"
-    },
-    {
-      "basename": "DOC Resources",
-      "path": "Fastify/Data/DOC Resources.md"
-    },
-    {
-      "basename": "Plugins and Libs",
-      "path": "Fastify/Data/Plugins and Libs.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Fastify/Data/Book/Summary.md"
     }
   ],
   "omittedPaths": [],

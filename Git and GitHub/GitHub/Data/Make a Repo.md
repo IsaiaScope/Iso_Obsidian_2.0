@@ -10,9 +10,9 @@ If you already have an existing repo locally that you want to get on Github...
 
 ---
 
-![[git init#Change Default Branch on Repo Init | Change Default Branch on Repo Init]]
+![[git init#Set Default Branch on Init| Init Repo and Set Default Branch on Init]]
 ![[git remote#Adding A New Remote | Adding A New Remote]]
-![[git push#The `-u` option | sets the upstream of the local branch so that tracks the branch on the origin repo]]
+![[git push#Connecting our local branch to a branch on Github| Sets the upstream of the local branch so that tracks the branch on the origin repo]]
 
 ---
 

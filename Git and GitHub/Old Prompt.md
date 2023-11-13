@@ -1,5 +1,3 @@
-
-
 #### Migrate Repository to Another Url
 
 - this change also reference in the project so next pull/push actions are gonna be on new Url
@@ -9,26 +7,6 @@ git clone --mirror <URL OLD>
 cd <directory where your OLD repo was cloned>
 git remote set-url origin <NEW URL>
 git push --mirror origin
-```
-
----
-
-# Push new branch to origin or delete
-
-_first push_ to create the branch in the GitHub repo
-
-- remember to do the commit first
-
-```bash
-git push --set-upstream origin <myNewBranch>
-```
-
----
-
-2. delete _remote_ branch
-
-```console
-git push origin --delete <remoteBranchName>
 ```
 
 ---

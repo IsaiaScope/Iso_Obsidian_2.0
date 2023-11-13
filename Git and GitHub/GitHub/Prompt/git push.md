@@ -20,11 +20,13 @@ git push origin master
 
 ---
 
-## The `-u` option
+## Connecting our local branch to a branch on Github
 
-The `-u` option allows us to set the upstream of the branch we're pushing You can think of this as a link connecting our local branch to a branch on Github.
+The `-u` option allows us to set the upstream of the branch we're pushing
+You can think of this as a link connecting our local branch to a branch on Github.
 
 - [[git remote#Remote | Remote]]
+  - get `<remote>` from `git remote`
 
 ```bash
 git push -u <remote> <branch>
@@ -66,6 +68,18 @@ git push <remote> <local-branch>:<remote-branch>
 
 ```bash
 git push origin pancake waffle
+```
+
+---
+
+## Delete Remote Branch
+
+- [[git remote#Remote | Remote]]
+  - get `<remote>` from `git remote`
+  - default remote is `origin`
+
+```bash
+git push <remote> --delete <remote-branch-name>
 ```
 
 ---

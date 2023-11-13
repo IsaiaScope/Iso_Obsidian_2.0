@@ -46,3 +46,4 @@
 | _Git Reset vs Git Revert_                     |    [[git revert#Git Reset vs Git Revert \| Link]]     |
 | _Revert or Reset a Merge_                     |         [[git revert#Revert a Merge \| Link]]         |
 | _Revert a specific file to a specific commit_ |    [[git checkout#Revert a specific file \| Link]]    |
+|  |

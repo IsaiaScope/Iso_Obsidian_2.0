@@ -49,3 +49,5 @@ Whenever you encounter merge conflicts, follow these steps to resolve them:
 - Edit the file(s) to remove the conflicts. Decide which branch's content you want to keep in each conflict. Or keep the content from both.
 - Remove the conflict "markers" in the document
 - Add your changes and then make a commit!
+
+---

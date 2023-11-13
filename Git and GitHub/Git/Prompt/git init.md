@@ -27,6 +27,8 @@ rm -rf .git
 
 ---
 
+### Change Default Branch on Repo Init
+
 - `--initial-branch=<branch-name>` can be added to change initial branch name
 
 ```bash

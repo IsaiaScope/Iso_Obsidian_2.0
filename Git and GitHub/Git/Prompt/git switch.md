@@ -12,6 +12,14 @@ git switch <branch-name>
 
 ---
 
+- return to the last branch you was before switching to the actual one
+
+```bash
+git switch -
+```
+
+---
+
 ### Another way of switching??
 
 - Historically, we used` git checkout <branch-name>` to switch branches. This still works.
@@ -45,4 +53,3 @@ git checkout -b  <branch-name>
 ```
 
 ---
-

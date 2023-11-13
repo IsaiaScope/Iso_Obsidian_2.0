@@ -1,16 +1,76 @@
 {
   "recentFiles": [
     {
+      "basename": "git revert",
+      "path": "Git and GitHub/Git/Prompt/git revert.md"
+    },
+    {
+      "basename": "Git+&+Github+Course_+Undoing+Stuff",
+      "path": "Git and GitHub/Files/Git+&+Github+Course_+Undoing+Stuff.pdf"
+    },
+    {
+      "basename": "git reset",
+      "path": "Git and GitHub/Git/Prompt/git reset.md"
+    },
+    {
+      "basename": "git reset --hard",
+      "path": "Git and GitHub/Git/Files/git reset --hard.png"
+    },
+    {
+      "basename": "git reset",
+      "path": "Git and GitHub/Git/Files/git reset.png"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "HEAD ~",
+      "path": "Git and GitHub/Git/Data/HEAD ~.md"
+    },
+    {
+      "basename": "Old Prompt",
+      "path": "Git and GitHub/Git/Data/Old Prompt.md"
+    },
+    {
+      "basename": "git init",
+      "path": "Git and GitHub/Git/Prompt/git init.md"
+    },
+    {
+      "basename": "git restore",
+      "path": "Git and GitHub/Git/Prompt/git restore.md"
+    },
+    {
+      "basename": "git checkout",
+      "path": "Git and GitHub/Git/Prompt/git checkout.md"
+    },
+    {
       "basename": "HASH",
       "path": "Git and GitHub/Git/Data/HASH.md"
     },
     {
-      "basename": "git commit",
-      "path": "Git and GitHub/Git/Prompt/git commit.md"
-    },
-    {
       "basename": "git switch",
       "path": "Git and GitHub/Git/Prompt/git switch.md"
+    },
+    {
+      "basename": "HEAD ~",
+      "path": "Git and GitHub/Git/Files/HEAD ~.png"
+    },
+    {
+      "basename": "HEAD",
+      "path": "Git and GitHub/Git/Data/HEAD.md"
+    },
+    {
+      "basename": "Time traveled",
+      "path": "Git and GitHub/Git/Files/Time traveled.png"
+    },
+    {
+      "basename": "Detached HEAD",
+      "path": "Git and GitHub/Git/Files/Detached HEAD.png"
+    },
+    {
+      "basename": "git commit",
+      "path": "Git and GitHub/Git/Prompt/git commit.md"
     },
     {
       "basename": "git status",
@@ -29,20 +89,12 @@
       "path": "Git and GitHub/Git/Prompt/git log.md"
     },
     {
-      "basename": "git init",
-      "path": "Git and GitHub/Git/Prompt/git init.md"
-    },
-    {
       "basename": "git diff",
       "path": "Git and GitHub/Git/Prompt/git diff.md"
     },
     {
       "basename": "git config",
       "path": "Git and GitHub/Git/Prompt/git config.md"
-    },
-    {
-      "basename": "git checkout",
-      "path": "Git and GitHub/Git/Prompt/git checkout.md"
     },
     {
       "basename": "git branch",
@@ -53,24 +105,8 @@
       "path": "Git and GitHub/Git/Prompt/git add.md"
     },
     {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
-      "basename": "Git+&+Github+Course_+Undoing+Stuff",
-      "path": "Git and GitHub/Files/Git+&+Github+Course_+Undoing+Stuff.pdf"
-    },
-    {
-      "basename": "HEAD",
-      "path": "Git and GitHub/Git/Data/HEAD.md"
-    },
-    {
       "basename": "Git+&+Github_+Stashing",
       "path": "Git and GitHub/Files/Git+&+Github_+Stashing.pdf"
-    },
-    {
-      "basename": "Old Prompt",
-      "path": "Git and GitHub/Git/Data/Old Prompt.md"
     },
     {
       "basename": "SEBA Book",
@@ -163,42 +199,6 @@
     {
       "basename": "Obsidian",
       "path": "Markdown/Obsidian.md"
-    },
-    {
-      "basename": "Add Media",
-      "path": "Obsidian Tutorial/Data/Add Media.md"
-    },
-    {
-      "basename": "obsidian-link-1",
-      "path": "Markdown/Files/obsidian-link-1.png"
-    },
-    {
-      "basename": "Git+&+Github_+Installation",
-      "path": "Git and GitHub/Files/Git+&+Github_+Installation.pdf"
-    },
-    {
-      "basename": "cmd",
-      "path": "PowerShell/data/cmd.md"
-    },
-    {
-      "basename": "index",
-      "path": "PowerShell/index.md"
-    },
-    {
-      "basename": "Git+&+Github_+Intro+To+Git",
-      "path": "Git and GitHub/Files/Git+&+Github_+Intro+To+Git.pdf"
-    },
-    {
-      "basename": "Validation and Serialization",
-      "path": "Fastify/Data/Book/Validation and Serialization.md"
-    },
-    {
-      "basename": "The validation execution workflow",
-      "path": "Fastify/Files/The validation execution workflow.png"
-    },
-    {
-      "basename": "Fastify’s JSON Schema compilation workflow",
-      "path": "Fastify/Files/Fastify’s JSON Schema compilation workflow.png"
     }
   ],
   "omittedPaths": [],

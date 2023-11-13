@@ -44,3 +44,5 @@ ls // <branch1> <branch2> <branch3> ...  (develop  production  test)
 
 - _inside the_ `.git/refs/heads` _folder there is a text file for each branch of the project, and each one contains the value of the last commit hash of that specific branch_
 - _switching branches and operating with them change the REFERENCE PATH of the HEAD and consequentially the reference to the branch text file_
+
+---

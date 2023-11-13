@@ -1,24 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Git+&+Github+Course_+Undoing+Stuff",
-      "path": "Git and GitHub/Files/Git+&+Github+Course_+Undoing+Stuff.pdf"
-    },
-    {
       "basename": "HASH",
       "path": "Git and GitHub/Git/Data/HASH.md"
     },
     {
-      "basename": "HEAD",
-      "path": "Git and GitHub/Git/Data/HEAD.md"
-    },
-    {
-      "basename": "git checkout",
-      "path": "Git and GitHub/Git/Prompt/git checkout.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
+      "basename": "git commit",
+      "path": "Git and GitHub/Git/Prompt/git commit.md"
     },
     {
       "basename": "git switch",
@@ -53,8 +41,8 @@
       "path": "Git and GitHub/Git/Prompt/git config.md"
     },
     {
-      "basename": "git commit",
-      "path": "Git and GitHub/Git/Prompt/git commit.md"
+      "basename": "git checkout",
+      "path": "Git and GitHub/Git/Prompt/git checkout.md"
     },
     {
       "basename": "git branch",
@@ -63,6 +51,18 @@
     {
       "basename": "git add",
       "path": "Git and GitHub/Git/Prompt/git add.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "Git+&+Github+Course_+Undoing+Stuff",
+      "path": "Git and GitHub/Files/Git+&+Github+Course_+Undoing+Stuff.pdf"
+    },
+    {
+      "basename": "HEAD",
+      "path": "Git and GitHub/Git/Data/HEAD.md"
     },
     {
       "basename": "Git+&+Github_+Stashing",

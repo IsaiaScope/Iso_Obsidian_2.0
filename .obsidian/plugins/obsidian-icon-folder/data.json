@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiHeading",
+      "RaWolfHead",
+      "FasHashtag",
       "BoBxHeading",
-      "TiNote",
-      "LiFiles",
-      "BoBxsFlask",
-      "SiVisualstudiocode"
+      "TiNote"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -73,5 +73,7 @@
   "Prompt/Commands.md": "LiCode",
   "Git and GitHub/Git/Data/Theory.md": "BoBxsFlask",
   "Git and GitHub/Git/Files": "LiFiles",
-  "Periodic Notes": "TiNote"
+  "Periodic Notes": "TiNote",
+  "Git and GitHub/Git/Data/HASH.md": "FasHashtag",
+  "Git and GitHub/Git/Data/HEAD.md": "LiHeading"
 }

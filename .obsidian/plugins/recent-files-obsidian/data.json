@@ -6,11 +6,19 @@
     },
     {
       "basename": "Git+&+Github_+Github+Basics",
-      "path": "Git and GitHub/Files/Git+&+Github_+Github+Basics.pdf"
+      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Github+Basics.pdf"
     },
     {
-      "basename": "Origin (Remote default Name)",
-      "path": "Git and GitHub/GitHub/Data/Origin (Remote default Name).md"
+      "basename": "_Git+&+Github_+Fetch+&+Pull",
+      "path": "Git and GitHub/Files/Udemy Course/_Git+&+Github_+Fetch+&+Pull.pdf"
+    },
+    {
+      "basename": "Old Prompt",
+      "path": "Git and GitHub/Old Prompt.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
     },
     {
       "basename": "git remote",
@@ -21,12 +29,8 @@
       "path": "Git and GitHub/GitHub/Data/Make a Repo.md"
     },
     {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
-    },
-    {
-      "basename": "Old Prompt",
-      "path": "Git and GitHub/Old Prompt.md"
+      "basename": "Origin (Remote default Name)",
+      "path": "Git and GitHub/GitHub/Data/Origin (Remote default Name).md"
     },
     {
       "basename": "Summary",
@@ -70,19 +74,19 @@
     },
     {
       "basename": "Git+&+Github_+Diffs",
-      "path": "Git and GitHub/Files/Git+&+Github_+Diffs.pdf"
+      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Diffs.pdf"
     },
     {
       "basename": "Git+&+Github_+Branching",
-      "path": "Git and GitHub/Files/Git+&+Github_+Branching.pdf"
+      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Branching.pdf"
     },
     {
       "basename": "Git+&+Github_+Basics",
-      "path": "Git and GitHub/Files/Git+&+Github_+Basics.pdf"
+      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Basics.pdf"
     },
     {
       "basename": "Git+&+Github+Course_+Undoing+Stuff",
-      "path": "Git and GitHub/Files/Git+&+Github+Course_+Undoing+Stuff.pdf"
+      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github+Course_+Undoing+Stuff.pdf"
     },
     {
       "basename": "HEAD ~",
@@ -178,7 +182,7 @@
     },
     {
       "basename": "Git+&+Github_+Stashing",
-      "path": "Git and GitHub/Files/Git+&+Github_+Stashing.pdf"
+      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Stashing.pdf"
     },
     {
       "basename": "DOC Resources",
@@ -194,11 +198,7 @@
     },
     {
       "basename": "Git+&+Github+Course_+Merging",
-      "path": "Git and GitHub/Files/Git+&+Github+Course_+Merging.pdf"
-    },
-    {
-      "basename": "Not All Merges Are Fast Forwards",
-      "path": "Git and GitHub/Git/Files/Not All Merges Are Fast Forwards.png"
+      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github+Course_+Merging.pdf"
     }
   ],
   "omittedPaths": [],

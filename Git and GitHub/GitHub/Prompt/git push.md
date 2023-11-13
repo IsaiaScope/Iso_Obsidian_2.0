@@ -21,3 +21,6 @@ git push <remote> master
 [[git push.png]]
 
 ---
+
+
+While we often want to push a local branch up to a remote branch of the same name, we don't have to! To push our local pancake branch up to a remote branch called waffle we could do: git push origin pancake:waffle

@@ -11,11 +11,11 @@
 
 ### Git CLI for GitHub Interaction
 
-| Command      | Meaning                                                                 |               Link                |
-| ------------ | ----------------------------------------------------------------------- | :-------------------------------: |
-| `git clone`  | clone a remote repository hosted on Github                              | [:TiFileSymlink:](git%20clone.md) |
-| `git remote` | manage set of tracked repositories and recover origin name `git remote` |                                   |
-| `git push`   |                                                                         |                                   |
+| Command      | Meaning                                                                      |               Link                |
+| ------------ | ---------------------------------------------------------------------------- | :-------------------------------: |
+| `git clone`  | clone a remote repository hosted on Github                                   | [:TiFileSymlink:](git%20clone.md) |
+| `git remote` | manage set of tracked repositories, set and recover remote name `git remote` |                                   |
+| `git push`   |                                                                              |                                   |
 
 ---
 

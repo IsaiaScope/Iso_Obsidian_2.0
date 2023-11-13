@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiUdemy",
+      "TiTilde",
+      "SiGitignoredotio",
       "TiTerminal2",
-      "BoBxPlusCircle",
-      "LiFiles",
-      "LiHeading",
-      "RaWolfHead"
+      "BoBxPlusCircle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -73,9 +73,9 @@
   "Git and GitHub/Git/Files": "LiFiles",
   "Periodic Notes": "TiNote",
   "Git and GitHub/Git/Data/HASH.md": "FasHashtag",
-  "Git and GitHub/Git/Data/HEAD.md": "LiHeading",
   "Git and GitHub/Old Prompt.md": "TiTerminal2",
   "Git and GitHub/GitHub/Files": "LiFiles",
   "Git and GitHub/GitHub/Summary.md": "BoBxPlusCircle",
-  "Git and GitHub/GitHub/Prompt": "TiTerminal2"
+  "Git and GitHub/GitHub/Prompt": "TiTerminal2",
+  "Git and GitHub/Files/Udemy Course": "SiUdemy"
 }

@@ -1,32 +1,92 @@
 {
   "recentFiles": [
     {
+      "basename": "git push",
+      "path": "Git and GitHub/GitHub/Prompt/git push.md"
+    },
+    {
+      "basename": "Git+&+Github_+Github+Basics",
+      "path": "Git and GitHub/Files/Git+&+Github_+Github+Basics.pdf"
+    },
+    {
+      "basename": "Origin (Remote default Name)",
+      "path": "Git and GitHub/GitHub/Data/Origin (Remote default Name).md"
+    },
+    {
+      "basename": "git remote",
+      "path": "Git and GitHub/GitHub/Prompt/git remote.md"
+    },
+    {
+      "basename": "Make a Repo",
+      "path": "Git and GitHub/GitHub/Data/Make a Repo.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
+    },
+    {
       "basename": "Old Prompt",
-      "path": "Git and GitHub/Git/Data/Old Prompt.md"
+      "path": "Git and GitHub/Old Prompt.md"
     },
     {
       "basename": "Summary",
       "path": "Git and GitHub/Git/Summary.md"
     },
     {
-      "basename": "git reset",
-      "path": "Git and GitHub/Git/Prompt/git reset.md"
-    },
-    {
-      "basename": "HEAD ~",
-      "path": "Git and GitHub/Git/Data/HEAD ~.md"
-    },
-    {
-      "basename": "git revert",
-      "path": "Git and GitHub/Git/Prompt/git revert.md"
+      "basename": "git checkout",
+      "path": "Git and GitHub/Git/Prompt/git checkout.md"
     },
     {
       "basename": "git restore",
       "path": "Git and GitHub/Git/Prompt/git restore.md"
     },
     {
+      "basename": "git reset",
+      "path": "Git and GitHub/Git/Prompt/git reset.md"
+    },
+    {
+      "basename": "git revert",
+      "path": "Git and GitHub/Git/Prompt/git revert.md"
+    },
+    {
+      "basename": "git push",
+      "path": "Git and GitHub/GitHub/Files/git push.png"
+    },
+    {
+      "basename": "git pull",
+      "path": "Git and GitHub/GitHub/Prompt/git pull.md"
+    },
+    {
+      "basename": "git fetch",
+      "path": "Git and GitHub/GitHub/Prompt/git fetch.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
+      "basename": "git clone",
+      "path": "Git and GitHub/GitHub/Prompt/git clone.md"
+    },
+    {
+      "basename": "Git+&+Github_+Diffs",
+      "path": "Git and GitHub/Files/Git+&+Github_+Diffs.pdf"
+    },
+    {
+      "basename": "Git+&+Github_+Branching",
+      "path": "Git and GitHub/Files/Git+&+Github_+Branching.pdf"
+    },
+    {
+      "basename": "Git+&+Github_+Basics",
+      "path": "Git and GitHub/Files/Git+&+Github_+Basics.pdf"
+    },
+    {
       "basename": "Git+&+Github+Course_+Undoing+Stuff",
       "path": "Git and GitHub/Files/Git+&+Github+Course_+Undoing+Stuff.pdf"
+    },
+    {
+      "basename": "HEAD ~",
+      "path": "Git and GitHub/Git/Data/HEAD ~.md"
     },
     {
       "basename": "SEBA Book",
@@ -34,15 +94,15 @@
     },
     {
       "basename": "git revert Flow",
-      "path": "git revert Flow.png"
+      "path": "Git and GitHub/Git/Files/git revert Flow.png"
     },
     {
       "basename": "git revert commits console",
-      "path": "git revert commits console.png"
+      "path": "Git and GitHub/Git/Files/git revert commits console.png"
     },
     {
       "basename": "git reset Flow",
-      "path": "git reset Flow.png"
+      "path": "Git and GitHub/Git/Files/git reset Flow.png"
     },
     {
       "basename": "git reset --hard",
@@ -55,10 +115,6 @@
     {
       "basename": "git init",
       "path": "Git and GitHub/Git/Prompt/git init.md"
-    },
-    {
-      "basename": "git checkout",
-      "path": "Git and GitHub/Git/Prompt/git checkout.md"
     },
     {
       "basename": "HASH",
@@ -137,68 +193,12 @@
       "path": "Fastify/Data/Book/Summary.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
-    },
-    {
-      "basename": "Git+&+Github_+Diffs",
-      "path": "Git and GitHub/Files/Git+&+Github_+Diffs.pdf"
-    },
-    {
       "basename": "Git+&+Github+Course_+Merging",
       "path": "Git and GitHub/Files/Git+&+Github+Course_+Merging.pdf"
     },
     {
       "basename": "Not All Merges Are Fast Forwards",
       "path": "Git and GitHub/Git/Files/Not All Merges Are Fast Forwards.png"
-    },
-    {
-      "basename": "Conflict Markers",
-      "path": "Git and GitHub/Git/Files/Conflict Markers.png"
-    },
-    {
-      "basename": "Theory",
-      "path": "Git and GitHub/Git/Data/Theory.md"
-    },
-    {
-      "basename": "This is what merge really looks like",
-      "path": "Git and GitHub/Git/Files/This is what merge really looks like.png"
-    },
-    {
-      "basename": "Merging",
-      "path": "Git and GitHub/Git/Files/Merging.png"
-    },
-    {
-      "basename": "Commands",
-      "path": "Prompt/Commands.md"
-    },
-    {
-      "basename": "rm",
-      "path": "Prompt/Windows/Data/rm.md"
-    },
-    {
-      "basename": "cd",
-      "path": "Prompt/Windows/Data/cd.md"
-    },
-    {
-      "basename": "touch",
-      "path": "Prompt/Linux/Data/touch.md"
-    },
-    {
-      "basename": "git ignore",
-      "path": "Git and GitHub/Git/Data/git ignore.md"
-    },
-    {
-      "basename": "Git+&+Github_+Committing+In+Detail",
-      "path": "Git and GitHub/Files/Git+&+Github_+Committing+In+Detail.pdf"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Obsidian Tutorial/Dashboard.md"
-    },
-    {
-      "basename": "Git+&+Github_+Branching",
-      "path": "Git and GitHub/Files/Git+&+Github_+Branching.pdf"
     }
   ],
   "omittedPaths": [],

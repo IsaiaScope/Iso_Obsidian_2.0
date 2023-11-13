@@ -1,5 +1,30 @@
 # git revert
 
+## Revert a Merge
+
+- [[HASH]]
+- How to Revert the Last Merge Commit in Git
+  - `-m` stands for parent-number
+
+```bash
+git revert -m 1 <previous-merge-commit>
+```
+
+---
+
+- [ ] TODO check if work because seems work also the same `git reset <previous-merge-commit>`
+- To undo a merge with the `--merge` flag, run `git reflog` to see the hashes of commits, then run `git reset --merge <previous-merge-commit>`:
+
+```bash
+git reset --merge <previous-merge-commit>
+```
+
+### Can I undo a specific merge commit, not just the last one?
+
+Yes, you can use `git revert -m 1 <merge_commit_hash>` to undo any merge commit as long as you provide the correct commit hash. However, this may lead to conflicts if there have been subsequent changes in the branch.
+
+---
+
 ## Git Reset vs Git Revert
 
 Yet another similar sounding and confusing command that has to do with undoing changes
@@ -9,8 +34,6 @@ Yet another similar sounding and confusing command that has to do with undoing c
 `git reset` actually moves the branch pointer backwards, eliminating commits
 
 `git revert` instead _creates a brand new commit which reverses/undos the changes from a commit_. Because _it results in a new commit, you will be prompted to enter a commit message_
-
-- [[HASH]]
 
 ```bash
 git revert <commit-hash>

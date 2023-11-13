@@ -26,7 +26,7 @@ git restore .
 
 ### NOTE
 
-The above command is not "undoable" If you have uncommited changes in the file, they will be lost
+The above commands is not "undoable" If you have uncommited changes in the file, they will be lost
 
 ---
 

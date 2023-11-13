@@ -6,6 +6,8 @@
 # GitHub
 
 - is a service that hosts Git repositories in the cloud and makes it easier to collaborate with other people. You do need to sign up for an account to use Github. It's an online place to share work that is done using Git.
+- [[Git and GitHub/GitHub/Summary | GitHub Summary]]
 
 # GitKraken
 
+- A GUI for Git

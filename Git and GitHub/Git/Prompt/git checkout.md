@@ -65,6 +65,21 @@ git checkout HEAD <path/file>
 git checkout -- <path/file>
 ```
 
-This is an old approach, see [[git restore]]
+### Revert a specific file
+
+- You can view the list of commits that modified `package-lock.json` using :
+
+```bash
+git log <path/package-lock.json>
+```
+
+- is possible to set `package-lock.json` back to its version in commit using :
+  - [[HASH]]
+
+```bash
+git checkout <commit-hash> -- <path/package-lock.json>
+```
+
+This is an old approach everything could be done with `git restore`, see [[git restore]]
 
 ---

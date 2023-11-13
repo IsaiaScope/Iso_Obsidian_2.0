@@ -9,7 +9,7 @@ Suppose you've just made a couple of commits on the master branch, but you actua
 git reset <commit-hash>
 ```
 
-[[Git and GitHub/Git/Files/git reset.png]]
+[[Git and GitHub/Git/Files/git reset.png | git reset.png]]
 
 ---
 

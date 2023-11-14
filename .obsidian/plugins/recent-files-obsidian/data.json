@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "git rebase",
+      "path": "Git and GitHub/GitHub/Prompt/git rebase.md"
+    },
+    {
+      "basename": "git rebase cleaning tool",
+      "path": "Git and GitHub/GitHub/Files/git rebase cleaning tool.png"
+    },
+    {
+      "basename": "Git&Github+_Rebasing",
+      "path": "Git and GitHub/Files/Udemy Course/Git&Github+_Rebasing.pdf"
+    },
+    {
+      "basename": "git rebase starting point",
+      "path": "Git and GitHub/GitHub/Files/git rebase starting point.png"
+    },
+    {
+      "basename": "git rebase",
+      "path": "Git and GitHub/GitHub/Files/git rebase.png"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
+    },
+    {
+      "basename": "Git+&+Github+Course_+Git+Workflows",
+      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github+Course_+Git+Workflows.pdf"
+    },
+    {
       "basename": "Github Odds & Ends",
       "path": "Git and GitHub/GitHub/Data/Github Odds & Ends.md"
     },
@@ -19,14 +47,6 @@
     {
       "basename": "Fork flow (1)",
       "path": "Git and GitHub/GitHub/Files/Fork flow (1).png"
-    },
-    {
-      "basename": "Git+&+Github+Course_+Git+Workflows",
-      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github+Course_+Git+Workflows.pdf"
-    },
-    {
-      "basename": "Git&Github+_Rebasing",
-      "path": "Git and GitHub/Files/Udemy Course/Git&Github+_Rebasing.pdf"
     },
     {
       "basename": "Git+&+Github_+Fetch+&+Pull",
@@ -51,10 +71,6 @@
     {
       "basename": "test-project",
       "path": "accessibility/data/examples/test-project.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
     },
     {
       "basename": "Summary",
@@ -183,18 +199,6 @@
     {
       "basename": "git init",
       "path": "Git and GitHub/Git/Prompt/git init.md"
-    },
-    {
-      "basename": "git remote",
-      "path": "Git and GitHub/GitHub/Prompt/git remote.md"
-    },
-    {
-      "basename": "git clone",
-      "path": "Git and GitHub/GitHub/Prompt/git clone.md"
-    },
-    {
-      "basename": "Remote Branches",
-      "path": "Git and GitHub/GitHub/Files/Remote Branches.png"
     }
   ],
   "omittedPaths": [],

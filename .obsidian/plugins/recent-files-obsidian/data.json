@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Remote Branches",
-      "path": "Git and GitHub/GitHub/Data/Remote Branches.md"
-    },
-    {
       "basename": "Github Odds & Ends",
       "path": "Git and GitHub/GitHub/Data/Github Odds & Ends.md"
     },
     {
       "basename": "Git+&+Github+Course_+Git+Workflows",
       "path": "Git and GitHub/Files/Udemy Course/Git+&+Github+Course_+Git+Workflows.pdf"
+    },
+    {
+      "basename": "Pull request conflicts",
+      "path": "Pull request conflicts.png"
+    },
+    {
+      "basename": "Pull request",
+      "path": "Pull request.png"
+    },
+    {
+      "basename": "Pasted image 20231114114730.png",
+      "path": "Pasted image 20231114114730.png.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
+    },
+    {
+      "basename": "Remote Branches",
+      "path": "Git and GitHub/GitHub/Data/Remote Branches.md"
+    },
+    {
+      "basename": "create-new-project",
+      "path": "Ionic/data/create-new-project.md"
+    },
+    {
+      "basename": "index",
+      "path": "Ionic/index.md"
     },
     {
       "basename": "Check Url Repo or Directory where Local Repo is Cloned",
@@ -23,10 +47,6 @@
     {
       "basename": "Git+&+Github+Course_+Undoing+Stuff",
       "path": "Git and GitHub/Files/Udemy Course/Git+&+Github+Course_+Undoing+Stuff.pdf"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
     },
     {
       "basename": "test.excalidraw",
@@ -179,26 +199,6 @@
     {
       "basename": "Git+&+Github_+Github+Basics",
       "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Github+Basics.pdf"
-    },
-    {
-      "basename": "git log",
-      "path": "Git and GitHub/Git/Prompt/git log.md"
-    },
-    {
-      "basename": "git reset",
-      "path": "Git and GitHub/Git/Prompt/git reset.md"
-    },
-    {
-      "basename": "git restore",
-      "path": "Git and GitHub/Git/Prompt/git restore.md"
-    },
-    {
-      "basename": "git revert",
-      "path": "Git and GitHub/Git/Prompt/git revert.md"
-    },
-    {
-      "basename": "git push -u",
-      "path": "Git and GitHub/GitHub/Files/git push -u.png"
     }
   ],
   "omittedPaths": [],

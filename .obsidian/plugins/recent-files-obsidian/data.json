@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "git rebase",
+      "path": "Git and GitHub/GitHub/Prompt/git rebase.md"
+    },
+    {
       "basename": "Summary",
       "path": "Git and GitHub/GitHub/Summary.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Routes",
       "path": "Fastify/Data/Book/Routes.md"
-    },
-    {
-      "basename": "git rebase",
-      "path": "Git and GitHub/GitHub/Prompt/git rebase.md"
     },
     {
       "basename": "Github Odds & Ends",

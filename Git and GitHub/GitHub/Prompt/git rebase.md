@@ -24,7 +24,7 @@ git switch feature
 ```bash
 git rebase master
 ```
-
+ 
 ![[git rebase.png]]
 
 ---

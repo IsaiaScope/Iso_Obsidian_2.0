@@ -153,7 +153,115 @@ Great applications need great features. This is why we will now focus on the val
 ### Customizing the validator compiler
 
 - SEBA BOOK pdf page n.149 to page n. 155
-	- Flow control
-	- Understanding the Ajv configuration
+  - Flow control
+  - Understanding the Ajv configuration
 
+### The validation error
 
+The validator function is going to throw an error whenever an HTTP part doesn’t match the route’s schema. The route’s context error handler manages the error. Here is a quick example to show how a custom error handler could manage an input validation error in a different way:
+
+```js
+"use strict";
+
+const fastify = require("fastify");
+
+const app = fastify({
+	logger: true,
+	ajv: {
+		customOptions: {
+			coerceTypes: "array",
+			removeAdditional: "all",
+		},
+	},
+});
+
+app.get("/custom-error-handler", {
+	handler: echo,
+	schema: {
+		query: { myId: { type: "integer" } },
+	},
+});
+
+app.setErrorHandler(function (error, request, reply) {
+	if (error.validation) {
+		const { validation, validationContext } = error;
+		this.log.warn({ validationError: validation });
+		const errorMessage = `Validation error on ${validationContext}`;
+		reply.status(400).send({ fail: errorMessage });
+	} else {
+		this.log.error(error);
+		reply.status(500).send(error);
+	}
+});
+
+app.listen({ port: 8080 });
+
+async function echo(request, reply) {
+	return {
+		params: request.params,
+		body: request.body,
+		query: request.query,
+		headers: request.headers,
+	};
+}
+```
+
+As you can see, when the validation fails, two parameters are appended to the Error object:
+
+- The validationContext property is the HTTP part’s string representation, responsible for generating the error
+- The validation field is the raw error object, returned by the validator compiler implementation
+
+If you just need to customize the error message instead, Fastify has an option even for that! The schemaErrorFormatter option accepts a function that must generate the Error object, which will be thrown during the validation process flow. This option can be set in the following ways:
+
+- During the root server initialization
+- As the route’s option
+- Or on the plugin registration’s instance
+
+Here is a complete overview of the three possibilities in the same order as in the preceding list:
+
+```js
+"use strict";
+
+const fastify = require("fastify");
+
+const app = fastify({
+	schemaErrorFormatter: function (errors, httpPart) {
+		// [1]
+		return new Error("root error formatter");
+	},
+});
+app.get("/custom-route-error-formatter", {
+	handler: echo,
+	schema: { query: { myId: { type: "integer" } } },
+	schemaErrorFormatter: function (errors, httpPart) {
+		// [2]
+		return new Error("route error formatter");
+	},
+});
+app.register(function plugin(instance, opts, next) {
+	instance.get("/custom-error-formatter", {
+		handler: echo,
+		schema: { query: { myId: { type: "integer" } } },
+	});
+	instance.setSchemaErrorFormatter(function (errors, httpPart) {
+		// [3]
+		return new Error("plugin error formatter");
+	});
+	next();
+});
+
+app.listen({ port: 8080 });
+
+async function echo(request, reply) {
+	return {
+		params: request.params,
+		body: request.body,
+		query: request.query,
+		headers: request.headers,
+	};
+}
+```
+
+The setSchemaErrorFormatter input function must be synchronous. It is going to receive the raw errors object returned by the compiled validation function, plus the part of HTTP that is not valid.
+
+---

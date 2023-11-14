@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
+    },
+    {
       "basename": "Github Odds & Ends",
       "path": "Git and GitHub/GitHub/Data/Github Odds & Ends.md"
     },
     {
-      "basename": "Git+&+Github_+More+Github",
-      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+More+Github.pdf"
+      "basename": "auth",
+      "path": "React/libs/React Router/data/auth.md"
     },
     {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
+      "basename": "Git+&+Github_+More+Github",
+      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+More+Github.pdf"
     },
     {
       "basename": "Dashboard",
@@ -195,10 +199,6 @@
     {
       "basename": "git reset --hard",
       "path": "Git and GitHub/Git/Files/git reset --hard.png"
-    },
-    {
-      "basename": "git reset",
-      "path": "Git and GitHub/Git/Files/git reset.png"
     }
   ],
   "omittedPaths": [],

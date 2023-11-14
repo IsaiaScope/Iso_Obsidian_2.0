@@ -4,7 +4,7 @@
 - [[git remote#Remote | Remote]]
 	- [[git remote#Origin?! Remote Default Name (Customizable) | Origin?! Remote Default Name (Customizable)]]
 	- [[Remote Branches]]
-- 
+- [[Github Odds & Ends]]
 
 # Prompt
 

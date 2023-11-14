@@ -19,7 +19,8 @@ git commit -m "my message"
 ## Committing all in one go
 
 - The `-a` flag allows us to bypass `git add .` and do the commit all in one go
-- _but new files you have not told Git about are not affected_
+- _But new files are not added automatically into the commit so you need to execute_ `git add`
+- Just changes to already existing files are included into the commit
 
 ```bash
 git commit -a -m "my message"

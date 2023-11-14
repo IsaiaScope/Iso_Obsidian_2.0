@@ -2,8 +2,9 @@
 
 - [Site of GitHub](https://docs.github.com/en)
 - [[git remote#Remote | Remote]]
-- [[git remote#Origin?! Remote Default Name (Customizable) | Origin?! Remote Default Name (Customizable)]]
-- [[Remote Branches]]
+	- [[git remote#Origin?! Remote Default Name (Customizable) | Origin?! Remote Default Name (Customizable)]]
+	- [[Remote Branches]]
+- 
 
 # Prompt
 
@@ -38,14 +39,14 @@
 ### Common Problems
 
 | Command                                                  |                                              Link                                              |
-| -------------------------------------------------------- | :--------------------------------------------------------------------------------------------: |
+| -------------------------------------------------------- |:----------------------------------------------------------------------------------------------:|
 | _Make a Repo_                                            |                             [:TiFileSymlink:](Make%20a%20Repo.md)                              |
 | _Change default branch_                                  |                           [[git init#Change default branch \| Link]]                           |
+| _Migrate Repo to Another Url_                            |                   [:TiFileSymlink:](Migrate%20Repo%20to%20Another%20Url.md)                    |
+| _Create a New Local Branch from a specific commit_       |            [[git switch#Create a New Local Branch from a specific commit \| Link]]             |
+| _Check Url Repo or Directory where Local Repo is Cloned_ | [:TiFileSymlink:](Check%20Url%20Repo%20or%20Directory%20where%20Local%20Repo%20is%20Cloned.md) |
 | _Create Local and Remote Branch_                         |                  [:TiFileSymlink:](Create%20Local%20and%20Remote%20Branch.md)                  |
 | _Delete Local and Remote Branch_                         |                  [:TiFileSymlink:](Delete%20Local%20and%20Remote%20Branch.md)                  |
-| _Migrate Repo to Another Url_                            |                   [:TiFileSymlink:](Migrate%20Repo%20to%20Another%20Url.md)                    |
-| _Check Url Repo or Directory where Local Repo is Cloned_ | [:TiFileSymlink:](Check%20Url%20Repo%20or%20Directory%20where%20Local%20Repo%20is%20Cloned.md) |
-| _Create a New Local Branch from a specific commit_       |            [[git switch#Create a New Local Branch from a specific commit \| Link]]             |
 
 ---
 

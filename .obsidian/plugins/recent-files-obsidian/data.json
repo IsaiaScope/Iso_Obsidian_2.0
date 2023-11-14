@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Github Odds & Ends",
+      "path": "Git and GitHub/GitHub/Data/Github Odds & Ends.md"
+    },
+    {
+      "basename": "Git+&+Github_+More+Github",
+      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+More+Github.pdf"
+    },
+    {
       "basename": "Summary",
       "path": "Git and GitHub/GitHub/Summary.md"
     },
     {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
       "basename": "Summary",
       "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "Git+&+Github_+Fetch+&+Pull",
+      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Fetch+&+Pull.pdf"
+    },
+    {
+      "basename": "git push",
+      "path": "Git and GitHub/GitHub/Prompt/git push.md"
+    },
+    {
+      "basename": "git pull",
+      "path": "Git and GitHub/GitHub/Prompt/git pull.md"
+    },
+    {
+      "basename": "Git+&+Github+Course_+Undoing+Stuff",
+      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github+Course_+Undoing+Stuff.pdf"
+    },
+    {
+      "basename": "git commit",
+      "path": "Git and GitHub/Git/Prompt/git commit.md"
+    },
+    {
+      "basename": "git switch",
+      "path": "Git and GitHub/Git/Prompt/git switch.md"
     },
     {
       "basename": "SEBA Book",
@@ -21,10 +57,6 @@
       "path": "Git and GitHub/Git/Prompt/git merge.md"
     },
     {
-      "basename": "git switch",
-      "path": "Git and GitHub/Git/Prompt/git switch.md"
-    },
-    {
       "basename": "Check Url Repo or Directory where Local Repo is Cloned",
       "path": "Git and GitHub/GitHub/Data/Check Url Repo or Directory where Local Repo is Cloned.md"
     },
@@ -33,24 +65,12 @@
       "path": "Git and GitHub/GitHub/Data/Remote Branches.md"
     },
     {
-      "basename": "git pull",
-      "path": "Git and GitHub/GitHub/Prompt/git pull.md"
-    },
-    {
       "basename": "Migrate Repo to Another Url",
       "path": "Git and GitHub/GitHub/Data/Migrate Repo to Another Url.md"
     },
     {
       "basename": "git fetch",
       "path": "Git and GitHub/GitHub/Prompt/git fetch.md"
-    },
-    {
-      "basename": "_Git+&+Github_+Fetch+&+Pull",
-      "path": "Git and GitHub/Files/Udemy Course/_Git+&+Github_+Fetch+&+Pull.pdf"
-    },
-    {
-      "basename": "git push",
-      "path": "Git and GitHub/GitHub/Prompt/git push.md"
     },
     {
       "basename": "Delete Local and Remote Branch",
@@ -145,10 +165,6 @@
       "path": "Git and GitHub/GitHub/Files/git push.png"
     },
     {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
-    },
-    {
       "basename": "Git+&+Github_+Diffs",
       "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Diffs.pdf"
     },
@@ -159,10 +175,6 @@
     {
       "basename": "Git+&+Github_+Basics",
       "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Basics.pdf"
-    },
-    {
-      "basename": "Git+&+Github+Course_+Undoing+Stuff",
-      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github+Course_+Undoing+Stuff.pdf"
     },
     {
       "basename": "HEAD ~",
@@ -187,14 +199,6 @@
     {
       "basename": "git reset",
       "path": "Git and GitHub/Git/Files/git reset.png"
-    },
-    {
-      "basename": "HASH",
-      "path": "Git and GitHub/Git/Data/HASH.md"
-    },
-    {
-      "basename": "HEAD ~",
-      "path": "Git and GitHub/Git/Files/HEAD ~.png"
     }
   ],
   "omittedPaths": [],

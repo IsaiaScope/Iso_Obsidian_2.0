@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPencil",
+      "IbPencilTip",
       "LiFolderGit2",
       "RiDeleteBinLine",
-      "TiGitBranchDeleted",
-      "RiGitBranchLine",
-      "SiGithub"
+      "TiGitBranchDeleted"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -79,5 +79,6 @@
   "Git and GitHub/Files/Udemy Course": "SiUdemy",
   "Git and GitHub/GitHub/Data/Remote Branches.md": "RiGitBranchLine",
   "Git and GitHub/GitHub/Data/Delete Local and Remote Branch.md": "RiDeleteBinLine",
-  "Git and GitHub/GitHub/Data/Check Url Repo or Directory where Local Repo is Cloned.md": "LiFolderGit2"
+  "Git and GitHub/GitHub/Data/Check Url Repo or Directory where Local Repo is Cloned.md": "LiFolderGit2",
+  "Drawing": "LiPencil"
 }

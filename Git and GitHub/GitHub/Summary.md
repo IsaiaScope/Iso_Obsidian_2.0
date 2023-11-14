@@ -2,9 +2,9 @@
 
 - [Site of GitHub](https://docs.github.com/en)
 - [[git remote#Remote | Remote]]
-	- [[git remote#Origin?! Remote Default Name (Customizable) | Origin?! Remote Default Name (Customizable)]]
-	- [[Remote Branches]]
-- [[Github Odds & Ends]]
+  - [[git remote#Origin?! Remote Default Name (Customizable) | Origin?! Remote Default Name (Customizable)]]
+  - [[Remote Branches]]
+- [[GitHub Odds & Ends]]
 
 # Prompt
 
@@ -39,7 +39,7 @@
 ### Common Problems
 
 | Command                                                  |                                              Link                                              |
-| -------------------------------------------------------- |:----------------------------------------------------------------------------------------------:|
+| -------------------------------------------------------- | :--------------------------------------------------------------------------------------------: |
 | _Make a Repo_                                            |                             [:TiFileSymlink:](Make%20a%20Repo.md)                              |
 | _Change default branch_                                  |                           [[git init#Change default branch \| Link]]                           |
 | _Migrate Repo to Another Url_                            |                   [:TiFileSymlink:](Migrate%20Repo%20to%20Another%20Url.md)                    |

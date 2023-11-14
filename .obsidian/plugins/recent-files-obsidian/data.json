@@ -5,16 +5,44 @@
       "path": "Git and GitHub/GitHub/Summary.md"
     },
     {
+      "basename": "rawr",
+      "path": "assets/svgs/rawr.md"
+    },
+    {
+      "basename": "Sql & Sequelize",
+      "path": "assets/images/Sql & Sequelize.png"
+    },
+    {
+      "basename": "Flash",
+      "path": "assets/images/Flash.png"
+    },
+    {
+      "basename": "index",
+      "path": "Data Structures Masterclass/theory/index.md"
+    },
+    {
       "basename": "Github Odds & Ends",
       "path": "Git and GitHub/GitHub/Data/Github Odds & Ends.md"
     },
     {
-      "basename": "auth",
-      "path": "React/libs/React Router/data/auth.md"
-    },
-    {
       "basename": "Git+&+Github_+More+Github",
       "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+More+Github.pdf"
+    },
+    {
+      "basename": "Commands",
+      "path": "Prompt/Commands.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Markdown/Obsidian.md"
+    },
+    {
+      "basename": "Udemy-course",
+      "path": "Markdown/Udemy-course.md"
+    },
+    {
+      "basename": "auth",
+      "path": "React/libs/React Router/data/auth.md"
     },
     {
       "basename": "Dashboard",
@@ -171,34 +199,6 @@
     {
       "basename": "Git+&+Github_+Diffs",
       "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Diffs.pdf"
-    },
-    {
-      "basename": "Git+&+Github_+Branching",
-      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Branching.pdf"
-    },
-    {
-      "basename": "Git+&+Github_+Basics",
-      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Basics.pdf"
-    },
-    {
-      "basename": "HEAD ~",
-      "path": "Git and GitHub/Git/Data/HEAD ~.md"
-    },
-    {
-      "basename": "git revert Flow",
-      "path": "Git and GitHub/Git/Files/git revert Flow.png"
-    },
-    {
-      "basename": "git revert commits console",
-      "path": "Git and GitHub/Git/Files/git revert commits console.png"
-    },
-    {
-      "basename": "git reset Flow",
-      "path": "Git and GitHub/Git/Files/git reset Flow.png"
-    },
-    {
-      "basename": "git reset --hard",
-      "path": "Git and GitHub/Git/Files/git reset --hard.png"
     }
   ],
   "omittedPaths": [],

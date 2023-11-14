@@ -1,4 +1,4 @@
-# Github Odds & Ends
+# GitHub Odds & Ends
 
 ## Public Vs. Private Repos
 
@@ -7,8 +7,20 @@
 
 ---
 
-## Adding Collaborators
+## READMEs
+
+A README file is used to communicate important information about a repository including:
+
+- What the project does
+- How to run the project
+- Why it's noteworthy
+- Who maintains the project
+
+_If you put a README in the root of your project, GitHub will recognize it and automatically display it on the repo's home page_
+
+READMEs are Markdown files, ending with the .md extension. Markdown is a convenient syntax to generate formatted text. It's easy to pick up!
 
 ---
 
-## READMEs
+## GitHub Gists
+

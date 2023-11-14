@@ -75,4 +75,7 @@ git rebase -i HEAD~4
 
 ![[git rebase cleaning tool.png]]
 
+- _fixup_ makes commit to be include in previous one , useful to compact multiple commit in the same one
+- _drop_ remove a commit entirely from history
+
 ---

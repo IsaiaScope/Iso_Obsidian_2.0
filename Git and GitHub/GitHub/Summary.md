@@ -23,6 +23,7 @@
 | `git pull`        | fetch and integrate remote branch into local branch                          |    [:TiFileSymlink:](git%20pull.md)     |
 | `git cherry-pick` | apply the changes introduced by some existing commits                        | [:TiFileSymlink:](git%20cherry-pick.md) |
 | `git rebase`      | alternative to merging or rewriter of History                                |   [:TiFileSymlink:](git%20rebase.md)    |
+| `git tag`         | create commit tag, useful to track releases                                  |     [:TiFileSymlink:](git%20tag.md)     |
 
 ---
 

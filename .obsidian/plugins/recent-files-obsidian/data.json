@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "git rebase",
-      "path": "Git and GitHub/GitHub/Prompt/git rebase.md"
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
     },
     {
       "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "Git&+Github_Git+Behind+The+Scenes",
+      "path": "Git and GitHub/Files/Udemy Course/Git&+Github_Git+Behind+The+Scenes.pdf"
+    },
+    {
+      "basename": "HEAD ~",
+      "path": "Git and GitHub/Git/Data/HEAD ~.md"
+    },
+    {
+      "basename": "git tag",
+      "path": "Git and GitHub/GitHub/Prompt/git tag.md"
+    },
+    {
+      "basename": "git rebase",
+      "path": "Git and GitHub/GitHub/Prompt/git rebase.md"
     },
     {
       "basename": "Git+&+Github_+Tags",
       "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Tags.pdf"
     },
     {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
+      "basename": "Releases Versioning",
+      "path": "Git and GitHub/GitHub/Files/Releases Versioning.png"
     },
     {
       "basename": "Validation and Serialization",
@@ -183,22 +199,6 @@
     {
       "basename": "git pull",
       "path": "Git and GitHub/GitHub/Prompt/git pull.md"
-    },
-    {
-      "basename": "git commit",
-      "path": "Git and GitHub/Git/Prompt/git commit.md"
-    },
-    {
-      "basename": "git switch",
-      "path": "Git and GitHub/Git/Prompt/git switch.md"
-    },
-    {
-      "basename": "git cherry-pick",
-      "path": "Git and GitHub/GitHub/Prompt/git cherry-pick.md"
-    },
-    {
-      "basename": "git merge",
-      "path": "Git and GitHub/Git/Prompt/git merge.md"
     }
   ],
   "omittedPaths": [],

@@ -9,6 +9,10 @@
       "path": "Git and GitHub/Files/Udemy Course/Git+&+Github+Course_+Git+Workflows.pdf"
     },
     {
+      "basename": "Remote Branches",
+      "path": "Git and GitHub/GitHub/Data/Remote Branches.md"
+    },
+    {
       "basename": "Pull request conflicts",
       "path": "Pull request conflicts.png"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Summary",
       "path": "Git and GitHub/GitHub/Summary.md"
-    },
-    {
-      "basename": "Remote Branches",
-      "path": "Git and GitHub/GitHub/Data/Remote Branches.md"
     },
     {
       "basename": "create-new-project",

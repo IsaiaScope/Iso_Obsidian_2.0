@@ -72,4 +72,43 @@ Tools like GitHub & Bitbucket allow us to generate pull requests via an online i
 
 ---
 
+# Branch Protection Rule
+
+- From GitHub is possible to declare Branch Protection Rule
+  - For example consent requiring pull request before merging
+
+---
+
 # Fork & Clone
+
+The "fork & clone" workflow is different from anything we've seen so far. Instead of just one centralized Github repository, every developer has their own Github repository in addition to the "main" repo. Developers make changes and push to their own forks before making pull requests.
+
+It's very commonly used on large open-source projects where there may be thousands of contributors with only a couple maintainers.
+
+## Forking
+
+GitHub (and similar tools) allow us to create personal copies of other peoples' repositories. We call those copies a "fork" of the original.
+
+When we fork a repo, we're basically asking GitHub "Make me my own copy of this repo please"
+
+As with pull requests, forking is not a Git feature. The ability to fork is implemented by GitHub.
+
+### Now What?
+
+Now that I've forked, I have my very own copy of the repo where I can do whatever I want!
+
+I can clone my fork and make changes, add features, and break things without fear of disturbing the original repository.
+
+If I do want to share my work, I can make a pull request from my fork to the original repo. Now What?
+
+### To Summarize!
+
+- I fork the original project repo on Github
+- I clone my fork to my local machine
+- I add a remote pointing to the original project repo. This remote is often named upstream.
+- I make changes and add/commit on a feature branch on my local machine
+- I push up my new feature branch to my forked repo (usually called origin)
+- I open a pull request to the original project repo containing the new work on my forked repo
+- Hopefully the pull request is accepted and my changes are merged in!
+
+---

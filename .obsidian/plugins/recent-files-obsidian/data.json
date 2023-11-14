@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Remote Branches",
+      "path": "Git and GitHub/GitHub/Data/Remote Branches.md"
+    },
+    {
       "basename": "Github Odds & Ends",
       "path": "Git and GitHub/GitHub/Data/Github Odds & Ends.md"
     },
     {
       "basename": "Git+&+Github+Course_+Git+Workflows",
       "path": "Git and GitHub/Files/Udemy Course/Git+&+Github+Course_+Git+Workflows.pdf"
+    },
+    {
+      "basename": "Check Url Repo or Directory where Local Repo is Cloned",
+      "path": "Git and GitHub/GitHub/Data/Check Url Repo or Directory where Local Repo is Cloned.md"
     },
     {
       "basename": "Git+&+Github_+More+Github",
@@ -95,14 +103,6 @@
     {
       "basename": "git merge",
       "path": "Git and GitHub/Git/Prompt/git merge.md"
-    },
-    {
-      "basename": "Check Url Repo or Directory where Local Repo is Cloned",
-      "path": "Git and GitHub/GitHub/Data/Check Url Repo or Directory where Local Repo is Cloned.md"
-    },
-    {
-      "basename": "Remote Branches",
-      "path": "Git and GitHub/GitHub/Data/Remote Branches.md"
     },
     {
       "basename": "Migrate Repo to Another Url",

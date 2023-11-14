@@ -42,3 +42,11 @@ git switch puppies
 ```
 
 ---
+
+## Feature Branch Naming
+
+There are many different approaches for naming feature branches. Often you'll see branch names that include slashes like _bug/fix-scroll_ or _feature/login-form_ or _feat/button/enable-pointer-events_
+Specific teams and projects usually have their own branch naming conventions. To keep these slides simple and concise, I'm just going to ignore those best- practices for now.
+
+---
+

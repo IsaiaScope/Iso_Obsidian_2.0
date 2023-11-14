@@ -72,7 +72,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.27",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.28",
     "libraryItems": [
       {
         "status": "unpublished",
@@ -3122,7 +3122,7 @@
             "containerId": null,
             "originalText": "s",
             "lineHeight": 1.1491228070175445,
-            "baseline": 33
+            "baseline": 32
           },
           {
             "type": "text",
@@ -21676,43 +21676,6 @@
             ]
           },
           {
-            "type": "text",
-            "version": 12,
-            "versionNonce": 1536653620,
-            "isDeleted": true,
-            "id": "BB2eK7vXJNXvp4tLURpiL",
-            "fillStyle": "solid",
-            "strokeWidth": 1,
-            "strokeStyle": "solid",
-            "roughness": 0,
-            "opacity": 100,
-            "angle": 0,
-            "x": 3990.878690468665,
-            "y": 1010.4325510408071,
-            "strokeColor": "#000000",
-            "backgroundColor": "#a7a967",
-            "width": 10,
-            "height": 25,
-            "seed": 1842281518,
-            "groupIds": [],
-            "frameId": null,
-            "roundness": null,
-            "boundElements": [],
-            "updated": 1699008438128,
-            "link": null,
-            "locked": false,
-            "fontSize": 20,
-            "fontFamily": 1,
-            "text": "",
-            "rawText": "",
-            "textAlign": "left",
-            "verticalAlign": "top",
-            "containerId": null,
-            "originalText": "",
-            "lineHeight": 1.25,
-            "baseline": 17
-          },
-          {
             "type": "line",
             "version": 550,
             "versionNonce": 803457522,
@@ -26027,7 +25990,7 @@
             "containerId": null,
             "originalText": "Button",
             "lineHeight": 1.25,
-            "baseline": 31
+            "baseline": 32
           }
         ],
         "id": "GAwmmQaDaHWr5CQpMgrSD",
@@ -26107,7 +26070,7 @@
             "containerId": null,
             "originalText": "Number",
             "lineHeight": 1.25,
-            "baseline": 31
+            "baseline": 32
           },
           {
             "type": "rectangle",
@@ -26360,7 +26323,7 @@
             "containerId": null,
             "originalText": "dd/mm/yyyy",
             "lineHeight": 1.25,
-            "baseline": 31
+            "baseline": 32
           },
           {
             "type": "rectangle",
@@ -27055,7 +27018,7 @@
             "containerId": null,
             "originalText": "Select",
             "lineHeight": 1.25,
-            "baseline": 31
+            "baseline": 32
           },
           {
             "type": "line",
@@ -32856,7 +32819,7 @@
             "containerId": null,
             "originalText": "DNS",
             "lineHeight": 1.5723270440251587,
-            "baseline": 77
+            "baseline": 76
           },
           {
             "type": "line",

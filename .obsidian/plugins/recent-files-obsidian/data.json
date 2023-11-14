@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Github Odds & Ends",
+      "path": "Git and GitHub/GitHub/Data/Github Odds & Ends.md"
+    },
+    {
+      "basename": "Git+&+Github+Course_+Git+Workflows",
+      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github+Course_+Git+Workflows.pdf"
+    },
+    {
+      "basename": "Git+&+Github_+More+Github",
+      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+More+Github.pdf"
+    },
+    {
+      "basename": "Git+&+Github+Course_+Undoing+Stuff",
+      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github+Course_+Undoing+Stuff.pdf"
+    },
+    {
       "basename": "Summary",
       "path": "Git and GitHub/GitHub/Summary.md"
+    },
+    {
+      "basename": "test.excalidraw",
+      "path": "Drawing/test.excalidraw.md"
     },
     {
       "basename": "rawr",
@@ -19,14 +39,6 @@
     {
       "basename": "index",
       "path": "Data Structures Masterclass/theory/index.md"
-    },
-    {
-      "basename": "Github Odds & Ends",
-      "path": "Git and GitHub/GitHub/Data/Github Odds & Ends.md"
-    },
-    {
-      "basename": "Git+&+Github_+More+Github",
-      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+More+Github.pdf"
     },
     {
       "basename": "Commands",
@@ -63,10 +75,6 @@
     {
       "basename": "git pull",
       "path": "Git and GitHub/GitHub/Prompt/git pull.md"
-    },
-    {
-      "basename": "Git+&+Github+Course_+Undoing+Stuff",
-      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github+Course_+Undoing+Stuff.pdf"
     },
     {
       "basename": "git commit",
@@ -191,14 +199,6 @@
     {
       "basename": "git push -u",
       "path": "Git and GitHub/GitHub/Files/git push -u.png"
-    },
-    {
-      "basename": "git push",
-      "path": "Git and GitHub/GitHub/Files/git push.png"
-    },
-    {
-      "basename": "Git+&+Github_+Diffs",
-      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Diffs.pdf"
     }
   ],
   "omittedPaths": [],

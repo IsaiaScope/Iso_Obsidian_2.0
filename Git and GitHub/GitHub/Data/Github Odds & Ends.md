@@ -111,4 +111,7 @@ If I do want to share my work, I can make a pull request from my fork to the ori
 - I open a pull request to the original project repo containing the new work on my forked repo
 - Hopefully the pull request is accepted and my changes are merged in!
 
+[[Fork flow (1).png]]
+[[Fork flow (2).png]]
+
 ---

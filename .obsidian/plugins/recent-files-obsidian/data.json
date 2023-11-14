@@ -5,28 +5,64 @@
       "path": "Git and GitHub/GitHub/Data/Github Odds & Ends.md"
     },
     {
+      "basename": "Fork flow (2)",
+      "path": "Git and GitHub/GitHub/Files/Fork flow (2).png"
+    },
+    {
+      "basename": "Pull request",
+      "path": "Git and GitHub/GitHub/Files/Pull request.png"
+    },
+    {
+      "basename": "Pull request conflicts",
+      "path": "Git and GitHub/GitHub/Files/Pull request conflicts.png"
+    },
+    {
+      "basename": "Fork flow (1)",
+      "path": "Git and GitHub/GitHub/Files/Fork flow (1).png"
+    },
+    {
       "basename": "Git+&+Github+Course_+Git+Workflows",
       "path": "Git and GitHub/Files/Udemy Course/Git+&+Github+Course_+Git+Workflows.pdf"
     },
     {
-      "basename": "Remote Branches",
-      "path": "Git and GitHub/GitHub/Data/Remote Branches.md"
+      "basename": "Git&Github+_Rebasing",
+      "path": "Git and GitHub/Files/Udemy Course/Git&Github+_Rebasing.pdf"
     },
     {
-      "basename": "Pull request conflicts",
-      "path": "Pull request conflicts.png"
+      "basename": "Git+&+Github_+Fetch+&+Pull",
+      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Fetch+&+Pull.pdf"
     },
     {
-      "basename": "Pull request",
-      "path": "Pull request.png"
+      "basename": "tools",
+      "path": "accessibility/data/theory/tools.md"
     },
     {
-      "basename": "Pasted image 20231114114730.png",
-      "path": "Pasted image 20231114114730.png.md"
+      "basename": "semantic-HTML",
+      "path": "accessibility/data/theory/semantic-HTML.md"
+    },
+    {
+      "basename": "how-to-build-a-website",
+      "path": "accessibility/data/theory/how-to-build-a-website.md"
+    },
+    {
+      "basename": "index",
+      "path": "accessibility/index.md"
+    },
+    {
+      "basename": "test-project",
+      "path": "accessibility/data/examples/test-project.md"
     },
     {
       "basename": "Summary",
       "path": "Git and GitHub/GitHub/Summary.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "Remote Branches",
+      "path": "Git and GitHub/GitHub/Data/Remote Branches.md"
     },
     {
       "basename": "create-new-project",
@@ -87,14 +123,6 @@
     {
       "basename": "Dashboard",
       "path": "Git and GitHub/Dashboard.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
-      "basename": "Git+&+Github_+Fetch+&+Pull",
-      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Fetch+&+Pull.pdf"
     },
     {
       "basename": "git push",
@@ -167,38 +195,6 @@
     {
       "basename": "Remote Branches",
       "path": "Git and GitHub/GitHub/Files/Remote Branches.png"
-    },
-    {
-      "basename": "git branch",
-      "path": "Git and GitHub/Git/Prompt/git branch.md"
-    },
-    {
-      "basename": "Workflow Recap",
-      "path": "Git and GitHub/GitHub/Files/Workflow Recap.png"
-    },
-    {
-      "basename": "Make a Repo",
-      "path": "Git and GitHub/GitHub/Data/Make a Repo.md"
-    },
-    {
-      "basename": "git stash",
-      "path": "Git and GitHub/Git/Prompt/git stash.md"
-    },
-    {
-      "basename": "git checkout",
-      "path": "Git and GitHub/Git/Prompt/git checkout.md"
-    },
-    {
-      "basename": "HEAD",
-      "path": "Git and GitHub/Git/Data/HEAD.md"
-    },
-    {
-      "basename": "Theory",
-      "path": "Git and GitHub/Git/Data/Theory.md"
-    },
-    {
-      "basename": "Git+&+Github_+Github+Basics",
-      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Github+Basics.pdf"
     }
   ],
   "omittedPaths": [],

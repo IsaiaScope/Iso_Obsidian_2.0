@@ -51,3 +51,15 @@ Whenever you encounter merge conflicts, follow these steps to resolve them:
 - Add your changes and then make a commit!
 
 ---
+
+## Update An Old Working Git Branch With Another Branch
+
+```bash
+git switch <old_branch_to_update>
+```
+
+```bash
+git merge <branch_where_take_data_from>
+```
+
+---

@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "git fetch",
-      "path": "Git and GitHub/GitHub/Prompt/git fetch.md"
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
+    },
+    {
+      "basename": "git cherry-pick",
+      "path": "Git and GitHub/GitHub/Prompt/git cherry-pick.md"
+    },
+    {
+      "basename": "git merge",
+      "path": "Git and GitHub/Git/Prompt/git merge.md"
+    },
+    {
+      "basename": "git switch",
+      "path": "Git and GitHub/Git/Prompt/git switch.md"
+    },
+    {
+      "basename": "Check Url Repo or Directory where Local Repo is Cloned",
+      "path": "Git and GitHub/GitHub/Data/Check Url Repo or Directory where Local Repo is Cloned.md"
+    },
+    {
+      "basename": "Remote Branches",
+      "path": "Git and GitHub/GitHub/Data/Remote Branches.md"
+    },
+    {
+      "basename": "git pull",
+      "path": "Git and GitHub/GitHub/Prompt/git pull.md"
+    },
+    {
+      "basename": "Migrate Repo to Another Url",
+      "path": "Git and GitHub/GitHub/Data/Migrate Repo to Another Url.md"
     },
     {
       "basename": "git fetch",
-      "path": "Git and GitHub/GitHub/Files/git fetch.png"
+      "path": "Git and GitHub/GitHub/Prompt/git fetch.md"
     },
     {
       "basename": "_Git+&+Github_+Fetch+&+Pull",
@@ -21,8 +57,20 @@
       "path": "Git and GitHub/GitHub/Data/Delete Local and Remote Branch.md"
     },
     {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
+      "basename": "git pull easier syntax",
+      "path": "Git and GitHub/GitHub/Files/git pull easier syntax.png"
+    },
+    {
+      "basename": "git pull",
+      "path": "Git and GitHub/GitHub/Files/git pull.png"
+    },
+    {
+      "basename": "Create Local and Remote Branch",
+      "path": "Git and GitHub/GitHub/Data/Create Local and Remote Branch.md"
+    },
+    {
+      "basename": "git fetch",
+      "path": "Git and GitHub/GitHub/Files/git fetch.png"
     },
     {
       "basename": "git init",
@@ -33,36 +81,12 @@
       "path": "Git and GitHub/GitHub/Prompt/git remote.md"
     },
     {
-      "basename": "git pull",
-      "path": "Git and GitHub/GitHub/Prompt/git pull.md"
-    },
-    {
       "basename": "git clone",
       "path": "Git and GitHub/GitHub/Prompt/git clone.md"
     },
     {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
-      "basename": "Old Prompt",
-      "path": "Git and GitHub/Old Prompt.md"
-    },
-    {
-      "basename": "Create Local and Remote Branch",
-      "path": "Git and GitHub/GitHub/Data/Create Local and Remote Branch.md"
-    },
-    {
-      "basename": "Remote Branches",
-      "path": "Git and GitHub/GitHub/Data/Remote Branches.md"
-    },
-    {
       "basename": "Remote Branches",
       "path": "Git and GitHub/GitHub/Files/Remote Branches.png"
-    },
-    {
-      "basename": "git switch",
-      "path": "Git and GitHub/Git/Prompt/git switch.md"
     },
     {
       "basename": "git branch",
@@ -99,10 +123,6 @@
     {
       "basename": "git log",
       "path": "Git and GitHub/Git/Prompt/git log.md"
-    },
-    {
-      "basename": "git merge",
-      "path": "Git and GitHub/Git/Prompt/git merge.md"
     },
     {
       "basename": "git reset",
@@ -149,10 +169,6 @@
       "path": "Git and GitHub/Git/Data/HEAD ~.md"
     },
     {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
-    },
-    {
       "basename": "git revert Flow",
       "path": "Git and GitHub/Git/Files/git revert Flow.png"
     },
@@ -179,26 +195,6 @@
     {
       "basename": "HEAD ~",
       "path": "Git and GitHub/Git/Files/HEAD ~.png"
-    },
-    {
-      "basename": "Time traveled",
-      "path": "Git and GitHub/Git/Files/Time traveled.png"
-    },
-    {
-      "basename": "Detached HEAD",
-      "path": "Git and GitHub/Git/Files/Detached HEAD.png"
-    },
-    {
-      "basename": "git commit",
-      "path": "Git and GitHub/Git/Prompt/git commit.md"
-    },
-    {
-      "basename": "git status",
-      "path": "Git and GitHub/Git/Prompt/git status.md"
-    },
-    {
-      "basename": "git diff",
-      "path": "Git and GitHub/Git/Prompt/git diff.md"
     }
   ],
   "omittedPaths": [],

@@ -53,3 +53,14 @@ git checkout -b  <branch-name>
 ```
 
 ---
+
+# Create a New Local Branch from a specific commit
+
+- Create a _New Local_ branch from a specific commit and checkout it
+  - [[HASH]]
+
+```bash
+git switch -c <branch_name> <commit-hash>
+```
+
+---

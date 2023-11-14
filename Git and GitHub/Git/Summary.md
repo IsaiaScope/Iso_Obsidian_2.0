@@ -36,14 +36,16 @@
 
 ### Common Problems
 
-| Description                                   |                         Link                          |
-| --------------------------------------------- | :---------------------------------------------------: |
-| _Change default Git text editor_              | [[git commit#Change default Git text editor \| Link]] |
-| _git ignore_                                  |          [:TiFileSymlink:](git%20ignore.md)           |
-| _Fix last commit mistake_                     |        [[git commit#Amending Commits \| Link]]        |
-| _Committing All Changes in one go_            |    [[git commit#Committing all in one go \| Link]]    |
-| _HEAD ~_                                      |            [:TiFileSymlink:](HEAD%20~.md)             |
-| _Git Reset vs Git Revert_                     |    [[git revert#Git Reset vs Git Revert \| Link]]     |
-| _Revert or Reset a Merge_                     |         [[git revert#Revert a Merge \| Link]]         |
-| _Revert a specific file to a specific commit_ |    [[git checkout#Revert a specific file \| Link]]    |
-|  |
+| Description                                            |                                    Link                                    |
+| ------------------------------------------------------ | :------------------------------------------------------------------------: |
+| _Change default Git text editor_                       |           [[git commit#Change default Git text editor \| Link]]            |
+| _git ignore_                                           |                     [:TiFileSymlink:](git%20ignore.md)                     |
+| _Fix last commit mistake_                              |                  [[git commit#Amending Commits \| Link]]                   |
+| _Committing All Changes in one go_                     |              [[git commit#Committing all in one go \| Link]]               |
+| _HEAD ~_                                               |                       [:TiFileSymlink:](HEAD%20~.md)                       |
+| _Git Reset vs Git Revert_                              |               [[git revert#Git Reset vs Git Revert \| Link]]               |
+| _Revert or Reset a Merge_                              |                   [[git revert#Revert a Merge \| Link]]                    |
+| _Revert a specific file to a specific commit_          |              [[git checkout#Revert a specific file \| Link]]               |
+| _Update An Old Working Git Branch With Another Branch_ | [[git merge#Update An Old Working Git Branch With Another Branch \| Link]] |
+
+---

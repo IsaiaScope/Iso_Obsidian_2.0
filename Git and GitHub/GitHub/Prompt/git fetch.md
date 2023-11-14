@@ -18,6 +18,18 @@ _If not specified_, `<remote>` _defaults to origin_
 
 [[git fetch.png]]
 
+### In other words
+
+- `git fetch` would download all remotes branches repository without merging them with local branches
+- Now you can checkout what remote branches contains, with
+
+```bash
+git checkout <remote>/<branch>
+```
+
+- from there is possible to create a new branch from that remote branch
+  - [[Create Local and Remote Branch]]
+
 ---
 
 ## Fetch a specific branch

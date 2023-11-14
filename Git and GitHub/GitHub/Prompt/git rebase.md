@@ -2,6 +2,8 @@
 
 ## Rebasing
 
+- [understanding-git-rebase](https://community.appsmith.com/content/guide/understanding-git-rebase?ref=dailydev)
+
 There are two main ways to use the `git rebase` command:
 
 - as an alternative to merging

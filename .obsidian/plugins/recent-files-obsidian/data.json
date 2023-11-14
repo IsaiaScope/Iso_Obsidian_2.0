@@ -5,6 +5,18 @@
       "path": "Git and GitHub/GitHub/Prompt/git rebase.md"
     },
     {
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
+    },
+    {
+      "basename": "Github Odds & Ends",
+      "path": "Git and GitHub/GitHub/Data/Github Odds & Ends.md"
+    },
+    {
+      "basename": "git rebase",
+      "path": "Git and GitHub/GitHub/Files/git rebase.png"
+    },
+    {
       "basename": "git rebase cleaning tool",
       "path": "Git and GitHub/GitHub/Files/git rebase cleaning tool.png"
     },
@@ -17,20 +29,8 @@
       "path": "Git and GitHub/GitHub/Files/git rebase starting point.png"
     },
     {
-      "basename": "git rebase",
-      "path": "Git and GitHub/GitHub/Files/git rebase.png"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
-    },
-    {
       "basename": "Git+&+Github+Course_+Git+Workflows",
       "path": "Git and GitHub/Files/Udemy Course/Git+&+Github+Course_+Git+Workflows.pdf"
-    },
-    {
-      "basename": "Github Odds & Ends",
-      "path": "Git and GitHub/GitHub/Data/Github Odds & Ends.md"
     },
     {
       "basename": "Fork flow (2)",

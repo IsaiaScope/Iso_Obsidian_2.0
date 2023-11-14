@@ -3,6 +3,7 @@
 - HEAD is simply a pointer that refers to the current "location" in your repository. It points to a particular branch reference
 - _HEAD refers himself to the last commit of the current branch you are on_
 - [[Git+&+Github_+Branching.pdf]] good graphic example how HEAD moves around
+- [[Git Behind The Scene#.git folder | .git folder]]
 
 ---
 

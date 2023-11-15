@@ -1,2 +1,0 @@
-- _useful action/commands_
-	- [[remove-extra-border]]

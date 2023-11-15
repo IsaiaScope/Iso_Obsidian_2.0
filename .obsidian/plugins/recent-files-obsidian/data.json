@@ -1,8 +1,96 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Figma/Dashboard.md"
+    },
+    {
+      "basename": "Remove extra margin",
+      "path": "Figma/Data/Remove extra margin.md"
+    },
+    {
+      "basename": "Remove extra margin",
+      "path": "Figma/Screenshot/Remove extra margin.png"
+    },
+    {
+      "basename": "The Git and GitHub Bootcamp",
+      "path": "Certificates/Udemy/The Git and GitHub Bootcamp.pdf"
+    },
+    {
+      "basename": "PowerShell 5.1",
+      "path": "Certificates/Udemy/PowerShell 5.1.pdf"
+    },
+    {
+      "basename": "Markdown Mastery",
+      "path": "Certificates/Udemy/Markdown Mastery.pdf"
+    },
+    {
+      "basename": "TanStack Query 4",
+      "path": "Certificates/Udemy/React/TanStack Query 4.pdf"
+    },
+    {
+      "basename": "React",
+      "path": "Certificates/Udemy/React/React.pdf"
+    },
+    {
+      "basename": "Ionic React",
+      "path": "Certificates/Udemy/React/Ionic React.pdf"
+    },
+    {
+      "basename": "NodeJS",
+      "path": "Certificates/Udemy/JavaScript/NodeJS.jpg"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "Certificates/Udemy/JavaScript/JavaScript.pdf"
+    },
+    {
+      "basename": "Web Design Accessibility",
+      "path": "Certificates/Udemy/Accessibility/Web Design Accessibility.jpg"
+    },
+    {
+      "basename": "Creating Accessible Websites",
+      "path": "Certificates/Udemy/Accessibility/Creating Accessible Websites.pdf"
+    },
+    {
+      "basename": "Plugins and Libs",
+      "path": "Fastify/Data/Plugins and Libs.md"
+    },
+    {
+      "basename": "Extra Notes",
+      "path": "Fastify/Extra Notes.md"
+    },
+    {
+      "basename": "Validation and Serialization",
+      "path": "Fastify/Data/Book/Files/Validation and Serialization.png"
+    },
+    {
+      "basename": "DOC Resources",
+      "path": "Fastify/Data/DOC Resources.md"
+    },
+    {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Fastify/Dashboard.md"
+    },
+    {
       "basename": "Theory",
       "path": "Git and GitHub/Git/Data/Theory.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
     },
     {
       "basename": "HEAD ~",
@@ -26,35 +114,15 @@
     },
     {
       "basename": "Validation and Serialization",
-      "path": "Fastify/Data/Book/Validation and Serialization.md"
+      "path": "Fastify/Data/Book/Chapters/Validation and Serialization.md"
     },
     {
       "basename": "git aliases",
       "path": "Git and GitHub/GitHub/Data/git aliases.md"
     },
     {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
-    },
-    {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
-    },
-    {
       "basename": "git reflogs",
       "path": "Git and GitHub/GitHub/Prompt/git reflogs.md"
-    },
-    {
-      "basename": "The Git and GitHub bootcamp",
-      "path": "Certificates/Udemy/The Git and GitHub bootcamp.pdf"
     },
     {
       "basename": "git config",
@@ -114,27 +182,15 @@
     },
     {
       "basename": "Overview",
-      "path": "Fastify/Data/Book/Overview.md"
-    },
-    {
-      "basename": "DOC Resources",
-      "path": "Fastify/Data/DOC Resources.md"
-    },
-    {
-      "basename": "Plugins and Libs",
-      "path": "Fastify/Data/Plugins and Libs.md"
+      "path": "Fastify/Data/Book/Chapters/Overview.md"
     },
     {
       "basename": "Summary",
       "path": "Fastify/Data/Book/Summary.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Fastify/Dashboard.md"
-    },
-    {
       "basename": "Routes",
-      "path": "Fastify/Data/Book/Routes.md"
+      "path": "Fastify/Data/Book/Chapters/Routes.md"
     },
     {
       "basename": "Github Odds & Ends",
@@ -143,62 +199,6 @@
     {
       "basename": "Git&Github+_Rebasing",
       "path": "Git and GitHub/Files/Udemy Course/Git&Github+_Rebasing.pdf"
-    },
-    {
-      "basename": "git rebase",
-      "path": "Git and GitHub/GitHub/Files/git rebase.png"
-    },
-    {
-      "basename": "git rebase cleaning tool",
-      "path": "Git and GitHub/GitHub/Files/git rebase cleaning tool.png"
-    },
-    {
-      "basename": "git rebase starting point",
-      "path": "Git and GitHub/GitHub/Files/git rebase starting point.png"
-    },
-    {
-      "basename": "Git+&+Github+Course_+Git+Workflows",
-      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github+Course_+Git+Workflows.pdf"
-    },
-    {
-      "basename": "Fork flow (2)",
-      "path": "Git and GitHub/GitHub/Files/Fork flow (2).png"
-    },
-    {
-      "basename": "Pull request",
-      "path": "Git and GitHub/GitHub/Files/Pull request.png"
-    },
-    {
-      "basename": "Pull request conflicts",
-      "path": "Git and GitHub/GitHub/Files/Pull request conflicts.png"
-    },
-    {
-      "basename": "Fork flow (1)",
-      "path": "Git and GitHub/GitHub/Files/Fork flow (1).png"
-    },
-    {
-      "basename": "Git+&+Github_+Fetch+&+Pull",
-      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Fetch+&+Pull.pdf"
-    },
-    {
-      "basename": "tools",
-      "path": "accessibility/data/theory/tools.md"
-    },
-    {
-      "basename": "semantic-HTML",
-      "path": "accessibility/data/theory/semantic-HTML.md"
-    },
-    {
-      "basename": "how-to-build-a-website",
-      "path": "accessibility/data/theory/how-to-build-a-website.md"
-    },
-    {
-      "basename": "index",
-      "path": "accessibility/index.md"
-    },
-    {
-      "basename": "test-project",
-      "path": "accessibility/data/examples/test-project.md"
     }
   ],
   "omittedPaths": [],

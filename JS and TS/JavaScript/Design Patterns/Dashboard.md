@@ -34,12 +34,12 @@ This is called Gamma Categorization after Erich Gamma, one of GoF authors
 - _Behavioral Patterns_
   - They are all different; no central theme
 
+[[The Patterns.png]]
+
 ---
 
-- [[The Patterns.png]]
-
-| Pattern | Problem | Link                                                |
-| ------- | ------- | --------------------------------------------------- |
-| Builder |         | [[Single Responsibility Principle \| :SiSolidity:]] |
+| Pattern   | Problem                 |            Link             |
+| --------- | ----------------------- | :-------------------------: |
+| `Builder` | complex object creation | [[Builder \| :SiSolidity:]] |
 
 ---

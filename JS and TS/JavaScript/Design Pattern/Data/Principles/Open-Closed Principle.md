@@ -2,7 +2,7 @@
 
 _OCP_ means open for extension, closed for modification
 
-The general idea of this principle is great. It tells you to write your code so that you will be able to add new functionality without changing the existing code. 
+The general idea of this principle is great. It tells you to write your code so that you will be able to add new functionality without changing the existing code.
 
 Robert C. Martin in his articles about the SOLID principles said, inheritance introduces tight coupling if the subclasses depend on implementation details of their parent class.
 
@@ -125,3 +125,5 @@ let spec = new AndSpecification(
 for (let p of bf.filter(products, spec))
 	console.log(` * ${p.name} is large and green`);
 ```
+
+---

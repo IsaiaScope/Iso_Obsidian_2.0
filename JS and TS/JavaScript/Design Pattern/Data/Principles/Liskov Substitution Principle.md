@@ -6,6 +6,10 @@ I know it sounds strange to you but let’s break it into pieces. Suppose we hav
 
 ## Examples
 
+`useIt()` [1] breaks the functionality because brings _inheritability_ so is a bad approach of programming and against the ability to replace any object of a parent class with any object of one of its child, every child must depend on parent prop but don't manipulating those
+
+`useIt()` if takes as input a Rectangle or a Square the output must be the same because Rectangle or a Square should be replaceable each other
+
 ```js
 class Rectangle {
 	constructor(width, height) {
@@ -53,8 +57,9 @@ class Square extends Rectangle {
 }
 
 let useIt = function (rc) {
-	let width = rc._width;
-	rc.height = 10;
+	// [1]
+	let width = rc._width; // breaks the pattern
+	rc.height = 10; // breaks the pattern
 	console.log(`Expected area of ${10 * width}, ` + `got ${rc.area}`);
 };
 
@@ -66,3 +71,5 @@ let sq = new Square(5);
 
 useIt(sq);
 ```
+
+---

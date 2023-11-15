@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Builder",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Builder.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
+    },
+    {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
+    },
+    {
+      "basename": "flex",
+      "path": "Style/CSS/flex.md"
+    },
+    {
+      "basename": "select-by-style-prop",
+      "path": "Style/CSS/select-by-style-prop.md"
+    },
+    {
+      "basename": "Remove-Extra-Margin-Mobile&Tablet",
+      "path": "Style/CSS/Remove-Extra-Margin-Mobile&Tablet.md"
+    },
+    {
+      "basename": "least-number-of-children",
+      "path": "Style/CSS/least-number-of-children.md"
+    },
+    {
+      "basename": "grid-secrets",
+      "path": "Style/CSS/grid-secrets.md"
+    },
+    {
+      "basename": "theory",
+      "path": "Style/CSS/theory.md"
     },
     {
       "basename": "git revert",
@@ -35,10 +67,6 @@
     {
       "basename": "Open-Closed Principle",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Open-Closed Principle.md"
-    },
-    {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
     },
     {
       "basename": "Summary",
@@ -171,34 +199,6 @@
     {
       "basename": "HEAD",
       "path": "Git and GitHub/Git/Data/HEAD.md"
-    },
-    {
-      "basename": "HASH",
-      "path": "Git and GitHub/Git/Data/HASH.md"
-    },
-    {
-      "basename": "git ignore",
-      "path": "Git and GitHub/Git/Data/git ignore.md"
-    },
-    {
-      "basename": "Git Behind The Scene",
-      "path": "Git and GitHub/Git/Data/Git Behind The Scene.md"
-    },
-    {
-      "basename": "git aliases",
-      "path": "Git and GitHub/GitHub/Data/git aliases.md"
-    },
-    {
-      "basename": "git reflogs",
-      "path": "Git and GitHub/GitHub/Prompt/git reflogs.md"
-    },
-    {
-      "basename": "git config",
-      "path": "Git and GitHub/Git/Prompt/git config.md"
-    },
-    {
-      "basename": "Git&+Github_+Aliases",
-      "path": "Git and GitHub/Files/Udemy Course/Git&+Github_+Aliases.pdf"
     }
   ],
   "omittedPaths": [],

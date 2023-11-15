@@ -18,8 +18,28 @@ Frequently references in Design Pattern literature
 
 ## The Patterns
 
+### Gamma Categorization
+
+Design Patterns are typically split into three categories
+This is called Gamma Categorization after Erich Gamma, one of GoF authors
+
+- _Creational Patterns_
+  - Deal with the creation (construction) of objects
+  - Explicit (constructor) vs. implicit (DI, reflection, etc.)
+  - Wholesale (single statement) vs. piecewise (step-by-step)
+- _Structural Patterns_
+  - Concerned with the structure (e.g., class members)
+  - Many patterns are wrappers that mimic the underlying class' interface
+  - Stress the importance of good API design
+- _Behavioral Patterns_
+  - They are all different; no central theme
+
+---
+
 - [[The Patterns.png]]
 
-| Pattern | Problem | Link |
-| ------- | ------- | ---- |
-|         |         |      |
+| Pattern | Problem | Link                                                |
+| ------- | ------- | --------------------------------------------------- |
+| Builder |         | [[Single Responsibility Principle \| :SiSolidity:]] |
+
+---

@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "IbDashboard",
-      "TiScreenshot",
-      "BoBxScreenshot",
-      "TiDatabase",
-      "LiFigma"
+      "BoBxsMagicWand",
+      "FasCode",
+      "SiTypescript",
+      "RiEnglishInput",
+      "LiBoxSelect"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,9 +41,6 @@
   "Certificates": "TiCertificate",
   "Certificates/Udemy": "SiUdemy",
   "Ionic": "SiIonic",
-  "Style (SASS & CSS)": "FabCss3",
-  "Style (SASS & CSS)/CSS": "SiCss3",
-  "Style (SASS & CSS)/SASS": "FabSass",
   "Fastify/Data/Plugins and Libs.md": "TiPlug",
   "Fastify/Data/Book/Summary.md": "LiPlusCircle",
   "Git and GitHub": "LiGitPullRequest",
@@ -96,5 +93,12 @@
   "Figma": "LiFigma",
   "Figma/Data": "TiDatabase",
   "Figma/Screenshot": "TiScreenshot",
-  "Figma/Dashboard.md": "IbDashboard"
+  "Figma/Dashboard.md": "IbDashboard",
+  "Figma/Data/Remove extra margin.md": "LiBoxSelect",
+  "English": "RiEnglishInput",
+  "Style": "FabCss3",
+  "Style/CSS": "SiCss3",
+  "Style/SASS": "FabSass",
+  "JS & TS": "FasCode",
+  "Markdown/Cheatsheet.pdf": "BoBxsMagicWand"
 }

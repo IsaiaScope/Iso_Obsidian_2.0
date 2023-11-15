@@ -1,7 +1,5 @@
-## Common Problems
+# Common Problems
 
-| Problem | Link |
-| ------- | ---- |
-|    Remove extra white space from an SVG creating an img      |   [[Remove extra margin]]   |
-
-
+| Problem                                                             |             Link              |
+| ------------------------------------------------------------------- | :---------------------------: |
+| Remove extra white space from an SVG creating an img without margin | [[Remove extra margin \| 🌭]] |

@@ -21,6 +21,8 @@
 - Link in Tables
   - `|` breaks table layout so use `\` escape to avoid that behavior
   - [[git commit#Atomic Commits \| Link git commit - Atomic Commits]]
+  - [[git commit \| 🌭]]
+  - [🧅](git%20commit.md)
 - Embedding Links
   - ![[Udemy-course#^c94268]]
 - Images

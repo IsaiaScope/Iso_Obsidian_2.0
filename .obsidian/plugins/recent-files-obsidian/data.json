@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "Validation and Serialization",
+      "path": "Fastify/Data/Book/Chapters/Validation and Serialization.md"
+    },
+    {
+      "basename": "Commands",
+      "path": "Prompt/Commands.md"
+    },
+    {
+      "basename": "Cheatsheet",
+      "path": "Markdown/Cheatsheet.pdf"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Markdown/Obsidian.md"
+    },
+    {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
+    },
+    {
+      "basename": "prompt",
+      "path": "Volta/prompt.md"
+    },
+    {
+      "basename": "index",
+      "path": "Style/index.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Obsidian Tutorial/Dashboard.md"
+    },
+    {
+      "basename": "libraries",
+      "path": "NODE/npm/libraries.md"
+    },
+    {
+      "basename": "Udemy-course",
+      "path": "Markdown/Udemy-course.md"
+    },
+    {
+      "basename": "git commit",
+      "path": "Git and GitHub/Git/Prompt/git commit.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Figma/Dashboard.md"
     },
@@ -69,28 +125,12 @@
       "path": "Fastify/Data/DOC Resources.md"
     },
     {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
-    },
-    {
       "basename": "Dashboard",
       "path": "Fastify/Dashboard.md"
     },
     {
       "basename": "Theory",
       "path": "Git and GitHub/Git/Data/Theory.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
     },
     {
       "basename": "HEAD ~",
@@ -111,10 +151,6 @@
     {
       "basename": "Git Behind The Scene",
       "path": "Git and GitHub/Git/Data/Git Behind The Scene.md"
-    },
-    {
-      "basename": "Validation and Serialization",
-      "path": "Fastify/Data/Book/Chapters/Validation and Serialization.md"
     },
     {
       "basename": "git aliases",
@@ -163,42 +199,6 @@
     {
       "basename": "Git Database",
       "path": "Git and GitHub/Git/Files/Git Database.png"
-    },
-    {
-      "basename": "HASHING  FUNCTIONS",
-      "path": "Git and GitHub/Git/Files/HASHING  FUNCTIONS.png"
-    },
-    {
-      "basename": "hidden git folder",
-      "path": "Git and GitHub/Git/Files/hidden git folder.png"
-    },
-    {
-      "basename": "Git+&+Github_+Tags",
-      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Tags.pdf"
-    },
-    {
-      "basename": "Releases Versioning",
-      "path": "Git and GitHub/GitHub/Files/Releases Versioning.png"
-    },
-    {
-      "basename": "Overview",
-      "path": "Fastify/Data/Book/Chapters/Overview.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Fastify/Data/Book/Summary.md"
-    },
-    {
-      "basename": "Routes",
-      "path": "Fastify/Data/Book/Chapters/Routes.md"
-    },
-    {
-      "basename": "Github Odds & Ends",
-      "path": "Git and GitHub/GitHub/Data/Github Odds & Ends.md"
-    },
-    {
-      "basename": "Git&Github+_Rebasing",
-      "path": "Git and GitHub/Files/Udemy Course/Git&Github+_Rebasing.pdf"
     }
   ],
   "omittedPaths": [],

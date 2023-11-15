@@ -5,6 +5,14 @@
       "path": "JS and TS/JavaScript/Design Pattern/Dashboard.md"
     },
     {
+      "basename": "Single Responsibility",
+      "path": "JS and TS/JavaScript/Design Pattern/Data/Principles/Single Responsibility.md"
+    },
+    {
+      "basename": "The Patterns",
+      "path": "JS and TS/JavaScript/Design Pattern/Files/The Patterns.png"
+    },
+    {
       "basename": "Validation and Serialization",
       "path": "Fastify/Data/Book/Chapters/Validation and Serialization.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "git tag",
       "path": "Git and GitHub/GitHub/Prompt/git tag.md"
-    },
-    {
-      "basename": "git rebase",
-      "path": "Git and GitHub/GitHub/Prompt/git rebase.md"
-    },
-    {
-      "basename": "Git&+Github_Git+Behind+The+Scenes",
-      "path": "Git and GitHub/Files/Udemy Course/Git&+Github_Git+Behind+The+Scenes.pdf"
     }
   ],
   "omittedPaths": [],

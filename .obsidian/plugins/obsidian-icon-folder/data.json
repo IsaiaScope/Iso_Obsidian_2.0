@@ -51,7 +51,6 @@
   "Git and GitHub/Git/Data": "TiDatabase",
   "Git and GitHub/Git/Summary.md": "SiGit",
   "Git and GitHub/Git/Prompt": "TiTerminal2",
-  "Git and GitHub/Files": "LiFiles",
   "Prompt": "TiTerminal2",
   "Prompt/Windows": "FabWindows",
   "Prompt/Windows/Data": "TiDatabase",
@@ -65,7 +64,6 @@
   "Git and GitHub/GitHub/Files": "LiFiles",
   "Git and GitHub/GitHub/Summary.md": "SiGithub",
   "Git and GitHub/GitHub/Prompt": "TiTerminal2",
-  "Git and GitHub/Files/Udemy Course": "SiUdemy",
   "Git and GitHub/GitHub/Data/Remote Branches.md": "RiGitBranchLine",
   "Git and GitHub/GitHub/Data/Delete Local and Remote Branch.md": "RiDeleteBinLine",
   "Git and GitHub/GitHub/Data/Check Url Repo or Directory where Local Repo is Cloned.md": "LiFolderGit2",
@@ -107,5 +105,7 @@
   "JS and TS/JavaScript/Design Pattern": "IbGraphicsAndDesign",
   "JS and TS/JavaScript/Design Pattern/Dashboard.md": "IbDashboard",
   "JS and TS/JavaScript/Design Pattern/Data": "TiDatabase",
-  "JS and TS/JavaScript/Design Pattern/File": "LiFiles"
+  "JS and TS/JavaScript/Design Pattern/Files": "LiFiles",
+  "Git and GitHub/Files": "LiFiles",
+  "Git and GitHub/Files/Udemy Course": "SiUdemy"
 }

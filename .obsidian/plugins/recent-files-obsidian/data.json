@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "JS and TS/JavaScript/Design Pattern/Dashboard.md"
+    },
+    {
       "basename": "Validation and Serialization",
       "path": "Fastify/Data/Book/Chapters/Validation and Serialization.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Git&+Github_Git+Behind+The+Scenes",
       "path": "Git and GitHub/Files/Udemy Course/Git&+Github_Git+Behind+The+Scenes.pdf"
-    },
-    {
-      "basename": "Git Database",
-      "path": "Git and GitHub/Git/Files/Git Database.png"
     }
   ],
   "omittedPaths": [],

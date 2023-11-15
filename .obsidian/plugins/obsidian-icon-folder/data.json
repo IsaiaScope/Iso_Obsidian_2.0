@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "BoBxsMagicWand",
-      "FasCode",
-      "SiTypescript",
-      "RiEnglishInput",
-      "LiBoxSelect"
+      "LiFiles",
+      "TiDatabase",
+      "IbDashboard",
+      "IbGraphicsAndDesign",
+      "BoBxlTypescript"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -82,7 +82,7 @@
   "Certificates/Udemy/React": "FabReact",
   "Certificates/Udemy/React/React.pdf": "SiReact",
   "Certificates/Udemy/JavaScript": "FabJs",
-  "Certificates/Udemy/JavaScript/JavaScript.pdf": "FabJs",
+  "Certificates/Udemy/JavaScript/JavaScript.pdf": "SiJavascript",
   "Certificates/Udemy/JavaScript/NodeJS.jpg": "FabNodeJs",
   "Certificates/Udemy/Accessibility": "BoBxAccessibility",
   "Certificates/Udemy/PowerShell 5.1.pdf": "SiWindowsterminal",
@@ -99,6 +99,13 @@
   "Style": "FabCss3",
   "Style/CSS": "SiCss3",
   "Style/SASS": "FabSass",
-  "JS & TS": "FasCode",
-  "Markdown/Cheatsheet.pdf": "BoBxsMagicWand"
+  "Markdown/Cheatsheet.pdf": "BoBxsMagicWand",
+  "JS and TS": "FasCode",
+  "JS and TS/JavaScript": "FabJs",
+  "JS and TS/Shared": "LiShare",
+  "JS and TS/TypeScript": "SiTypescript",
+  "JS and TS/JavaScript/Design Pattern": "IbGraphicsAndDesign",
+  "JS and TS/JavaScript/Design Pattern/Dashboard.md": "IbDashboard",
+  "JS and TS/JavaScript/Design Pattern/Data": "TiDatabase",
+  "JS and TS/JavaScript/Design Pattern/File": "LiFiles"
 }

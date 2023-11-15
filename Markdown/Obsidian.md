@@ -17,7 +17,7 @@
 - External links Relative path
   - [Google](https://www.google.com)
 - External links absolute path
-  - [Link to TS/theory/as-const.md](TS/theory/as-const.md)
+  - [Link to TS/theory/as-const.md](as-const.md)
 - Link in Tables
   - `|` breaks table layout so use `\` escape to avoid that behavior
   - [[git commit#Atomic Commits \| Link git commit - Atomic Commits]]

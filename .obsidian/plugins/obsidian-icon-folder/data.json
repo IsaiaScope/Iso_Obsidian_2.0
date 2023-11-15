@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiSolidity",
       "LiFiles",
       "TiDatabase",
       "IbDashboard",
-      "IbGraphicsAndDesign",
-      "BoBxlTypescript"
+      "IbGraphicsAndDesign"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -107,5 +107,6 @@
   "JS and TS/JavaScript/Design Pattern/Data": "TiDatabase",
   "JS and TS/JavaScript/Design Pattern/Files": "LiFiles",
   "Git and GitHub/Files": "LiFiles",
-  "Git and GitHub/Files/Udemy Course": "SiUdemy"
+  "Git and GitHub/Files/Udemy Course": "SiUdemy",
+  "JS and TS/JavaScript/Design Pattern/Data/Principles": "SiSolidity"
 }

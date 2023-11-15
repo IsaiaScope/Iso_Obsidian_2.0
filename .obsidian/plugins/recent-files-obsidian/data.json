@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Liskov Substitution Principle",
+      "path": "JS and TS/JavaScript/Design Pattern/Data/Principles/Liskov Substitution Principle.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "JS and TS/JavaScript/Design Pattern/Dashboard.md"
     },
     {
-      "basename": "Single Responsibility",
-      "path": "JS and TS/JavaScript/Design Pattern/Data/Principles/Single Responsibility.md"
+      "basename": "Single Responsibility Principle",
+      "path": "JS and TS/JavaScript/Design Pattern/Data/Principles/Single Responsibility Principle.md"
+    },
+    {
+      "basename": "Open-Closed Principle",
+      "path": "JS and TS/JavaScript/Design Pattern/Data/Principles/Open-Closed Principle.md"
+    },
+    {
+      "basename": "Dependency Inversion Principle",
+      "path": "JS and TS/JavaScript/Design Pattern/Data/Principles/Dependency Inversion Principle.md"
+    },
+    {
+      "basename": "Interface Segregation Principle",
+      "path": "JS and TS/JavaScript/Design Pattern/Data/Principles/Interface Segregation Principle.md"
+    },
+    {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
     },
     {
       "basename": "The Patterns",
@@ -25,24 +57,8 @@
       "path": "Markdown/Cheatsheet.pdf"
     },
     {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
       "basename": "Obsidian",
       "path": "Markdown/Obsidian.md"
-    },
-    {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
     },
     {
       "basename": "prompt",
@@ -183,22 +199,6 @@
     {
       "basename": "Reflog Output",
       "path": "Git and GitHub/GitHub/Files/Reflog Output.png"
-    },
-    {
-      "basename": "Rescuing Lost Commits With Reflog",
-      "path": "Git and GitHub/GitHub/Files/Rescuing Lost Commits With Reflog.png"
-    },
-    {
-      "basename": "Git+&+Github_+Reflogs",
-      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Reflogs.pdf"
-    },
-    {
-      "basename": "git reflogs",
-      "path": "Git and GitHub/GitHub/Files/git reflogs.png"
-    },
-    {
-      "basename": "git tag",
-      "path": "Git and GitHub/GitHub/Prompt/git tag.md"
     }
   ],
   "omittedPaths": [],

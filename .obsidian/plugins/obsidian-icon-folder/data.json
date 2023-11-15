@@ -102,11 +102,11 @@
   "JS and TS/JavaScript": "FabJs",
   "JS and TS/Shared": "LiShare",
   "JS and TS/TypeScript": "SiTypescript",
-  "JS and TS/JavaScript/Design Pattern": "IbGraphicsAndDesign",
-  "JS and TS/JavaScript/Design Pattern/Dashboard.md": "IbDashboard",
-  "JS and TS/JavaScript/Design Pattern/Data": "TiDatabase",
-  "JS and TS/JavaScript/Design Pattern/Files": "LiFiles",
   "Git and GitHub/Files": "LiFiles",
   "Git and GitHub/Files/Udemy Course": "SiUdemy",
-  "JS and TS/JavaScript/Design Pattern/Data/Principles": "SiSolidity"
+  "JS and TS/JavaScript/Design Patterns": "IbGraphicsAndDesign",
+  "JS and TS/JavaScript/Design Patterns/Data": "TiDatabase",
+  "JS and TS/JavaScript/Design Patterns/Dashboard.md": "IbDashboard",
+  "JS and TS/JavaScript/Design Patterns/Files": "LiFiles",
+  "JS and TS/JavaScript/Design Patterns/Data/Principles": "SiSolidity"
 }

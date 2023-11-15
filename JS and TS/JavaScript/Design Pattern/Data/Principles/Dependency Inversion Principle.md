@@ -1,3 +1,0 @@
-# Dependency Inversion Principle
-
-## Examples

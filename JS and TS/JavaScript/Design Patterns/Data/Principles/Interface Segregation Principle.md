@@ -10,7 +10,7 @@
 
 `aggregation()` [1] is a method for inherit multiple classes `class Photocopier extends aggregation(Printer, Scanner)` and is not pertinent with the core functionality of the Interface Segregation Principle; is't just a plus
 
-Bad approach [3] every "interface" repeat itself, _MultiFunctionPrinter_, _OldFashionedPrinter_ implements all _Machine_ methos
+Bad approach [3] every "interface" repeat itself, _MultiFunctionPrinter_, _OldFashionedPrinter_ implements all _Machine_ methods maybe don't needed
 
 The Solution [4] makes _Photocopier_ to be sum of _Printer_ and _Scanner_
 
@@ -116,11 +116,9 @@ class Scanner {
 	scan() {}
 }
 
-class Photocopier extends aggregation(Printer, Scanner) {
-	// [2]
-	print() {
-		// IDE won't help you here
-	}
+class Photocopier extends aggregation(Printer, Scanner) { // [2]
+// IDE won't help you here because code dont work is just to lear the concept
+	print() {}
 	scan() {}
 }
 

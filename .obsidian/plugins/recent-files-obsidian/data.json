@@ -1,28 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Interface Segregation Principle",
-      "path": "JS and TS/JavaScript/Design Pattern/Data/Principles/Interface Segregation Principle.md"
-    },
-    {
       "basename": "Dashboard",
-      "path": "JS and TS/JavaScript/Design Pattern/Dashboard.md"
+      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
     },
     {
-      "basename": "Liskov Substitution Principle",
-      "path": "JS and TS/JavaScript/Design Pattern/Data/Principles/Liskov Substitution Principle.md"
+      "basename": "git revert",
+      "path": "Git and GitHub/Git/Prompt/git revert.md"
     },
     {
-      "basename": "Open-Closed Principle",
-      "path": "JS and TS/JavaScript/Design Pattern/Data/Principles/Open-Closed Principle.md"
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "The Patterns",
+      "path": "JS and TS/JavaScript/Design Patterns/Files/The Patterns.png"
     },
     {
       "basename": "Single Responsibility Principle",
-      "path": "JS and TS/JavaScript/Design Pattern/Data/Principles/Single Responsibility Principle.md"
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Single Responsibility Principle.md"
     },
     {
       "basename": "Dependency Inversion Principle",
-      "path": "JS and TS/JavaScript/Design Pattern/Data/Principles/Dependency Inversion Principle.md"
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Dependency Inversion Principle.md"
+    },
+    {
+      "basename": "Interface Segregation Principle",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Interface Segregation Principle.md"
+    },
+    {
+      "basename": "Liskov Substitution Principle",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Liskov Substitution Principle.md"
+    },
+    {
+      "basename": "Open-Closed Principle",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Open-Closed Principle.md"
     },
     {
       "basename": "SEBA Book",
@@ -35,14 +47,6 @@
     {
       "basename": "Dashboard",
       "path": "Git and GitHub/Dashboard.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
-      "basename": "The Patterns",
-      "path": "JS and TS/JavaScript/Design Pattern/Files/The Patterns.png"
     },
     {
       "basename": "Validation and Serialization",
@@ -195,10 +199,6 @@
     {
       "basename": "Git&+Github_+Aliases",
       "path": "Git and GitHub/Files/Udemy Course/Git&+Github_+Aliases.pdf"
-    },
-    {
-      "basename": "Reflog Output",
-      "path": "Git and GitHub/GitHub/Files/Reflog Output.png"
     }
   ],
   "omittedPaths": [],

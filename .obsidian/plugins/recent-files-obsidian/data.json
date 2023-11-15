@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Theory",
+      "path": "Git and GitHub/Git/Data/Theory.md"
+    },
+    {
+      "basename": "HEAD ~",
+      "path": "Git and GitHub/Git/Data/HEAD ~.md"
+    },
+    {
+      "basename": "HEAD",
+      "path": "Git and GitHub/Git/Data/HEAD.md"
+    },
+    {
+      "basename": "HASH",
+      "path": "Git and GitHub/Git/Data/HASH.md"
+    },
+    {
+      "basename": "git ignore",
+      "path": "Git and GitHub/Git/Data/git ignore.md"
+    },
+    {
+      "basename": "Git Behind The Scene",
+      "path": "Git and GitHub/Git/Data/Git Behind The Scene.md"
+    },
+    {
       "basename": "Validation and Serialization",
       "path": "Fastify/Data/Book/Validation and Serialization.md"
     },
@@ -57,14 +81,6 @@
       "path": "Git and GitHub/GitHub/Files/git reflogs.png"
     },
     {
-      "basename": "HASH",
-      "path": "Git and GitHub/Git/Data/HASH.md"
-    },
-    {
-      "basename": "Git Behind The Scene",
-      "path": "Git and GitHub/Git/Data/Git Behind The Scene.md"
-    },
-    {
       "basename": "git tag",
       "path": "Git and GitHub/GitHub/Prompt/git tag.md"
     },
@@ -85,16 +101,8 @@
       "path": "Git and GitHub/Git/Files/HASHING  FUNCTIONS.png"
     },
     {
-      "basename": "HEAD",
-      "path": "Git and GitHub/Git/Data/HEAD.md"
-    },
-    {
       "basename": "hidden git folder",
       "path": "Git and GitHub/Git/Files/hidden git folder.png"
-    },
-    {
-      "basename": "HEAD ~",
-      "path": "Git and GitHub/Git/Data/HEAD ~.md"
     },
     {
       "basename": "Git+&+Github_+Tags",
@@ -191,14 +199,6 @@
     {
       "basename": "test-project",
       "path": "accessibility/data/examples/test-project.md"
-    },
-    {
-      "basename": "Remote Branches",
-      "path": "Git and GitHub/GitHub/Data/Remote Branches.md"
-    },
-    {
-      "basename": "create-new-project",
-      "path": "Ionic/data/create-new-project.md"
     }
   ],
   "omittedPaths": [],

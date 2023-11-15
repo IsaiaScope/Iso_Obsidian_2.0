@@ -26,6 +26,8 @@
 
 ![[hidden git folder.png]]
 
+---
+
 ### 4 Types of Git Objects
 
 - Check for graphic view

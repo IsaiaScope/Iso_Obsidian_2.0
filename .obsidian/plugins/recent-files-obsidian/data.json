@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "Validation and Serialization",
+      "path": "Fastify/Data/Book/Validation and Serialization.md"
+    },
+    {
+      "basename": "git aliases",
+      "path": "Git and GitHub/GitHub/Data/git aliases.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
+    },
+    {
+      "basename": "git reflogs",
+      "path": "Git and GitHub/GitHub/Prompt/git reflogs.md"
+    },
+    {
+      "basename": "The Git and GitHub bootcamp",
+      "path": "Certificates/Udemy/The Git and GitHub bootcamp.pdf"
+    },
+    {
+      "basename": "git config",
+      "path": "Git and GitHub/Git/Prompt/git config.md"
+    },
+    {
+      "basename": "Git&+Github_+Aliases",
+      "path": "Git and GitHub/Files/Udemy Course/Git&+Github_+Aliases.pdf"
+    },
+    {
+      "basename": "Reflog Output",
+      "path": "Git and GitHub/GitHub/Files/Reflog Output.png"
+    },
+    {
+      "basename": "Rescuing Lost Commits With Reflog",
+      "path": "Git and GitHub/GitHub/Files/Rescuing Lost Commits With Reflog.png"
+    },
+    {
+      "basename": "Git+&+Github_+Reflogs",
+      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Reflogs.pdf"
+    },
+    {
+      "basename": "git reflogs",
+      "path": "Git and GitHub/GitHub/Files/git reflogs.png"
+    },
+    {
       "basename": "HASH",
       "path": "Git and GitHub/Git/Data/HASH.md"
     },
@@ -9,16 +65,12 @@
       "path": "Git and GitHub/Git/Data/Git Behind The Scene.md"
     },
     {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
-      "basename": "Git+&+Github_+Reflogs",
-      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+Reflogs.pdf"
-    },
-    {
       "basename": "git tag",
       "path": "Git and GitHub/GitHub/Prompt/git tag.md"
+    },
+    {
+      "basename": "git rebase",
+      "path": "Git and GitHub/GitHub/Prompt/git rebase.md"
     },
     {
       "basename": "Git&+Github_Git+Behind+The+Scenes",
@@ -41,16 +93,8 @@
       "path": "Git and GitHub/Git/Files/hidden git folder.png"
     },
     {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
-    },
-    {
       "basename": "HEAD ~",
       "path": "Git and GitHub/Git/Data/HEAD ~.md"
-    },
-    {
-      "basename": "git rebase",
-      "path": "Git and GitHub/GitHub/Prompt/git rebase.md"
     },
     {
       "basename": "Git+&+Github_+Tags",
@@ -59,14 +103,6 @@
     {
       "basename": "Releases Versioning",
       "path": "Git and GitHub/GitHub/Files/Releases Versioning.png"
-    },
-    {
-      "basename": "Validation and Serialization",
-      "path": "Fastify/Data/Book/Validation and Serialization.md"
-    },
-    {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
     },
     {
       "basename": "Overview",
@@ -163,42 +199,6 @@
     {
       "basename": "create-new-project",
       "path": "Ionic/data/create-new-project.md"
-    },
-    {
-      "basename": "index",
-      "path": "Ionic/index.md"
-    },
-    {
-      "basename": "Check Url Repo or Directory where Local Repo is Cloned",
-      "path": "Git and GitHub/GitHub/Data/Check Url Repo or Directory where Local Repo is Cloned.md"
-    },
-    {
-      "basename": "Git+&+Github_+More+Github",
-      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github_+More+Github.pdf"
-    },
-    {
-      "basename": "Git+&+Github+Course_+Undoing+Stuff",
-      "path": "Git and GitHub/Files/Udemy Course/Git+&+Github+Course_+Undoing+Stuff.pdf"
-    },
-    {
-      "basename": "test.excalidraw",
-      "path": "Drawing/test.excalidraw.md"
-    },
-    {
-      "basename": "rawr",
-      "path": "assets/svgs/rawr.md"
-    },
-    {
-      "basename": "Sql & Sequelize",
-      "path": "assets/images/Sql & Sequelize.png"
-    },
-    {
-      "basename": "Flash",
-      "path": "assets/images/Flash.png"
-    },
-    {
-      "basename": "index",
-      "path": "Data Structures Masterclass/theory/index.md"
     }
   ],
   "omittedPaths": [],

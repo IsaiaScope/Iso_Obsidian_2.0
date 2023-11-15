@@ -14,16 +14,17 @@
 
 ### Git CLI for GitHub Interaction
 
-| Command           | Meaning                                                                      |                  Link                   |
-| ----------------- | ---------------------------------------------------------------------------- | :-------------------------------------: |
-| `git clone`       | clone a remote repository hosted on Github                                   |    [:TiFileSymlink:](git%20clone.md)    |
-| `git remote`      | manage set of tracked repositories, set and recover remote name `git remote` |   [:TiFileSymlink:](git%20remote.md)    |
-| `git push`        | send local work up to Github Repo                                            |    [:TiFileSymlink:](git%20push.md)     |
-| `git fetch`       | update remote branch                                                         |    [:TiFileSymlink:](git%20fetch.md)    |
-| `git pull`        | fetch and integrate remote branch into local branch                          |    [:TiFileSymlink:](git%20pull.md)     |
-| `git cherry-pick` | apply the changes introduced by some existing commits                        | [:TiFileSymlink:](git%20cherry-pick.md) |
-| `git rebase`      | alternative to merging or rewriter of History                                |   [:TiFileSymlink:](git%20rebase.md)    |
-| `git tag`         | create commit tag, useful to track releases                                  |     [:TiFileSymlink:](git%20tag.md)     |
+| Command           | Meaning                                                                                                                  |                  Link                   |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------ | :-------------------------------------: |
+| `git clone`       | clone a remote repository hosted on Github                                                                               |    [:TiFileSymlink:](git%20clone.md)    |
+| `git remote`      | manage set of tracked repositories, set and recover remote name `git remote`                                             |   [:TiFileSymlink:](git%20remote.md)    |
+| `git push`        | send local work up to Github Repo                                                                                        |    [:TiFileSymlink:](git%20push.md)     |
+| `git fetch`       | update remote branch                                                                                                     |    [:TiFileSymlink:](git%20fetch.md)    |
+| `git pull`        | fetch and integrate remote branch into local branch                                                                      |    [:TiFileSymlink:](git%20pull.md)     |
+| `git cherry-pick` | apply the changes introduced by some existing commits                                                                    | [:TiFileSymlink:](git%20cherry-pick.md) |
+| `git rebase`      | alternative to merging or rewriter of History                                                                            |   [:TiFileSymlink:](git%20rebase.md)    |
+| `git tag`         | create commit tag, useful to track releases                                                                              |     [:TiFileSymlink:](git%20tag.md)     |
+| `git reflogs`     | reference logs, or "reflogs", record when the tips of branches and other references were updated in the local repository |   [:TiFileSymlink:](git%20reflogs.md)   |
 
 ---
 
@@ -49,6 +50,7 @@
 | _Check Url Repo or Directory where Local Repo is Cloned_ | [:TiFileSymlink:](Check%20Url%20Repo%20or%20Directory%20where%20Local%20Repo%20is%20Cloned.md) |
 | _Create Local and Remote Branch_                         |                  [:TiFileSymlink:](Create%20Local%20and%20Remote%20Branch.md)                  |
 | _Delete Local and Remote Branch_                         |                  [:TiFileSymlink:](Delete%20Local%20and%20Remote%20Branch.md)                  |
+| _Rescuing Lost Commits With Reflog_                      |                   [[git reflogs#Rescuing Lost Commits With Reflog \| LInk]]                    |
 
 ---
 

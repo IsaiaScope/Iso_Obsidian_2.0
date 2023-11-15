@@ -13,6 +13,7 @@
 - [DOC of Complete list of all commands](https://git-scm.com/docs)
 - [[Commands | Basic Commands]]
 - [[Git and GitHub/GitHub/Summary#Prompt| GitHub Prompt]]
+- [[git aliases | Aliases]]
 
 ### Git CLI
 

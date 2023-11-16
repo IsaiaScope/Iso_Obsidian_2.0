@@ -14,6 +14,15 @@
 
 ---
 
+## Summary
+
+- A factory method is a static method that creates objects
+- A factory is any entity that can take care of object creation
+- A factory can be external or reside inside the object as an inner class
+- Hierarchies of factories can be used to create related objects
+
+---
+
 ## Example
 
 _Factory method_ is a method for manufacturing as new object, and it gives you a certain benefits, in addition to being able to be very explicit about the naming of the method itself and the names of arguments
@@ -79,7 +88,7 @@ console.log(p3);
 
 ## Example
 
-Abstract Factory
+_Abstract Factory_ is a creational design pattern that lets you produce families of related objects without specifying their concrete classes.
 
 ```js
 const readline = require("readline");
@@ -116,7 +125,7 @@ class TeaFactory extends HotDrinkFactory {
 	prepare(amount) {
 		console.log(`Grind some beans, boil water, pour ${amount}ml`);
 
-		return new Coffee();
+		return new Tea();
 	}
 }
 
@@ -124,7 +133,7 @@ class CoffeeFactory extends HotDrinkFactory {
 	prepare(amount) {
 		console.log(`Put in tea bag, boil water, pour ${amount}ml`);
 
-		return new Tea();
+		return new Coffee();
 	}
 }
 

@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Factory",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Factory.md"
+      "basename": "Prototype",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Prototype.md"
     },
     {
-      "basename": "Builder",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Builder.md"
+      "basename": "Adapter",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Adapter.md"
+    },
+    {
+      "basename": "Singleton",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Singleton.md"
     },
     {
       "basename": "Dashboard",
       "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
     },
     {
+      "basename": "Factory",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Factory.md"
+    },
+    {
       "basename": "SEBA Book",
       "path": "Fastify/SEBA Book.pdf"
+    },
+    {
+      "basename": "Builder",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Builder.md"
     },
     {
       "basename": "flex",
@@ -187,18 +199,6 @@
     {
       "basename": "DOC Resources",
       "path": "Fastify/Data/DOC Resources.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Fastify/Dashboard.md"
-    },
-    {
-      "basename": "Theory",
-      "path": "Git and GitHub/Git/Data/Theory.md"
-    },
-    {
-      "basename": "HEAD ~",
-      "path": "Git and GitHub/Git/Data/HEAD ~.md"
     }
   ],
   "omittedPaths": [],

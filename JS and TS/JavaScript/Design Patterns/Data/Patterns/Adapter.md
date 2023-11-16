@@ -1,0 +1,15 @@
+# Adapter
+
+>
+
+---
+
+## Summary
+
+## Examples
+
+```js
+
+```
+
+---

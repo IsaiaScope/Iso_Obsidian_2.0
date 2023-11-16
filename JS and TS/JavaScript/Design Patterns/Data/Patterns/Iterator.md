@@ -21,6 +21,10 @@
 
 ## Summary
 
+- An iterator specified how you can traverse an object
+- Stateful iterators cannot be recursive
+- yield allows for much more succinct iteration
+
 ---
 
 ## Example (Array Backed Properties)
@@ -154,8 +158,6 @@ for (let item of stuff.backwards) console.log(`${item}`);
 ---
 
 ## Example (Tree Traversal)
-
-
 
 ```js
 class Node {

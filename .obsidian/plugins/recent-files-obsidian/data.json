@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Iterator",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Iterator.md"
+      "basename": "Mediator",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Mediator.md"
+    },
+    {
+      "basename": "TEMPLATE",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
     },
     {
       "basename": "Dashboard",
       "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
+    },
+    {
+      "basename": "Iterator",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Iterator.md"
     },
     {
       "basename": "Chain of Responsability",
@@ -19,10 +27,6 @@
     {
       "basename": "Command",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Command.md"
-    },
-    {
-      "basename": "TEMPLATE",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
     },
     {
       "basename": "Interpreter",
@@ -195,10 +199,6 @@
     {
       "basename": "Short-cuts",
       "path": "Short-cuts.md"
-    },
-    {
-      "basename": "index",
-      "path": "React/index.md"
     }
   ],
   "omittedPaths": [],

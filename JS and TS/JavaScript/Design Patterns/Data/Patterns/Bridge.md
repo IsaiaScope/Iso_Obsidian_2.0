@@ -15,11 +15,15 @@ _Bridge pattern allows having one interface in our class build different impleme
 
 ## Summary
 
+- Decouple abstraction from implementation
+- Both can exist as hierarchies
+- A stronger form of encapsulation
+
 ---
 
 ## Example
 
-
+In this example, we create a bridge between types of Shape and types of Render, in this way we can pass the instance of Render correctly to our Shapes.
 
 ```js
 class VectorRenderer {

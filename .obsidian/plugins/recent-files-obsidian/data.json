@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Composite",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Composite.md"
+    },
+    {
+      "basename": "Decorator",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Decorator.md"
+    },
+    {
+      "basename": "TEMPLATE",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
+    },
+    {
       "basename": "Bridge",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Bridge.md"
     },
@@ -39,10 +51,6 @@
     {
       "basename": "SEBA Book",
       "path": "Fastify/SEBA Book.pdf"
-    },
-    {
-      "basename": "TEMPLATE",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
     },
     {
       "basename": "Single Responsibility Principle",
@@ -191,14 +199,6 @@
     {
       "basename": "The Git and GitHub Bootcamp",
       "path": "Certificates/Udemy/The Git and GitHub Bootcamp.pdf"
-    },
-    {
-      "basename": "PowerShell 5.1",
-      "path": "Certificates/Udemy/PowerShell 5.1.pdf"
-    },
-    {
-      "basename": "Markdown Mastery",
-      "path": "Certificates/Udemy/Markdown Mastery.pdf"
     }
   ],
   "omittedPaths": [],

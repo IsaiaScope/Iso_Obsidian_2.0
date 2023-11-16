@@ -1,0 +1,15 @@
+# Decorator
+
+>
+
+## Summary
+
+---
+
+## Example
+
+```js
+
+```
+
+---

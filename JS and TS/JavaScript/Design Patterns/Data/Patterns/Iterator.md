@@ -155,6 +155,8 @@ for (let item of stuff.backwards) console.log(`${item}`);
 
 ## Example (Tree Traversal)
 
+
+
 ```js
 class Node {
 	constructor(value, left = null, right = null) {

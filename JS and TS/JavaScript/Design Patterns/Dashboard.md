@@ -2,7 +2,7 @@
 
 Design patterns are common architectural approaches to solve common problems
 
-[design-patterns-in-javascript](https://medium.com/globant/design-patterns-in-javascript-creational-2a02726e4e71)
+[Design patterns in javascript](https://medium.com/globant/design-patterns-in-javascript-creational-2a02726e4e71)
 
 ## SOLID Design Principles
 
@@ -49,12 +49,12 @@ This is called Gamma Categorization after Erich Gamma, one of GoF authors
 | `Singleton`               |                         | [[Singleton \| :SiSolidity:]] |
 | _Structural Patterns_     |                         |                               |
 | `Adapter`                 |                         |  [[Adapter \| :SiSolidity:]]  |
-| `Bridge`                  |                         |                               |
-| `Composite`               |                         |                               |
-| `Decorator`               |                         |                               |
-| `Façade`                  |                         |                               |
-| `Flyweight`               |                         |                               |
-| `Proxy`                   |                         |                               |
+| `Bridge`                  |                         |  [[Bridge \| :SiSolidity:]]   |
+| `Composite`               |                         | [[Composite \| :SiSolidity:]] |
+| `Decorator`               |                         | [[Decorator \| :SiSolidity:]] |
+| `Façade`                  |                         |  [[Façade \| :SiSolidity:]]   |
+| `Flyweight`               |                         | [[Flyweight \| :SiSolidity:]] |
+| `Proxy`                   |                         |   [[Proxy \| :SiSolidity:]]   |
 | _Behavioral Patterns_     |                         |                               |
 | `Chain of Responsability` |                         |                               |
 | `Command`                 |                         |                               |

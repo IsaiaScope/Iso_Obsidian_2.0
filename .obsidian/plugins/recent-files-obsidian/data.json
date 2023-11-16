@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Flyweight",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Flyweight.md"
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
+    },
+    {
+      "basename": "Proxy",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Proxy.md"
     },
     {
       "basename": "TEMPLATE",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
+      "basename": "Flyweight",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Flyweight.md"
     },
     {
       "basename": "Façade",
@@ -67,10 +75,6 @@
     {
       "basename": "Adapter",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Adapter.md"
-    },
-    {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
     },
     {
       "basename": "Delete Local and Remote Branch",
@@ -195,10 +199,6 @@
     {
       "basename": "Dashboard",
       "path": "Figma/Dashboard.md"
-    },
-    {
-      "basename": "Remove extra margin",
-      "path": "Figma/Data/Remove extra margin.md"
     }
   ],
   "omittedPaths": [],

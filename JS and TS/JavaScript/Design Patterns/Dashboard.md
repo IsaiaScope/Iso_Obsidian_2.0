@@ -38,14 +38,32 @@ This is called Gamma Categorization after Erich Gamma, one of GoF authors
 
 ---
 
-| Pattern               | Problem                 |             Link              |
-| --------------------- | ----------------------- | :---------------------------: |
-| _Creational Patterns_ |                         |                               |
-| `Builder`             | complex object creation |  [[Builder \| :SiSolidity:]]  |
-| `Factory`             |                         |  [[Factory \| :SiSolidity:]]  |
-| `Prototype`           |                         | [[Prototype \| :SiSolidity:]] |
-| `Singleton`           |                         | [[Singleton \| :SiSolidity:]] |
-| _Structural Patterns_ |                         |                               |
-| `Adapter`             |                         |  [[Adapter \| :SiSolidity:]]  |
+| Pattern                   | Problem                 |             Link              |
+| ------------------------- | ----------------------- | :---------------------------: |
+| _Creational Patterns_     |                         |                               |
+| `Builder`                 | complex object creation |  [[Builder \| :SiSolidity:]]  |
+| `Factory`                 |                         |  [[Factory \| :SiSolidity:]]  |
+| `Prototype`               |                         | [[Prototype \| :SiSolidity:]] |
+| `Singleton`               |                         | [[Singleton \| :SiSolidity:]] |
+| _Structural Patterns_     |                         |                               |
+| `Adapter`                 |                         |  [[Adapter \| :SiSolidity:]]  |
+| `Bridge`                  |                         |                               |
+| `Composite`               |                         |                               |
+| `Decorator`               |                         |                               |
+| `Façade`                  |                         |                               |
+| `Flyweight`               |                         |                               |
+| `Proxy`                   |                         |                               |
+| _Behavioral Patterns_     |                         |                               |
+| `Chain of Responsability` |                         |                               |
+| `Command`                 |                         |                               |
+| `Interpreter`             |                         |                               |
+| `Iterator`                |                         |                               |
+| `Mediator`                |                         |                               |
+| `Memento`                 |                         |                               |
+| `Observer`                |                         |                               |
+| `State`                   |                         |                               |
+| `Strategy`                |                         |                               |
+| `Template Method`         |                         |                               |
+| `Visitor`                 |                         |                               |
 
 ---

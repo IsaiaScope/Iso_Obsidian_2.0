@@ -9,8 +9,60 @@
       "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
     },
     {
+      "basename": "Delete Local and Remote Branch",
+      "path": "Git and GitHub/GitHub/Data/Delete Local and Remote Branch.md"
+    },
+    {
+      "basename": "Create Local and Remote Branch",
+      "path": "Git and GitHub/GitHub/Data/Create Local and Remote Branch.md"
+    },
+    {
+      "basename": "git pull",
+      "path": "Git and GitHub/GitHub/Prompt/git pull.md"
+    },
+    {
+      "basename": "git clone",
+      "path": "Git and GitHub/GitHub/Prompt/git clone.md"
+    },
+    {
+      "basename": "git fetch",
+      "path": "Git and GitHub/GitHub/Prompt/git fetch.md"
+    },
+    {
+      "basename": "Short-cuts",
+      "path": "Short-cuts.md"
+    },
+    {
+      "basename": "Factory",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Factory.md"
+    },
+    {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
+    },
+    {
       "basename": "TEMPLATE",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
+    },
+    {
+      "basename": "Single Responsibility Principle",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Single Responsibility Principle.md"
+    },
+    {
+      "basename": "Liskov Substitution Principle",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Liskov Substitution Principle.md"
+    },
+    {
+      "basename": "Open-Closed Principle",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Open-Closed Principle.md"
+    },
+    {
+      "basename": "Prototype",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Prototype.md"
+    },
+    {
+      "basename": "Builder",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Builder.md"
     },
     {
       "basename": "Adapter",
@@ -33,40 +85,12 @@
       "path": "Accessibility/data/tags/input.md"
     },
     {
-      "basename": "Prototype",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Prototype.md"
-    },
-    {
-      "basename": "Factory",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Factory.md"
-    },
-    {
-      "basename": "Builder",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Builder.md"
-    },
-    {
       "basename": "Dependency Inversion Principle",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Dependency Inversion Principle.md"
     },
     {
       "basename": "Interface Segregation Principle",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Interface Segregation Principle.md"
-    },
-    {
-      "basename": "Liskov Substitution Principle",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Liskov Substitution Principle.md"
-    },
-    {
-      "basename": "Open-Closed Principle",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Open-Closed Principle.md"
-    },
-    {
-      "basename": "Single Responsibility Principle",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Single Responsibility Principle.md"
-    },
-    {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
     },
     {
       "basename": "flex",
@@ -175,30 +199,6 @@
     {
       "basename": "Markdown Mastery",
       "path": "Certificates/Udemy/Markdown Mastery.pdf"
-    },
-    {
-      "basename": "TanStack Query 4",
-      "path": "Certificates/Udemy/React/TanStack Query 4.pdf"
-    },
-    {
-      "basename": "React",
-      "path": "Certificates/Udemy/React/React.pdf"
-    },
-    {
-      "basename": "Ionic React",
-      "path": "Certificates/Udemy/React/Ionic React.pdf"
-    },
-    {
-      "basename": "NodeJS",
-      "path": "Certificates/Udemy/JavaScript/NodeJS.jpg"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "Certificates/Udemy/JavaScript/JavaScript.pdf"
-    },
-    {
-      "basename": "Web Design Accessibility",
-      "path": "Certificates/Udemy/Accessibility/Web Design Accessibility.jpg"
     }
   ],
   "omittedPaths": [],

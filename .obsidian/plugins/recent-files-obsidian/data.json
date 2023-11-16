@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
+    },
+    {
+      "basename": "TEMPLATE",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
+    },
+    {
+      "basename": "Proxy",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Proxy.md"
+    },
+    {
       "basename": "Validation and Serialization",
       "path": "Fastify/Data/Book/Chapters/Validation and Serialization.md"
     },
@@ -37,10 +49,6 @@
       "path": "Fastify/Data/Book/Files/Validation and Serialization.png"
     },
     {
-      "basename": "Proxy",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Proxy.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Fastify/Dashboard.md"
     },
@@ -63,14 +71,6 @@
     {
       "basename": "Obsidian",
       "path": "Markdown/Obsidian.md"
-    },
-    {
-      "basename": "TEMPLATE",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
-    },
-    {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
     },
     {
       "basename": "Dashboard",

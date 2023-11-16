@@ -42,9 +42,10 @@ This is called Gamma Categorization after Erich Gamma, one of GoF authors
 | --------------------- | ----------------------- | :---------------------------: |
 | _Creational Patterns_ |                         |                               |
 | `Builder`             | complex object creation |  [[Builder \| :SiSolidity:]]  |
-| `Factory`             |                         |  [[Factory \| :SiSolidity:]]   |
+| `Factory`             |                         |  [[Factory \| :SiSolidity:]]  |
 | `Prototype`           |                         | [[Prototype \| :SiSolidity:]] |
 | `Singleton`           |                         | [[Singleton \| :SiSolidity:]] |
-| `Adapter`             |                         |  [[Adapter \| :SiSolidity:]]   |
+| _Structural Patterns_ |                         |                               |
+| `Adapter`             |                         |  [[Adapter \| :SiSolidity:]]  |
 
 ---

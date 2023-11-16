@@ -14,6 +14,10 @@
 
 ## Summary
 
+- A constructor can choose what to return; we can keep returning same instance
+- Monostate: many instances, shared data
+- Directly depending on the Singleton is a bad idea; introduce a dependency instead
+
 ---
 
 ## Example
@@ -44,7 +48,7 @@ s1.foo();
 
 ## Example (Monostate)
 
-it doesn't do any constructor magic, making every instance sharing the same data
+it doesn't do any constructor magic, making every instance sharing the same data, a variation but the advice is to not use it
 
 ```js
 class ChiefExecutiveOfficer {

@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Singleton",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Singleton.md"
+      "basename": "Bridge",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Bridge.md"
     },
     {
       "basename": "Dashboard",
       "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
+    },
+    {
+      "basename": "TEMPLATE",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
+    },
+    {
+      "basename": "Adapter",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Adapter.md"
+    },
+    {
+      "basename": "Singleton",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Singleton.md"
     },
     {
       "basename": "index",
@@ -19,10 +31,6 @@
     {
       "basename": "input",
       "path": "Accessibility/data/tags/input.md"
-    },
-    {
-      "basename": "Adapter",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Adapter.md"
     },
     {
       "basename": "Prototype",
@@ -191,14 +199,6 @@
     {
       "basename": "Web Design Accessibility",
       "path": "Certificates/Udemy/Accessibility/Web Design Accessibility.jpg"
-    },
-    {
-      "basename": "Creating Accessible Websites",
-      "path": "Certificates/Udemy/Accessibility/Creating Accessible Websites.pdf"
-    },
-    {
-      "basename": "Plugins and Libs",
-      "path": "Fastify/Data/Plugins and Libs.md"
     }
   ],
   "omittedPaths": [],

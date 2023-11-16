@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
-    },
-    {
       "basename": "SEBA Book",
       "path": "Fastify/SEBA Book.pdf"
     },
     {
+      "basename": "The Patterns",
+      "path": "JS and TS/JavaScript/Design Patterns/Files/The Patterns.png"
+    },
+    {
       "basename": "TEMPLATE",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
     },
     {
       "basename": "test.excalidraw",
@@ -195,10 +199,6 @@
     {
       "basename": "Remove-Extra-Margin-Mobile&Tablet",
       "path": "Style/CSS/Remove-Extra-Margin-Mobile&Tablet.md"
-    },
-    {
-      "basename": "least-number-of-children",
-      "path": "Style/CSS/least-number-of-children.md"
     }
   ],
   "omittedPaths": [],

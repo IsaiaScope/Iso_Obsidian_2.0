@@ -11,5 +11,6 @@
   "readableLineLength": false,
   "strictLineBreaks": false,
   "showFrontmatter": false,
-  "autoConvertHtml": true
+  "autoConvertHtml": true,
+  "showUnsupportedFiles": true
 }

@@ -19,7 +19,7 @@ The interpreter pattern allows creating a grammar for simple language when a pro
 
 ## Summary
 
-
+![[Interpreter.png]]
 
 ---
 

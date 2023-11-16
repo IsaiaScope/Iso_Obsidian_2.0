@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Interpreter",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Interpreter.md"
-    },
-    {
-      "basename": "TEMPLATE",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
+      "basename": "Iterator",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Iterator.md"
     },
     {
       "basename": "Dashboard",
       "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
     },
     {
+      "basename": "Chain of Responsability",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Chain of Responsability.md"
+    },
+    {
+      "basename": "Interpreter",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Interpreter.md"
+    },
+    {
       "basename": "Command",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Command.md"
     },
     {
-      "basename": "Chain of Responsability",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Chain of Responsability.md"
+      "basename": "TEMPLATE",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
+    },
+    {
+      "basename": "Interpreter",
+      "path": "JS and TS/JavaScript/Design Patterns/Files/Interpreter.png"
     },
     {
       "basename": "Proxy",
@@ -191,14 +199,6 @@
     {
       "basename": "index",
       "path": "React/index.md"
-    },
-    {
-      "basename": "ARIA",
-      "path": "Accessibility/data/theory/ARIA.md"
-    },
-    {
-      "basename": "input",
-      "path": "Accessibility/data/tags/input.md"
     }
   ],
   "omittedPaths": [],

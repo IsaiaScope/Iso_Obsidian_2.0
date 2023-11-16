@@ -40,32 +40,32 @@ This is called Gamma Categorization after Erich Gamma, one of GoF authors
 
 ---
 
-| Pattern                   | Problem                 |             Link              |
-| ------------------------- | ----------------------- | :---------------------------: |
-| _Creational Patterns_     |                         |                               |
-| `Builder`                 | complex object creation |  [[Builder \| :SiSolidity:]]  |
-| `Factory`                 |                         |  [[Factory \| :SiSolidity:]]  |
-| `Prototype`               |                         | [[Prototype \| :SiSolidity:]] |
-| `Singleton`               |                         | [[Singleton \| :SiSolidity:]] |
-| _Structural Patterns_     |                         |                               |
-| `Adapter`                 |                         |  [[Adapter \| :SiSolidity:]]  |
-| `Bridge`                  |                         |  [[Bridge \| :SiSolidity:]]   |
-| `Composite`               |                         | [[Composite \| :SiSolidity:]] |
-| `Decorator`               |                         | [[Decorator \| :SiSolidity:]] |
-| `Façade`                  |                         |  [[Façade \| :SiSolidity:]]   |
-| `Flyweight`               |                         | [[Flyweight \| :SiSolidity:]] |
-| `Proxy`                   |                         |   [[Proxy \| :SiSolidity:]]   |
-| _Behavioral Patterns_     |                         |                               |
-| `Chain of Responsability` |                         |                               |
-| `Command`                 |                         |                               |
-| `Interpreter`             |                         |                               |
-| `Iterator`                |                         |                               |
-| `Mediator`                |                         |                               |
-| `Memento`                 |                         |                               |
-| `Observer`                |                         |                               |
-| `State`                   |                         |                               |
-| `Strategy`                |                         |                               |
-| `Template Method`         |                         |                               |
-| `Visitor`                 |                         |                               |
+| Pattern                   | Problem                 |                Link                |
+| ------------------------- | ----------------------- | :--------------------------------: |
+| _Creational Patterns_     |                         |                                    |
+| `Builder`                 | complex object creation |  [[Builder \| :FasBabyCarriage:]]  |
+| `Factory`                 |                         |  [[Factory \| :FasBabyCarriage:]]  |
+| `Prototype`               |                         | [[Prototype \| :FasBabyCarriage:]] |
+| `Singleton`               |                         | [[Singleton \| :FasBabyCarriage:]] |
+| _Structural Patterns_     |                         |                                    |
+| `Adapter`                 |                         |  [[Adapter \| :FasBabyCarriage:]]  |
+| `Bridge`                  |                         |  [[Bridge \| :FasBabyCarriage:]]   |
+| `Composite`               |                         | [[Composite \| :FasBabyCarriage:]] |
+| `Decorator`               |                         | [[Decorator \| :FasBabyCarriage:]] |
+| `Façade`                  |                         |  [[Façade \| :FasBabyCarriage:]]   |
+| `Flyweight`               |                         | [[Flyweight \| :FasBabyCarriage:]] |
+| `Proxy`                   |                         |   [[Proxy \| :FasBabyCarriage:]]   |
+| _Behavioral Patterns_     |                         |                                    |
+| `Chain of Responsability` |                         |                                    |
+| `Command`                 |                         |                                    |
+| `Interpreter`             |                         |                                    |
+| `Iterator`                |                         |                                    |
+| `Mediator`                |                         |                                    |
+| `Memento`                 |                         |                                    |
+| `Observer`                |                         |                                    |
+| `State`                   |                         |                                    |
+| `Strategy`                |                         |                                    |
+| `Template Method`         |                         |                                    |
+| `Visitor`                 |                         |                                    |
 
 ---

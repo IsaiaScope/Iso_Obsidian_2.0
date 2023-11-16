@@ -125,7 +125,7 @@ console.log(goblin.toString());
 
 ## Example (Broker Chain or Broker Event)
 
-Depend on Observer pattern, we want to modify the chain when something happen capturing that with an observer
+Depend on Observer pattern, we want to modify the chain when something happen capturing the signal outputting
 
 ```js
 class Event {

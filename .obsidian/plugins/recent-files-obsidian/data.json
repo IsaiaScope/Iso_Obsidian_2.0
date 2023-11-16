@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
+      "basename": "Factory",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Factory.md"
     },
     {
       "basename": "Builder",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Builder.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
     },
     {
       "basename": "SEBA Book",
@@ -195,10 +199,6 @@
     {
       "basename": "HEAD ~",
       "path": "Git and GitHub/Git/Data/HEAD ~.md"
-    },
-    {
-      "basename": "HEAD",
-      "path": "Git and GitHub/Git/Data/HEAD.md"
     }
   ],
   "omittedPaths": [],

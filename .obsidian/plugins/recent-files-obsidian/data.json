@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "input",
-      "path": "Accessibility/data/tags/input.md"
+      "basename": "Singleton",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Singleton.md"
+    },
+    {
+      "basename": "index",
+      "path": "React/index.md"
     },
     {
       "basename": "ARIA",
       "path": "Accessibility/data/theory/ARIA.md"
     },
     {
-      "basename": "Singleton",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Singleton.md"
+      "basename": "input",
+      "path": "Accessibility/data/tags/input.md"
     },
     {
       "basename": "Adapter",
@@ -195,10 +199,6 @@
     {
       "basename": "Plugins and Libs",
       "path": "Fastify/Data/Plugins and Libs.md"
-    },
-    {
-      "basename": "Extra Notes",
-      "path": "Fastify/Extra Notes.md"
     }
   ],
   "omittedPaths": [],

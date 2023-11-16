@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
-    },
-    {
-      "basename": "The Patterns",
-      "path": "JS and TS/JavaScript/Design Patterns/Files/The Patterns.png"
+      "basename": "SEBA Book 2",
+      "path": "Fastify/SEBA Book 2.pdf"
     },
     {
       "basename": "TEMPLATE",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
+    },
+    {
+      "basename": "Proxy",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Proxy.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Fastify/Dashboard.md"
+    },
+    {
+      "basename": "The Patterns",
+      "path": "JS and TS/JavaScript/Design Patterns/Files/The Patterns.png"
     },
     {
       "basename": "Dashboard",
@@ -23,10 +31,6 @@
     {
       "basename": "Git&+Github_+Aliases",
       "path": "Git and GitHub/Files/Udemy Course/Git&+Github_+Aliases.pdf"
-    },
-    {
-      "basename": "Proxy",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Proxy.md"
     },
     {
       "basename": "card.excalidraw",
@@ -67,10 +71,6 @@
     {
       "basename": "Validation and Serialization",
       "path": "Fastify/Data/Book/Files/Validation and Serialization.png"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Fastify/Dashboard.md"
     },
     {
       "basename": "Extra Notes",
@@ -195,10 +195,6 @@
     {
       "basename": "select-by-style-prop",
       "path": "Style/CSS/select-by-style-prop.md"
-    },
-    {
-      "basename": "Remove-Extra-Margin-Mobile&Tablet",
-      "path": "Style/CSS/Remove-Extra-Margin-Mobile&Tablet.md"
     }
   ],
   "omittedPaths": [],

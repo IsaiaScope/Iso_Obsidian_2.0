@@ -34,7 +34,6 @@
   "Markdown": "SiMarkdown",
   "Obsidian Tutorial/Dashboard.md": "IbDashboard",
   "Fastify": "SiFastify",
-  "Fastify/SEBA Book.pdf": "TiBook",
   "Fastify/Dashboard.md": "IbDashboard",
   "Fastify/Data": "TiDatabase",
   "Fastify/Data/Book": "TiBook",
@@ -108,5 +107,6 @@
   "JS and TS/JavaScript/Design Patterns/Data": "TiDatabase",
   "JS and TS/JavaScript/Design Patterns/Dashboard.md": "IbDashboard",
   "JS and TS/JavaScript/Design Patterns/Files": "LiFiles",
-  "JS and TS/JavaScript/Design Patterns/Data/Principles": "SiSolidity"
+  "JS and TS/JavaScript/Design Patterns/Data/Principles": "SiSolidity",
+  "Fastify/SEBA Book 2.pdf": "TiBook"
 }

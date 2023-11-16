@@ -13,6 +13,12 @@ The composite pattern allows the creation of objects with properties that are pr
 
 ## Summary
 
+- Objects can use other objects via inheritance/composition
+- Some composed and singular objects need similar/identical behaviors
+- Composite design pattern lets us treat both types of objects uniformly
+- JavaScript supports iteration with Symbol.iterator
+- A single object can make itself iterable by yielding this
+
 ---
 
 ## Example

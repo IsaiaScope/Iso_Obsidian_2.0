@@ -1,24 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Composite",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Composite.md"
-    },
-    {
       "basename": "Decorator",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Decorator.md"
     },
     {
-      "basename": "TEMPLATE",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
+      "basename": "Dashboard",
+      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
+    },
+    {
+      "basename": "Composite",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Composite.md"
     },
     {
       "basename": "Bridge",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Bridge.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
+      "basename": "TEMPLATE",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
     },
     {
       "basename": "Delete Local and Remote Branch",

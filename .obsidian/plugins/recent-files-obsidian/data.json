@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
-    },
-    {
       "basename": "TEMPLATE",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
     },
     {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
+    },
+    {
+      "basename": "test.excalidraw",
+      "path": "Drawing/test.excalidraw.md"
+    },
+    {
+      "basename": "Git&+Github_+Aliases",
+      "path": "Git and GitHub/Files/Udemy Course/Git&+Github_+Aliases.pdf"
+    },
+    {
       "basename": "Proxy",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Proxy.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
+    },
+    {
+      "basename": "card.excalidraw",
+      "path": "Drawing/Data/card.excalidraw.md"
     },
     {
       "basename": "Validation and Serialization",
@@ -71,10 +87,6 @@
     {
       "basename": "Obsidian",
       "path": "Markdown/Obsidian.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
     },
     {
       "basename": "Flyweight",
@@ -187,18 +199,6 @@
     {
       "basename": "least-number-of-children",
       "path": "Style/CSS/least-number-of-children.md"
-    },
-    {
-      "basename": "grid-secrets",
-      "path": "Style/CSS/grid-secrets.md"
-    },
-    {
-      "basename": "theory",
-      "path": "Style/CSS/theory.md"
-    },
-    {
-      "basename": "git revert",
-      "path": "Git and GitHub/Git/Prompt/git revert.md"
     }
   ],
   "omittedPaths": [],

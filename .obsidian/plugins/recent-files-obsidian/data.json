@@ -1,20 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
+      "basename": "Validation and Serialization",
+      "path": "Fastify/Data/Book/Chapters/Validation and Serialization.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
+      "basename": "Hooks",
+      "path": "Fastify/Data/Book/Chapters/Hooks.md"
+    },
+    {
+      "basename": "Application-lifecycle",
+      "path": "Fastify/Data/Book/Files/Application-lifecycle.png"
+    },
+    {
+      "basename": "Differences between the async and sync handlers",
+      "path": "Fastify/Data/Book/Files/Differences between the async and sync handlers.png"
+    },
+    {
+      "basename": "encapsulation",
+      "path": "Fastify/Data/Book/Files/encapsulation.png"
+    },
+    {
+      "basename": "Fastify’s JSON Schema compilation workflow",
+      "path": "Fastify/Data/Book/Files/Fastify’s JSON Schema compilation workflow.png"
+    },
+    {
+      "basename": "Request and reply lifecycle",
+      "path": "Fastify/Data/Book/Files/Request and reply lifecycle.png"
+    },
+    {
+      "basename": "The validation execution workflow",
+      "path": "Fastify/Data/Book/Files/The validation execution workflow.png"
+    },
+    {
+      "basename": "Validation and Serialization",
+      "path": "Fastify/Data/Book/Files/Validation and Serialization.png"
     },
     {
       "basename": "Proxy",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Proxy.md"
     },
     {
+      "basename": "Dashboard",
+      "path": "Fastify/Dashboard.md"
+    },
+    {
+      "basename": "Extra Notes",
+      "path": "Fastify/Extra Notes.md"
+    },
+    {
+      "basename": "Plugins and Libs",
+      "path": "Fastify/Data/Plugins and Libs.md"
+    },
+    {
+      "basename": "Add Media",
+      "path": "Obsidian Tutorial/Data/Add Media.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Obsidian Tutorial/Dashboard.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Markdown/Obsidian.md"
+    },
+    {
       "basename": "TEMPLATE",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
+    },
+    {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
     },
     {
       "basename": "Flyweight",
@@ -139,66 +199,6 @@
     {
       "basename": "git revert",
       "path": "Git and GitHub/Git/Prompt/git revert.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
-      "basename": "The Patterns",
-      "path": "JS and TS/JavaScript/Design Patterns/Files/The Patterns.png"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
-    },
-    {
-      "basename": "Validation and Serialization",
-      "path": "Fastify/Data/Book/Chapters/Validation and Serialization.md"
-    },
-    {
-      "basename": "Commands",
-      "path": "Prompt/Commands.md"
-    },
-    {
-      "basename": "Cheatsheet",
-      "path": "Markdown/Cheatsheet.pdf"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "Markdown/Obsidian.md"
-    },
-    {
-      "basename": "prompt",
-      "path": "Volta/prompt.md"
-    },
-    {
-      "basename": "index",
-      "path": "Style/index.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Obsidian Tutorial/Dashboard.md"
-    },
-    {
-      "basename": "libraries",
-      "path": "NODE/npm/libraries.md"
-    },
-    {
-      "basename": "Udemy-course",
-      "path": "Markdown/Udemy-course.md"
-    },
-    {
-      "basename": "git commit",
-      "path": "Git and GitHub/Git/Prompt/git commit.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Figma/Dashboard.md"
     }
   ],
   "omittedPaths": [],

@@ -19,3 +19,5 @@ The Proxy pattern provides a surrogate or placeholder object for another object 
 ```
 
 ---
+
+[[SEBA Book.pdf#page=157&selection=27,0,27,8|SEBA Book, page 157]]

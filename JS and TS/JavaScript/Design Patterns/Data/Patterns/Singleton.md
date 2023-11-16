@@ -16,12 +16,6 @@
 
 ---
 
-## Singleton Problems
-
-
-
----
-
 ## Example
 
 ```js

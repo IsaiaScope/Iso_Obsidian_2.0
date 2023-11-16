@@ -38,13 +38,13 @@ This is called Gamma Categorization after Erich Gamma, one of GoF authors
 
 ---
 
-| Pattern               | Problem                 |            Link             |
-| --------------------- | ----------------------- | :-------------------------: |
-| _Creational Patterns_ |                         |                             |
-| `Builder`             | complex object creation | [[Builder \| :SiSolidity:]] |
-| `Factory`             |                         |                             |
-| `Prototype`           |                         |                             |
-| `Singleton`           |                         |                             |
-| `Adapter`             |                         |                             |
+| Pattern               | Problem                 |             Link              |
+| --------------------- | ----------------------- | :---------------------------: |
+| _Creational Patterns_ |                         |                               |
+| `Builder`             | complex object creation |  [[Builder \| :SiSolidity:]]  |
+| `Factory`             |                         |  [[Factory \| :SiSolidity:]]   |
+| `Prototype`           |                         | [[Prototype \| :SiSolidity:]] |
+| `Singleton`           |                         | [[Singleton \| :SiSolidity:]] |
+| `Adapter`             |                         |  [[Adapter \| :SiSolidity:]]   |
 
 ---

@@ -5,6 +5,10 @@
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Singleton.md"
     },
     {
+      "basename": "Dashboard",
+      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
+    },
+    {
       "basename": "index",
       "path": "React/index.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Prototype",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Prototype.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
     },
     {
       "basename": "Factory",

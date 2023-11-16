@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Proxy",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Proxy.md"
+      "basename": "Chain of Responsability",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Chain of Responsability.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
     },
     {
       "basename": "TEMPLATE",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
+    },
+    {
+      "basename": "Proxy",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Proxy.md"
     },
     {
       "basename": "SEBA Book",
@@ -19,10 +27,6 @@
     {
       "basename": "The Patterns",
       "path": "JS and TS/JavaScript/Design Patterns/Files/The Patterns.png"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
     },
     {
       "basename": "test.excalidraw",

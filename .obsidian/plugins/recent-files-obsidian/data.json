@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Prototype",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Prototype.md"
+      "basename": "input",
+      "path": "Accessibility/data/tags/input.md"
+    },
+    {
+      "basename": "ARIA",
+      "path": "Accessibility/data/theory/ARIA.md"
+    },
+    {
+      "basename": "Singleton",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Singleton.md"
     },
     {
       "basename": "Adapter",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Adapter.md"
     },
     {
-      "basename": "Singleton",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Singleton.md"
+      "basename": "Prototype",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Prototype.md"
     },
     {
       "basename": "Dashboard",
@@ -21,12 +29,32 @@
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Factory.md"
     },
     {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
-    },
-    {
       "basename": "Builder",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Builder.md"
+    },
+    {
+      "basename": "Dependency Inversion Principle",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Dependency Inversion Principle.md"
+    },
+    {
+      "basename": "Interface Segregation Principle",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Interface Segregation Principle.md"
+    },
+    {
+      "basename": "Liskov Substitution Principle",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Liskov Substitution Principle.md"
+    },
+    {
+      "basename": "Open-Closed Principle",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Open-Closed Principle.md"
+    },
+    {
+      "basename": "Single Responsibility Principle",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Single Responsibility Principle.md"
+    },
+    {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
     },
     {
       "basename": "flex",
@@ -63,26 +91,6 @@
     {
       "basename": "The Patterns",
       "path": "JS and TS/JavaScript/Design Patterns/Files/The Patterns.png"
-    },
-    {
-      "basename": "Single Responsibility Principle",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Single Responsibility Principle.md"
-    },
-    {
-      "basename": "Dependency Inversion Principle",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Dependency Inversion Principle.md"
-    },
-    {
-      "basename": "Interface Segregation Principle",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Interface Segregation Principle.md"
-    },
-    {
-      "basename": "Liskov Substitution Principle",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Liskov Substitution Principle.md"
-    },
-    {
-      "basename": "Open-Closed Principle",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Open-Closed Principle.md"
     },
     {
       "basename": "Summary",
@@ -191,14 +199,6 @@
     {
       "basename": "Extra Notes",
       "path": "Fastify/Extra Notes.md"
-    },
-    {
-      "basename": "Validation and Serialization",
-      "path": "Fastify/Data/Book/Files/Validation and Serialization.png"
-    },
-    {
-      "basename": "DOC Resources",
-      "path": "Fastify/Data/DOC Resources.md"
     }
   ],
   "omittedPaths": [],

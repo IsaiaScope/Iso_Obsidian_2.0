@@ -6,7 +6,7 @@
 - Smaller interfaces do separate tasks
 - multiple inheritance in interface is possible
 
-## Examples
+## Example
 
 `aggregation()` [1] is a method for inherit multiple classes `class Photocopier extends aggregation(Printer, Scanner)` and is not pertinent with the core functionality of the Interface Segregation Principle; is't just a plus
 

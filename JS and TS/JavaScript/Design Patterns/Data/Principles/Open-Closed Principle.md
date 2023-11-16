@@ -10,7 +10,7 @@ so he uses _interfaces instead of superclasses_ to allow different implementati
 
 The main benefit of this approach is that an interface introduces an additional level of abstraction which enables loose coupling. The implementations of an interface are independent of each other and don’t need to share any code. If you consider it beneficial that two implementations of an interface share some code, you can either use [inheritance](https://stackify.com/oop-concept-inheritance/) or [composition](https://stackify.com/oop-concepts-composition/).
 
-## Examples
+## Example
 
 Filter by a criteria, the way to approach is with specification pattern because is difficult to handle all cases [1]. In this way of thinking specification meas _inheritability class_ (N.B. not super classes) to separate a criteria and verify the criteria just one time [2]
 

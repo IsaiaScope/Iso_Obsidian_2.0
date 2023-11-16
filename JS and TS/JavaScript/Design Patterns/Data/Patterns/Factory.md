@@ -86,7 +86,7 @@ console.log(p3);
 
 ---
 
-## Example
+## Example (Abstract Factory)
 
 _Abstract Factory_ is a creational design pattern that lets you produce families of related objects without specifying their concrete classes.
 

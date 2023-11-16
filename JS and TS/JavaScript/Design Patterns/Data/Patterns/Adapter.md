@@ -6,7 +6,7 @@
 
 ## Summary
 
-## Examples
+## Example
 
 ```js
 

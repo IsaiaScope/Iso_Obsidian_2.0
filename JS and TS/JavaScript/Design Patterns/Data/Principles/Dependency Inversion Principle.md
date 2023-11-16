@@ -10,7 +10,7 @@ An important detail of this definition is, that high-level *and* low-level mod
 - the high-level module depends on the abstraction, and
 - the low-level depends on the same abstraction.
 
-## Examples
+## Example
 
 LOW-LEVEL (STORAGE) [1] is the place where to store the relationship, HIGH-LEVEL (RESEARCH) [2] must not depend on `relationships.data` [3] so we can create an "interface" `RelationshipBrowser` to do the job (connecting HIGH-LEVEL (RESEARCH) and LOW-LEVEL (STORAGE) and provide the functionality `findAllChildrenOf()` without creating a relationship between them). _This create abstraction between levels eliminating dependency_
 

@@ -8,7 +8,7 @@ Because if you want to change your code, you should first have a good reason, th
 
 The principle is simple: don’t write your program as one solid block, instead, break up the code into chunks that are finalized tiny pieces of the system each able to complete a simple distinct job.
 
-## Examples
+## Example
 
 _Journal class_ [1] is just used for creating and manipulate the data and just that, so it's responsible for one functionality. If you want to add persistence logic like a saving method or other logic in general you should create a new class to deliver it (see _PersistenceManager class_ [2]). The data object is created and written in a file text
 

@@ -2,6 +2,8 @@
 
 > A component which is instantiated only once.
 
+## Motivation
+
 - For some components it only makes sense to have one in the system
   - Database repository
   - Object factory

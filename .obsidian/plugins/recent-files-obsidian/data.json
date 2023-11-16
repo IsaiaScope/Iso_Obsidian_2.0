@@ -1,24 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "Decorator",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Decorator.md"
+      "basename": "Flyweight",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Flyweight.md"
+    },
+    {
+      "basename": "TEMPLATE",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
     },
     {
       "basename": "Dashboard",
       "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
     },
     {
+      "basename": "Façade",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Façade.md"
+    },
+    {
+      "basename": "Single Responsibility Principle",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Single Responsibility Principle.md"
+    },
+    {
+      "basename": "Open-Closed Principle",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Open-Closed Principle.md"
+    },
+    {
+      "basename": "Liskov Substitution Principle",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Liskov Substitution Principle.md"
+    },
+    {
+      "basename": "Interface Segregation Principle",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Interface Segregation Principle.md"
+    },
+    {
+      "basename": "Dependency Inversion Principle",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Dependency Inversion Principle.md"
+    },
+    {
+      "basename": "Singleton",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Singleton.md"
+    },
+    {
+      "basename": "Prototype",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Prototype.md"
+    },
+    {
+      "basename": "Factory",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Factory.md"
+    },
+    {
+      "basename": "Decorator",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Decorator.md"
+    },
+    {
       "basename": "Composite",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Composite.md"
+    },
+    {
+      "basename": "Builder",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Builder.md"
     },
     {
       "basename": "Bridge",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Bridge.md"
     },
     {
-      "basename": "TEMPLATE",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
+      "basename": "Adapter",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Adapter.md"
+    },
+    {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
     },
     {
       "basename": "Delete Local and Remote Branch",
@@ -45,42 +97,6 @@
       "path": "Short-cuts.md"
     },
     {
-      "basename": "Factory",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Factory.md"
-    },
-    {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
-    },
-    {
-      "basename": "Single Responsibility Principle",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Single Responsibility Principle.md"
-    },
-    {
-      "basename": "Liskov Substitution Principle",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Liskov Substitution Principle.md"
-    },
-    {
-      "basename": "Open-Closed Principle",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Open-Closed Principle.md"
-    },
-    {
-      "basename": "Prototype",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Prototype.md"
-    },
-    {
-      "basename": "Builder",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Builder.md"
-    },
-    {
-      "basename": "Adapter",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Adapter.md"
-    },
-    {
-      "basename": "Singleton",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Singleton.md"
-    },
-    {
       "basename": "index",
       "path": "React/index.md"
     },
@@ -91,14 +107,6 @@
     {
       "basename": "input",
       "path": "Accessibility/data/tags/input.md"
-    },
-    {
-      "basename": "Dependency Inversion Principle",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Dependency Inversion Principle.md"
-    },
-    {
-      "basename": "Interface Segregation Principle",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Interface Segregation Principle.md"
     },
     {
       "basename": "flex",
@@ -191,14 +199,6 @@
     {
       "basename": "Remove extra margin",
       "path": "Figma/Data/Remove extra margin.md"
-    },
-    {
-      "basename": "Remove extra margin",
-      "path": "Figma/Screenshot/Remove extra margin.png"
-    },
-    {
-      "basename": "The Git and GitHub Bootcamp",
-      "path": "Certificates/Udemy/The Git and GitHub Bootcamp.pdf"
     }
   ],
   "omittedPaths": [],

@@ -2,6 +2,8 @@
 
 > A component responsible solely for the wholesale (not piecewise) creation of objects.
 
+## Motivation
+
 - Object creation logic becomes too convoluted
 - Initializer is not descriptive
   - Name is always _ init_
@@ -40,28 +42,28 @@ class Point {
 		this.x = x;
 
 		this.y = y;
-	} 
-	
-	// constructor(a, b, cs=CoordinateSystem.CARTESIAN) 
-	// { 
-	//   switch (cs) 
-	//   { 
-	//     case CoordinateSystem.CARTESIAN: 
-	//       this.x = a; 
-	//       this.y = b; 
-	//       break; 
-	//     case CoordinateSystem.POLAR: 
-	//       this.x = a * Math.cos(b); 
-	//       this.y = a * Math.sin(b); 
-	//       break; 
-	//   } 
-	// 
-	//   
-	// steps to add a new system 
-	//   
-	// 1. augment CoordinateSystem 
-	//   
-	// 2. change ctor 
+	}
+
+	// constructor(a, b, cs=CoordinateSystem.CARTESIAN)
+	// {
+	//   switch (cs)
+	//   {
+	//     case CoordinateSystem.CARTESIAN:
+	//       this.x = a;
+	//       this.y = b;
+	//       break;
+	//     case CoordinateSystem.POLAR:
+	//       this.x = a * Math.cos(b);
+	//       this.y = a * Math.sin(b);
+	//       break;
+	//   }
+	//
+	//
+	// steps to add a new system
+	//
+	// 1. augment CoordinateSystem
+	//
+	// 2. change ctor
 	// }
 
 	static newCartesianPoint(x, y) {

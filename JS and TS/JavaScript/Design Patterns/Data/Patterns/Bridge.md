@@ -5,6 +5,8 @@
 
 _Bridge pattern allows having one interface in our class build different implementations depending on what instance we are receiving and what instance we need to return._
 
+## Motivation
+
 - Bridge prevents a 'Cartesian product' complexity explosion
 - Example:
   - Base class ThreadScheduler
@@ -12,6 +14,8 @@ _Bridge pattern allows having one interface in our class build different impleme
   - Can run on Windows or Unix
   - End up with with a 2×2 scenario: WindowsPTS, UnixPTS, WindowsCTS, UnixCTS
 - Bridge pattern avoids the entity explosion
+
+---
 
 ## Summary
 

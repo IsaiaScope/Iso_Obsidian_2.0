@@ -2,6 +2,10 @@
 
 > A mechanism for treating individual (scalar) objects and compositions of objects in a uniform manner.
 
+The composite pattern allows the creation of objects with properties that are primitive items or a collection of objects. Each item in the collection can hold other collections themselves, creating deeply nested structures.
+
+## Motivation
+
 - Objects use other objects' fields/methods through inheritance and composition
 - Composition lets us make compound objects
   - E.g., a mathematical expression composed of simple expressions; or
@@ -9,7 +13,7 @@
 - Composite design pattern is used to treat both single (scalar) and composite objects uniformly
   - I.e., class Foo and an array (containing Foos) having the same API
 
-The composite pattern allows the creation of objects with properties that are primitive items or a collection of objects. Each item in the collection can hold other collections themselves, creating deeply nested structures.
+---
 
 ## Summary
 

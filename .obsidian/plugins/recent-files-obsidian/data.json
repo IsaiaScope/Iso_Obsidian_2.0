@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Chain of Responsability",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Chain of Responsability.md"
+      "basename": "Interpreter",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Interpreter.md"
+    },
+    {
+      "basename": "TEMPLATE",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
     },
     {
       "basename": "Dashboard",
       "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
     },
     {
-      "basename": "TEMPLATE",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
+      "basename": "Command",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Command.md"
+    },
+    {
+      "basename": "Chain of Responsability",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Chain of Responsability.md"
     },
     {
       "basename": "Proxy",
@@ -191,14 +199,6 @@
     {
       "basename": "input",
       "path": "Accessibility/data/tags/input.md"
-    },
-    {
-      "basename": "flex",
-      "path": "Style/CSS/flex.md"
-    },
-    {
-      "basename": "select-by-style-prop",
-      "path": "Style/CSS/select-by-style-prop.md"
     }
   ],
   "omittedPaths": [],

@@ -22,6 +22,11 @@ The chain of responsibility pattern allows passing requests along a chain of obj
 
 ## Summary
 
+- Chain of Responsibility can be implemented as a chain of references or a centralized construct
+- Enlist objects in the chain, possibly controlling their order/priority
+- In a linked-list implementation, one member can impede further processing
+- Support removal of objects from the chain lifetime control)
+
 ---
 
 ## Example (Chain Method)

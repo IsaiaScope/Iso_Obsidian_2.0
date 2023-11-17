@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Template Method",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Template Method.md"
+      "basename": "Dashboard",
+      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
     },
     {
-      "basename": "TEMPLATE",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
+      "basename": "Visitor",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Visitor.md"
     },
     {
       "basename": "Strategy",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Strategy.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
+      "basename": "Template Method",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Template Method.md"
+    },
+    {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
     },
     {
       "basename": "State",
@@ -47,10 +51,6 @@
     {
       "basename": "Summary",
       "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
     },
     {
       "basename": "Validation and Serialization",
@@ -195,10 +195,6 @@
     {
       "basename": "Singleton",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Singleton.md"
-    },
-    {
-      "basename": "Prototype",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Prototype.md"
     }
   ],
   "omittedPaths": [],

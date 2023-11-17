@@ -2,6 +2,8 @@
 
 > Allows us to define the 'skeleton' of the algorithm, with concrete implementations defined in subclasses.
 
+The template pattern allows defining the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure.
+
 ## Motivation
 
 - Algorithms can be decomposed into common parts + specifics
@@ -17,9 +19,13 @@
 
 ## Summary
 
+- Define an algorithm at a high level
+- Define constituent parts as empty methods/properties
+- Inherit the algorithm class, providing necessary overrides
+
 ---
 
-## Example 
+## Example
 
 ```js
 class Game {

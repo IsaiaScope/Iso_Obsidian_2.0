@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Memento",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Memento.md"
+    },
+    {
+      "basename": "TEMPLATE",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
+    },
+    {
       "basename": "Mediator",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Mediator.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "Overview",
       "path": "Fastify/Data/Book/Chapters/Overview.md"
-    },
-    {
-      "basename": "TEMPLATE",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
     },
     {
       "basename": "Iterator",
@@ -195,10 +199,6 @@
     {
       "basename": "Builder",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Builder.md"
-    },
-    {
-      "basename": "Bridge",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Bridge.md"
     }
   ],
   "omittedPaths": [],

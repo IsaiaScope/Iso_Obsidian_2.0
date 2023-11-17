@@ -15,6 +15,11 @@
 
 ## Summary
 
+- Create the mediator and have each object in the system refer to it
+- Mediator engages in bidirectional communication with its connected components
+- Mediator has functions the components can call
+- Components have functions the mediator can call
+
 ---
 
 ## Example (Mediator)
@@ -87,6 +92,8 @@ jane.pm("Simon", "glad you could join us!");
 ---
 
 ## Example (Mediator With Events)
+
+We're gonna generate event to subscribe to
 
 ```js
 class Event {

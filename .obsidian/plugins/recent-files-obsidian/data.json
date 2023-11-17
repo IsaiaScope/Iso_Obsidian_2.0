@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "State",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/State.md"
+    },
+    {
       "basename": "Observer",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Observer.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Decorator",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Decorator.md"
-    },
-    {
-      "basename": "Composite",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Composite.md"
     }
   ],
   "omittedPaths": [],

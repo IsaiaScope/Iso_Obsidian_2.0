@@ -69,3 +69,73 @@ This is called Gamma Categorization after Erich Gamma, one of GoF authors
 | `Visitor`                 |         [[Visitor \| :FasBabyCarriage:]]         |
 
 ---
+
+## Summary
+
+- _Builder_
+  - Separate component for when object construction gets too complicated
+  - Can create mutually cooperating sub-builders
+  - Often has a fluent interface
+- _Factories_
+  - Factory method more expressive than constructor
+  - A separate class with factory methods is a Factory
+  - Class hierarchies can have corresponding hierarchies of factories (Abstract Factory)
+- _Prototype_
+  - Creation of object from an existing object
+  - Requires either explicit deep copy or copy through serialization
+  - Additional work required to preserve type
+- _Singleton_
+  - When you need to ensure just a single instance exists
+  - Can return same object from constructor on every call
+  - Direct dependence on a Singleton is dangerous
+- _Adapter_
+  - Converts the interface you get to the interface you need
+- _Bridge_
+  - Decouple abstraction from implementation
+- _Composite_
+  - Allows clients to treat individual objects and compositions of objects uniformly
+- _Decorator_
+  - Attach additional responsibilities to objects without modifying those objects or inheriting from them
+  - Decorators are composable with each other
+- _Façade_
+  - Provide a single unified interface over a set of systems/interfaces
+- _Flyweight_
+  - Memory saving technique
+  - Efficiently support very large numbers of similar objects
+- _Proxy_
+  - Provide a surrogate object that forwards calls to the real object while performing additional functions
+  - E.g., access control, communication, logging, etc.
+- _Chain of Responsibility_
+  - Allow components to process information/events in a chain
+  - Each element in the chain refers to next element; or
+  - Make a list and go through it
+- _Command_
+  - Encapsulate a request into a separate object
+  - Good for audit, replay, undo/redo
+  - Part of CQS/CQRS
+- _Interpreter_
+  - Transform textual input into object-oriented structures
+  - Used by interpreters, compilers, static analysis tools, etc.
+  - Compiler Theory is a separate branch of Computer Science
+- _Iterator_
+  - Provides an interface for accessing elements of an aggregate object
+  - Objects can be made iterable (for loop)
+- _Mediator_
+  - Provides mediation services between two objects
+  - E.g., message passing, chat room
+- _Memento_
+  - Yields tokens representing system states
+  - Tokens do not allow direct manipulation, but can be used in appropriate APIs
+- _Observer_
+  - Allows notifications of changes/happenings in a component
+- _State_
+  - We model systems by having one of a possible states and transitions between these states
+  - Such a system is called a state machine
+  - Special frameworks exists to orchestrate state machines
+- _Strategy & Template Method_
+  - Both define a skeleton algorithm with details filled in by implementor
+  - Strategy uses ordinary composition, template method uses inheritance
+- _Visitor_
+  - Allows non-intrusive addition of functionality to hierarchies
+
+---

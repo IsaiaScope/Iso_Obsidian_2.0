@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "State",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/State.md"
+      "basename": "Strategy",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Strategy.md"
     },
     {
-      "basename": "Observer",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Observer.md"
+      "basename": "Dashboard",
+      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
+    },
+    {
+      "basename": "State",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/State.md"
     },
     {
       "basename": "TEMPLATE",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
+      "basename": "Observer",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Observer.md"
     },
     {
       "basename": "Mediator",
@@ -195,10 +199,6 @@
     {
       "basename": "Factory",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Factory.md"
-    },
-    {
-      "basename": "Decorator",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Decorator.md"
     }
   ],
   "omittedPaths": [],

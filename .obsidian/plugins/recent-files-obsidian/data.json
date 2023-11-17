@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Mediator",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Mediator.md"
+    },
+    {
       "basename": "Create Local and Remote Branch",
       "path": "Git and GitHub/GitHub/Data/Create Local and Remote Branch.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Dashboard",
       "path": "Git and GitHub/Dashboard.md"
-    },
-    {
-      "basename": "Mediator",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Mediator.md"
     },
     {
       "basename": "Summary",

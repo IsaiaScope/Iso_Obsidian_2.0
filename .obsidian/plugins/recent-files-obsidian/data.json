@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Template Method",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Template Method.md"
+    },
+    {
+      "basename": "TEMPLATE",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
+    },
+    {
       "basename": "Strategy",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Strategy.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "State",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/State.md"
-    },
-    {
-      "basename": "TEMPLATE",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
     },
     {
       "basename": "Observer",
@@ -195,10 +199,6 @@
     {
       "basename": "Prototype",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Prototype.md"
-    },
-    {
-      "basename": "Factory",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Factory.md"
     }
   ],
   "omittedPaths": [],

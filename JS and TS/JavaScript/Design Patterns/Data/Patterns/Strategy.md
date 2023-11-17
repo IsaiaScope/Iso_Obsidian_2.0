@@ -17,7 +17,9 @@ The strategy pattern allows defining a family of algorithms, encapsulate each on
 
 ## Summary
 
-
+- Define an algorithm at a high level
+- Define the interface you expect each strategy to follow
+- Provide for dynamic composition of strategies in the resulting object
 
 ---
 

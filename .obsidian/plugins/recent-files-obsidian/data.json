@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Memento",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Memento.md"
+      "basename": "Observer",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Observer.md"
     },
     {
       "basename": "TEMPLATE",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/TEMPLATE.md"
     },
     {
+      "basename": "Dashboard",
+      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
+    },
+    {
       "basename": "Mediator",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Mediator.md"
+    },
+    {
+      "basename": "Memento",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Memento.md"
     },
     {
       "basename": "Create Local and Remote Branch",
@@ -27,10 +35,6 @@
     {
       "basename": "Summary",
       "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
     },
     {
       "basename": "SEBA Book",
@@ -195,10 +199,6 @@
     {
       "basename": "Composite",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Composite.md"
-    },
-    {
-      "basename": "Builder",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Builder.md"
     }
   ],
   "omittedPaths": [],

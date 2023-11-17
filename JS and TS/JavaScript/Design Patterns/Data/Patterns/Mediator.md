@@ -17,9 +17,9 @@
 
 ---
 
-## Example
+## Example (Mediator)
 
-chat room
+chat room that is an array that keep person inside
 
 ```js
 class Person {

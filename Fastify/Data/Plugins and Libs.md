@@ -4,6 +4,10 @@
   - better way to control encapsulation behavior. Like many things in the Fastify world, the fastify-plugin module is nothing more than a function that wraps a plugin, adds some metadata to it, and returns it
 - [fastify-overview](https://github.com/Eomm/fastify-overview)
   - By using the fastify-overview plugin, you will be able to create a graphical layout of your application with all the hooks, decorators, and Fastify-encapsulated contexts highlighted! You should give it a try.
+  - fastify-cli
+	  -  command line interface (CLI) helps us start our application
+- @fastify/autoload
+	- The autoload plugin automatically loads the plugins found in a directory and configures the routes to match the folders’ structure
 
 # Libs
 

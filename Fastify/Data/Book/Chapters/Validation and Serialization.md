@@ -265,3 +265,6 @@ async function echo(request, reply) {
 The setSchemaErrorFormatter input function must be synchronous. It is going to receive the raw errors object returned by the compiled validation function, plus the part of HTTP that is not valid.
 
 ---
+### Reusing JSON schemas
+
+[[SEBA Book.pdf#page=157&selection=27,0,27,20|SEBA Book, page 157]]

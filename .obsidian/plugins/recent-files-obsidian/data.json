@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Validation and Serialization",
+      "path": "Fastify/Data/Book/Chapters/Validation and Serialization.md"
+    },
+    {
       "basename": "SEBA Book",
       "path": "Fastify/SEBA Book.pdf"
     },
     {
-      "basename": "Design Patterns in JavaScript",
-      "path": "Certificates/Udemy/JavaScript/Design Patterns in JavaScript.pdf"
+      "basename": "Summary",
+      "path": "Fastify/Data/Book/Summary.md"
+    },
+    {
+      "basename": "Plugins and Libs",
+      "path": "Fastify/Data/Plugins and Libs.md"
     },
     {
       "basename": "Dashboard",
       "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
+    },
+    {
+      "basename": "Design Patterns in JavaScript",
+      "path": "Certificates/Udemy/JavaScript/Design Patterns in JavaScript.pdf"
     },
     {
       "basename": "Visitor",
@@ -55,10 +67,6 @@
     {
       "basename": "Summary",
       "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
-      "basename": "Validation and Serialization",
-      "path": "Fastify/Data/Book/Chapters/Validation and Serialization.md"
     },
     {
       "basename": "Routes",
@@ -153,10 +161,6 @@
       "path": "Fastify/Extra Notes.md"
     },
     {
-      "basename": "Plugins and Libs",
-      "path": "Fastify/Data/Plugins and Libs.md"
-    },
-    {
       "basename": "Add Media",
       "path": "Obsidian Tutorial/Data/Add Media.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Dependency Inversion Principle",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Dependency Inversion Principle.md"
-    },
-    {
-      "basename": "Singleton",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Singleton.md"
     }
   ],
   "omittedPaths": [],

@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Validation and Serialization",
-      "path": "Fastify/Data/Book/Chapters/Validation and Serialization.md"
+      "basename": "git init",
+      "path": "Git and GitHub/Git/Prompt/git init.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
+      "basename": "Project",
+      "path": "Fastify/Data/Book/Chapters/Project.md"
     },
     {
       "basename": "SEBA Book",
       "path": "Fastify/SEBA Book.pdf"
+    },
+    {
+      "basename": "Validation and Serialization",
+      "path": "Fastify/Data/Book/Chapters/Validation and Serialization.md"
     },
     {
       "basename": "Summary",
@@ -59,14 +75,6 @@
     {
       "basename": "Summary",
       "path": "Git and GitHub/GitHub/Summary.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
     },
     {
       "basename": "Routes",
@@ -191,14 +199,6 @@
     {
       "basename": "Liskov Substitution Principle",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Liskov Substitution Principle.md"
-    },
-    {
-      "basename": "Interface Segregation Principle",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Interface Segregation Principle.md"
-    },
-    {
-      "basename": "Dependency Inversion Principle",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Dependency Inversion Principle.md"
     }
   ],
   "omittedPaths": [],

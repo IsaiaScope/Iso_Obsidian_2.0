@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Project",
+      "path": "Fastify/Data/Book/Chapters/Project.md"
+    },
+    {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
+    },
+    {
       "basename": "git init",
       "path": "Git and GitHub/Git/Prompt/git init.md"
     },
@@ -11,14 +19,6 @@
     {
       "basename": "Dashboard",
       "path": "Git and GitHub/Dashboard.md"
-    },
-    {
-      "basename": "Project",
-      "path": "Fastify/Data/Book/Chapters/Project.md"
-    },
-    {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
     },
     {
       "basename": "Validation and Serialization",

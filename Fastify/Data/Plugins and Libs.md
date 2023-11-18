@@ -10,6 +10,8 @@
   - The autoload plugin automatically loads the plugins found in a directory and configures the routes to match the folders’ structure
 - @fastify/env
   - plugin, which throws an error whenever it doesn’t find an expected variable.
+- @fastify/mongodb
+  - plugin. It provides access to a MongoDB database to use on the application’s endpoints
 
 # Libs
 

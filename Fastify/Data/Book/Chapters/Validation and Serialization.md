@@ -273,3 +273,11 @@ The setSchemaErrorFormatter input function must be synchronous. It is going to r
 
 [[SEBA Book.pdf#page=159&selection=123,0,123,23|SEBA Book, page 159]]
 
+## Understanding the serialization process
+
+[[SEBA Book.pdf#page=165&selection=113,0,113,39|SEBA Book, page 165]]
+
+### The reply serializer
+
+[[SEBA Book.pdf#page=167&selection=96,0,96,20|SEBA Book, page 167]]
+

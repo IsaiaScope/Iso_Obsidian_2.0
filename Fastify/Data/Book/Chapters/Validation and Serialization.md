@@ -268,3 +268,8 @@ The setSchemaErrorFormatter input function must be synchronous. It is going to r
 ### Reusing JSON schemas
 
 [[SEBA Book.pdf#page=157&selection=27,0,27,20|SEBA Book, page 157]]
+
+### Retrieving your schemas
+
+[[SEBA Book.pdf#page=159&selection=123,0,123,23|SEBA Book, page 159]]
+

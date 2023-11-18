@@ -12,6 +12,9 @@
   - plugin, which throws an error whenever it doesn’t find an expected variable.
 - @fastify/mongodb
   - plugin. It provides access to a MongoDB database to use on the application’s endpoints
+  - @fastify/swagger and  @fastify/swagger-ui plugins.
+	  - Documenting a complete list of all the application’s endpoints
+-  @fastify/cors plugin
 
 # Libs
 

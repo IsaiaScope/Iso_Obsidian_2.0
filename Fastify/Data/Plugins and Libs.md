@@ -5,9 +5,11 @@
 - [fastify-overview](https://github.com/Eomm/fastify-overview)
   - By using the fastify-overview plugin, you will be able to create a graphical layout of your application with all the hooks, decorators, and Fastify-encapsulated contexts highlighted! You should give it a try.
   - fastify-cli
-	  -  command line interface (CLI) helps us start our application
+    - command line interface (CLI) helps us start our application
 - @fastify/autoload
-	- The autoload plugin automatically loads the plugins found in a directory and configures the routes to match the folders’ structure
+  - The autoload plugin automatically loads the plugins found in a directory and configures the routes to match the folders’ structure
+- @fastify/env
+  - plugin, which throws an error whenever it doesn’t find an expected variable.
 
 # Libs
 

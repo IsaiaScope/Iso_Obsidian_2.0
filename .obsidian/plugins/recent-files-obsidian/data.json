@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Plugins and Libs",
+      "path": "Fastify/Data/Plugins and Libs.md"
+    },
+    {
       "basename": "SEBA Book",
       "path": "Fastify/SEBA Book.pdf"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Summary",
       "path": "Fastify/Data/Book/Summary.md"
-    },
-    {
-      "basename": "Plugins and Libs",
-      "path": "Fastify/Data/Plugins and Libs.md"
     },
     {
       "basename": "git init",

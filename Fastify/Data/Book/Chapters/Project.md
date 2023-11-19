@@ -20,6 +20,11 @@
 
 [[SEBA Book.pdf#page=182&selection=14,0,14,28|SEBA Book, page 182]]
 
-
 # Building a RESTful API
 
+> Securing the endpoints
+
+[[SEBA Book.pdf#page=210&selection=4,0,4,22|SEBA Book, page 210]]
+> Schemas loader
+
+[[SEBA Book.pdf#page=211&selection=15,0,15,14|SEBA Book, page 211]]

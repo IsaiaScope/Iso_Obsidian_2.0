@@ -36,3 +36,8 @@
 
 
 Every token has three parts. First, the header contains information about the type of token and the cryptographic algorithms used to sign and encrypt the token. Then, the payload includes any metadata about the user. Finally, the signature is used to verify the token’s authenticity and ensure it has not been tampered with
+
+> Refresh route
+
+[[SEBA Book.pdf#page=229&selection=16,0,16,13|SEBA Book, page 229]]
+

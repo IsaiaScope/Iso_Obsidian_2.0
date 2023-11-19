@@ -41,3 +41,6 @@ Every token has three parts. First, the header contains information about the ty
 
 [[SEBA Book.pdf#page=229&selection=16,0,16,13|SEBA Book, page 229]]
 
+> Managing uploads and downloads
+
+[[SEBA Book.pdf#page=233&selection=3,0,3,30|SEBA Book, page 233]]

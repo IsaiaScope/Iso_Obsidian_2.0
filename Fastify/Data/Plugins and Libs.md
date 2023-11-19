@@ -17,6 +17,8 @@
 -  @fastify/cors plugin
 - @fastify/jwt
 	- It handles low-level primitives around the tokens and lets us focus only on the logic we need inside our application.
+- @fastify/multipart 
+	- for file uploads
 
 # Libs
 

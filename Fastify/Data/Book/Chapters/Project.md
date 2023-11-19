@@ -44,3 +44,9 @@ Every token has three parts. First, the header contains information about the ty
 > Managing uploads and downloads
 
 [[SEBA Book.pdf#page=233&selection=3,0,3,30|SEBA Book, page 233]]
+
+> What tests need to be written?
+
+[[SEBA Book.pdf#page=237&selection=52,0,52,30|SEBA Book, page 237]]
+
+https://martinfowler.com/

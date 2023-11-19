@@ -50,3 +50,8 @@ Every token has three parts. First, the header contains information about the ty
 [[SEBA Book.pdf#page=237&selection=52,0,52,30|SEBA Book, page 237]]
 
 https://martinfowler.com/
+
+> Testing the Fastify application
+
+[[SEBA Book.pdf#page=241&selection=3,0,3,31|SEBA Book, page 241]]
+

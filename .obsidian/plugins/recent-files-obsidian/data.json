@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Summary",
+      "path": "Fastify/Data/Book/Summary.md"
+    },
+    {
       "basename": "Project",
       "path": "Fastify/Data/Book/Chapters/Project.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "DOC Resources",
       "path": "Fastify/Data/DOC Resources.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Fastify/Data/Book/Summary.md"
     },
     {
       "basename": "Plugins and Libs",

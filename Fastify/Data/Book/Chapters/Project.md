@@ -25,6 +25,14 @@
 > Securing the endpoints
 
 [[SEBA Book.pdf#page=210&selection=4,0,4,22|SEBA Book, page 210]]
+
 > Schemas loader
 
 [[SEBA Book.pdf#page=211&selection=15,0,15,14|SEBA Book, page 211]]
+
+# Authentication and authorization flow
+
+[[SEBA Book.pdf#page=221&selection=16,0,16,37|SEBA Book, page 221]]
+
+
+Every token has three parts. First, the header contains information about the type of token and the cryptographic algorithms used to sign and encrypt the token. Then, the payload includes any metadata about the user. Finally, the signature is used to verify the token’s authenticity and ensure it has not been tampered with

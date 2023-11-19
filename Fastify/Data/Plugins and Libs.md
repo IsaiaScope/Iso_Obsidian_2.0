@@ -15,6 +15,8 @@
   - @fastify/swagger and  @fastify/swagger-ui plugins.
 	  - Documenting a complete list of all the application’s endpoints
 -  @fastify/cors plugin
+- @fastify/jwt
+	- It handles low-level primitives around the tokens and lets us focus only on the logic we need inside our application.
 
 # Libs
 

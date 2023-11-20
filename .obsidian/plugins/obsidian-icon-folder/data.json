@@ -108,5 +108,7 @@
   "JS and TS/JavaScript/Design Patterns/Dashboard.md": "IbDashboard",
   "JS and TS/JavaScript/Design Patterns/Files": "LiFiles",
   "JS and TS/JavaScript/Design Patterns/Data/Principles": "SiSolidity",
-  "Fastify/SEBA Book.pdf": "TiBook"
+  "Fastify/SEBA Book.pdf": "TiBook",
+  "Style/DashBoard.md": "IbDashboard",
+  "Style/CSS/Data": "TiDatabase"
 }

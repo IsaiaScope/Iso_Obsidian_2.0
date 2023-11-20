@@ -1,8 +1,0 @@
-- _CSS_
-	- [[Style/CSS/theory|theory]]
-	- [[grid-secrets]]
-	- [[least-number-of-children]]
-	- [[Remove-Extra-Margin-Mobile&Tablet]]
-	- [[select-by-style-prop]]
-- _SASS_
-	- [[extend]]

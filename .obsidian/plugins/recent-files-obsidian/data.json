@@ -1,28 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "Using CSS custom properties",
-      "path": "Style/CSS/Data/Using CSS custom properties.md"
+      "basename": "Conflic-Obsidian",
+      "path": "Conflic-Obsidian.md"
     },
     {
-      "basename": "Length units",
-      "path": "Style/CSS/Data/Length units.md"
+      "basename": "Stuff",
+      "path": "Stuff.md"
+    },
+    {
+      "basename": "Short-cuts",
+      "path": "Short-cuts.md"
     },
     {
       "basename": "DashBoard",
       "path": "Style/DashBoard.md"
     },
     {
+      "basename": "Using CSS custom properties",
+      "path": "Style/CSS/Data/Using CSS custom properties.md"
+    },
+    {
       "basename": "Validation and Serialization",
       "path": "Fastify/Data/Book/Chapters/Validation and Serialization.md"
     },
     {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
+      "basename": "Display Flex",
+      "path": "Style/CSS/Data/Display Flex.md"
     },
     {
-      "basename": "flex",
-      "path": "Style/CSS/flex.md"
+      "basename": "Least Number of Children",
+      "path": "Style/CSS/Data/Least Number of Children.md"
+    },
+    {
+      "basename": "DOC Resources",
+      "path": "Fastify/Data/DOC Resources.md"
+    },
+    {
+      "basename": "Display Grid",
+      "path": "Style/CSS/Data/Display Grid.md"
+    },
+    {
+      "basename": "Remove Extra Margin Mobile&Tablet",
+      "path": "Style/CSS/Data/Remove Extra Margin Mobile&Tablet.md"
+    },
+    {
+      "basename": "Selecting by Attribute",
+      "path": "Style/CSS/Data/Selecting by Attribute.md"
+    },
+    {
+      "basename": "@extend",
+      "path": "Style/SASS/@extend.md"
+    },
+    {
+      "basename": "Length units",
+      "path": "Style/CSS/Data/Length units.md"
+    },
+    {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
     },
     {
       "basename": "Project",
@@ -47,10 +83,6 @@
     {
       "basename": "Overview",
       "path": "Fastify/Data/Book/Chapters/Overview.md"
-    },
-    {
-      "basename": "DOC Resources",
-      "path": "Fastify/Data/DOC Resources.md"
     },
     {
       "basename": "Summary",
@@ -167,38 +199,6 @@
     {
       "basename": "Differences between the async and sync handlers",
       "path": "Fastify/Data/Book/Files/Differences between the async and sync handlers.png"
-    },
-    {
-      "basename": "encapsulation",
-      "path": "Fastify/Data/Book/Files/encapsulation.png"
-    },
-    {
-      "basename": "Fastify’s JSON Schema compilation workflow",
-      "path": "Fastify/Data/Book/Files/Fastify’s JSON Schema compilation workflow.png"
-    },
-    {
-      "basename": "Request and reply lifecycle",
-      "path": "Fastify/Data/Book/Files/Request and reply lifecycle.png"
-    },
-    {
-      "basename": "The validation execution workflow",
-      "path": "Fastify/Data/Book/Files/The validation execution workflow.png"
-    },
-    {
-      "basename": "Validation and Serialization",
-      "path": "Fastify/Data/Book/Files/Validation and Serialization.png"
-    },
-    {
-      "basename": "Extra Notes",
-      "path": "Fastify/Extra Notes.md"
-    },
-    {
-      "basename": "Add Media",
-      "path": "Obsidian Tutorial/Data/Add Media.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Obsidian Tutorial/Dashboard.md"
     }
   ],
   "omittedPaths": [],

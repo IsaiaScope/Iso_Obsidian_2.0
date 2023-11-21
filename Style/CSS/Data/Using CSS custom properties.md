@@ -1,12 +1,20 @@
 # Using CSS custom properties
 
-## Resource
+## Local scope custom property
 
+> Useful to create variation of a component/HTML element (Like different styles for a Button)
 
-
-## Example
+With this approach we need just one selector like `plan--bike` in the fallowing example to be able to change all `.plan` style. This avoid much longer CSS files.
 
 - [See on Codepen](https://codepen.io/kevinpowell/pen/RwEqEyV)
+
+- Create local scope custom property like `--_button-hover: var(--button-hover, var(--clr-text));`
+  - `--button-hover` doesn't exist anywhere in the root but we're gonna use it to customize our style variation for `.plan`
+  - `var(--clr-text)` is the fallback and actually the default
+
+```html
+<li class="plan plan--pram"></li>
+```
 
 ```css
 :root {

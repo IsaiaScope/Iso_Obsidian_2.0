@@ -37,6 +37,10 @@ this create an adaptative situation where changing `.btn` font size margin and p
 
 font-size could be declared with px, rem, em but `padding: 1em 3em;`, `margin: 0 .25em;` refer to it and change their value based on it
 
+### Why you shouldn't set font-sizes using em
+
+
+
 ---
 
 # Rem (Root Em)

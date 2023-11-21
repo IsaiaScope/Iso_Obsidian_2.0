@@ -63,3 +63,6 @@ https://martinfowler.com/
 
 [[SEBA Book.pdf#page=265&selection=36,0,36,48|SEBA Book, page 265]]
 
+> How to use Fastify’s logger
+
+[[SEBA Book.pdf#page=287&selection=12,0,12,27|SEBA Book, page 287]]

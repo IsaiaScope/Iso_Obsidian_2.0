@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Display Flex",
-      "path": "Style/CSS/Data/Display Flex.md"
+      "basename": "Untitled",
+      "path": "Style/CSS/Data/Untitled.md"
     },
     {
       "basename": "DashBoard",
       "path": "Style/DashBoard.md"
     },
     {
-      "basename": "align-self",
-      "path": "Style/CSS/Files/align-self.png"
+      "basename": "Display Flex",
+      "path": "Style/CSS/Data/Display Flex.md"
     },
     {
       "basename": "Units",
       "path": "Style/CSS/Data/Units.md"
+    },
+    {
+      "basename": "align-self",
+      "path": "Style/CSS/Files/align-self.png"
     },
     {
       "basename": "Combinators",
@@ -195,10 +199,6 @@
     {
       "basename": "The Patterns",
       "path": "JS and TS/JavaScript/Design Patterns/Files/The Patterns.png"
-    },
-    {
-      "basename": "test.excalidraw",
-      "path": "Drawing/test.excalidraw.md"
     }
   ],
   "omittedPaths": [],

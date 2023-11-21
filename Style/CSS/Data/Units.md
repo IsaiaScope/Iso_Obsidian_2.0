@@ -53,3 +53,13 @@ Similarly, in case of a *landscape orientation*, `100vmin` is equal to `100v
 they can be excellently used as a substitute for orientation `@media` queries. For instance, `vmin` and `vmax` can come in handy when you have elements that may look strange at different aspect ratios.
 
 ---
+
+## min(), max(), clamp()
+
+They are some exciting functions that we can use as for the values of elements, so we could set something like `width: min(95%, 1200px);`, which would be the same as setting both a width and a max-width.
+
+And while setting a width and max-width is something we could already do, we can also use this for things like margin and padding (and font sizes!), where something like that wasn't even possible before.
+
+Clamp() is even more exciting in how we could use it for responsive typography.
+
+---

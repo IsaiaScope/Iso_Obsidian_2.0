@@ -1,5 +1,11 @@
 # Display Flex
 
+## flex-grow
+
+`flex-grow: 1;` like setting`width: 100%` to an element, enabling it to grow
+
+---
+
 ## align-self
 
 `align-self` consent to positioning like it wants inside the space to it delivered. by flex box. Flex box create columns in a row that have all the same height so `align-self` is perfect to set the element inside the column in a specific position and avoid stretching as happen with images

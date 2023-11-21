@@ -1,4 +1,4 @@
-# Em
+# em
 
 > Relative to font size of the parent, in the case of typographical properties like font-size, and font size of the element itself, in the case of other properties like width, margin, padding ecc...
 
@@ -45,7 +45,7 @@ Would recommend setting all sizes using `rem`. I sprinkle in `em` only where 
 
 ---
 
-# Rem (Root Em)
+# rem (Root em)
 
 > Font size referring to the root element (html tag).
 

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Length units",
-      "path": "Style/CSS/Data/Length units.md"
+      "basename": "CSS units",
+      "path": "Style/CSS/Data/CSS units.md"
     },
     {
       "basename": "DashBoard",
       "path": "Style/DashBoard.md"
+    },
+    {
+      "basename": "em & rem",
+      "path": "Style/CSS/Data/em & rem.md"
     },
     {
       "basename": "Project",
@@ -195,10 +199,6 @@
     {
       "basename": "Application-lifecycle",
       "path": "Fastify/Data/Book/Files/Application-lifecycle.png"
-    },
-    {
-      "basename": "Differences between the async and sync handlers",
-      "path": "Fastify/Data/Book/Files/Differences between the async and sync handlers.png"
     }
   ],
   "omittedPaths": [],

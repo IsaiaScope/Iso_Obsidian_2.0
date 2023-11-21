@@ -1,24 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Project",
-      "path": "Fastify/Data/Book/Chapters/Project.md"
-    },
-    {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
+      "basename": "Plugins and Libs",
+      "path": "Fastify/Data/Plugins and Libs.md"
     },
     {
       "basename": "Summary",
       "path": "Fastify/Data/Book/Summary.md"
     },
     {
-      "basename": "Plugins and Libs",
-      "path": "Fastify/Data/Plugins and Libs.md"
-    },
-    {
       "basename": "DOC Resources",
       "path": "Fastify/Data/DOC Resources.md"
+    },
+    {
+      "basename": "Project",
+      "path": "Fastify/Data/Book/Chapters/Project.md"
+    },
+    {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
     },
     {
       "basename": "DashBoard",

@@ -5,12 +5,12 @@
       "path": "Style/CSS/Data/Using CSS custom properties.md"
     },
     {
-      "basename": "DashBoard",
-      "path": "Style/DashBoard.md"
-    },
-    {
       "basename": "Length units",
       "path": "Style/CSS/Data/Length units.md"
+    },
+    {
+      "basename": "DashBoard",
+      "path": "Style/DashBoard.md"
     },
     {
       "basename": "Validation and Serialization",

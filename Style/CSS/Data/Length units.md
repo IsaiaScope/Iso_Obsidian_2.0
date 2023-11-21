@@ -12,5 +12,9 @@ Is possible to use `em` to set font size to; if u set _font-size: 2em_ to an ele
 
 # Rem
 
-> Font size of the root element.
+> Font size referring to the root element.
 
+- [px-to-rem-converter](https://nekocalc.com/px-to-rem-converter)
+  - _16px = 1rem_
+
+---

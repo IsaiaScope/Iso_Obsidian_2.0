@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Display Flex",
+      "path": "Style/CSS/Data/Display Flex.md"
+    },
+    {
       "basename": "DashBoard",
       "path": "Style/DashBoard.md"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "Using CSS custom properties",
       "path": "Style/CSS/Data/Using CSS custom properties.md"
-    },
-    {
-      "basename": "Display Flex",
-      "path": "Style/CSS/Data/Display Flex.md"
     },
     {
       "basename": "Least Number of Children",

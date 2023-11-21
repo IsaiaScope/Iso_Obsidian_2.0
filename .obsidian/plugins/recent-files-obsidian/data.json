@@ -5,6 +5,18 @@
       "path": "Style/DashBoard.md"
     },
     {
+      "basename": "Units",
+      "path": "Style/CSS/Data/Units.md"
+    },
+    {
+      "basename": "Combinators",
+      "path": "Style/CSS/Data/Combinators.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Fastify/Data/Book/Summary.md"
+    },
+    {
       "basename": "Display Grid",
       "path": "Style/CSS/Data/Display Grid.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "A Tale of width and max-width",
       "path": "Style/CSS/Data/A Tale of width and max-width.md"
-    },
-    {
-      "basename": "CSS units",
-      "path": "Style/CSS/Data/CSS units.md"
     },
     {
       "basename": "SEBA Book",
@@ -83,10 +91,6 @@
     {
       "basename": "Plugins and Libs",
       "path": "Fastify/Data/Plugins and Libs.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Fastify/Data/Book/Summary.md"
     },
     {
       "basename": "Overview",

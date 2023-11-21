@@ -1,7 +1,20 @@
 # Display Flex
 
-## 
+## align-self
 
+`align-self` consent to positioning like it wants inside the space to it delivered. by flex box. Flex box create columns in a row that have all the same height so `align-self` is perfect to set the element inside the column in a specific position and avoid stretching as happen with images
+
+[[align-self.png]]
+
+```css
+.her__img {
+	max-width: 100%;
+	width: 32%;
+	align-self: flex-start;
+}
+```
+
+---
 
 ## Not Overflow From Parent Height
 

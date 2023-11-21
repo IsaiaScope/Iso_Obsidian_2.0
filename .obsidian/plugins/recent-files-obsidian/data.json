@@ -9,6 +9,10 @@
       "path": "Style/DashBoard.md"
     },
     {
+      "basename": "align-self",
+      "path": "Style/CSS/Files/align-self.png"
+    },
+    {
       "basename": "Units",
       "path": "Style/CSS/Data/Units.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "test.excalidraw",
       "path": "Drawing/test.excalidraw.md"
-    },
-    {
-      "basename": "Git&+Github_+Aliases",
-      "path": "Git and GitHub/Files/Udemy Course/Git&+Github_+Aliases.pdf"
     }
   ],
   "omittedPaths": [],

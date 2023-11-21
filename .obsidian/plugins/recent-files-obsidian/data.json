@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
+    },
+    {
+      "basename": "DOC Resources",
+      "path": "Fastify/Data/DOC Resources.md"
+    },
+    {
+      "basename": "Validation and Serialization",
+      "path": "Fastify/Data/Book/Chapters/Validation and Serialization.md"
+    },
+    {
       "basename": "DashBoard",
       "path": "Style/DashBoard.md"
+    },
+    {
+      "basename": "Project",
+      "path": "Fastify/Data/Book/Chapters/Project.md"
     },
     {
       "basename": "Short-cuts",
@@ -21,20 +37,12 @@
       "path": "Style/CSS/Data/Using CSS custom properties.md"
     },
     {
-      "basename": "Validation and Serialization",
-      "path": "Fastify/Data/Book/Chapters/Validation and Serialization.md"
-    },
-    {
       "basename": "Display Flex",
       "path": "Style/CSS/Data/Display Flex.md"
     },
     {
       "basename": "Least Number of Children",
       "path": "Style/CSS/Data/Least Number of Children.md"
-    },
-    {
-      "basename": "DOC Resources",
-      "path": "Fastify/Data/DOC Resources.md"
     },
     {
       "basename": "Display Grid",
@@ -55,14 +63,6 @@
     {
       "basename": "Length units",
       "path": "Style/CSS/Data/Length units.md"
-    },
-    {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
-    },
-    {
-      "basename": "Project",
-      "path": "Fastify/Data/Book/Chapters/Project.md"
     },
     {
       "basename": "git merge",

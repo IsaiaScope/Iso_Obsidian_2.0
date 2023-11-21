@@ -5,6 +5,18 @@
       "path": "Style/DashBoard.md"
     },
     {
+      "basename": "Display Grid",
+      "path": "Style/CSS/Data/Display Grid.md"
+    },
+    {
+      "basename": "border-box and content-box",
+      "path": "Style/CSS/Data/border-box and content-box.md"
+    },
+    {
+      "basename": "Project",
+      "path": "Fastify/Data/Book/Chapters/Project.md"
+    },
+    {
       "basename": "em & rem",
       "path": "Style/CSS/Data/em & rem.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "CSS units",
       "path": "Style/CSS/Data/CSS units.md"
-    },
-    {
-      "basename": "Project",
-      "path": "Fastify/Data/Book/Chapters/Project.md"
     },
     {
       "basename": "SEBA Book",
@@ -55,14 +63,6 @@
     {
       "basename": "Least Number of Children",
       "path": "Style/CSS/Data/Least Number of Children.md"
-    },
-    {
-      "basename": "Display Grid",
-      "path": "Style/CSS/Data/Display Grid.md"
-    },
-    {
-      "basename": "Remove Extra Margin Mobile&Tablet",
-      "path": "Style/CSS/Data/Remove Extra Margin Mobile&Tablet.md"
     },
     {
       "basename": "Selecting by Attribute",
@@ -195,10 +195,6 @@
     {
       "basename": "Git&+Github_+Aliases",
       "path": "Git and GitHub/Files/Udemy Course/Git&+Github_+Aliases.pdf"
-    },
-    {
-      "basename": "card.excalidraw",
-      "path": "Drawing/Data/card.excalidraw.md"
     }
   ],
   "omittedPaths": [],

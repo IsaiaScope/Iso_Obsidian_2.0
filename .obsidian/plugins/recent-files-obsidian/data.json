@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "DashBoard",
+      "path": "Style/DashBoard.md"
+    },
+    {
+      "basename": "Length units",
+      "path": "Style/CSS/Data/Length units.md"
+    },
+    {
+      "basename": "Project",
+      "path": "Fastify/Data/Book/Chapters/Project.md"
+    },
+    {
       "basename": "SEBA Book",
       "path": "Fastify/SEBA Book.pdf"
     },
@@ -11,14 +23,6 @@
     {
       "basename": "Validation and Serialization",
       "path": "Fastify/Data/Book/Chapters/Validation and Serialization.md"
-    },
-    {
-      "basename": "DashBoard",
-      "path": "Style/DashBoard.md"
-    },
-    {
-      "basename": "Project",
-      "path": "Fastify/Data/Book/Chapters/Project.md"
     },
     {
       "basename": "Short-cuts",
@@ -59,10 +63,6 @@
     {
       "basename": "@extend",
       "path": "Style/SASS/@extend.md"
-    },
-    {
-      "basename": "Length units",
-      "path": "Style/CSS/Data/Length units.md"
     },
     {
       "basename": "git merge",

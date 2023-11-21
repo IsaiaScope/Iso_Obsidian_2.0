@@ -20,9 +20,9 @@
 
 - [Conquering Responsive Layouts](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts)
 
-| Feature                             | Description |                    Link                     |
-| ----------------------------------- | ----------- | :-----------------------------------------: |
-| __ |             | [[Remove Extra Margin Mobile&Tablet \| 🌹]] |
+| Feature | Description |                    Link                     |
+| ------- | ----------- | :-----------------------------------------: |
+| \_\_    |             | [[Remove Extra Margin Mobile&Tablet \| 🌹]] |
 
 # SASS
 

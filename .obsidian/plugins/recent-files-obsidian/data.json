@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Units",
-      "path": "Style/CSS/Data/Units.md"
+      "basename": "Project",
+      "path": "Fastify/Data/Book/Chapters/Project.md"
+    },
+    {
+      "basename": "SEBA Book",
+      "path": "Fastify/SEBA Book.pdf"
+    },
+    {
+      "basename": "Summary",
+      "path": "Fastify/Data/Book/Summary.md"
+    },
+    {
+      "basename": "Plugins and Libs",
+      "path": "Fastify/Data/Plugins and Libs.md"
+    },
+    {
+      "basename": "DOC Resources",
+      "path": "Fastify/Data/DOC Resources.md"
     },
     {
       "basename": "DashBoard",
       "path": "Style/DashBoard.md"
+    },
+    {
+      "basename": "Units",
+      "path": "Style/CSS/Data/Units.md"
     },
     {
       "basename": "Display Flex",
@@ -21,10 +41,6 @@
       "path": "Style/CSS/Data/Combinators.md"
     },
     {
-      "basename": "Summary",
-      "path": "Fastify/Data/Book/Summary.md"
-    },
-    {
       "basename": "Display Grid",
       "path": "Style/CSS/Data/Display Grid.md"
     },
@@ -33,24 +49,12 @@
       "path": "Style/CSS/Data/border-box and content-box.md"
     },
     {
-      "basename": "Project",
-      "path": "Fastify/Data/Book/Chapters/Project.md"
-    },
-    {
       "basename": "em & rem",
       "path": "Style/CSS/Data/em & rem.md"
     },
     {
       "basename": "A Tale of width and max-width",
       "path": "Style/CSS/Data/A Tale of width and max-width.md"
-    },
-    {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
-    },
-    {
-      "basename": "DOC Resources",
-      "path": "Fastify/Data/DOC Resources.md"
     },
     {
       "basename": "Validation and Serialization",
@@ -91,10 +95,6 @@
     {
       "basename": "git init",
       "path": "Git and GitHub/Git/Prompt/git init.md"
-    },
-    {
-      "basename": "Plugins and Libs",
-      "path": "Fastify/Data/Plugins and Libs.md"
     },
     {
       "basename": "Overview",

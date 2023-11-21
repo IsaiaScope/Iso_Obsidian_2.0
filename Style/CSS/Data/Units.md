@@ -1,5 +1,7 @@
 # Units
 
+[The flowchar by Kevin Powell](https://whatunit.com/)
+
 ## vh, vw, vmin, vmax
 
 ### Viewport height (vh) & viewport width (vw)
@@ -76,14 +78,10 @@ _Clamp() is even more exciting in how we could use it for responsive typography_
 
 ### Example (font-size with clamp() to set responsiveness)
 
-```css
-.hero {
-  background: linear-gradient(to left, #83a4d4 , #b6fbff);
-  padding: 10vh 0;
-  height: 100vh;
-}
-```
+adding rems keeps the responsiveness when user zoom in or out
 
----
+```css
+--fs-xl: clamp(3.5rem, 12vw + 1rem, 12rem);
+```
 
 ---

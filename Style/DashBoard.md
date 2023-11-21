@@ -27,6 +27,8 @@
 | ------------------------------- | :--------------------------------------: |
 | _A Tale of width and max-width_ | [[A Tale of width and max-width  \| 🌹]] |
 | _border-box and content-box_    |   [[border-box and content-box \| 🌹]]   |
+| _Display Flex_                  |          [[Display Flex \| 🌹]]          |
+| _Display Grid_                  |          [[Display Grid \| 🌹]]          |
 
 # SASS
 

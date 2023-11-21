@@ -55,4 +55,11 @@ https://martinfowler.com/
 
 [[SEBA Book.pdf#page=241&selection=3,0,3,31|SEBA Book, page 241]]
 
+> Where tests should run
+
+[[SEBA Book.pdf#page=259&selection=13,0,13,22|SEBA Book, page 259]]
+
+> Testing our Docker image with a local deployment
+
+[[SEBA Book.pdf#page=265&selection=36,0,36,48|SEBA Book, page 265]]
 

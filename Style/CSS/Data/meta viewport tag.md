@@ -1,2 +1,0 @@
-# meta viewport tag
-

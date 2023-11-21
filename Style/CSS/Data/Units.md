@@ -56,10 +56,34 @@ they can be excellently used as a substitute for orientation `@media` queries
 
 ## min(), max(), clamp()
 
-They are some exciting functions that we can use as for the values of elements, so we could set something like `width: min(95%, 1200px);`, which would be the same as setting both a width and a max-width.
+For `min()` and `max()`, you provide an argument list of values, and the browser determines which one is either the smallest or largest, respectively. For example, in the case of: `min(1rem, 50%, 10vw)`, the browser calculates which of these relative units is the smallest, and uses that value as the actual value.
+
+To use `clamp()` enter three values: a minimum value, ideal value (from which to calculate), and maximum value.
+
+To recap:
+
+- `min(<value-list>)`: selects the smallest (most negative) value from a list of comma-separated expressions
+- `max(<value-list>)`: selects the largest (most positive) value from a list of comma-separated expressions
+- `clamp(<min>, <ideal>, <max>)`: clamps a value between an upper and lower bound, based on a set ideal value
+
+> When using a calculation inside of a `min()`, `max()`, or `clamp()` function, you can remove the call to `calc()`. For example, writing `font-size: max(calc(0.5vw - 1em), 2rem)` would be the same as `font-size: max(0.5vw - 1em, 2rem)`.
+
+They are some exciting functions that we can use as for the values of elements, so we could set something like `width: min(95%, 1200px);`, which would be the same as _setting both a width and a max-width_.
 
 And while setting a width and max-width is something we could already do, we can also use this for things like margin and padding (and font sizes!), where something like that wasn't even possible before.
 
-Clamp() is even more exciting in how we could use it for responsive typography.
+_Clamp() is even more exciting in how we could use it for responsive typography_
+
+### Example (font-size with clamp() to set responsiveness)
+
+```css
+.hero {
+  background: linear-gradient(to left, #83a4d4 , #b6fbff);
+  padding: 10vh 0;
+  height: 100vh;
+}
+```
+
+---
 
 ---

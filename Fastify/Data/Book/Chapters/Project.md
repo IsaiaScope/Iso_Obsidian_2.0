@@ -70,3 +70,7 @@ https://martinfowler.com/
 > From a Monolith to Microservices
 
 [[SEBA Book.pdf#page=310&selection=2,0,4,16|SEBA Book, page 310]]
+
+> Type-Safe Fastify
+
+[[SEBA Book.pdf#page=376&selection=2,0,2,17|SEBA Book, page 376]]

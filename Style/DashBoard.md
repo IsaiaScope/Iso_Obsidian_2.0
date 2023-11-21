@@ -21,9 +21,9 @@
 
 - [Conquering Responsive Layouts](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts)
 
-| Feature | Description |                    Link                     |
-| ------- | ----------- | :-----------------------------------------: |
-| \_\_    |             | [[Remove Extra Margin Mobile&Tablet \| 🌹]] |
+| Feature                         | Description |                   Link                   |
+| ------------------------------- | ----------- | :--------------------------------------: |
+| _A Tale of width and max-width_ |             | [[A Tale of width and max-width  \| 🌹]] |
 
 # SASS
 

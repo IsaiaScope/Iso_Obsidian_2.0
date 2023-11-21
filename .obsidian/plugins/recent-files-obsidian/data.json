@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "CSS units",
-      "path": "Style/CSS/Data/CSS units.md"
+      "basename": "DashBoard",
+      "path": "Style/DashBoard.md"
     },
     {
       "basename": "em & rem",
       "path": "Style/CSS/Data/em & rem.md"
     },
     {
-      "basename": "DashBoard",
-      "path": "Style/DashBoard.md"
+      "basename": "A Tale of width and max-width",
+      "path": "Style/CSS/Data/A Tale of width and max-width.md"
+    },
+    {
+      "basename": "CSS units",
+      "path": "Style/CSS/Data/CSS units.md"
     },
     {
       "basename": "Project",
@@ -195,10 +199,6 @@
     {
       "basename": "card.excalidraw",
       "path": "Drawing/Data/card.excalidraw.md"
-    },
-    {
-      "basename": "Application-lifecycle",
-      "path": "Fastify/Data/Book/Files/Application-lifecycle.png"
     }
   ],
   "omittedPaths": [],

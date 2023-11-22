@@ -5,6 +5,14 @@
       "path": "Ionic/Data/Prompt.md"
     },
     {
+      "basename": "Set Up Android Studio",
+      "path": "Ionic/Data/Set Up Android Studio.md"
+    },
+    {
+      "basename": "Set Up Android Studio - Versioning SDK",
+      "path": "Ionic/Files/Set Up Android Studio - Versioning SDK.png"
+    },
+    {
       "basename": "android-studio",
       "path": "Ionic/old/android-studio.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "Summary",
       "path": "Git and GitHub/GitHub/Summary.md"
-    },
-    {
-      "basename": "Routes",
-      "path": "Fastify/Data/Book/Chapters/Routes.md"
     }
   ],
   "omittedPaths": [],

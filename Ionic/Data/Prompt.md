@@ -84,9 +84,9 @@ Then launch in console
 npm run open:as
 ```
 
----
+### See Android Studio Available Device
 
-#### 
+List of devices on android studio, sometime show devices that doesn't exist so make sure to import that specific device in android studio manually because also in android studio there are sometimes devices that you never import/create
 
 ```
 ionic cap run android --list
@@ -94,10 +94,15 @@ ionic cap run android --list
 
 ### Live reloading during developing
 
+Run `ipconfig` under `IPv4 Address` to assign a value to `--public-host`
+
+You dont need to open Android studio to run this command
+
 ```
+ionic cap run android --livereload --external --public-host=192.168.6.201
 ```
 
-
+---
 
 ### Developing IOS (X Code)
 

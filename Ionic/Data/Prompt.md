@@ -37,7 +37,7 @@ ionic build
 - Add android folder to the project where the native code for android is hold
 
 ```
-ionic capacitor add android
+ionic cap add android
 ```
 
 #### IOS Folder
@@ -45,7 +45,7 @@ ionic capacitor add android
 - Add ios folder to the project where the native code for ios is hold
 
 ```
-ionic capacitor add ios
+ionic cap add ios
 ```
 
 ---

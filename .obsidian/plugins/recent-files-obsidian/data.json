@@ -9,6 +9,10 @@
       "path": "Ionic/Data/Set Up Android Studio.md"
     },
     {
+      "basename": "Debugging",
+      "path": "Ionic/Data/Debugging.md"
+    },
+    {
       "basename": "Set Up Android Studio - Versioning SDK",
       "path": "Ionic/Files/Set Up Android Studio - Versioning SDK.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Create Local and Remote Branch",
       "path": "Git and GitHub/GitHub/Data/Create Local and Remote Branch.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
     }
   ],
   "omittedPaths": [],

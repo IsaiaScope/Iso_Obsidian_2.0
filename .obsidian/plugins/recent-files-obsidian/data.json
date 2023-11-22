@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Init",
-      "path": "Ionic/Data/Init.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Ionic/Dashboard.md"
+      "basename": "capacitor",
+      "path": "Ionic/old/capacitor.md"
     },
     {
       "basename": "create-new-project",
       "path": "Ionic/old/create-new-project.md"
     },
     {
-      "basename": "capacitor",
-      "path": "Ionic/old/capacitor.md"
+      "basename": "Prompt",
+      "path": "Ionic/Data/Prompt.md"
+    },
+    {
+      "basename": "index",
+      "path": "React/libs/Tanstack/index.md"
+    },
+    {
+      "basename": "prompt",
+      "path": "Volta/prompt.md"
+    },
+    {
+      "basename": "theory",
+      "path": "Volta/theory.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Ionic/Dashboard.md"
     },
     {
       "basename": "android-studio",
@@ -187,18 +199,6 @@
     {
       "basename": "Routes",
       "path": "Fastify/Data/Book/Chapters/Routes.md"
-    },
-    {
-      "basename": "Hooks",
-      "path": "Fastify/Data/Book/Chapters/Hooks.md"
-    },
-    {
-      "basename": "Iterator",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Iterator.md"
-    },
-    {
-      "basename": "Chain of Responsability",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Chain of Responsability.md"
     }
   ],
   "omittedPaths": [],

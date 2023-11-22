@@ -5,10 +5,6 @@ ionic capacitor --help
 
 
 ```js
-ionic cap sync
-// unpdate android folder and ios (maybe)
-```
-```js
 ionic capacitor run --help
 ```
 ```js

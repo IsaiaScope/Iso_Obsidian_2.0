@@ -5,12 +5,12 @@
       "path": "Ionic/old/capacitor.md"
     },
     {
-      "basename": "create-new-project",
-      "path": "Ionic/old/create-new-project.md"
-    },
-    {
       "basename": "Prompt",
       "path": "Ionic/Data/Prompt.md"
+    },
+    {
+      "basename": "create-new-project",
+      "path": "Ionic/old/create-new-project.md"
     },
     {
       "basename": "index",

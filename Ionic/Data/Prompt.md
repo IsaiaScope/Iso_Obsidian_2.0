@@ -84,7 +84,15 @@ Then launch in console
 npm run open:as
 ```
 
-Live reloading during developing
+---
+
+#### 
+
+```
+ionic cap run android --list
+```
+
+### Live reloading during developing
 
 ```
 ```

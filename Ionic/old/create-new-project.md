@@ -1,3 +1,13 @@
+
+
+1. https://ionicframework.com/docs/
+2. https://ionic.io/ionicons (lib built in ionic)
+3. https://capacitorjs.com/docs/
+4. 
+
+
+
+
 1. [CLI](https://ionicframework.com/docs/intro/cli) => to enable following script
 2.  Prompt
 ```

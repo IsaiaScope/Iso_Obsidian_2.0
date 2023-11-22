@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Init",
+      "path": "Ionic/Data/Init.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Ionic/Dashboard.md"
+    },
+    {
+      "basename": "create-new-project",
+      "path": "Ionic/old/create-new-project.md"
+    },
+    {
+      "basename": "capacitor",
+      "path": "Ionic/old/capacitor.md"
+    },
+    {
+      "basename": "android-studio",
+      "path": "Ionic/old/android-studio.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Fastify/Data/Book/Chapters/Overview.md"
+    },
+    {
       "basename": "Project",
       "path": "Fastify/Data/Book/Chapters/Project.md"
     },
     {
       "basename": "SEBA Book",
       "path": "Fastify/SEBA Book.pdf"
+    },
+    {
+      "basename": "Plugin",
+      "path": "Fastify/Data/Book/Chapters/Plugin.md"
+    },
+    {
+      "basename": "DashBoard",
+      "path": "Style/DashBoard.md"
+    },
+    {
+      "basename": "The Git and GitHub Bootcamp",
+      "path": "Certificates/Udemy/The Git and GitHub Bootcamp.pdf"
+    },
+    {
+      "basename": "Conquering Responsive Layouts",
+      "path": "Certificates/Kevin Powell/Conquering Responsive Layouts.pdf"
     },
     {
       "basename": "Plugins and Libs",
@@ -19,10 +63,6 @@
     {
       "basename": "DOC Resources",
       "path": "Fastify/Data/DOC Resources.md"
-    },
-    {
-      "basename": "DashBoard",
-      "path": "Style/DashBoard.md"
     },
     {
       "basename": "Units",
@@ -97,20 +137,12 @@
       "path": "Git and GitHub/Git/Prompt/git init.md"
     },
     {
-      "basename": "Overview",
-      "path": "Fastify/Data/Book/Chapters/Overview.md"
-    },
-    {
       "basename": "Summary",
       "path": "Git and GitHub/Git/Summary.md"
     },
     {
       "basename": "Dashboard",
       "path": "Git and GitHub/Dashboard.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
     },
     {
       "basename": "Design Patterns in JavaScript",
@@ -157,10 +189,6 @@
       "path": "Fastify/Data/Book/Chapters/Routes.md"
     },
     {
-      "basename": "Plugin",
-      "path": "Fastify/Data/Book/Chapters/Plugin.md"
-    },
-    {
       "basename": "Hooks",
       "path": "Fastify/Data/Book/Chapters/Hooks.md"
     },
@@ -171,30 +199,6 @@
     {
       "basename": "Chain of Responsability",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Chain of Responsability.md"
-    },
-    {
-      "basename": "Interpreter",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Interpreter.md"
-    },
-    {
-      "basename": "Command",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Command.md"
-    },
-    {
-      "basename": "Interpreter",
-      "path": "JS and TS/JavaScript/Design Patterns/Files/Interpreter.png"
-    },
-    {
-      "basename": "Proxy",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Proxy.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Fastify/Dashboard.md"
-    },
-    {
-      "basename": "The Patterns",
-      "path": "JS and TS/JavaScript/Design Patterns/Files/The Patterns.png"
     }
   ],
   "omittedPaths": [],

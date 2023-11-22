@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "capacitor",
-      "path": "Ionic/old/capacitor.md"
-    },
-    {
       "basename": "Prompt",
       "path": "Ionic/Data/Prompt.md"
     },
     {
       "basename": "create-new-project",
       "path": "Ionic/old/create-new-project.md"
+    },
+    {
+      "basename": "android-studio",
+      "path": "Ionic/old/android-studio.md"
     },
     {
       "basename": "index",
@@ -27,10 +27,6 @@
     {
       "basename": "Dashboard",
       "path": "Ionic/Dashboard.md"
-    },
-    {
-      "basename": "android-studio",
-      "path": "Ionic/old/android-studio.md"
     },
     {
       "basename": "Dashboard",

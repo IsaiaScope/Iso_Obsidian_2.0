@@ -84,6 +84,13 @@ Then launch in console
 npm run open:as
 ```
 
+Live reloading during developing
+
+```
+```
+
+
+
 ### Developing IOS (X Code)
 
 A mac is needed for developing

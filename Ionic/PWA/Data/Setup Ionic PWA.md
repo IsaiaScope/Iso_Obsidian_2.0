@@ -69,7 +69,7 @@ injectRegister: 'script'
 
 (https://developer.mozilla.org/en-US/docs/Web/Manifest)
 
-## Search Engines[​](https://vite-pwa-org.netlify.app/guide/pwa-minimal-requirements#search-engines)
+## Search Engines
 
 You **must** add a `robots.txt` file to allow search engines to crawl all your application pages, just add `robots.txt` to the `public` folder on your application:
 
@@ -87,3 +87,6 @@ As we mention in [Configuring vite-plugin-pwa] section, `vite-plugin-pwa` pl
 To configure the service worker strategy, use the `strategies`' plugin option with `generateSW` (**default strategy**) or `injectManifest` value.
 
 You can find more information about the strategies in the [generateSW](https://vite-pwa-org.netlify.app/workbox/generate-sw) or [injectManifest](https://vite-pwa-org.netlify.app/workbox/inject-manifest) `Workbox` sections.
+
+
+

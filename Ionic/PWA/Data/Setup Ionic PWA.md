@@ -27,3 +27,12 @@ npx @capacitor/assets generate --iconBackgroundColor '#ffffff' --iconBackgroundC
 The result is a folder in the root project called icons, where images for the pwa are hold, and _the manifest is automatically update_
 
 ---
+
+
+(https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html)
+
+(https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariWebContent/pinnedTabs/pinnedTabs.html)
+
+(https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name/theme-color)
+
+(https://www.leereamsnyder.com/favicons-in-2021)

@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Prompt",
-      "path": "Ionic/Data/Prompt.md"
+      "basename": "Developing",
+      "path": "Ionic/Data/Developing.md"
     },
     {
       "basename": "Set Up Android Studio",
       "path": "Ionic/Data/Set Up Android Studio.md"
     },
     {
+      "basename": "Prompt",
+      "path": "Ionic/Data/Prompt.md"
+    },
+    {
       "basename": "Debugging",
       "path": "Ionic/Data/Debugging.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Ionic/Dashboard.md"
     },
     {
       "basename": "Set Up Android Studio - Versioning SDK",
@@ -35,10 +43,6 @@
     {
       "basename": "theory",
       "path": "Volta/theory.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Ionic/Dashboard.md"
     },
     {
       "basename": "Dashboard",
@@ -195,10 +199,6 @@
     {
       "basename": "Memento",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Memento.md"
-    },
-    {
-      "basename": "Create Local and Remote Branch",
-      "path": "Git and GitHub/GitHub/Data/Create Local and Remote Branch.md"
     }
   ],
   "omittedPaths": [],

@@ -20,7 +20,7 @@ To change ANDROID SDK version go to Android Studio - File - Language & Framework
 
 ## Environment Variables
 
-[Android Emulator Live reload](https://www.youtube.com/watch?v=jJxRN_aWdi4)
+[Android Emulator Live reload - You Tube](https://www.youtube.com/watch?v=jJxRN_aWdi4)
 
 [Ionic Doc v6 - Developing for Android](https://ionicframework.com/docs/v6/developing/android)
 

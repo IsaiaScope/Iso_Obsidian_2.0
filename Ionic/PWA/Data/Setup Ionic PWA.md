@@ -1,6 +1,6 @@
 # Setup Ionic PWA
 
-## Generate Splash Screens and Icons IOS & ANDROID & PWA
+## Generate Splash Screens and Icons IOS & ANDROID
 
 - [GitHub capacitor-assets](https://github.com/ionic-team/capacitor-assets)
   - Check for `flags`
@@ -21,7 +21,7 @@ npm install --save-dev @capacitor/assets
   - indie this folder add _logo.png/svg_, _logo-dark.png/svg_
 
 ```bash
-npx @capacitor/assets generate --iconBackgroundColor '#ffffff' --iconBackgroundColorDark '#000000' --splashBackgroundColor '#ffffff' --splashBackgroundColorDark '#000000'
+npx @capacitor/assets generate --iconBackgroundColor '#ffffff' --iconBackgroundColorDark '#000000' --splashBackgroundColor '#ffffff' --splashBackgroundColorDark '#000000'  --ios --android
 ```
 
 The result is a folder in the root project called icons, where images for the pwa are hold, and _the manifest is automatically update_

@@ -76,3 +76,14 @@ You **must** add a `robots.txt` file to allow search engines to crawl all yo
 robots.txt - public folrder
 User-agent: *
 Allow: /
+
+
+## Service Worker Strategies
+As we mention in [Configuring vite-plugin-pwa] section, `vite-plugin-pwa` plugin will use `workbox-build` node library to generate your service worker. There are 2 available strategies, `generateSW` and `injectManifest`:
+
+- `generateSW`: the `vite-plugin-pwa` will generate the service worker for you, you don't need to write the code for the service worker
+- `injectManifest`: the `vite-plugin-pwa` plugin will compile your custom service worker and inject its precache manifest
+
+To configure the service worker strategy, use the `strategies`' plugin option with `generateSW` (**default strategy**) or `injectManifest` value.
+
+You can find more information about the strategies in the [generateSW](https://vite-pwa-org.netlify.app/workbox/generate-sw) or [injectManifest](https://vite-pwa-org.netlify.app/workbox/inject-manifest) `Workbox` sections.

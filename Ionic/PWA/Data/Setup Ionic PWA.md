@@ -53,5 +53,15 @@ The result is a folder in the root project called icons, where images for the pw
 
 (https://www.leereamsnyder.com/favicons-in-2021)
 (https://dev.to/masakudamatsu/favicon-nightmare-how-to-maintain-sanity-3al7)
+(https://en.wikipedia.org/wiki/Favicon)
 
+
+# Register Service Worker
+
+https://vite-pwa-org.netlify.app/guide/register-service-worker
+
+do not create any file vite do everything itself 
+injectRegister: 'script'
+
+# Service Worker Precache
 

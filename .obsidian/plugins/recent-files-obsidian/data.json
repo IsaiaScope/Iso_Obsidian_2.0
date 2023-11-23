@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Setup Ionic PWA",
+      "path": "Ionic/PWA/Data/Setup Ionic PWA.md"
+    },
+    {
       "basename": "Developing",
       "path": "Ionic/Data/Developing.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Mediator",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Mediator.md"
-    },
-    {
-      "basename": "Memento",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Memento.md"
     }
   ],
   "omittedPaths": [],

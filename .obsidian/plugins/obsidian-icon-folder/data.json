@@ -117,5 +117,6 @@
   "Ionic/Files": "LiFiles",
   "React/Data": "TiDatabase",
   "React/Files": "LiFiles",
-  "React": "SiReact"
+  "React": "SiReact",
+  "Ionic/PWA/Data": "TiDatabase"
 }

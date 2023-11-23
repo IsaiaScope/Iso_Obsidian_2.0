@@ -5,6 +5,10 @@
       "path": "Ionic/PWA/Data/Setup Ionic PWA.md"
     },
     {
+      "basename": "env",
+      "path": "Ionic/old/env.md"
+    },
+    {
       "basename": "Developing",
       "path": "Ionic/Data/Developing.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Observer",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Observer.md"
-    },
-    {
-      "basename": "Mediator",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Mediator.md"
     }
   ],
   "omittedPaths": [],

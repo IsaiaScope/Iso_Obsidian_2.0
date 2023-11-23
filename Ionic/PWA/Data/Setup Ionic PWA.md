@@ -63,5 +63,12 @@ https://vite-pwa-org.netlify.app/guide/register-service-worker
 do not create any file vite do everything itself 
 injectRegister: 'script'
 
-# Service Worker Precache
+
+
+# Manifest Props
+
+(https://developer.mozilla.org/en-US/docs/Web/Manifest)
+
+
+# PWA icons
 

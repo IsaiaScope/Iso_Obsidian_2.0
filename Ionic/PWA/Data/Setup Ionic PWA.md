@@ -28,6 +28,22 @@ The result is a folder in the root project called icons, where images for the pw
 
 ---
 
+```html
+<head>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>My Awesome App</title>
+  <meta name="description" content="My Awesome App description">
+  
+  <link rel="icon" href="/favicon.ico">
+  
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+  
+  <link rel="mask-icon" href="/mask-icon.svg" color="#FFFFFF">
+  
+  <meta name="theme-color" content="#ffffff">
+</head>
+```
+
 
 (https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html)
 
@@ -36,3 +52,6 @@ The result is a folder in the root project called icons, where images for the pw
 (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name/theme-color)
 
 (https://www.leereamsnyder.com/favicons-in-2021)
+(https://dev.to/masakudamatsu/favicon-nightmare-how-to-maintain-sanity-3al7)
+
+

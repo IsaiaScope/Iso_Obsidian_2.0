@@ -15,13 +15,13 @@ Make sure to have `@capacitor/assets` inside `devDependencies`
 npm install --save-dev @capacitor/assets
 ```
 
-- Create an `assets` or `resources` folder on root level or add as follow
+- Create an `assets` or `resources` folder on root level or add as follow and a `capacitor` subfolder
 
   - `--assetPath <path>` - Path to the assets directory for your project. By default will check `assets` and `resources` directories, in that order.
   - indie this folder add _logo.png/svg_, _logo-dark.png/svg_
 
 ```bash
-npx @capacitor/assets generate --iconBackgroundColor '#ffffff' --iconBackgroundColorDark '#000000' --splashBackgroundColor '#ffffff' --splashBackgroundColorDark '#000000'  --ios --android
+npx @capacitor/assets generate --iconBackgroundColor '#ffffff' --iconBackgroundColorDark '#000000' --splashBackgroundColor '#ffffff' --splashBackgroundColorDark '#000000' --assetPath '/resources/capacitor'  --ios --android
 ```
 
 The result is a folder in the root project called icons, where images for the pwa are hold, and _the manifest is automatically update_

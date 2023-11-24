@@ -1,6 +1,6 @@
 # Manifest
 
-
+https://web.dev/articles/add-manifest
 
 ```json
 {

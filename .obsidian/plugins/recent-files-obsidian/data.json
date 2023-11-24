@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Service Worker",
+      "path": "Ionic/PWA/Data/Service Worker.md"
+    },
+    {
       "basename": "Manifest",
       "path": "Ionic/PWA/Data/Manifest.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Strategy",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Strategy.md"
-    },
-    {
-      "basename": "Template Method",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Template Method.md"
     }
   ],
   "omittedPaths": [],

@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Understanding PWA",
+      "path": "Ionic/PWA/Data/Understanding PWA.md"
+    },
+    {
       "basename": "Service Worker",
       "path": "Ionic/PWA/Data/Service Worker.md"
     },
     {
       "basename": "Manifest",
       "path": "Ionic/PWA/Data/Manifest.md"
-    },
-    {
-      "basename": "Understanding PWA",
-      "path": "Ionic/PWA/Data/Understanding PWA.md"
     },
     {
       "basename": "Setup Ionic PWA",

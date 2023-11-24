@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Understanding PWA",
+      "path": "Ionic/PWA/Data/Understanding PWA.md"
+    },
+    {
       "basename": "Setup Ionic PWA",
       "path": "Ionic/PWA/Data/Setup Ionic PWA.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "State",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/State.md"
-    },
-    {
-      "basename": "Observer",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Observer.md"
     }
   ],
   "omittedPaths": [],

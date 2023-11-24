@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Service Worker",
+      "path": "Ionic/PWA/Data/Service Worker.md"
+    },
+    {
       "basename": "Understanding PWA",
       "path": "Ionic/PWA/Data/Understanding PWA.md"
     },
     {
-      "basename": "Service Worker",
-      "path": "Ionic/PWA/Data/Service Worker.md"
+      "basename": "SW Lifecycle 2",
+      "path": "Ionic/PWA/Files/SW Lifecycle 2.png"
+    },
+    {
+      "basename": "Prompt",
+      "path": "Ionic/Data/Prompt.md"
+    },
+    {
+      "basename": "SW Lifecycle 3",
+      "path": "Ionic/PWA/Files/SW Lifecycle 3.png"
+    },
+    {
+      "basename": "SW - Thread",
+      "path": "Ionic/PWA/Files/SW - Thread.png"
+    },
+    {
+      "basename": "SW Lifecycle 1",
+      "path": "Ionic/PWA/Files/SW Lifecycle 1.png"
+    },
+    {
+      "basename": "env",
+      "path": "Ionic/old/env.md"
     },
     {
       "basename": "Manifest",
@@ -17,20 +41,12 @@
       "path": "Ionic/PWA/Data/Setup Ionic PWA.md"
     },
     {
-      "basename": "env",
-      "path": "Ionic/old/env.md"
-    },
-    {
       "basename": "Developing",
       "path": "Ionic/Data/Developing.md"
     },
     {
       "basename": "Set Up Android Studio",
       "path": "Ionic/Data/Set Up Android Studio.md"
-    },
-    {
-      "basename": "Prompt",
-      "path": "Ionic/Data/Prompt.md"
     },
     {
       "basename": "Debugging",
@@ -183,22 +199,6 @@
     {
       "basename": "Summary",
       "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
-    },
-    {
-      "basename": "Design Patterns in JavaScript",
-      "path": "Certificates/Udemy/JavaScript/Design Patterns in JavaScript.pdf"
-    },
-    {
-      "basename": "Visitor",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Visitor.md"
-    },
-    {
-      "basename": "Strategy",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Strategy.md"
     }
   ],
   "omittedPaths": [],

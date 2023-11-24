@@ -1,17 +1,60 @@
 # Service Worker
 
-Service Worker are on a different thread they dont have access to the DOM, are background services 
-![[Pasted image 20231124103317.png]]
-https://www.youtube.com/watch?v=hxiggHZOGlQ&list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7&index=6
+## Theory
 
-Service Worker Lifecycle
-![[Pasted image 20231124103547.png]]
+Service worker are on a different thread they dont have access to the DOM as other java-script file, are background services listening for events
+Service worker must be in root folder to access all server resources
+[[SW - Thread.png]]
+
+## Lifecycle
+
+We need to register our service worker by another java-script file as in follow `app.js`
+When a service worker is registered an `install event is fired` just once
+After being installed service worker becomes active and `active event is fired` and it access all different pages and files and intercept events and messages or HTTP requests
+[[SW Lifecycle 1.png]]
+
+---
+
+This lifecycle fire first time and retrigger if files into service worker changes after a deploy
+Refreshing the page doesn't delete service worker witch stay on our browser
+So if nothing change `istall event` and `active event` dont fire anymore
+
+[[SW Lifecycle 2.png]]
+
+---
+
+If something change the `install event` is fired but not the `active event`, and the service worker become in `waiting status`
+The browser still use old version on service worker until the new version become active, this could happen on page refresh or when user close and reopen the site tab
+In other word the new versione become active after being installed on site refresh not before
+
+[[SW Lifecycle 3.png]]
+
+---
+
+## Register a service worker
+
+remember to add this file to HTML or export that function into an another script already imported
+
+```js
+if ("serviceWorker" in navigator) {
+	window.addEventListener("load", () => {
+		navigator.serviceWorker
+			.register("/sw.js", { scope: "/" })
+			.then((req) => console.log(`[PWA] sw register successfully `, req))
+			.catch((e) => console.log(`[PWA] sw register error`, e));
+	});
+}
+```
+
+---
+
+## to order
+
+https://www.youtube.com/watch?v=hxiggHZOGlQ&list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7&index=6
 
 https://web.dev/articles/service-worker-lifecycle
 
-
-
-remember  "include": ["src", "public/pwa/snippets/sw.ts"], ts config and  ", "WebWorker"], in lib
+remember  "include": ["src", "public/pwa/snippets/sw.ts"], ts config and ", "WebWorker"], in lib
 
 ### Cleanup Outdated Caches[​](https://vite-pwa-org.netlify.app/guide/inject-manifest#cleanup-outdated-caches)
 

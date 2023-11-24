@@ -1,6 +1,9 @@
 # Manifest
 
-https://web.dev/articles/add-manifest
+- [MDN - Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest)
+- [Add a web app manifest](https://web.dev/articles/add-manifest)
+
+## Example
 
 ```json
 {

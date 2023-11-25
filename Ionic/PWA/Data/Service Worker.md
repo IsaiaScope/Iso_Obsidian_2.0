@@ -70,6 +70,8 @@ Good files to cache are file dont change too much, like asset. We dont want to c
 
 ### Cache
 
+assets contains the request urls that also are keys to serve the cache data. In other words contains a list of file urls and when our application calls that specific file, with a fetch request that request are not made and instead cache data is served; this happen just if we are in offline mode.
+
 
 
 ---

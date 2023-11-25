@@ -48,7 +48,17 @@ if ("serviceWorker" in navigator) {
 
 ---
 
-## Fetch Event 
+# Service Worker Events
+
+https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API
+
+## Fetch Event
+
+Service worker can active as proxy and intercept HTTPS request. Later on is possible to cache data and decide to serve that instead on API call avoid an extra HTTPS request
+
+[[Pasted image 20231125102752.png]]
+
+---
 
 ## to order
 

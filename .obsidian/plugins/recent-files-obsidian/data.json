@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "PWA Installation",
+      "path": "Ionic/PWA/Data/PWA Installation.md"
+    },
+    {
       "basename": "Service Worker",
       "path": "Ionic/PWA/Data/Service Worker.md"
     },
     {
-      "basename": "Cache Storage",
-      "path": "Ionic/PWA/Files/Cache Storage.png"
+      "basename": "Prompt",
+      "path": "Ionic/Data/Prompt.md"
+    },
+    {
+      "basename": "env",
+      "path": "Ionic/old/env.md"
     },
     {
       "basename": "Understanding PWA",
       "path": "Ionic/PWA/Data/Understanding PWA.md"
     },
     {
-      "basename": "env",
-      "path": "Ionic/old/env.md"
+      "basename": "Manifest",
+      "path": "Ionic/PWA/Data/Manifest.md"
+    },
+    {
+      "basename": "Setup Ionic PWA",
+      "path": "Ionic/PWA/Data/Setup Ionic PWA.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Ionic/Dashboard.md"
+    },
+    {
+      "basename": "Cache Storage",
+      "path": "Ionic/PWA/Files/Cache Storage.png"
     },
     {
       "basename": "Offline Mode",
@@ -29,10 +49,6 @@
       "path": "Ionic/PWA/Files/SW Lifecycle 2.png"
     },
     {
-      "basename": "Prompt",
-      "path": "Ionic/Data/Prompt.md"
-    },
-    {
       "basename": "SW Lifecycle 3",
       "path": "Ionic/PWA/Files/SW Lifecycle 3.png"
     },
@@ -45,14 +61,6 @@
       "path": "Ionic/PWA/Files/SW Lifecycle 1.png"
     },
     {
-      "basename": "Manifest",
-      "path": "Ionic/PWA/Data/Manifest.md"
-    },
-    {
-      "basename": "Setup Ionic PWA",
-      "path": "Ionic/PWA/Data/Setup Ionic PWA.md"
-    },
-    {
       "basename": "Developing",
       "path": "Ionic/Data/Developing.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "Debugging",
       "path": "Ionic/Data/Debugging.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Ionic/Dashboard.md"
     },
     {
       "basename": "Set Up Android Studio - Versioning SDK",
@@ -195,10 +199,6 @@
     {
       "basename": "Selecting by Attribute",
       "path": "Style/CSS/Data/Selecting by Attribute.md"
-    },
-    {
-      "basename": "@extend",
-      "path": "Style/SASS/@extend.md"
     }
   ],
   "omittedPaths": [],

@@ -48,6 +48,8 @@ if ("serviceWorker" in navigator) {
 
 ---
 
+## Fetch Event 
+
 ## to order
 
 https://www.youtube.com/watch?v=hxiggHZOGlQ&list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7&index=6

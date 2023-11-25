@@ -140,7 +140,11 @@ self.addEventListener("fetch", (evt) => {
 					})
 				);
 			})
-			.catch(() => caches.match("/pages/fallback.html"))
+			.catch(() => {
+				if (evt.request.url.indexOf(".html") > -1) {
+					return caches.match("/pages/fallback.html");
+				}
+			})
 	);
 });
 ```

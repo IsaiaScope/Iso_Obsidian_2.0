@@ -80,7 +80,7 @@ _the data in cache store is just a HTTPS Path used as key and the response data 
 
 [[Cache Storage.png]]
 
-Note: check the response that we are caching because maybe some sub resources are called and also that API must be added to the assets 
+Note: check the response that we are caching because maybe some sub resources are called and also that API must be added to the assets
 
 ```js
 const staticCacheName = "site-static";
@@ -113,13 +113,34 @@ self.addEventListener("install", (evt) => {
 in fetch event can manage the response and serve our cache data,
 If data is present in the cache serve that or do the fetch request `cacheRes || fetch(evt.request)`
 
+#### Dynamic Caching
+
+If we want to update automatically cache every time API is called we can do as follow.
+Those API are calls _not included_ in `assets array`
+`cache.put()` do the update
+
 ```js
+const staticCacheName = "site-static-v2";
+const dynamicCacheName = "site-dynamic-v1";
+
 // fetch event
 self.addEventListener("fetch", (evt) => {
+	//console.log('fetch event', evt);
 	evt.respondWith(
-		caches.match(evt.request).then((cacheRes) => {
-			return cacheRes || fetch(evt.request);
-		})
+		caches
+			.match(evt.request)
+			.then((cacheRes) => {
+				return (
+					cacheRes ||
+					fetch(evt.request).then((fetchRes) => {
+						return caches.open(dynamicCacheName).then((cache) => {
+							cache.put(evt.request.url, fetchRes.clone());
+							return fetchRes;
+						});
+					})
+				);
+			})
+			.catch(() => caches.match("/pages/fallback.html"))
 	);
 });
 ```
@@ -128,24 +149,27 @@ self.addEventListener("fetch", (evt) => {
 
 Doing a change to a file, we need to resave that into the cache so we can create a new version and delete the old one, because cache storage keep old versions inside browser memory
 
-If we dont delete old cache the browser doesn't know where take the correct data and could response with the old one 
+If we dont delete old cache the browser doesn't know where take the correct data and could response with the old one
 
 `caches.keys()` return and array of key names off different caches stored
 
 ```js
-const staticCacheName = 'site-static-v2';
+const staticCacheName = "site-static-v2";
+const dynamicCacheName = "site-dynamic-v1";
+
 // activate event
-self.addEventListener('activate', evt => {
-  //console.log('service worker activated');
-  evt.waitUntil(
-    caches.keys().then(keys => {
-      //console.log(keys);
-      return Promise.all(keys
-        .filter(key => key !== staticCacheName)
-        .map(key => caches.delete(key))
-      );
-    })
-  );
+self.addEventListener("activate", (evt) => {
+	//console.log('service worker activated');
+	evt.waitUntil(
+		caches.keys().then((keys) => {
+			//console.log(keys);
+			return Promise.all(
+				keys
+					.filter((key) => key !== staticCacheName && key !== dynamicCacheName)
+					.map((key) => caches.delete(key))
+			);
+		})
+	);
 });
 ```
 

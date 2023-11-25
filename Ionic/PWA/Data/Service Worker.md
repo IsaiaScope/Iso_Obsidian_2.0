@@ -135,6 +135,8 @@ self.addEventListener("fetch", (evt) => {
 					fetch(evt.request).then((fetchRes) => {
 						return caches.open(dynamicCacheName).then((cache) => {
 							cache.put(evt.request.url, fetchRes.clone());
+							// check cached items size
+							limitCacheSize(dynamicCacheName, 15);
 							return fetchRes;
 						});
 					})
@@ -175,6 +177,21 @@ self.addEventListener("activate", (evt) => {
 		})
 	);
 });
+```
+
+### Limiting Cache Size
+
+```js
+// cache size limit function
+const limitCacheSize = (name, size) => {
+	caches.open(name).then((cache) => {
+		cache.keys().then((keys) => {
+			if (keys.length > size) {
+				cache.delete(keys[0]).then(limitCacheSize(name, size));
+			}
+		});
+	});
+};
 ```
 
 ## to order

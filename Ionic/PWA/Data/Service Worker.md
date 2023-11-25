@@ -68,6 +68,8 @@ Without connection service worker could use resources from cache storage that is
 
 Good files to cache are file dont change too much, like asset. We dont want to cache every time maybe just when files in service worker change so `install event` is a good place where add some logic because that event fire when a new version of service worker is deployed 
 
+### Cache
+
 
 
 ---

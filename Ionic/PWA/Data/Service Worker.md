@@ -124,7 +124,30 @@ self.addEventListener("fetch", (evt) => {
 });
 ```
 
----
+### Cache Versioning
+
+Doing a change to a file, we need to resave that into the cache so we can create a new version and delete the old one, because cache storage keep old versions inside browser memory
+
+If we dont delete old cache the browser doesn't know where take the correct data and could response with the old one 
+
+`caches.keys()` return and array of key names off different caches stored
+
+```js
+const staticCacheName = 'site-static-v2';
+// activate event
+self.addEventListener('activate', evt => {
+  //console.log('service worker activated');
+  evt.waitUntil(
+    caches.keys().then(keys => {
+      //console.log(keys);
+      return Promise.all(keys
+        .filter(key => key !== staticCacheName)
+        .map(key => caches.delete(key))
+      );
+    })
+  );
+});
+```
 
 ## to order
 

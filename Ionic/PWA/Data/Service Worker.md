@@ -66,13 +66,63 @@ Without connection service worker could use resources from cache storage that is
 
 [[Offline Mode.png]]
 
-Good files to cache are file dont change too much, like asset. We dont want to cache every time maybe just when files in service worker change so `install event` is a good place where add some logic because that event fire when a new version of service worker is deployed 
+Good files to cache are file dont change too much, like asset. We dont want to cache every time maybe just when files in service worker change so `install event` is a good place where add some logic because that event fire when a new version of service worker is deployed
 
-### Cache
+## Cache
 
-assets contains the request urls that also are keys to serve the cache data. In other words contains a list of file urls and when our application calls that specific file, with a fetch request that request are not made and instead cache data is served; this happen just if we are in offline mode.
+### Precache Request in Assets
 
+`assets` contains the request urls that also are keys to serve the cache data. In other words contains a list of file urls and when our application calls that specific file, with a fetch request that request are not made and instead cache data is served; this happen just if we are in offline mode.
 
+`waitUntil()` is necessary because the install event is very fast so caching could be skipped or not complete in time
+
+_the data in cache store is just a HTTPS Path used as key and the response data of that specific API call_
+
+[[Cache Storage.png]]
+
+Note: check the response that we are caching because maybe some sub resources are called and also that API must be added to the assets 
+
+```js
+const staticCacheName = "site-static";
+const assets = [
+	"/",
+	"/index.html",
+	"/js/app.js",
+	"/js/ui.js",
+	"/js/materialize.min.js",
+	"/css/styles.css",
+	"/css/materialize.min.css",
+	"/img/dish.png",
+	"https://fonts.googleapis.com/icon?family=Material+Icons",
+	"https://fonts.gstatic.com/s/materialicons/v47/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2",
+	"/pages/fallback.html",
+];
+
+// install event
+self.addEventListener("install", (evt) => {
+	evt.waitUntil(
+		caches.open(staticCacheName).then((cache) => {
+			cache.addAll(assets);
+		})
+	);
+});
+```
+
+### Getting Cached Assets as Response
+
+in fetch event can manage the response and serve our cache data,
+If data is present in the cache serve that or do the fetch request `cacheRes || fetch(evt.request)`
+
+```js
+// fetch event
+self.addEventListener("fetch", (evt) => {
+	evt.respondWith(
+		caches.match(evt.request).then((cacheRes) => {
+			return cacheRes || fetch(evt.request);
+		})
+	);
+});
+```
 
 ---
 

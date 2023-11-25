@@ -5,6 +5,10 @@
       "path": "Ionic/PWA/Data/Service Worker.md"
     },
     {
+      "basename": "Cache Storage",
+      "path": "Ionic/PWA/Files/Cache Storage.png"
+    },
+    {
       "basename": "Understanding PWA",
       "path": "Ionic/PWA/Data/Understanding PWA.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "@extend",
       "path": "Style/SASS/@extend.md"
-    },
-    {
-      "basename": "git merge",
-      "path": "Git and GitHub/Git/Prompt/git merge.md"
     }
   ],
   "omittedPaths": [],

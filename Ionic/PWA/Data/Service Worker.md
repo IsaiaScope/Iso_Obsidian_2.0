@@ -56,7 +56,19 @@ https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API
 
 Service worker can active as proxy and intercept HTTPS request. Later on is possible to cache data and decide to serve that instead on API call avoid an extra HTTPS request
 
-[[Pasted image 20231125102752.png]]
+[[Fetch Event.png]]
+
+---
+
+## Offline Mode
+
+Without connection service worker could use resources from cache storage that is a different on from the network one, to serve data on HTTPS request or other situation where internet is needed
+
+[[Offline Mode.png]]
+
+Good files to cache are file dont change too much, like asset. We dont want to cache every time maybe just when files in service worker change so `install event` is a good place where add some logic because that event fire when a new version of service worker is deployed 
+
+
 
 ---
 

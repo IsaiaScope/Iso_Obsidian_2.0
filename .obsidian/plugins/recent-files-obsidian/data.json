@@ -9,6 +9,18 @@
       "path": "Ionic/PWA/Data/Understanding PWA.md"
     },
     {
+      "basename": "env",
+      "path": "Ionic/old/env.md"
+    },
+    {
+      "basename": "Offline Mode",
+      "path": "Ionic/PWA/Files/Offline Mode.png"
+    },
+    {
+      "basename": "Fetch Event",
+      "path": "Ionic/PWA/Files/Fetch Event.png"
+    },
+    {
       "basename": "SW Lifecycle 2",
       "path": "Ionic/PWA/Files/SW Lifecycle 2.png"
     },
@@ -27,10 +39,6 @@
     {
       "basename": "SW Lifecycle 1",
       "path": "Ionic/PWA/Files/SW Lifecycle 1.png"
-    },
-    {
-      "basename": "env",
-      "path": "Ionic/old/env.md"
     },
     {
       "basename": "Manifest",
@@ -191,14 +199,6 @@
     {
       "basename": "git merge",
       "path": "Git and GitHub/Git/Prompt/git merge.md"
-    },
-    {
-      "basename": "git init",
-      "path": "Git and GitHub/Git/Prompt/git init.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
     }
   ],
   "omittedPaths": [],

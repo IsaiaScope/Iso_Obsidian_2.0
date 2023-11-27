@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "PWA Installation",
-      "path": "Ionic/PWA/Data/PWA Installation.md"
-    },
-    {
       "basename": "Service Worker",
       "path": "Ionic/PWA/Data/Service Worker.md"
+    },
+    {
+      "basename": "PWA Installation",
+      "path": "Ionic/PWA/Data/PWA Installation.md"
     },
     {
       "basename": "Prompt",

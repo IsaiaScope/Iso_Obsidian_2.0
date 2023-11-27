@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Service Worker",
-      "path": "Ionic/PWA/Data/Service Worker.md"
+      "basename": "Developing",
+      "path": "Ionic/Data/Developing.md"
     },
     {
-      "basename": "PWA Installation",
-      "path": "Ionic/PWA/Data/PWA Installation.md"
+      "basename": "Set Up Android Studio",
+      "path": "Ionic/Data/Set Up Android Studio.md"
     },
     {
       "basename": "Prompt",
       "path": "Ionic/Data/Prompt.md"
     },
     {
-      "basename": "env",
-      "path": "Ionic/old/env.md"
+      "basename": "Debugging",
+      "path": "Ionic/Data/Debugging.md"
+    },
+    {
+      "basename": "Setup Ionic PWA",
+      "path": "Ionic/PWA/Data/Setup Ionic PWA.md"
     },
     {
       "basename": "Understanding PWA",
@@ -25,8 +29,16 @@
       "path": "Ionic/PWA/Data/Manifest.md"
     },
     {
-      "basename": "Setup Ionic PWA",
-      "path": "Ionic/PWA/Data/Setup Ionic PWA.md"
+      "basename": "Service Worker",
+      "path": "Ionic/PWA/Data/Service Worker.md"
+    },
+    {
+      "basename": "PWA Installation",
+      "path": "Ionic/PWA/Data/PWA Installation.md"
+    },
+    {
+      "basename": "env",
+      "path": "Ionic/old/env.md"
     },
     {
       "basename": "Dashboard",
@@ -59,18 +71,6 @@
     {
       "basename": "SW Lifecycle 1",
       "path": "Ionic/PWA/Files/SW Lifecycle 1.png"
-    },
-    {
-      "basename": "Developing",
-      "path": "Ionic/Data/Developing.md"
-    },
-    {
-      "basename": "Set Up Android Studio",
-      "path": "Ionic/Data/Set Up Android Studio.md"
-    },
-    {
-      "basename": "Debugging",
-      "path": "Ionic/Data/Debugging.md"
     },
     {
       "basename": "Set Up Android Studio - Versioning SDK",

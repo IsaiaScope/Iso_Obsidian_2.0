@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Workbook",
+      "path": "Excel/Data/Workbook.md"
+    },
+    {
+      "basename": "Fundamentals",
+      "path": "Excel/Data/Fundamentals.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Excel/Dashboard.md"
     },
@@ -9,20 +17,12 @@
       "path": "Excel/Data/Chart.md"
     },
     {
-      "basename": "Workbook",
-      "path": "Excel/Data/Workbook.md"
-    },
-    {
       "basename": "CommonExcelWindowsShortcuts-01",
       "path": "Excel/Files/PDF/CommonExcelWindowsShortcuts-01.pdf"
     },
     {
       "basename": "PresentingDataEffectivelywithExcelCharts-01",
       "path": "Excel/Files/PDF/PresentingDataEffectivelywithExcelCharts-01.pdf"
-    },
-    {
-      "basename": "Fundamentals",
-      "path": "Excel/Data/Fundamentals.md"
     },
     {
       "basename": "Bind Chart Title to a Cell",

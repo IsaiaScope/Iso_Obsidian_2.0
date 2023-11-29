@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Entering and Editing Text and Formulas",
-      "path": "Excel/Data/Entering and Editing Text and Formulas.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Excel/Dashboard.md"
+      "basename": "Workbook",
+      "path": "Excel/Data/Workbook.md"
     },
     {
       "basename": "Fundamentals",
       "path": "Excel/Data/Fundamentals.md"
     },
     {
+      "basename": "Change Formatting options",
+      "path": "Excel/Files/Images/Change Formatting options.png"
+    },
+    {
       "basename": "CommonExcelWindowsShortcuts-01",
       "path": "Excel/Files/PDF/CommonExcelWindowsShortcuts-01.pdf"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Excel/Dashboard.md"
     },
     {
       "basename": "Work sheets",
@@ -191,14 +195,6 @@
     {
       "basename": "index",
       "path": "React/libs/Tanstack/index.md"
-    },
-    {
-      "basename": "Developing",
-      "path": "Ionic/Data/Developing.md"
-    },
-    {
-      "basename": "Set Up Android Studio",
-      "path": "Ionic/Data/Set Up Android Studio.md"
     }
   ],
   "omittedPaths": [],

@@ -6,16 +6,14 @@ tags:
 
 # Excel
 
-[[CommonExcelWindowsShortcuts-01.pdf |Shortcuts]]
-
-## Fundamentals
-
 [[Fundamentals]]
+[[Workbook]]
+[[Chart]]
 
 ---
 
-## Workbook
+## Shortcuts
 
-[[Workbook]]
+[[CommonExcelWindowsShortcuts-01.pdf |Shortcuts]]
 
 ---

@@ -1,20 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "test.excalidraw",
-      "path": "Drawing/test.excalidraw.md"
+      "basename": "Dashboard",
+      "path": "Ionic/Dashboard.md"
     },
     {
-      "basename": "test.excalidraw",
-      "path": "Drawing/test.excalidraw.svg"
+      "basename": "Git Behind The Scene",
+      "path": "Git and GitHub/Git/Data/Git Behind The Scene.md"
+    },
+    {
+      "basename": "get-started",
+      "path": "React/libs/Tanstack/data/V4/get-started.md"
+    },
+    {
+      "basename": "createContext()&useContext()",
+      "path": "React/Data/hooks/createContext()&useContext().md"
+    },
+    {
+      "basename": "Context (This) versus scope",
+      "path": "Fastify/Data/Book/Theory/Context (This) versus scope.md"
+    },
+    {
+      "basename": "provider-Cmdlets",
+      "path": "PowerShell/data/provider-Cmdlets.md"
+    },
+    {
+      "basename": "prompt",
+      "path": "Road to Auth/fastify/data/prompt.md"
+    },
+    {
+      "basename": "prompt",
+      "path": "Road to Auth/prisma/data/prompt.md"
+    },
+    {
+      "basename": "index",
+      "path": "PowerShell/index.md"
+    },
+    {
+      "basename": "providers",
+      "path": "PowerShell/data/providers.md"
     },
     {
       "basename": "index",
       "path": "React/index.md"
     },
     {
-      "basename": "createContext()&useContext()",
-      "path": "React/Data/hooks/createContext()&useContext().md"
+      "basename": "test.excalidraw",
+      "path": "Drawing/test.excalidraw.md"
+    },
+    {
+      "basename": "test.excalidraw",
+      "path": "Drawing/test.excalidraw.svg"
     },
     {
       "basename": "custom-hook",
@@ -75,10 +111,6 @@
     {
       "basename": "env",
       "path": "Ionic/old/env.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Ionic/Dashboard.md"
     },
     {
       "basename": "Cache Storage",
@@ -167,38 +199,6 @@
     {
       "basename": "Summary",
       "path": "Fastify/Data/Book/Summary.md"
-    },
-    {
-      "basename": "DOC Resources",
-      "path": "Fastify/Data/DOC Resources.md"
-    },
-    {
-      "basename": "Units",
-      "path": "Style/CSS/Data/Units.md"
-    },
-    {
-      "basename": "Display Flex",
-      "path": "Style/CSS/Data/Display Flex.md"
-    },
-    {
-      "basename": "align-self",
-      "path": "Style/CSS/Files/align-self.png"
-    },
-    {
-      "basename": "Combinators",
-      "path": "Style/CSS/Data/Combinators.md"
-    },
-    {
-      "basename": "Display Grid",
-      "path": "Style/CSS/Data/Display Grid.md"
-    },
-    {
-      "basename": "border-box and content-box",
-      "path": "Style/CSS/Data/border-box and content-box.md"
-    },
-    {
-      "basename": "em & rem",
-      "path": "Style/CSS/Data/em & rem.md"
     }
   ],
   "omittedPaths": [],

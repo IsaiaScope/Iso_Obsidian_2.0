@@ -5,6 +5,10 @@
       "path": "Excel/Data/Workbook.md"
     },
     {
+      "basename": "Search for a function",
+      "path": "Excel/Files/Images/Search for a function.png"
+    },
+    {
       "basename": "Formulas Tab",
       "path": "Excel/Files/Images/Formulas Tab.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "rule-of-hooks",
       "path": "React/Data/hooks/rule-of-hooks.md"
-    },
-    {
-      "basename": "tools",
-      "path": "Accessibility/data/theory/tools.md"
     }
   ],
   "omittedPaths": [],

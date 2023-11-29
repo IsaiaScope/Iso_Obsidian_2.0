@@ -46,5 +46,13 @@ use `$`
 - [Functions](https://support.microsoft.com/en-us/office/excel-functions-alphabetical-b3944572-255d-4efb-bb96-c6d90033e188#bm19)
 - Under Formulas Tab
   - [[Formulas Tab.png]]
+- Search for a function
+  - [[Search for a function.png]]
+
+### Adjacent Cells Error in Excel Calculations
+
+_ignore error_, because Excel wants to add date to number because doesn't know the difference 
+
+
 
 ---

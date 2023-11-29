@@ -9,6 +9,30 @@
       "path": "Excel/Dashboard.md"
     },
     {
+      "basename": "Work sheets",
+      "path": "Excel/Files/Images/Work sheets.png"
+    },
+    {
+      "basename": "Excel Workbook",
+      "path": "Excel/Files/Images/Excel Workbook.png"
+    },
+    {
+      "basename": "Status Bar",
+      "path": "Excel/Files/Images/Status Bar.png"
+    },
+    {
+      "basename": "Quick Access Tool Bar",
+      "path": "Excel/Files/Images/Quick Access Tool Bar.png"
+    },
+    {
+      "basename": "Formula Bar",
+      "path": "Excel/Files/Images/Formula Bar.png"
+    },
+    {
+      "basename": "CommonExcelWindowsShortcuts-01",
+      "path": "Excel/Files/PDF/CommonExcelWindowsShortcuts-01.pdf"
+    },
+    {
       "basename": "HEAD ~",
       "path": "Git and GitHub/Git/Data/HEAD ~.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Debugging",
       "path": "Ionic/Data/Debugging.md"
-    },
-    {
-      "basename": "Setup Ionic PWA",
-      "path": "Ionic/PWA/Data/Setup Ionic PWA.md"
-    },
-    {
-      "basename": "Understanding PWA",
-      "path": "Ionic/PWA/Data/Understanding PWA.md"
-    },
-    {
-      "basename": "Manifest",
-      "path": "Ionic/PWA/Data/Manifest.md"
-    },
-    {
-      "basename": "Service Worker",
-      "path": "Ionic/PWA/Data/Service Worker.md"
-    },
-    {
-      "basename": "PWA Installation",
-      "path": "Ionic/PWA/Data/PWA Installation.md"
-    },
-    {
-      "basename": "env",
-      "path": "Ionic/old/env.md"
     }
   ],
   "omittedPaths": [],

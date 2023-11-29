@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiDatabase",
-      "IbDashboard",
-      "SiMicrosoftexcel",
-      "SiReact",
-      "SiSolidity"
+      "TiFileTypePdf",
+      "FarFilePdf",
+      "LiImage",
+      "FasImage",
+      "TiDatabase"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -122,5 +122,7 @@
   "Excel": "SiMicrosoftexcel",
   "Excel/Dashboard.md": "IbDashboard",
   "Excel/Files": "LiFiles",
-  "Excel/Data": "TiDatabase"
+  "Excel/Data": "TiDatabase",
+  "Excel/Files/Images": "LiImage",
+  "Excel/Files/PDF": "TiFileTypePdf"
 }

@@ -5,6 +5,10 @@
       "path": "Excel/Data/Workbook.md"
     },
     {
+      "basename": "Data Validation",
+      "path": "Excel/Files/Images/Data Validation.png"
+    },
+    {
       "basename": "DSUM()",
       "path": "Excel/Files/Images/DSUM().png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Dashboard",
       "path": "Figma/Dashboard.md"
-    },
-    {
-      "basename": "Remove extra margin",
-      "path": "Figma/Data/Remove extra margin.md"
     }
   ],
   "omittedPaths": [],

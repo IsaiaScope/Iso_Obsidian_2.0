@@ -168,3 +168,9 @@ helps to calculate the sum of a specific field/column in a database for selected
 #### DAVERAGE(), DCOUNT() & SUBTOTAL()
 
 ---
+
+## Data Validation
+
+[[Data Validation.png]]
+
+---

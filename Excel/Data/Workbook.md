@@ -51,8 +51,11 @@ use `$`
 
 ### Adjacent Cells Error in Excel Calculations
 
-_ignore error_, because Excel wants to add date to number because doesn't know the difference 
+_ignore error_, because Excel wants to add date to number because doesn't know the difference
 
+### AutoFill
 
+perform exact same formulas and value using same positions
+[[AutoFill.png]]
 
 ---

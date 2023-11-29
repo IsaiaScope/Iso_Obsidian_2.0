@@ -5,12 +5,16 @@
       "path": "Excel/Data/Workbook.md"
     },
     {
-      "basename": "Search for a function",
-      "path": "Excel/Files/Images/Search for a function.png"
+      "basename": "AutoFill",
+      "path": "Excel/Files/Images/AutoFill.png"
     },
     {
       "basename": "Formulas Tab",
       "path": "Excel/Files/Images/Formulas Tab.png"
+    },
+    {
+      "basename": "Search for a function",
+      "path": "Excel/Files/Images/Search for a function.png"
     },
     {
       "basename": "Absolute Cell References",
@@ -195,10 +199,6 @@
     {
       "basename": "custom-hook",
       "path": "React/Data/hooks/custom-hook.md"
-    },
-    {
-      "basename": "rule-of-hooks",
-      "path": "React/Data/hooks/rule-of-hooks.md"
     }
   ],
   "omittedPaths": [],

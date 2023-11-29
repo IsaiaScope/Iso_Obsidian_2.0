@@ -90,11 +90,18 @@ Cut/Copy - Paste between sheets
 
 ---
 
-##
+## Moving and Copying an Excel Worksheet
+
+copy or move a sheet to another excel file
+make sure that the other file is open on your machine
+[[Moving and Copying an Excel Worksheet.png]]
+
+How do you copy a worksheet?
+Hold down CTRL as you drag the worksheet tab
 
 ---
 
-##
+## 
 
 ---
 

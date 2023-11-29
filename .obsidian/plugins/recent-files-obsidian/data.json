@@ -9,6 +9,10 @@
       "path": "Excel/Files/Images/Change Formatting options.png"
     },
     {
+      "basename": "Moving and Copying an Excel Worksheet",
+      "path": "Excel/Files/Images/Moving and Copying an Excel Worksheet.png"
+    },
+    {
       "basename": "Hiding and Unhiding Excel Rows and Columns",
       "path": "Excel/Files/Images/Hiding and Unhiding Excel Rows and Columns.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "prompt",
       "path": "Road to Auth/prisma/data/prompt.md"
-    },
-    {
-      "basename": "index",
-      "path": "PowerShell/index.md"
     }
   ],
   "omittedPaths": [],

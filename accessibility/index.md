@@ -3,7 +3,7 @@
 	- [[semantic-HTML]]
 		- [[link]]
 		- [[input]]
-		- [[list]]
+		- [[Accessibility/data/tags/list]]
 		- [[button&checkbox]]
 		- [[contact-form]]
 		- [[navigation]]

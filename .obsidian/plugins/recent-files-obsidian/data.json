@@ -5,12 +5,20 @@
       "path": "Excel/Data/Workbook.md"
     },
     {
-      "basename": "Create Templates",
-      "path": "Excel/Files/Images/Create Templates.png"
+      "basename": "Sort & Multiple Sort",
+      "path": "Excel/Files/Images/Sort & Multiple Sort.png"
     },
     {
       "basename": "Fundamentals",
       "path": "Excel/Data/Fundamentals.md"
+    },
+    {
+      "basename": "wfcdwefwef",
+      "path": "Excel/Data/wfcdwefwef.md"
+    },
+    {
+      "basename": "Create Templates",
+      "path": "Excel/Files/Images/Create Templates.png"
     },
     {
       "basename": "Dashboard",
@@ -191,14 +199,6 @@
     {
       "basename": "Remove extra margin",
       "path": "Figma/Screenshot/Remove extra margin.png"
-    },
-    {
-      "basename": "index",
-      "path": "Accessibility/index.md"
-    },
-    {
-      "basename": "ARIA",
-      "path": "Accessibility/data/theory/ARIA.md"
     }
   ],
   "omittedPaths": [],

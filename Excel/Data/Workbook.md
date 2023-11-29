@@ -144,18 +144,12 @@ useful shapes to solve a lot of design
 
 ---
 
-##
+## List
 
----
+in a list no empty rows and always columns header
 
-##
+### Sort & Multiple Sort
 
----
-
-##
-
----
-
-##
+[[Sort & Multiple Sort.png]]
 
 ---

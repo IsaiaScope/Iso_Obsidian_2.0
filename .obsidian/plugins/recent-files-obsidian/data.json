@@ -1,8 +1,92 @@
 {
   "recentFiles": [
     {
+      "basename": "Prompt",
+      "path": "Ionic/Data/Prompt.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Ionic/Dashboard.md"
+    },
+    {
+      "basename": "Commands",
+      "path": "Prompt/Commands.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Figma/Dashboard.md"
+    },
+    {
+      "basename": "Remove extra margin",
+      "path": "Figma/Data/Remove extra margin.md"
+    },
+    {
+      "basename": "Remove extra margin",
+      "path": "Figma/Screenshot/Remove extra margin.png"
+    },
+    {
+      "basename": "index",
+      "path": "Accessibility/index.md"
+    },
+    {
+      "basename": "ARIA",
+      "path": "Accessibility/data/theory/ARIA.md"
+    },
+    {
+      "basename": "navigation",
+      "path": "Accessibility/data/tags/navigation.md"
+    },
+    {
+      "basename": "list",
+      "path": "Accessibility/data/tags/list.md"
+    },
+    {
+      "basename": "link",
+      "path": "Accessibility/data/tags/link.md"
+    },
+    {
+      "basename": "input",
+      "path": "Accessibility/data/tags/input.md"
+    },
+    {
+      "basename": "contact-form",
+      "path": "Accessibility/data/tags/contact-form.md"
+    },
+    {
+      "basename": "button&checkbox",
+      "path": "Accessibility/data/tags/button&checkbox.md"
+    },
+    {
+      "basename": "burger-menu",
+      "path": "Accessibility/data/examples/burger-menu.md"
+    },
+    {
+      "basename": "google-maps-iframe",
+      "path": "Accessibility/data/examples/google-maps-iframe.md"
+    },
+    {
+      "basename": "accessibility-udemy-theory",
+      "path": "Accessibility/data/files/accessibility-udemy-theory.pdf"
+    },
+    {
+      "basename": "form.png",
+      "path": "Accessibility/data/files/form.png.png"
+    },
+    {
+      "basename": "role.png",
+      "path": "Accessibility/data/files/role.png.png"
     },
     {
       "basename": "Git Behind The Scene",
@@ -69,20 +153,12 @@
       "path": "React/libs/Tanstack/index.md"
     },
     {
-      "basename": "index",
-      "path": "Accessibility/index.md"
-    },
-    {
       "basename": "Developing",
       "path": "Ionic/Data/Developing.md"
     },
     {
       "basename": "Set Up Android Studio",
       "path": "Ionic/Data/Set Up Android Studio.md"
-    },
-    {
-      "basename": "Prompt",
-      "path": "Ionic/Data/Prompt.md"
     },
     {
       "basename": "Debugging",
@@ -123,82 +199,6 @@
     {
       "basename": "Fetch Event",
       "path": "Ionic/PWA/Files/Fetch Event.png"
-    },
-    {
-      "basename": "SW Lifecycle 2",
-      "path": "Ionic/PWA/Files/SW Lifecycle 2.png"
-    },
-    {
-      "basename": "SW Lifecycle 3",
-      "path": "Ionic/PWA/Files/SW Lifecycle 3.png"
-    },
-    {
-      "basename": "SW - Thread",
-      "path": "Ionic/PWA/Files/SW - Thread.png"
-    },
-    {
-      "basename": "SW Lifecycle 1",
-      "path": "Ionic/PWA/Files/SW Lifecycle 1.png"
-    },
-    {
-      "basename": "Set Up Android Studio - Versioning SDK",
-      "path": "Ionic/Files/Set Up Android Studio - Versioning SDK.png"
-    },
-    {
-      "basename": "android-studio",
-      "path": "Ionic/old/android-studio.md"
-    },
-    {
-      "basename": "create-new-project",
-      "path": "Ionic/old/create-new-project.md"
-    },
-    {
-      "basename": "prompt",
-      "path": "Volta/prompt.md"
-    },
-    {
-      "basename": "theory",
-      "path": "Volta/theory.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "Fastify/Data/Book/Chapters/Overview.md"
-    },
-    {
-      "basename": "Project",
-      "path": "Fastify/Data/Book/Chapters/Project.md"
-    },
-    {
-      "basename": "SEBA Book",
-      "path": "Fastify/SEBA Book.pdf"
-    },
-    {
-      "basename": "Plugin",
-      "path": "Fastify/Data/Book/Chapters/Plugin.md"
-    },
-    {
-      "basename": "DashBoard",
-      "path": "Style/DashBoard.md"
-    },
-    {
-      "basename": "The Git and GitHub Bootcamp",
-      "path": "Certificates/Udemy/The Git and GitHub Bootcamp.pdf"
-    },
-    {
-      "basename": "Conquering Responsive Layouts",
-      "path": "Certificates/Kevin Powell/Conquering Responsive Layouts.pdf"
-    },
-    {
-      "basename": "Plugins and Libs",
-      "path": "Fastify/Data/Plugins and Libs.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Fastify/Data/Book/Summary.md"
     }
   ],
   "omittedPaths": [],

@@ -5,6 +5,10 @@
       "path": "Excel/Data/Workbook.md"
     },
     {
+      "basename": "Formulas Tab",
+      "path": "Excel/Files/Images/Formulas Tab.png"
+    },
+    {
       "basename": "Absolute Cell References",
       "path": "Excel/Files/Images/Absolute Cell References.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "tools",
       "path": "Accessibility/data/theory/tools.md"
-    },
-    {
-      "basename": "index",
-      "path": "React/libs/Tanstack/index.md"
     }
   ],
   "omittedPaths": [],

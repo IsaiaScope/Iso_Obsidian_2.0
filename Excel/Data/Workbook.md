@@ -165,4 +165,6 @@ Second use subtotal functionality
 helps to calculate the sum of a specific field/column in a database for selected records based on user-specified criteria
 [[DSUM().png]]
 
+#### DAVERAGE(), DCOUNT() & SUBTOTAL()
+
 ---

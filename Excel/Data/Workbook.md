@@ -156,7 +156,7 @@ in a list no empty rows and always columns header
 
 First step sort the list
 Second use subtotal functionality
-![[Subtotals.png]]
+[[Subtotals.png]]
 
 
 

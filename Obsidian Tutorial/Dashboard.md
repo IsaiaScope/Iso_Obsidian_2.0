@@ -4,6 +4,10 @@
 
 - [[Obsidian | Obsidian Markdown Note]]
 
+### Ricerche complesse
+
+- [[Ricerche complesse]]
+
 ---
 
 ## Plugins
@@ -22,5 +26,20 @@
 ## Canvas
 
 - [YouTube Video](https://www.youtube.com/watch?v=HFK3D7zeyTA)
+
+---
+
+## Properties
+
+- [Properties](https://help.obsidian.md/Editing+and+formatting/Properties)
+
+```
+---
+tags:
+- Excel
+linklist:
+- "[[Excel/Dashboard|Dashboard]]"
+---
+```
 
 ---

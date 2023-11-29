@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSearch",
       "TiFileTypePdf",
       "FarFilePdf",
       "LiImage",
-      "FasImage",
-      "TiDatabase"
+      "FasImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -124,5 +124,6 @@
   "Excel/Files": "LiFiles",
   "Excel/Data": "TiDatabase",
   "Excel/Files/Images": "LiImage",
-  "Excel/Files/PDF": "TiFileTypePdf"
+  "Excel/Files/PDF": "TiFileTypePdf",
+  "Obsidian Tutorial/Data/Ricerche complesse.md": "LiSearch"
 }

@@ -1,3 +1,8 @@
+---
+tags:
+  - Excel
+---
+
 # Workbook
 
 ## Text and Formulas
@@ -101,10 +106,14 @@ Hold down CTRL as you drag the worksheet tab
 
 ---
 
-##
+## Format Painter
+
+I want to apply that same formatting to another area on the same worksheet or even another worksheet
+
+[[Format Painter.png]]
 
 ---
 
-##
+## 
 
 ---

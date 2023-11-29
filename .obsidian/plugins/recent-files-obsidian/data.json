@@ -5,6 +5,38 @@
       "path": "Excel/Data/Workbook.md"
     },
     {
+      "basename": "Dashboard",
+      "path": "Excel/Dashboard.md"
+    },
+    {
+      "basename": "CommonExcelWindowsShortcuts-01",
+      "path": "Excel/Files/PDF/CommonExcelWindowsShortcuts-01.pdf"
+    },
+    {
+      "basename": "Fundamentals",
+      "path": "Excel/Data/Fundamentals.md"
+    },
+    {
+      "basename": "cycles-and-loops",
+      "path": "PowerShell/data/cycles-and-loops.md"
+    },
+    {
+      "basename": "card.excalidraw",
+      "path": "Drawing/Data/card.excalidraw.md"
+    },
+    {
+      "basename": "interceptor-refreshtoken",
+      "path": "Drawing/Rivers/interceptor-refreshtoken.md"
+    },
+    {
+      "basename": "dashboard.excalidraw",
+      "path": "Drawing/Data/dashboard.excalidraw.md"
+    },
+    {
+      "basename": "test.excalidraw",
+      "path": "Drawing/test.excalidraw.md"
+    },
+    {
       "basename": "Change Formatting options",
       "path": "Excel/Files/Images/Change Formatting options.png"
     },
@@ -33,10 +65,6 @@
       "path": "Excel/Files/Images/Select a row or a column.png"
     },
     {
-      "basename": "Fundamentals",
-      "path": "Excel/Data/Fundamentals.md"
-    },
-    {
       "basename": "AutoFill",
       "path": "Excel/Files/Images/AutoFill.png"
     },
@@ -51,14 +79,6 @@
     {
       "basename": "Absolute Cell References",
       "path": "Excel/Files/Images/Absolute Cell References.png"
-    },
-    {
-      "basename": "CommonExcelWindowsShortcuts-01",
-      "path": "Excel/Files/PDF/CommonExcelWindowsShortcuts-01.pdf"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Excel/Dashboard.md"
     },
     {
       "basename": "Work sheets",
@@ -179,26 +199,6 @@
     {
       "basename": "get-started",
       "path": "React/libs/Tanstack/data/V4/get-started.md"
-    },
-    {
-      "basename": "createContext()&useContext()",
-      "path": "React/Data/hooks/createContext()&useContext().md"
-    },
-    {
-      "basename": "Context (This) versus scope",
-      "path": "Fastify/Data/Book/Theory/Context (This) versus scope.md"
-    },
-    {
-      "basename": "provider-Cmdlets",
-      "path": "PowerShell/data/provider-Cmdlets.md"
-    },
-    {
-      "basename": "prompt",
-      "path": "Road to Auth/fastify/data/prompt.md"
-    },
-    {
-      "basename": "prompt",
-      "path": "Road to Auth/prisma/data/prompt.md"
     }
   ],
   "omittedPaths": [],

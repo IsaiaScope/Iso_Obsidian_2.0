@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Fundamentals",
+      "path": "Excel/Data/Fundamentals.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Excel/Dashboard.md"
+    },
+    {
+      "basename": "HEAD ~",
+      "path": "Git and GitHub/Git/Data/HEAD ~.md"
+    },
+    {
       "basename": "Prompt",
       "path": "Ionic/Data/Prompt.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "env",
       "path": "Ionic/old/env.md"
-    },
-    {
-      "basename": "Cache Storage",
-      "path": "Ionic/PWA/Files/Cache Storage.png"
-    },
-    {
-      "basename": "Offline Mode",
-      "path": "Ionic/PWA/Files/Offline Mode.png"
-    },
-    {
-      "basename": "Fetch Event",
-      "path": "Ionic/PWA/Files/Fetch Event.png"
     }
   ],
   "omittedPaths": [],

@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiReact",
-      "SiSolidity",
-      "LiFiles",
       "TiDatabase",
-      "IbDashboard"
+      "IbDashboard",
+      "SiMicrosoftexcel",
+      "SiReact",
+      "SiSolidity"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -118,5 +118,9 @@
   "React/Data": "TiDatabase",
   "React/Files": "LiFiles",
   "React": "SiReact",
-  "Ionic/PWA/Data": "TiDatabase"
+  "Ionic/PWA/Data": "TiDatabase",
+  "Excel": "SiMicrosoftexcel",
+  "Excel/Dashboard.md": "IbDashboard",
+  "Excel/Files": "LiFiles",
+  "Excel/Data": "TiDatabase"
 }

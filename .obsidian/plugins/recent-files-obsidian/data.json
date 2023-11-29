@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Chart",
+      "path": "Excel/Data/Chart.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Excel/Dashboard.md"
+    },
+    {
       "basename": "Workbook",
       "path": "Excel/Data/Workbook.md"
     },
     {
-      "basename": "Edit already applied rules 2",
-      "path": "Excel/Files/Images/Edit already applied rules 2.png"
+      "basename": "Inserting SmartArt",
+      "path": "Excel/Files/Images/Inserting SmartArt.png"
     },
     {
       "basename": "Fundamentals",
       "path": "Excel/Data/Fundamentals.md"
+    },
+    {
+      "basename": "Edit already applied rules 2",
+      "path": "Excel/Files/Images/Edit already applied rules 2.png"
     },
     {
       "basename": "Edit already applied rules 1",
@@ -27,10 +39,6 @@
     {
       "basename": "Dashboard",
       "path": "Obsidian Tutorial/Dashboard.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Excel/Dashboard.md"
     },
     {
       "basename": "Format Painter",
@@ -191,14 +199,6 @@
     {
       "basename": "input",
       "path": "Accessibility/data/tags/input.md"
-    },
-    {
-      "basename": "contact-form",
-      "path": "Accessibility/data/tags/contact-form.md"
-    },
-    {
-      "basename": "button&checkbox",
-      "path": "Accessibility/data/tags/button&checkbox.md"
     }
   ],
   "omittedPaths": [],

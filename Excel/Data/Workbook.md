@@ -40,3 +40,8 @@ use `$`
 [[Absolute Cell References.png]]
 
 ---
+
+## Excel Functions
+
+
+---

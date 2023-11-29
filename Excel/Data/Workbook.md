@@ -59,3 +59,45 @@ perform exact same formulas and value using same positions
 [[AutoFill.png]]
 
 ---
+
+## Moving and Copying Data in an Excel Worksheet
+
+[[Moving Data in an Excel.png]]
+Cut/Copy - Paste between sheets
+
+---
+
+## Inserting and Deleting Rows and Columns
+
+- Select a row or a column
+  - [[Select a row or a column.png]]
+- `ctrl +` (`ctrl shift =`) insert a row or a column
+
+---
+
+## Changing the Width and Height of Cells
+
+- Double click between column margin
+  - [[Changing the Width and Height of Cells 1.png]]
+- Multiple same time
+  - [[Changing the Width and Height of Cells 2.png]]
+
+---
+
+## Hiding and Unhiding Excel Rows and Columns
+
+[[Hiding and Unhiding Excel Rows and Columns.png]]
+
+---
+
+##
+
+---
+
+##
+
+---
+
+##
+
+---

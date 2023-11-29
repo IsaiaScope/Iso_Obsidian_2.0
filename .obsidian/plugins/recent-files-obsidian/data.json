@@ -5,6 +5,34 @@
       "path": "Excel/Data/Workbook.md"
     },
     {
+      "basename": "Change Formatting options",
+      "path": "Excel/Files/Images/Change Formatting options.png"
+    },
+    {
+      "basename": "Hiding and Unhiding Excel Rows and Columns",
+      "path": "Excel/Files/Images/Hiding and Unhiding Excel Rows and Columns.png"
+    },
+    {
+      "basename": "Changing the Width and Height of Cells 2",
+      "path": "Excel/Files/Images/Changing the Width and Height of Cells 2.png"
+    },
+    {
+      "basename": "Changing the Width and Height of Cells 1",
+      "path": "Excel/Files/Images/Changing the Width and Height of Cells 1.png"
+    },
+    {
+      "basename": "Moving Data in an Excel",
+      "path": "Excel/Files/Images/Moving Data in an Excel.png"
+    },
+    {
+      "basename": "Select a row or a column",
+      "path": "Excel/Files/Images/Select a row or a column.png"
+    },
+    {
+      "basename": "Fundamentals",
+      "path": "Excel/Data/Fundamentals.md"
+    },
+    {
       "basename": "AutoFill",
       "path": "Excel/Files/Images/AutoFill.png"
     },
@@ -19,14 +47,6 @@
     {
       "basename": "Absolute Cell References",
       "path": "Excel/Files/Images/Absolute Cell References.png"
-    },
-    {
-      "basename": "Fundamentals",
-      "path": "Excel/Data/Fundamentals.md"
-    },
-    {
-      "basename": "Change Formatting options",
-      "path": "Excel/Files/Images/Change Formatting options.png"
     },
     {
       "basename": "CommonExcelWindowsShortcuts-01",
@@ -179,26 +199,6 @@
     {
       "basename": "index",
       "path": "PowerShell/index.md"
-    },
-    {
-      "basename": "providers",
-      "path": "PowerShell/data/providers.md"
-    },
-    {
-      "basename": "index",
-      "path": "React/index.md"
-    },
-    {
-      "basename": "test.excalidraw",
-      "path": "Drawing/test.excalidraw.md"
-    },
-    {
-      "basename": "test.excalidraw",
-      "path": "Drawing/test.excalidraw.svg"
-    },
-    {
-      "basename": "custom-hook",
-      "path": "React/Data/hooks/custom-hook.md"
     }
   ],
   "omittedPaths": [],

@@ -5,12 +5,28 @@
       "path": "Excel/Data/Workbook.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Obsidian Tutorial/Dashboard.md"
+      "basename": "Edit already applied rules 2",
+      "path": "Excel/Files/Images/Edit already applied rules 2.png"
     },
     {
       "basename": "Fundamentals",
       "path": "Excel/Data/Fundamentals.md"
+    },
+    {
+      "basename": "Edit already applied rules 1",
+      "path": "Excel/Files/Images/Edit already applied rules 1.png"
+    },
+    {
+      "basename": "Using Conditional Formatting",
+      "path": "Excel/Files/Images/Using Conditional Formatting.png"
+    },
+    {
+      "basename": "Merging and Centering Cells",
+      "path": "Excel/Files/Images/Merging and Centering Cells.png"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Obsidian Tutorial/Dashboard.md"
     },
     {
       "basename": "Dashboard",
@@ -183,22 +199,6 @@
     {
       "basename": "button&checkbox",
       "path": "Accessibility/data/tags/button&checkbox.md"
-    },
-    {
-      "basename": "burger-menu",
-      "path": "Accessibility/data/examples/burger-menu.md"
-    },
-    {
-      "basename": "google-maps-iframe",
-      "path": "Accessibility/data/examples/google-maps-iframe.md"
-    },
-    {
-      "basename": "accessibility-udemy-theory",
-      "path": "Accessibility/data/files/accessibility-udemy-theory.pdf"
-    },
-    {
-      "basename": "form.png",
-      "path": "Accessibility/data/files/form.png.png"
     }
   ],
   "omittedPaths": [],

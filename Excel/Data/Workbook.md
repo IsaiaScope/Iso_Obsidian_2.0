@@ -114,6 +114,43 @@ I want to apply that same formatting to another area on the same worksheet or ev
 
 ---
 
-## 
+## Merging and Centering Cells
+
+[[Merging and Centering Cells.png]]
+
+---
+
+## Using Conditional Formatting
+
+[[Using Conditional Formatting.png]]
+
+Edit already applied rules
+
+[[Edit already applied rules 1.png]]
+[[Edit already applied rules 2.png]]
+
+---
+
+## Inserting Images
+
+---
+
+##
+
+---
+
+##
+
+---
+
+##
+
+---
+
+##
+
+---
+
+##
 
 ---

@@ -5,6 +5,10 @@
       "path": "Excel/Data/Workbook.md"
     },
     {
+      "basename": "DSUM()",
+      "path": "Excel/Files/Images/DSUM().png"
+    },
+    {
       "basename": "Subtotals",
       "path": "Excel/Files/Images/Subtotals.png"
     },

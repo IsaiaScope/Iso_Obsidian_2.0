@@ -158,6 +158,11 @@ First step sort the list
 Second use subtotal functionality
 [[Subtotals.png]]
 
+### List Functions
 
+#### DSUM()
+
+helps to calculate the sum of a specific field/column in a database for selected records based on user-specified criteria
+[[DSUM().png]]
 
 ---

@@ -31,5 +31,12 @@ the way that you reference a value or a location within your Excel worksheet
 
 ### Relative Versus Absolute Cell References in Formulas
 
+_Relative_
+relative references really just based on its position.
+It's going to move in a specific direction.
+_Absolute_
+absolute references that absolutely reference this cell.
+use `$`
+[[Absolute Cell References.png]]
 
 ---

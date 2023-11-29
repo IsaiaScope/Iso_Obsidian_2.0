@@ -5,6 +5,10 @@
       "path": "Excel/Data/Workbook.md"
     },
     {
+      "basename": "Absolute Cell References",
+      "path": "Excel/Files/Images/Absolute Cell References.png"
+    },
+    {
       "basename": "Fundamentals",
       "path": "Excel/Data/Fundamentals.md"
     },

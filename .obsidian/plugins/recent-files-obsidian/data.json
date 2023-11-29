@@ -5,16 +5,16 @@
       "path": "Excel/Data/Workbook.md"
     },
     {
-      "basename": "Sort & Multiple Sort",
-      "path": "Excel/Files/Images/Sort & Multiple Sort.png"
+      "basename": "Subtotals",
+      "path": "Excel/Files/Images/Subtotals.png"
     },
     {
       "basename": "Fundamentals",
       "path": "Excel/Data/Fundamentals.md"
     },
     {
-      "basename": "wfcdwefwef",
-      "path": "Excel/Data/wfcdwefwef.md"
+      "basename": "Sort & Multiple Sort",
+      "path": "Excel/Files/Images/Sort & Multiple Sort.png"
     },
     {
       "basename": "Create Templates",
@@ -195,10 +195,6 @@
     {
       "basename": "Remove extra margin",
       "path": "Figma/Data/Remove extra margin.md"
-    },
-    {
-      "basename": "Remove extra margin",
-      "path": "Figma/Screenshot/Remove extra margin.png"
     }
   ],
   "omittedPaths": [],

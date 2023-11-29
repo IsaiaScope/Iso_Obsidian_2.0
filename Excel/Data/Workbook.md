@@ -148,8 +148,16 @@ useful shapes to solve a lot of design
 
 in a list no empty rows and always columns header
 
-### Sort & Multiple Sort
+### Sort & Multiple Sort & Filter
 
 [[Sort & Multiple Sort.png]]
+
+### Creating Subtotals in a List
+
+First step sort the list
+Second use subtotal functionality
+![[Subtotals.png]]
+
+
 
 ---

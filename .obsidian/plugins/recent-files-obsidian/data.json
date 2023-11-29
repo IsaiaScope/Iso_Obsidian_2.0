@@ -5,6 +5,10 @@
       "path": "Excel/Data/Workbook.md"
     },
     {
+      "basename": "Create Templates",
+      "path": "Excel/Files/Images/Create Templates.png"
+    },
+    {
       "basename": "Fundamentals",
       "path": "Excel/Data/Fundamentals.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ARIA",
       "path": "Accessibility/data/theory/ARIA.md"
-    },
-    {
-      "basename": "navigation",
-      "path": "Accessibility/data/tags/navigation.md"
     }
   ],
   "omittedPaths": [],

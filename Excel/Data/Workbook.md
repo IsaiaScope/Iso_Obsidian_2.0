@@ -138,7 +138,9 @@ useful shapes to solve a lot of design
 
 ---
 
-## Templates
+## Create Templates
+
+[[Create Templates.png]]
 
 ---
 

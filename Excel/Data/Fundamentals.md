@@ -31,3 +31,9 @@ Work sheets
 ![[Work sheets.png]]
 
 ---
+
+## Saving an Excel Document
+
+Standard formata 2023 - _.xlsx_
+
+---

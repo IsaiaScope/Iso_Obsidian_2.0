@@ -17,5 +17,13 @@ Make you data as a table first, Drag Field to build the table
 add for example currency maker to total sum or change sum() into an another function
 [[Formatting PivotTable Data.png]]
 
----
 
+
+## Drilling Down into PivotTable Data
+
+Double click on a row in Pivot Table create a new sheet with all data relative to that line
+
+
+
+
+---

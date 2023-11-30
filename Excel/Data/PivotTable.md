@@ -23,7 +23,14 @@ add for example currency maker to total sum or change sum() into an another func
 
 Double click on a row in Pivot Table create a new sheet with all data relative to that line
 
+## Filtering with the Slicer Tool
+
+[[Filtering with the Slicer Tool.png]]
 
 
 
 ---
+
+# Power Pivot
+
+ [Power Pivot](https://support.microsoft.com/it-it/office/power-pivot-potente-strumento-di-analisi-e-creazione-di-modelli-di-dati-in-excel-a9c2c6e2-cc49-4976-a7d7-40896795d045)

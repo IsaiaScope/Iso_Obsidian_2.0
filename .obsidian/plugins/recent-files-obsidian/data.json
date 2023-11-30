@@ -5,6 +5,10 @@
       "path": "Excel/Data/PivotTable.md"
     },
     {
+      "basename": "Filtering with the Slicer Tool",
+      "path": "Excel/Files/Images/Filtering with the Slicer Tool.png"
+    },
+    {
       "basename": "Formatting PivotTable Data",
       "path": "Excel/Files/Images/Formatting PivotTable Data.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Commands",
       "path": "Prompt/Commands.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
     }
   ],
   "omittedPaths": [],

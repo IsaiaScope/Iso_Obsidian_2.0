@@ -7,5 +7,15 @@ tags:
 
 A PivotTable is a powerful tool to calculate, summarize, and analyze data that lets you see comparisons, patterns, and trends in your data. PivotTables work a little bit differently depending on what platform you are using to run Excel.
 
-Drag Field
-![[Pasted image 20231130162212.png]]
+Make you data as a table first, Drag Field to build the table
+[[Drag Field to build the table.png]]
+
+
+
+## Formatting PivotTable Data
+
+add for example currency maker to total sum or change sum() into an another function
+[[Formatting PivotTable Data.png]]
+
+---
+

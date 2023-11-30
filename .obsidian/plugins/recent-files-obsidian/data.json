@@ -5,6 +5,14 @@
       "path": "Excel/Data/PivotTable.md"
     },
     {
+      "basename": "Formatting PivotTable Data",
+      "path": "Excel/Files/Images/Formatting PivotTable Data.png"
+    },
+    {
+      "basename": "Drag Field to build the table",
+      "path": "Excel/Files/Images/Drag Field to build the table.png"
+    },
+    {
       "basename": "Dashboard",
       "path": "Excel/Dashboard.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Summary",
       "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
     }
   ],
   "omittedPaths": [],

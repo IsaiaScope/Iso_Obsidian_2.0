@@ -175,6 +175,14 @@ helps to calculate the sum of a specific field/column in a database for selected
 
 ---
 
+## Calculation between multiple worksheet
 
-##
+[[Calculation between multiple worksheet.png]]
 
+### Consolidating Data from Multiple Worksheets
+
+Reference multiple table on multiple sheets together
+
+[[Consolidating Data from Multiple Worksheets.png]]
+
+---

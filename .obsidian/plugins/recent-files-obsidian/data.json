@@ -5,8 +5,20 @@
       "path": "Excel/Data/Workbook.md"
     },
     {
+      "basename": "Consolidating Data from Multiple Worksheets",
+      "path": "Excel/Files/Images/Consolidating Data from Multiple Worksheets.png"
+    },
+    {
+      "basename": "Fundamentals",
+      "path": "Excel/Data/Fundamentals.md"
+    },
+    {
       "basename": "PivotTable",
       "path": "Excel/Data/PivotTable.md"
+    },
+    {
+      "basename": "Calculation between multiple worksheet",
+      "path": "Excel/Files/Images/Calculation between multiple worksheet.png"
     },
     {
       "basename": "ManagingAndSummarizingLargeExcelDatasets-01",
@@ -27,10 +39,6 @@
     {
       "basename": "Dashboard",
       "path": "Excel/Dashboard.md"
-    },
-    {
-      "basename": "Fundamentals",
-      "path": "Excel/Data/Fundamentals.md"
     },
     {
       "basename": "Data Validation",
@@ -191,14 +199,6 @@
     {
       "basename": "HEAD ~",
       "path": "Git and GitHub/Git/Data/HEAD ~.md"
-    },
-    {
-      "basename": "Prompt",
-      "path": "Ionic/Data/Prompt.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Ionic/Dashboard.md"
     }
   ],
   "omittedPaths": [],

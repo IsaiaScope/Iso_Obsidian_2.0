@@ -9,6 +9,7 @@ tags:
 [[Fundamentals]]
 [[Workbook]]
 [[Chart]]
+[[PivotTable]]
 
 ---
 

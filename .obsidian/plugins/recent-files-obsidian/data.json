@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Workbook",
+      "path": "Excel/Data/Workbook.md"
+    },
+    {
       "basename": "PivotTable",
       "path": "Excel/Data/PivotTable.md"
+    },
+    {
+      "basename": "ManagingAndSummarizingLargeExcelDatasets-01",
+      "path": "Excel/Files/PDF/ManagingAndSummarizingLargeExcelDatasets-01.pdf"
     },
     {
       "basename": "Filtering with the Slicer Tool",
@@ -19,10 +27,6 @@
     {
       "basename": "Dashboard",
       "path": "Excel/Dashboard.md"
-    },
-    {
-      "basename": "Workbook",
-      "path": "Excel/Data/Workbook.md"
     },
     {
       "basename": "Fundamentals",
@@ -195,10 +199,6 @@
     {
       "basename": "Dashboard",
       "path": "Ionic/Dashboard.md"
-    },
-    {
-      "basename": "Commands",
-      "path": "Prompt/Commands.md"
     }
   ],
   "omittedPaths": [],

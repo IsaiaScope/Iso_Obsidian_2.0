@@ -5,6 +5,18 @@
       "path": "Excel/Data/Workbook.md"
     },
     {
+      "basename": "Excel's IF() Function with a Name Range",
+      "path": "Excel/Files/Images/Excel's IF() Function with a Name Range.png"
+    },
+    {
+      "basename": "Editing an Excel Name Range",
+      "path": "Excel/Files/Images/Editing an Excel Name Range.png"
+    },
+    {
+      "basename": "Working with Excel Name Ranges",
+      "path": "Excel/Files/Images/Working with Excel Name Ranges.png"
+    },
+    {
       "basename": "Consolidating Data from Multiple Worksheets",
       "path": "Excel/Files/Images/Consolidating Data from Multiple Worksheets.png"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Status Bar",
       "path": "Excel/Files/Images/Status Bar.png"
-    },
-    {
-      "basename": "Quick Access Tool Bar",
-      "path": "Excel/Files/Images/Quick Access Tool Bar.png"
-    },
-    {
-      "basename": "Formula Bar",
-      "path": "Excel/Files/Images/Formula Bar.png"
-    },
-    {
-      "basename": "HEAD ~",
-      "path": "Git and GitHub/Git/Data/HEAD ~.md"
     }
   ],
   "omittedPaths": [],

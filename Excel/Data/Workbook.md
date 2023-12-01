@@ -186,3 +186,22 @@ Reference multiple table on multiple sheets together
 [[Consolidating Data from Multiple Worksheets.png]]
 
 ---
+
+## Working with Excel Name Ranges
+
+naming a cell or range of cell is useful for referring that cell/range in absolute way and between sheets
+[[Working with Excel Name Ranges.png]]
+
+### Editing an Excel Name Range
+
+![[Editing an Excel Name Range.png]]
+
+---
+
+## Excel's IF() Function with a Name Range
+
+is possible to use also absolute reference
+
+[[Excel's IF() Function with a Name Range.png]]
+
+---

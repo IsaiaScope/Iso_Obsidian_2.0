@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Excel/Dashboard.md"
+    },
+    {
       "basename": "Workbook",
       "path": "Excel/Data/Workbook.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "Drag Field to build the table",
       "path": "Excel/Files/Images/Drag Field to build the table.png"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Excel/Dashboard.md"
     },
     {
       "basename": "Data Validation",

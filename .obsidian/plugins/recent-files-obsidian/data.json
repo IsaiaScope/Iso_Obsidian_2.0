@@ -1,28 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Excel/Dashboard.md"
-    },
-    {
       "basename": "Workbook",
       "path": "Excel/Data/Workbook.md"
-    },
-    {
-      "basename": "Excel's IF() Function with a Name Range",
-      "path": "Excel/Files/Images/Excel's IF() Function with a Name Range.png"
-    },
-    {
-      "basename": "Editing an Excel Name Range",
-      "path": "Excel/Files/Images/Editing an Excel Name Range.png"
     },
     {
       "basename": "Working with Excel Name Ranges",
       "path": "Excel/Files/Images/Working with Excel Name Ranges.png"
     },
     {
-      "basename": "Consolidating Data from Multiple Worksheets",
-      "path": "Excel/Files/Images/Consolidating Data from Multiple Worksheets.png"
+      "basename": "Excel's IF() Function with a Name Range",
+      "path": "Excel/Files/Images/Excel's IF() Function with a Name Range.png"
+    },
+    {
+      "basename": "dashboard.excalidraw",
+      "path": "Drawing/Data/dashboard.excalidraw.md"
+    },
+    {
+      "basename": "interceptor-refreshtoken",
+      "path": "Drawing/Rivers/interceptor-refreshtoken.md"
+    },
+    {
+      "basename": "test.excalidraw",
+      "path": "Drawing/test.excalidraw.md"
+    },
+    {
+      "basename": "card.excalidraw",
+      "path": "Drawing/Data/card.excalidraw.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Excel/Dashboard.md"
     },
     {
       "basename": "Fundamentals",
@@ -31,6 +39,26 @@
     {
       "basename": "PivotTable",
       "path": "Excel/Data/PivotTable.md"
+    },
+    {
+      "basename": "Chart",
+      "path": "Excel/Data/Chart.md"
+    },
+    {
+      "basename": "Creating Accessible Websites",
+      "path": "Certificates/Udemy/Accessibility/Creating Accessible Websites.pdf"
+    },
+    {
+      "basename": "Web Design Accessibility",
+      "path": "Certificates/Udemy/Accessibility/Web Design Accessibility.jpg"
+    },
+    {
+      "basename": "Editing an Excel Name Range",
+      "path": "Excel/Files/Images/Editing an Excel Name Range.png"
+    },
+    {
+      "basename": "Consolidating Data from Multiple Worksheets",
+      "path": "Excel/Files/Images/Consolidating Data from Multiple Worksheets.png"
     },
     {
       "basename": "Calculation between multiple worksheet",
@@ -71,10 +99,6 @@
     {
       "basename": "Create Templates",
       "path": "Excel/Files/Images/Create Templates.png"
-    },
-    {
-      "basename": "Chart",
-      "path": "Excel/Data/Chart.md"
     },
     {
       "basename": "CommonExcelWindowsShortcuts-01",
@@ -121,10 +145,6 @@
       "path": "Excel/Files/Images/Format Painter.png"
     },
     {
-      "basename": "card.excalidraw",
-      "path": "Drawing/Data/card.excalidraw.md"
-    },
-    {
       "basename": "cycles-and-loops",
       "path": "PowerShell/data/cycles-and-loops.md"
     },
@@ -135,18 +155,6 @@
     {
       "basename": "Ricerche complesse",
       "path": "Obsidian Tutorial/Data/Ricerche complesse.md"
-    },
-    {
-      "basename": "interceptor-refreshtoken",
-      "path": "Drawing/Rivers/interceptor-refreshtoken.md"
-    },
-    {
-      "basename": "dashboard.excalidraw",
-      "path": "Drawing/Data/dashboard.excalidraw.md"
-    },
-    {
-      "basename": "test.excalidraw",
-      "path": "Drawing/test.excalidraw.md"
     },
     {
       "basename": "Change Formatting options",
@@ -191,14 +199,6 @@
     {
       "basename": "Work sheets",
       "path": "Excel/Files/Images/Work sheets.png"
-    },
-    {
-      "basename": "Excel Workbook",
-      "path": "Excel/Files/Images/Excel Workbook.png"
-    },
-    {
-      "basename": "Status Bar",
-      "path": "Excel/Files/Images/Status Bar.png"
     }
   ],
   "omittedPaths": [],

@@ -194,7 +194,7 @@ naming a cell or range of cell is useful for referring that cell/range in absolu
 
 ### Editing an Excel Name Range
 
-![[Editing an Excel Name Range.png]]
+[[Editing an Excel Name Range.png]]
 
 ---
 

@@ -5,16 +5,16 @@
       "path": "Excel/Data/VBA.md"
     },
     {
+      "basename": "Dashboard",
+      "path": "Excel/Dashboard.md"
+    },
+    {
       "basename": "Workbook",
       "path": "Excel/Data/Workbook.md"
     },
     {
       "basename": "MasterExcelAdvancedFunctionsFormulas-01",
       "path": "Excel/Files/PDF/MasterExcelAdvancedFunctionsFormulas-01.pdf"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Excel/Dashboard.md"
     },
     {
       "basename": "Working with Excel Name Ranges",

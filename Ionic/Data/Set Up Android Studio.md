@@ -1,3 +1,8 @@
+---
+tags: 
+- Ionic
+---
+
 # Set Up Android Studio Up
 
 I'm not sure if all of this steps are necessary but on the end of the road the app seems work fine

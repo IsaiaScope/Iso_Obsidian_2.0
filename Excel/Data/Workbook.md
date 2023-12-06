@@ -167,6 +167,8 @@ helps to calculate the sum of a specific field/column in a database for selected
 
 #### DAVERAGE(), DCOUNT() & SUBTOTAL()
 
+[[MasterExcelAdvancedFunctionsFormulas-01.pdf]]
+
 ---
 
 ## Data Validation

@@ -9,6 +9,10 @@
       "path": "Excel/Data/Workbook.md"
     },
     {
+      "basename": "MasterExcelAdvancedFunctionsFormulas-01",
+      "path": "Excel/Files/PDF/MasterExcelAdvancedFunctionsFormulas-01.pdf"
+    },
+    {
       "basename": "Dashboard",
       "path": "Excel/Dashboard.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Formulas Tab",
       "path": "Excel/Files/Images/Formulas Tab.png"
-    },
-    {
-      "basename": "Search for a function",
-      "path": "Excel/Files/Images/Search for a function.png"
     }
   ],
   "omittedPaths": [],

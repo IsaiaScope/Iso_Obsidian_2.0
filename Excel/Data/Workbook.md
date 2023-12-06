@@ -211,5 +211,6 @@ is possible to use also absolute reference
 Working with Excel's [Goal Seek Tool](https://support.microsoft.com/en-au/office/use-goal-seek-to-find-the-result-you-want-by-adjusting-an-input-value-320cb99e-f4a4-417f-b1c3-4f369d6e66c7)
 Working with Excel's [Solver Tool](https://www.solver.com/solver-tutorial-using-solver)
 Building Effective [Data Tables](https://www.excel-easy.com/examples/data-tables.html) in Excel
+Creating [Scenarios](https://www.customguide.com/excel/scenario-manager-excel) in Excel
 
 ---

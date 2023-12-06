@@ -10,6 +10,7 @@ tags:
 [[Workbook]]
 [[Chart]]
 [[PivotTable]]
+[[Macros]]
 
 ---
 

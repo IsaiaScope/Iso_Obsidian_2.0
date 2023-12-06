@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Macros",
+      "path": "Excel/Data/Macros.md"
+    },
+    {
       "basename": "Workbook",
       "path": "Excel/Data/Workbook.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Excel/Dashboard.md"
     },
     {
       "basename": "Working with Excel Name Ranges",
@@ -27,10 +35,6 @@
     {
       "basename": "card.excalidraw",
       "path": "Drawing/Data/card.excalidraw.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Excel/Dashboard.md"
     },
     {
       "basename": "Fundamentals",
@@ -195,10 +199,6 @@
     {
       "basename": "Search for a function",
       "path": "Excel/Files/Images/Search for a function.png"
-    },
-    {
-      "basename": "Work sheets",
-      "path": "Excel/Files/Images/Work sheets.png"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "git switch",
+      "path": "Git and GitHub/Git/Prompt/git switch.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "git branch",
+      "path": "Git and GitHub/Git/Prompt/git branch.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
       "basename": "Prompt",
       "path": "Ionic/Data/Prompt.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Format Painter",
       "path": "Excel/Files/Images/Format Painter.png"
-    },
-    {
-      "basename": "cycles-and-loops",
-      "path": "PowerShell/data/cycles-and-loops.md"
-    },
-    {
-      "basename": "Absolute Cell References",
-      "path": "Excel/Files/Images/Absolute Cell References.png"
-    },
-    {
-      "basename": "Ricerche complesse",
-      "path": "Obsidian Tutorial/Data/Ricerche complesse.md"
-    },
-    {
-      "basename": "Change Formatting options",
-      "path": "Excel/Files/Images/Change Formatting options.png"
     }
   ],
   "omittedPaths": [],

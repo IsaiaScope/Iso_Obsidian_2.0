@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "git switch",
-      "path": "Git and GitHub/Git/Prompt/git switch.md"
+      "basename": "git commit",
+      "path": "Git and GitHub/Git/Prompt/git commit.md"
+    },
+    {
+      "basename": "git revert",
+      "path": "Git and GitHub/Git/Prompt/git revert.md"
     },
     {
       "basename": "Summary",
       "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "git log",
+      "path": "Git and GitHub/Git/Prompt/git log.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Excel/Dashboard.md"
+    },
+    {
+      "basename": "Workbook",
+      "path": "Excel/Data/Workbook.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
+    },
+    {
+      "basename": "git switch",
+      "path": "Git and GitHub/Git/Prompt/git switch.md"
     },
     {
       "basename": "git branch",
@@ -51,14 +75,6 @@
     {
       "basename": "VBA",
       "path": "Excel/Data/VBA.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Excel/Dashboard.md"
-    },
-    {
-      "basename": "Workbook",
-      "path": "Excel/Data/Workbook.md"
     },
     {
       "basename": "MasterExcelAdvancedFunctionsFormulas-01",
@@ -183,22 +199,6 @@
     {
       "basename": "Edit already applied rules 1",
       "path": "Excel/Files/Images/Edit already applied rules 1.png"
-    },
-    {
-      "basename": "Using Conditional Formatting",
-      "path": "Excel/Files/Images/Using Conditional Formatting.png"
-    },
-    {
-      "basename": "Merging and Centering Cells",
-      "path": "Excel/Files/Images/Merging and Centering Cells.png"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Obsidian Tutorial/Dashboard.md"
-    },
-    {
-      "basename": "Format Painter",
-      "path": "Excel/Files/Images/Format Painter.png"
     }
   ],
   "omittedPaths": [],

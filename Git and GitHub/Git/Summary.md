@@ -49,5 +49,7 @@
 | _Revert or Reset a Merge_                              |                   [[git revert#Revert a Merge \| :TiFileSymlink:]]                    |
 | _Revert a specific file to a specific commit_          |              [[git checkout#Revert a specific file \| :TiFileSymlink:]]               |
 | _Update An Old Working Git Branch With Another Branch_ | [[git merge#Update An Old Working Git Branch With Another Branch \| :TiFileSymlink:]] |
+| _Reset Origin to A specific Commit_                    |            [[git reset#Reset Origin to A specific Commit \| :BoBxReset:]]             |
+| _Amend to A specific Commit Origin_                    |          [[git commit#Amend to A specific Commit Origin \| :BoBxGitCommit:]]          |
 
 ---

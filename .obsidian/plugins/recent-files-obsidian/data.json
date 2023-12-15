@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "git commit",
+      "path": "Git and GitHub/Git/Prompt/git commit.md"
+    },
+    {
+      "basename": "git revert",
+      "path": "Git and GitHub/Git/Prompt/git revert.md"
+    },
+    {
+      "basename": "git rebase",
+      "path": "Git and GitHub/GitHub/Prompt/git rebase.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
+    },
+    {
+      "basename": "git reset",
+      "path": "Git and GitHub/Git/Prompt/git reset.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Excel/Dashboard.md"
+    },
+    {
+      "basename": "git reset",
+      "path": "Git and GitHub/Git/Files/git reset.png"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Fastify/Dashboard.md"
+    },
+    {
+      "basename": "git log",
+      "path": "Git and GitHub/Git/Prompt/git log.md"
+    },
+    {
+      "basename": "TanStack Query 4",
+      "path": "Certificates/Udemy/React/TanStack Query 4.pdf"
+    },
+    {
+      "basename": "Web Design Accessibility",
+      "path": "Certificates/Udemy/Accessibility/Web Design Accessibility.jpg"
+    },
+    {
+      "basename": "Creating Accessible Websites",
+      "path": "Certificates/Udemy/Accessibility/Creating Accessible Websites.pdf"
+    },
+    {
       "basename": "Context (This) versus scope",
       "path": "Fastify/Data/Book/Theory/Context (This) versus scope.md"
     },
@@ -49,32 +105,8 @@
       "path": "Fastify/Data/Book/Summary.md"
     },
     {
-      "basename": "git commit",
-      "path": "Git and GitHub/Git/Prompt/git commit.md"
-    },
-    {
-      "basename": "git revert",
-      "path": "Git and GitHub/Git/Prompt/git revert.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
-      "basename": "git log",
-      "path": "Git and GitHub/Git/Prompt/git log.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Excel/Dashboard.md"
-    },
-    {
       "basename": "Workbook",
       "path": "Excel/Data/Workbook.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
     },
     {
       "basename": "git switch",
@@ -83,10 +115,6 @@
     {
       "basename": "git branch",
       "path": "Git and GitHub/Git/Prompt/git branch.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
     },
     {
       "basename": "Prompt",
@@ -165,40 +193,12 @@
       "path": "Excel/Data/Chart.md"
     },
     {
-      "basename": "Creating Accessible Websites",
-      "path": "Certificates/Udemy/Accessibility/Creating Accessible Websites.pdf"
-    },
-    {
-      "basename": "Web Design Accessibility",
-      "path": "Certificates/Udemy/Accessibility/Web Design Accessibility.jpg"
-    },
-    {
       "basename": "Editing an Excel Name Range",
       "path": "Excel/Files/Images/Editing an Excel Name Range.png"
     },
     {
       "basename": "Consolidating Data from Multiple Worksheets",
       "path": "Excel/Files/Images/Consolidating Data from Multiple Worksheets.png"
-    },
-    {
-      "basename": "Calculation between multiple worksheet",
-      "path": "Excel/Files/Images/Calculation between multiple worksheet.png"
-    },
-    {
-      "basename": "ManagingAndSummarizingLargeExcelDatasets-01",
-      "path": "Excel/Files/PDF/ManagingAndSummarizingLargeExcelDatasets-01.pdf"
-    },
-    {
-      "basename": "Filtering with the Slicer Tool",
-      "path": "Excel/Files/Images/Filtering with the Slicer Tool.png"
-    },
-    {
-      "basename": "Formatting PivotTable Data",
-      "path": "Excel/Files/Images/Formatting PivotTable Data.png"
-    },
-    {
-      "basename": "Drag Field to build the table",
-      "path": "Excel/Files/Images/Drag Field to build the table.png"
     }
   ],
   "omittedPaths": [],

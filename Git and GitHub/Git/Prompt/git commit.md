@@ -80,3 +80,21 @@ git commit --amend
 ```
 
 ---
+
+### Amend to A specific Commit Origin
+
+```bash
+ git add .
+```
+
+```bash
+git commit --amend
+```
+
+the fallowing code force the origin branch to be the same of the local one, be sure to be alone on that branch because can cause troubles in the team
+
+```bash
+git push -f origin <branch-name>
+```
+
+---

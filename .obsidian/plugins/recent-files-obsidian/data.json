@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "Context (This) versus scope",
+      "path": "Fastify/Data/Book/Theory/Context (This) versus scope.md"
+    },
+    {
+      "basename": "Handling boot and plugin errors",
+      "path": "Fastify/Data/Book/Theory/Handling boot and plugin errors.md"
+    },
+    {
+      "basename": "The after instance method",
+      "path": "Fastify/Data/Book/Theory/The after instance method.md"
+    },
+    {
+      "basename": "The register instance method",
+      "path": "Fastify/Data/Book/Theory/The register instance method.md"
+    },
+    {
+      "basename": "Fastify’s JSON Schema compilation workflow",
+      "path": "Fastify/Data/Book/Files/Fastify’s JSON Schema compilation workflow.png"
+    },
+    {
+      "basename": "Overview",
+      "path": "Fastify/Data/Book/Chapters/Overview.md"
+    },
+    {
+      "basename": "Validation and Serialization",
+      "path": "Fastify/Data/Book/Chapters/Validation and Serialization.md"
+    },
+    {
+      "basename": "Routes",
+      "path": "Fastify/Data/Book/Chapters/Routes.md"
+    },
+    {
+      "basename": "Plugin",
+      "path": "Fastify/Data/Book/Chapters/Plugin.md"
+    },
+    {
+      "basename": "Plugins and Libs",
+      "path": "Fastify/Data/Plugins and Libs.md"
+    },
+    {
+      "basename": "DOC Resources",
+      "path": "Fastify/Data/DOC Resources.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Fastify/Data/Book/Summary.md"
+    },
+    {
       "basename": "git commit",
       "path": "Git and GitHub/Git/Prompt/git commit.md"
     },
@@ -151,54 +199,6 @@
     {
       "basename": "Drag Field to build the table",
       "path": "Excel/Files/Images/Drag Field to build the table.png"
-    },
-    {
-      "basename": "Data Validation",
-      "path": "Excel/Files/Images/Data Validation.png"
-    },
-    {
-      "basename": "DSUM()",
-      "path": "Excel/Files/Images/DSUM().png"
-    },
-    {
-      "basename": "Subtotals",
-      "path": "Excel/Files/Images/Subtotals.png"
-    },
-    {
-      "basename": "Sort & Multiple Sort",
-      "path": "Excel/Files/Images/Sort & Multiple Sort.png"
-    },
-    {
-      "basename": "Create Templates",
-      "path": "Excel/Files/Images/Create Templates.png"
-    },
-    {
-      "basename": "CommonExcelWindowsShortcuts-01",
-      "path": "Excel/Files/PDF/CommonExcelWindowsShortcuts-01.pdf"
-    },
-    {
-      "basename": "PresentingDataEffectivelywithExcelCharts-01",
-      "path": "Excel/Files/PDF/PresentingDataEffectivelywithExcelCharts-01.pdf"
-    },
-    {
-      "basename": "Bind Chart Title to a Cell",
-      "path": "Excel/Files/Images/Bind Chart Title to a Cell.png"
-    },
-    {
-      "basename": "Moving a Chart to another Worksheet",
-      "path": "Excel/Files/Images/Moving a Chart to another Worksheet.png"
-    },
-    {
-      "basename": "Inserting SmartArt",
-      "path": "Excel/Files/Images/Inserting SmartArt.png"
-    },
-    {
-      "basename": "Edit already applied rules 2",
-      "path": "Excel/Files/Images/Edit already applied rules 2.png"
-    },
-    {
-      "basename": "Edit already applied rules 1",
-      "path": "Excel/Files/Images/Edit already applied rules 1.png"
     }
   ],
   "omittedPaths": [],

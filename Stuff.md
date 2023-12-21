@@ -35,3 +35,8 @@ C:\Program Files\Volta\;%LOCALAPPDATA%\Volta\bin;C:\Program Files\nodejs;C:\Pyth
 pc nuovo
 
 C:\Program Files\Volta\;C:\Python311\Scripts\;C:\Python311\;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%SYSTEMROOT%\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\starship\bin\;%NVM_HOME%;%NVM_SYMLINK%;C:\Program Files\nodejs\;C:\Program Files\Amazon\AWSCLIV2\
+
+
+```js
+npx kill-port 3000
+```

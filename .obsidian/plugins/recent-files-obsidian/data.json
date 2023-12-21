@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Stuff",
+      "path": "Stuff.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Excel/Dashboard.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "card.excalidraw",
       "path": "Drawing/Data/card.excalidraw.md"
-    },
-    {
-      "basename": "Editing an Excel Name Range",
-      "path": "Excel/Files/Images/Editing an Excel Name Range.png"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "Excel/Dashboard.md"
+    },
+    {
+      "basename": "Workbook",
+      "path": "Excel/Data/Workbook.md"
+    },
+    {
+      "basename": "VBA",
+      "path": "Excel/Data/VBA.md"
+    },
+    {
+      "basename": "PivotTable",
+      "path": "Excel/Data/PivotTable.md"
+    },
+    {
+      "basename": "Fundamentals",
+      "path": "Excel/Data/Fundamentals.md"
+    },
+    {
+      "basename": "Chart",
+      "path": "Excel/Data/Chart.md"
+    },
+    {
+      "basename": "Excel",
+      "path": "Certificates/Udemy/Excel.pdf"
+    },
+    {
       "basename": "git commit",
       "path": "Git and GitHub/Git/Prompt/git commit.md"
     },
@@ -23,10 +51,6 @@
     {
       "basename": "Summary",
       "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Excel/Dashboard.md"
     },
     {
       "basename": "git reset",
@@ -105,10 +129,6 @@
       "path": "Fastify/Data/Book/Summary.md"
     },
     {
-      "basename": "Workbook",
-      "path": "Excel/Data/Workbook.md"
-    },
-    {
       "basename": "git switch",
       "path": "Git and GitHub/Git/Prompt/git switch.md"
     },
@@ -149,10 +169,6 @@
       "path": "Ionic/Data/Developing.md"
     },
     {
-      "basename": "VBA",
-      "path": "Excel/Data/VBA.md"
-    },
-    {
       "basename": "MasterExcelAdvancedFunctionsFormulas-01",
       "path": "Excel/Files/PDF/MasterExcelAdvancedFunctionsFormulas-01.pdf"
     },
@@ -181,24 +197,8 @@
       "path": "Drawing/Data/card.excalidraw.md"
     },
     {
-      "basename": "Fundamentals",
-      "path": "Excel/Data/Fundamentals.md"
-    },
-    {
-      "basename": "PivotTable",
-      "path": "Excel/Data/PivotTable.md"
-    },
-    {
-      "basename": "Chart",
-      "path": "Excel/Data/Chart.md"
-    },
-    {
       "basename": "Editing an Excel Name Range",
       "path": "Excel/Files/Images/Editing an Excel Name Range.png"
-    },
-    {
-      "basename": "Consolidating Data from Multiple Worksheets",
-      "path": "Excel/Files/Images/Consolidating Data from Multiple Worksheets.png"
     }
   ],
   "omittedPaths": [],

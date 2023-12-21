@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiFileExcel2Fill",
       "SiMicrosoftpowerpoint",
       "LiSearch",
       "TiFileTypePdf",
-      "FarFilePdf",
-      "LiImage"
+      "FarFilePdf"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -126,5 +126,6 @@
   "Excel/Files/Images": "LiImage",
   "Excel/Files/PDF": "TiFileTypePdf",
   "Obsidian Tutorial/Data/Ricerche complesse.md": "LiSearch",
-  "Excel/Files/PP": "SiMicrosoftpowerpoint"
+  "Excel/Files/PP": "SiMicrosoftpowerpoint",
+  "Certificates/Udemy/Excel.pdf": "RiFileExcel2Fill"
 }

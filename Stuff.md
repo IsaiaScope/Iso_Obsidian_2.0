@@ -40,3 +40,7 @@ C:\Program Files\Volta\;C:\Python311\Scripts\;C:\Python311\;%SystemRoot%\system3
 ```js
 npx kill-port 3000
 ```
+
+```bash
+ngrok http http://localhost:3000 --domain=internal-dogfish-enjoyed.ngrok-free.app
+```

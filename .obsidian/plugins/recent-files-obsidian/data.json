@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Commands",
+      "path": "Prompt/Commands.md"
+    },
+    {
+      "basename": "rm",
+      "path": "Prompt/Windows/Data/rm.md"
+    },
+    {
+      "basename": "cd",
+      "path": "Prompt/Windows/Data/cd.md"
+    },
+    {
+      "basename": "touch",
+      "path": "Prompt/Linux/Data/touch.md"
+    },
+    {
       "basename": "Stuff",
       "path": "Stuff.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Excel/Dashboard.md"
+      "basename": "Chart",
+      "path": "Excel/Data/Chart.md"
     },
     {
-      "basename": "Workbook",
-      "path": "Excel/Data/Workbook.md"
+      "basename": "Fundamentals",
+      "path": "Excel/Data/Fundamentals.md"
     },
     {
       "basename": "VBA",
@@ -21,12 +37,12 @@
       "path": "Excel/Data/PivotTable.md"
     },
     {
-      "basename": "Fundamentals",
-      "path": "Excel/Data/Fundamentals.md"
+      "basename": "Workbook",
+      "path": "Excel/Data/Workbook.md"
     },
     {
-      "basename": "Chart",
-      "path": "Excel/Data/Chart.md"
+      "basename": "Dashboard",
+      "path": "Excel/Dashboard.md"
     },
     {
       "basename": "Excel",
@@ -183,22 +199,6 @@
     {
       "basename": "Excel's IF() Function with a Name Range",
       "path": "Excel/Files/Images/Excel's IF() Function with a Name Range.png"
-    },
-    {
-      "basename": "dashboard.excalidraw",
-      "path": "Drawing/Data/dashboard.excalidraw.md"
-    },
-    {
-      "basename": "interceptor-refreshtoken",
-      "path": "Drawing/Rivers/interceptor-refreshtoken.md"
-    },
-    {
-      "basename": "test.excalidraw",
-      "path": "Drawing/test.excalidraw.md"
-    },
-    {
-      "basename": "card.excalidraw",
-      "path": "Drawing/Data/card.excalidraw.md"
     }
   ],
   "omittedPaths": [],

@@ -1,28 +1,108 @@
 {
   "recentFiles": [
     {
-      "basename": "Commands",
-      "path": "Prompt/Commands.md"
+      "basename": "Dashboard",
+      "path": "DevOps/Dashboard.md"
     },
     {
-      "basename": "rm",
-      "path": "Prompt/Windows/Data/rm.md"
+      "basename": "Understanding PWA",
+      "path": "Ionic/PWA/Data/Understanding PWA.md"
+    },
+    {
+      "basename": "Setup Ionic PWA",
+      "path": "Ionic/PWA/Data/Setup Ionic PWA.md"
+    },
+    {
+      "basename": "Service Worker",
+      "path": "Ionic/PWA/Data/Service Worker.md"
+    },
+    {
+      "basename": "PWA Installation",
+      "path": "Ionic/PWA/Data/PWA Installation.md"
+    },
+    {
+      "basename": "Manifest",
+      "path": "Ionic/PWA/Data/Manifest.md"
+    },
+    {
+      "basename": "env",
+      "path": "Ionic/old/env.md"
+    },
+    {
+      "basename": "create-new-project",
+      "path": "Ionic/old/create-new-project.md"
+    },
+    {
+      "basename": "android-studio",
+      "path": "Ionic/old/android-studio.md"
+    },
+    {
+      "basename": "Set Up Android Studio - Versioning SDK",
+      "path": "Ionic/Files/Set Up Android Studio - Versioning SDK.png"
+    },
+    {
+      "basename": "Set Up Android Studio",
+      "path": "Ionic/Data/Set Up Android Studio.md"
+    },
+    {
+      "basename": "Prompt",
+      "path": "Ionic/Data/Prompt.md"
+    },
+    {
+      "basename": "Developing",
+      "path": "Ionic/Data/Developing.md"
+    },
+    {
+      "basename": "Debugging",
+      "path": "Ionic/Data/Debugging.md"
+    },
+    {
+      "basename": "Chart",
+      "path": "Excel/Data/Chart.md"
+    },
+    {
+      "basename": "Commands",
+      "path": "Prompt/Commands.md"
     },
     {
       "basename": "cd",
       "path": "Prompt/Windows/Data/cd.md"
     },
     {
+      "basename": "rm",
+      "path": "Prompt/Windows/Data/rm.md"
+    },
+    {
       "basename": "touch",
       "path": "Prompt/Linux/Data/touch.md"
     },
     {
-      "basename": "Stuff",
-      "path": "Stuff.md"
+      "basename": "Conquering Responsive Layouts",
+      "path": "Certificates/Kevin Powell/Conquering Responsive Layouts.pdf"
     },
     {
-      "basename": "Chart",
-      "path": "Excel/Data/Chart.md"
+      "basename": "Dashboard",
+      "path": "Obsidian Tutorial/Dashboard.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Markdown/Obsidian.md"
+    },
+    {
+      "basename": "DashBoard",
+      "path": "Style/DashBoard.md"
+    },
+    {
+      "basename": "@extend",
+      "path": "Style/SASS/@extend.md"
+    },
+    {
+      "basename": "align-self",
+      "path": "Style/CSS/Files/align-self.png"
+    },
+    {
+      "basename": "Stuff",
+      "path": "Stuff.md"
     },
     {
       "basename": "Fundamentals",
@@ -119,86 +199,6 @@
     {
       "basename": "Fastify’s JSON Schema compilation workflow",
       "path": "Fastify/Data/Book/Files/Fastify’s JSON Schema compilation workflow.png"
-    },
-    {
-      "basename": "Overview",
-      "path": "Fastify/Data/Book/Chapters/Overview.md"
-    },
-    {
-      "basename": "Validation and Serialization",
-      "path": "Fastify/Data/Book/Chapters/Validation and Serialization.md"
-    },
-    {
-      "basename": "Routes",
-      "path": "Fastify/Data/Book/Chapters/Routes.md"
-    },
-    {
-      "basename": "Plugin",
-      "path": "Fastify/Data/Book/Chapters/Plugin.md"
-    },
-    {
-      "basename": "Plugins and Libs",
-      "path": "Fastify/Data/Plugins and Libs.md"
-    },
-    {
-      "basename": "DOC Resources",
-      "path": "Fastify/Data/DOC Resources.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Fastify/Data/Book/Summary.md"
-    },
-    {
-      "basename": "git switch",
-      "path": "Git and GitHub/Git/Prompt/git switch.md"
-    },
-    {
-      "basename": "git branch",
-      "path": "Git and GitHub/Git/Prompt/git branch.md"
-    },
-    {
-      "basename": "Prompt",
-      "path": "Ionic/Data/Prompt.md"
-    },
-    {
-      "basename": "env",
-      "path": "Ionic/old/env.md"
-    },
-    {
-      "basename": "create-new-project",
-      "path": "Ionic/old/create-new-project.md"
-    },
-    {
-      "basename": "android-studio",
-      "path": "Ionic/old/android-studio.md"
-    },
-    {
-      "basename": "Set Up Android Studio - Versioning SDK",
-      "path": "Ionic/Files/Set Up Android Studio - Versioning SDK.png"
-    },
-    {
-      "basename": "Debugging",
-      "path": "Ionic/Data/Debugging.md"
-    },
-    {
-      "basename": "Set Up Android Studio",
-      "path": "Ionic/Data/Set Up Android Studio.md"
-    },
-    {
-      "basename": "Developing",
-      "path": "Ionic/Data/Developing.md"
-    },
-    {
-      "basename": "MasterExcelAdvancedFunctionsFormulas-01",
-      "path": "Excel/Files/PDF/MasterExcelAdvancedFunctionsFormulas-01.pdf"
-    },
-    {
-      "basename": "Working with Excel Name Ranges",
-      "path": "Excel/Files/Images/Working with Excel Name Ranges.png"
-    },
-    {
-      "basename": "Excel's IF() Function with a Name Range",
-      "path": "Excel/Files/Images/Excel's IF() Function with a Name Range.png"
     }
   ],
   "omittedPaths": [],

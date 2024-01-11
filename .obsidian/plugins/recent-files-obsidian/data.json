@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "git clone",
+      "path": "Git and GitHub/GitHub/Prompt/git clone.md"
+    },
+    {
+      "basename": "2) Prerequisites Info & Setup",
+      "path": "DevOps/Data/Sections/2) Prerequisites Info & Setup.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Obsidian Tutorial/Dashboard.md"
+    },
+    {
+      "basename": "Udemy-course",
+      "path": "Markdown/Udemy-course.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Markdown/Obsidian.md"
+    },
+    {
+      "basename": "Terraform",
+      "path": "DevOps/Files/Udemy Course/24.Terraform/Terraform.pdf"
+    },
+    {
+      "basename": "Git",
+      "path": "DevOps/Files/Udemy Course/13.Git/Git.pdf"
+    },
+    {
+      "basename": "DecoDevOpsUdemyIntro",
+      "path": "DevOps/Files/Udemy Course/01.Introduction/DecoDevOpsUdemyIntro.pdf"
+    },
+    {
+      "basename": "AtlassianDevOpsTrendsSurvey2020",
+      "path": "DevOps/Files/Udemy Course/01.Introduction/AtlassianDevOpsTrendsSurvey2020.pdf"
+    },
+    {
       "basename": "Dashboard",
       "path": "DevOps/Dashboard.md"
     },
@@ -79,14 +115,6 @@
     {
       "basename": "Conquering Responsive Layouts",
       "path": "Certificates/Kevin Powell/Conquering Responsive Layouts.pdf"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Obsidian Tutorial/Dashboard.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "Markdown/Obsidian.md"
     },
     {
       "basename": "DashBoard",
@@ -171,34 +199,6 @@
     {
       "basename": "TanStack Query 4",
       "path": "Certificates/Udemy/React/TanStack Query 4.pdf"
-    },
-    {
-      "basename": "Web Design Accessibility",
-      "path": "Certificates/Udemy/Accessibility/Web Design Accessibility.jpg"
-    },
-    {
-      "basename": "Creating Accessible Websites",
-      "path": "Certificates/Udemy/Accessibility/Creating Accessible Websites.pdf"
-    },
-    {
-      "basename": "Context (This) versus scope",
-      "path": "Fastify/Data/Book/Theory/Context (This) versus scope.md"
-    },
-    {
-      "basename": "Handling boot and plugin errors",
-      "path": "Fastify/Data/Book/Theory/Handling boot and plugin errors.md"
-    },
-    {
-      "basename": "The after instance method",
-      "path": "Fastify/Data/Book/Theory/The after instance method.md"
-    },
-    {
-      "basename": "The register instance method",
-      "path": "Fastify/Data/Book/Theory/The register instance method.md"
-    },
-    {
-      "basename": "Fastify’s JSON Schema compilation workflow",
-      "path": "Fastify/Data/Book/Files/Fastify’s JSON Schema compilation workflow.png"
     }
   ],
   "omittedPaths": [],

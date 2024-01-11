@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiDeviceDesktopAnalytics",
       "RiFileExcel2Fill",
       "SiMicrosoftpowerpoint",
       "LiSearch",
-      "TiFileTypePdf",
-      "FarFilePdf"
+      "TiFileTypePdf"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -127,5 +127,6 @@
   "Excel/Files/PDF": "TiFileTypePdf",
   "Obsidian Tutorial/Data/Ricerche complesse.md": "LiSearch",
   "Excel/Files/PP": "SiMicrosoftpowerpoint",
-  "Certificates/Udemy/Excel.pdf": "RiFileExcel2Fill"
+  "Certificates/Udemy/Excel.pdf": "RiFileExcel2Fill",
+  "DevOps": "TiDeviceDesktopAnalytics"
 }

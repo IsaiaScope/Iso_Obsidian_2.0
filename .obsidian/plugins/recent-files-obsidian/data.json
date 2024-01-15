@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "git clone",
-      "path": "Git and GitHub/GitHub/Prompt/git clone.md"
+      "basename": "as-const",
+      "path": "JS and TS/TypeScript/theory/as-const.md"
     },
     {
       "basename": "2) Prerequisites Info & Setup",
@@ -11,6 +11,10 @@
     {
       "basename": "Dashboard",
       "path": "Obsidian Tutorial/Dashboard.md"
+    },
+    {
+      "basename": "git clone",
+      "path": "Git and GitHub/GitHub/Prompt/git clone.md"
     },
     {
       "basename": "Udemy-course",
@@ -195,10 +199,6 @@
     {
       "basename": "git log",
       "path": "Git and GitHub/Git/Prompt/git log.md"
-    },
-    {
-      "basename": "TanStack Query 4",
-      "path": "Certificates/Udemy/React/TanStack Query 4.pdf"
     }
   ],
   "omittedPaths": [],

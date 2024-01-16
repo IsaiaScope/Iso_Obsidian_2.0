@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Check Url Repo or Directory where Local Repo is Cloned",
+      "path": "Git and GitHub/GitHub/Data/Check Url Repo or Directory where Local Repo is Cloned.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
+      "basename": "git remote",
+      "path": "Git and GitHub/GitHub/Prompt/git remote.md"
+    },
+    {
       "basename": "as-const",
       "path": "JS and TS/TypeScript/theory/as-const.md"
     },
@@ -173,32 +193,12 @@
       "path": "Git and GitHub/GitHub/Prompt/git rebase.md"
     },
     {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
-    },
-    {
       "basename": "git reset",
       "path": "Git and GitHub/Git/Prompt/git reset.md"
     },
     {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
       "basename": "git reset",
       "path": "Git and GitHub/Git/Files/git reset.png"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Fastify/Dashboard.md"
-    },
-    {
-      "basename": "git log",
-      "path": "Git and GitHub/Git/Prompt/git log.md"
     }
   ],
   "omittedPaths": [],

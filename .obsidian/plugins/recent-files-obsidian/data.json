@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Stuff",
+      "path": "Stuff.md"
+    },
+    {
+      "basename": "Conflic-Obsidian",
+      "path": "Conflic-Obsidian.md"
+    },
+    {
       "basename": "Check Url Repo or Directory where Local Repo is Cloned",
       "path": "Git and GitHub/GitHub/Data/Check Url Repo or Directory where Local Repo is Cloned.md"
     },
@@ -153,10 +161,6 @@
       "path": "Style/CSS/Files/align-self.png"
     },
     {
-      "basename": "Stuff",
-      "path": "Stuff.md"
-    },
-    {
       "basename": "Fundamentals",
       "path": "Excel/Data/Fundamentals.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "git reset",
       "path": "Git and GitHub/Git/Prompt/git reset.md"
-    },
-    {
-      "basename": "git reset",
-      "path": "Git and GitHub/Git/Files/git reset.png"
     }
   ],
   "omittedPaths": [],

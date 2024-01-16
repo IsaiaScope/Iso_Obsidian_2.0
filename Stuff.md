@@ -57,14 +57,14 @@ ngrok http http://localhost:3000 --domain=internal-dogfish-enjoyed.ngrok-free.ap
 9-Fede [v]
 10-Alej [v]
 11- Marti [v]
-12- Licia
+12- Licia [Bonifico [x]]
 13- Marianna [v]
 14- Ila [v]
 15-Reb [v]
 16-Silvia [v]
 17-Beppe [v]
 18-pace
-19-pater
+19-pater [v]
 20-Javi [v]
 21-Gio [v]
 22-Gotta
@@ -81,5 +81,5 @@ ngrok http http://localhost:3000 --domain=internal-dogfish-enjoyed.ngrok-free.ap
 33- Spe [v]
 34- Susi [v]
 35- Elena [v]
-36- Ale [v]
+36- Ale [Bonifico [x]]
 37- Alino [v]

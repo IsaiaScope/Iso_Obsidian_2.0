@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Ionic/Data/Untitled.md"
+    },
+    {
+      "basename": "Debugging",
+      "path": "Ionic/Data/Debugging.md"
+    },
+    {
+      "basename": "Developing",
+      "path": "Ionic/Data/Developing.md"
+    },
+    {
+      "basename": "Prompt",
+      "path": "Ionic/Data/Prompt.md"
+    },
+    {
+      "basename": "Set Up Android Studio",
+      "path": "Ionic/Data/Set Up Android Studio.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Ionic/Dashboard.md"
+    },
+    {
+      "basename": "as-const",
+      "path": "JS and TS/TypeScript/theory/as-const.md"
+    },
+    {
+      "basename": "non-null-assertion-operator",
+      "path": "JS and TS/TypeScript/theory/non-null-assertion-operator.md"
+    },
+    {
+      "basename": "one-type-or-another",
+      "path": "JS and TS/TypeScript/theory/one-type-or-another.md"
+    },
+    {
+      "basename": "type-guards",
+      "path": "JS and TS/TypeScript/theory/type-guards.md"
+    },
+    {
+      "basename": "git commit",
+      "path": "Git and GitHub/Git/Prompt/git commit.md"
+    },
+    {
       "basename": "Prereqs_doc",
       "path": "DevOps/Files/Udemy Course/02.Prerequisites/Prereqs_doc.pdf"
     },
@@ -55,10 +99,6 @@
     {
       "basename": "git remote",
       "path": "Git and GitHub/GitHub/Prompt/git remote.md"
-    },
-    {
-      "basename": "as-const",
-      "path": "JS and TS/TypeScript/theory/as-const.md"
     },
     {
       "basename": "Dashboard",
@@ -133,22 +173,6 @@
       "path": "Ionic/Files/Set Up Android Studio - Versioning SDK.png"
     },
     {
-      "basename": "Set Up Android Studio",
-      "path": "Ionic/Data/Set Up Android Studio.md"
-    },
-    {
-      "basename": "Prompt",
-      "path": "Ionic/Data/Prompt.md"
-    },
-    {
-      "basename": "Developing",
-      "path": "Ionic/Data/Developing.md"
-    },
-    {
-      "basename": "Debugging",
-      "path": "Ionic/Data/Debugging.md"
-    },
-    {
       "basename": "Chart",
       "path": "Excel/Data/Chart.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "DashBoard",
       "path": "Style/DashBoard.md"
-    },
-    {
-      "basename": "@extend",
-      "path": "Style/SASS/@extend.md"
-    },
-    {
-      "basename": "align-self",
-      "path": "Style/CSS/Files/align-self.png"
-    },
-    {
-      "basename": "Fundamentals",
-      "path": "Excel/Data/Fundamentals.md"
-    },
-    {
-      "basename": "VBA",
-      "path": "Excel/Data/VBA.md"
-    },
-    {
-      "basename": "PivotTable",
-      "path": "Excel/Data/PivotTable.md"
-    },
-    {
-      "basename": "Workbook",
-      "path": "Excel/Data/Workbook.md"
     }
   ],
   "omittedPaths": [],

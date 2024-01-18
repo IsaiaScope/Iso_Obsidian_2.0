@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Prereqs_doc",
+      "path": "DevOps/Files/Udemy Course/02.Prerequisites/Prereqs_doc.pdf"
+    },
+    {
+      "basename": "2) Prerequisites Info & Setup",
+      "path": "DevOps/Data/Sections/2) Prerequisites Info & Setup.md"
+    },
+    {
+      "basename": "Speaking",
+      "path": "English/Speaking.md"
+    },
+    {
+      "basename": "ielts",
+      "path": "English/ielts.md"
+    },
+    {
+      "basename": "Project",
+      "path": "Fastify/Data/Book/Chapters/Project.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Fastify/Dashboard.md"
+    },
+    {
+      "basename": "Extra Notes",
+      "path": "Fastify/Extra Notes.md"
+    },
+    {
       "basename": "Stuff",
       "path": "Stuff.md"
     },
@@ -31,10 +59,6 @@
     {
       "basename": "as-const",
       "path": "JS and TS/TypeScript/theory/as-const.md"
-    },
-    {
-      "basename": "2) Prerequisites Info & Setup",
-      "path": "DevOps/Data/Sections/2) Prerequisites Info & Setup.md"
     },
     {
       "basename": "Dashboard",
@@ -175,30 +199,6 @@
     {
       "basename": "Workbook",
       "path": "Excel/Data/Workbook.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Excel/Dashboard.md"
-    },
-    {
-      "basename": "Excel",
-      "path": "Certificates/Udemy/Excel.pdf"
-    },
-    {
-      "basename": "git commit",
-      "path": "Git and GitHub/Git/Prompt/git commit.md"
-    },
-    {
-      "basename": "git revert",
-      "path": "Git and GitHub/Git/Prompt/git revert.md"
-    },
-    {
-      "basename": "git rebase",
-      "path": "Git and GitHub/GitHub/Prompt/git rebase.md"
-    },
-    {
-      "basename": "git reset",
-      "path": "Git and GitHub/Git/Prompt/git reset.md"
     }
   ],
   "omittedPaths": [],

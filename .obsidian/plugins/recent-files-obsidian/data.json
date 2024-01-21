@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "git switch",
+      "path": "Git and GitHub/Git/Prompt/git switch.md"
+    },
+    {
       "basename": "Untitled",
       "path": "Ionic/Data/Untitled.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Conquering Responsive Layouts",
       "path": "Certificates/Kevin Powell/Conquering Responsive Layouts.pdf"
-    },
-    {
-      "basename": "DashBoard",
-      "path": "Style/DashBoard.md"
     }
   ],
   "omittedPaths": [],

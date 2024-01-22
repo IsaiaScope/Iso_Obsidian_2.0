@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Stuff",
+      "path": "Stuff.md"
+    },
+    {
       "basename": "git switch",
       "path": "Git and GitHub/Git/Prompt/git switch.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "Extra Notes",
       "path": "Fastify/Extra Notes.md"
-    },
-    {
-      "basename": "Stuff",
-      "path": "Stuff.md"
     },
     {
       "basename": "Conflic-Obsidian",

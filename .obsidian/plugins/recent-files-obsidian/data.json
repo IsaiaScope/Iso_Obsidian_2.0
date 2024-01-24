@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "JS and TS/TypeScript/Data/Untitled.md"
+    },
+    {
+      "basename": "non-null-assertion-operator",
+      "path": "JS and TS/TypeScript/theory/non-null-assertion-operator.md"
+    },
+    {
+      "basename": "generics",
+      "path": "JS and TS/TypeScript/theory/generics.md"
+    },
+    {
+      "basename": "as-const",
+      "path": "JS and TS/TypeScript/theory/as-const.md"
+    },
+    {
       "basename": "Stuff",
       "path": "Stuff.md"
     },
@@ -71,14 +87,6 @@
     {
       "basename": "Dashboard",
       "path": "Ionic/Dashboard.md"
-    },
-    {
-      "basename": "as-const",
-      "path": "JS and TS/TypeScript/theory/as-const.md"
-    },
-    {
-      "basename": "non-null-assertion-operator",
-      "path": "JS and TS/TypeScript/theory/non-null-assertion-operator.md"
     },
     {
       "basename": "one-type-or-another",
@@ -191,14 +199,6 @@
     {
       "basename": "PWA Installation",
       "path": "Ionic/PWA/Data/PWA Installation.md"
-    },
-    {
-      "basename": "Manifest",
-      "path": "Ionic/PWA/Data/Manifest.md"
-    },
-    {
-      "basename": "env",
-      "path": "Ionic/old/env.md"
     }
   ],
   "omittedPaths": [],

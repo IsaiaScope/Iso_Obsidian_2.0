@@ -19,3 +19,5 @@ expo lib semplify dev
 
 cannot insert text into a view; need text component 
 
+flex box - def-vertical
+

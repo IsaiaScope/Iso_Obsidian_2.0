@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiBrandReactNative",
+      "LiFiles",
+      "IbDatabse",
       "IbBeaker",
-      "SiNodedotjs",
-      "TiFishHook",
-      "LiLibrary",
-      "IbDashboard"
+      "SiNodedotjs"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -133,5 +133,10 @@
   "React/Libs": "LiLibrary",
   "React/Data/Hooks": "TiFishHook",
   "Node": "SiNodedotjs",
-  "React/Data/Theory": "IbBeaker"
+  "React/Data/Theory": "IbBeaker",
+  "React Native/Dashboard.md": "IbDashboard",
+  "React Native/Data/Theory.md": "IbBeaker",
+  "React Native/Data": "IbDatabse",
+  "React Native/Files": "LiFiles",
+  "React Native": "TiBrandReactNative"
 }

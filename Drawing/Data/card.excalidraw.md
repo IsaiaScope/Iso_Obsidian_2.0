@@ -1896,7 +1896,7 @@ flavors ^ELYYuSWy
 			"locked": false,
 			"fontSize": 28.754944839082643,
 			"fontFamily": 1,
-			"text": "dashboard",
+			"text": "[[React Native/[[React Native/Dashboard|Dashboard]]|dashboard]]",
 			"rawText": "dashboard",
 			"baseline": 25,
 			"textAlign": "left",

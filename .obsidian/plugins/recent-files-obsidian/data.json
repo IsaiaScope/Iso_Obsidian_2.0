@@ -2,7 +2,143 @@
   "recentFiles": [
     {
       "basename": "Dashboard",
+      "path": "React Native/Dashboard.md"
+    },
+    {
+      "basename": "Conflic-Obsidian",
+      "path": "Conflic-Obsidian.md"
+    },
+    {
+      "basename": "Short-cuts",
+      "path": "Short-cuts.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Obsidian Tutorial/Dashboard.md"
+    },
+    {
+      "basename": "card.excalidraw",
+      "path": "Drawing/Data/card.excalidraw.md"
+    },
+    {
+      "basename": "Dashboard",
       "path": "React/Dashboard.md"
+    },
+    {
+      "basename": "Theory",
+      "path": "React Native/Data/Theory.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
+      "basename": "Udemy-course",
+      "path": "Markdown/Udemy-course.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Markdown/Obsidian.md"
+    },
+    {
+      "basename": "Cheatsheet",
+      "path": "Markdown/Cheatsheet.pdf"
+    },
+    {
+      "basename": "tests",
+      "path": "React/Data/Theory/tests.md"
+    },
+    {
+      "basename": "style",
+      "path": "React/Data/Theory/style.md"
+    },
+    {
+      "basename": "pass-data-bottom-up",
+      "path": "React/Data/Theory/pass-data-bottom-up.md"
+    },
+    {
+      "basename": "lazy-loading",
+      "path": "React/Data/Theory/lazy-loading.md"
+    },
+    {
+      "basename": "http-request",
+      "path": "React/Data/Theory/http-request.md"
+    },
+    {
+      "basename": "fragments-and-portal",
+      "path": "React/Data/Theory/fragments-and-portal.md"
+    },
+    {
+      "basename": "forms",
+      "path": "React/Data/Theory/forms.md"
+    },
+    {
+      "basename": "events",
+      "path": "React/Data/Theory/events.md"
+    },
+    {
+      "basename": "entry-point",
+      "path": "React/Data/Theory/entry-point.md"
+    },
+    {
+      "basename": "create-react-app",
+      "path": "React/Data/Theory/create-react-app.md"
+    },
+    {
+      "basename": "coding-knowledge",
+      "path": "React/Data/Theory/coding-knowledge.md"
+    },
+    {
+      "basename": "class-component",
+      "path": "React/Data/Theory/class-component.md"
+    },
+    {
+      "basename": "useState()",
+      "path": "React/Data/Hooks/useState().md"
+    },
+    {
+      "basename": "useRef()",
+      "path": "React/Data/Hooks/useRef().md"
+    },
+    {
+      "basename": "useReducer()",
+      "path": "React/Data/Hooks/useReducer().md"
+    },
+    {
+      "basename": "useEffect()",
+      "path": "React/Data/Hooks/useEffect().md"
+    },
+    {
+      "basename": "rule-of-hooks",
+      "path": "React/Data/Hooks/rule-of-hooks.md"
+    },
+    {
+      "basename": "custom-hook",
+      "path": "React/Data/Hooks/custom-hook.md"
+    },
+    {
+      "basename": "createContext()&useContext()",
+      "path": "React/Data/Hooks/createContext()&useContext().md"
+    },
+    {
+      "basename": "get-started",
+      "path": "React/Libs/React Router/data/get-started.md"
+    },
+    {
+      "basename": "get-started",
+      "path": "React/Libs/Next.js/data/get-started.md"
+    },
+    {
+      "basename": "index",
+      "path": "React/Libs/Next.js/index.md"
+    },
+    {
+      "basename": "Next_1",
+      "path": "React/Libs/Next.js/files/Next_1.pdf"
     },
     {
       "basename": "align-self",
@@ -63,142 +199,6 @@
     {
       "basename": "to-do-list",
       "path": "Accessibility/data/examples/to-do-list.md"
-    },
-    {
-      "basename": "test-project",
-      "path": "Accessibility/data/examples/test-project.md"
-    },
-    {
-      "basename": "navigation",
-      "path": "Accessibility/data/tags/navigation.md"
-    },
-    {
-      "basename": "list",
-      "path": "Accessibility/data/tags/list.md"
-    },
-    {
-      "basename": "link",
-      "path": "Accessibility/data/tags/link.md"
-    },
-    {
-      "basename": "input",
-      "path": "Accessibility/data/tags/input.md"
-    },
-    {
-      "basename": "Using CSS custom properties",
-      "path": "Style/CSS/Data/Using CSS custom properties.md"
-    },
-    {
-      "basename": "git commit",
-      "path": "Git and GitHub/Git/Prompt/git commit.md"
-    },
-    {
-      "basename": "git switch",
-      "path": "Git and GitHub/Git/Prompt/git switch.md"
-    },
-    {
-      "basename": "Set Up Android Studio",
-      "path": "Ionic/Data/Set Up Android Studio.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Ionic/Dashboard.md"
-    },
-    {
-      "basename": "one-type-or-another",
-      "path": "JS and TS/TypeScript/theory/one-type-or-another.md"
-    },
-    {
-      "basename": "type-guards",
-      "path": "JS and TS/TypeScript/theory/type-guards.md"
-    },
-    {
-      "basename": "Prereqs_doc",
-      "path": "DevOps/Files/Udemy Course/02.Prerequisites/Prereqs_doc.pdf"
-    },
-    {
-      "basename": "2) Prerequisites Info & Setup",
-      "path": "DevOps/Data/Sections/2) Prerequisites Info & Setup.md"
-    },
-    {
-      "basename": "Speaking",
-      "path": "English/Speaking.md"
-    },
-    {
-      "basename": "ielts",
-      "path": "English/ielts.md"
-    },
-    {
-      "basename": "Project",
-      "path": "Fastify/Data/Book/Chapters/Project.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Fastify/Dashboard.md"
-    },
-    {
-      "basename": "Extra Notes",
-      "path": "Fastify/Extra Notes.md"
-    },
-    {
-      "basename": "Conflic-Obsidian",
-      "path": "Conflic-Obsidian.md"
-    },
-    {
-      "basename": "Check Url Repo or Directory where Local Repo is Cloned",
-      "path": "Git and GitHub/GitHub/Data/Check Url Repo or Directory where Local Repo is Cloned.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
-    },
-    {
-      "basename": "git remote",
-      "path": "Git and GitHub/GitHub/Prompt/git remote.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Obsidian Tutorial/Dashboard.md"
-    },
-    {
-      "basename": "git clone",
-      "path": "Git and GitHub/GitHub/Prompt/git clone.md"
-    },
-    {
-      "basename": "Udemy-course",
-      "path": "Markdown/Udemy-course.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "Markdown/Obsidian.md"
-    },
-    {
-      "basename": "Terraform",
-      "path": "DevOps/Files/Udemy Course/24.Terraform/Terraform.pdf"
-    },
-    {
-      "basename": "Git",
-      "path": "DevOps/Files/Udemy Course/13.Git/Git.pdf"
-    },
-    {
-      "basename": "DecoDevOpsUdemyIntro",
-      "path": "DevOps/Files/Udemy Course/01.Introduction/DecoDevOpsUdemyIntro.pdf"
-    },
-    {
-      "basename": "AtlassianDevOpsTrendsSurvey2020",
-      "path": "DevOps/Files/Udemy Course/01.Introduction/AtlassianDevOpsTrendsSurvey2020.pdf"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "DevOps/Dashboard.md"
     }
   ],
   "omittedPaths": [],

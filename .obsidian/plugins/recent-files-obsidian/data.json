@@ -5,6 +5,10 @@
       "path": "React Native/Dashboard.md"
     },
     {
+      "basename": "slides (1)",
+      "path": "React Native/Files/slides (1).pdf"
+    },
+    {
       "basename": "Conflic-Obsidian",
       "path": "Conflic-Obsidian.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "router-class",
       "path": "Angular/observable/router-class.md"
-    },
-    {
-      "basename": "to-do-list",
-      "path": "Accessibility/data/examples/to-do-list.md"
     }
   ],
   "omittedPaths": [],

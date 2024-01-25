@@ -13,3 +13,6 @@ tags:
 | _Theory_ | [[React Native/Data/Theory \| ❤️]] |
 
 ---
+
+https://reactnative.dev/
+expo

@@ -32,10 +32,10 @@ _HOOKS_
 
 _LIBS_
 
-- [[React/libs/Tanstack/index|Tanstack]]
-- [[React/libs/Redux/index|Redux]]
-- [[React/libs/React Router/index|React Router]]
-- [[React/libs/Next.js/index|Next.js]]
+- [[React/Libs/Tanstack/index|Tanstack]]
+- [[React/Libs/Redux/index|Redux]]
+- [[React/Libs/React Router/index|React Router]]
+- [[React/Libs/Next.js/index|Next.js]]
 
 ---
 

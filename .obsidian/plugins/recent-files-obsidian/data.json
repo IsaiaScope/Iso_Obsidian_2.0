@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "JS and TS/TypeScript/Data/Untitled.md"
+      "basename": "Dashboard",
+      "path": "React/Dashboard.md"
+    },
+    {
+      "basename": "align-self",
+      "path": "Style/CSS/Files/align-self.png"
+    },
+    {
+      "basename": "DashBoard",
+      "path": "Style/DashBoard.md"
+    },
+    {
+      "basename": "Prompt",
+      "path": "Ionic/Data/Prompt.md"
+    },
+    {
+      "basename": "Debugging",
+      "path": "Ionic/Data/Debugging.md"
+    },
+    {
+      "basename": "Developing",
+      "path": "Ionic/Data/Developing.md"
+    },
+    {
+      "basename": "Lifecycle Methods",
+      "path": "Ionic/Data/Lifecycle Methods.md"
+    },
+    {
+      "basename": "react-test",
+      "path": "React/Files/react-test.pdf"
+    },
+    {
+      "basename": "Building a type-safe fetch in typescript",
+      "path": "JS and TS/TypeScript/Data/Building a type-safe fetch in typescript.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Excel/Dashboard.md"
     },
     {
       "basename": "non-null-assertion-operator",
@@ -53,32 +89,12 @@
       "path": "Style/CSS/Data/Using CSS custom properties.md"
     },
     {
-      "basename": "DashBoard",
-      "path": "Style/DashBoard.md"
-    },
-    {
       "basename": "git commit",
       "path": "Git and GitHub/Git/Prompt/git commit.md"
     },
     {
       "basename": "git switch",
       "path": "Git and GitHub/Git/Prompt/git switch.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Ionic/Data/Untitled.md"
-    },
-    {
-      "basename": "Debugging",
-      "path": "Ionic/Data/Debugging.md"
-    },
-    {
-      "basename": "Developing",
-      "path": "Ionic/Data/Developing.md"
-    },
-    {
-      "basename": "Prompt",
-      "path": "Ionic/Data/Prompt.md"
     },
     {
       "basename": "Set Up Android Studio",
@@ -183,22 +199,6 @@
     {
       "basename": "Dashboard",
       "path": "DevOps/Dashboard.md"
-    },
-    {
-      "basename": "Understanding PWA",
-      "path": "Ionic/PWA/Data/Understanding PWA.md"
-    },
-    {
-      "basename": "Setup Ionic PWA",
-      "path": "Ionic/PWA/Data/Setup Ionic PWA.md"
-    },
-    {
-      "basename": "Service Worker",
-      "path": "Ionic/PWA/Data/Service Worker.md"
-    },
-    {
-      "basename": "PWA Installation",
-      "path": "Ionic/PWA/Data/PWA Installation.md"
     }
   ],
   "omittedPaths": [],

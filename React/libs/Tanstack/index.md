@@ -1,5 +1,5 @@
 - _THEORY_
-	- [[React/libs/Tanstack/data/V4/get-started | Set Up]]
+	- [[React/Libs/Tanstack/data/V4/get-started| Set Up]]
 	- [[useQuery()]]
 	- [[useMutation()]]
 	- [[Pagination&Prefetching]]

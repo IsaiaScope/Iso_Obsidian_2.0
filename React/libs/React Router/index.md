@@ -1,4 +1,4 @@
 - _THEORY_
-	- [[React/libs/React Router/data/get-started|get-started]]
+	- [[React/Libs/React Router/data/get-started|get-started]]
 	- [[auth]]
 ---

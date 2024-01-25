@@ -1,4 +1,4 @@
 - _THEORY_
-  - [[React/libs/Redux/data/get-started|get-started]]
+  - [[React/Libs/Redux/data/get-started|get-started]]
 
 ---

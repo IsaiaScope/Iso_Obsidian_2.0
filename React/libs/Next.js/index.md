@@ -1,4 +1,4 @@
 - _THEORY_
-	- [[React/libs/Next.js/data/get-started|get-started]]
+	- [[React/Libs/Next.js/data/get-started|get-started]]
 
 ---

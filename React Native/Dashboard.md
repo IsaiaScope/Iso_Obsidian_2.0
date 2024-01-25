@@ -15,4 +15,7 @@ tags:
 ---
 
 https://reactnative.dev/
-expo
+expo lib semplify dev
+
+cannot insert text into a view; need text component 
+

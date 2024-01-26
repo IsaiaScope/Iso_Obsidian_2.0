@@ -1,9 +1,14 @@
+---
+tags:
+  - React_Native
+---
+
 # Theory
 
 https://reactnative.dev/
 expo lib semplify dev
 
-cannot insert text into a view; need text component 
+cannot insert text into a view; need text component
 
 flex box - def-vertical
 

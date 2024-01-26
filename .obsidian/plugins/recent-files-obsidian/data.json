@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Routing",
-      "path": "Ionic/Data/Routing.md"
+      "basename": "Theory",
+      "path": "React Native/Data/Theory.md"
     },
     {
-      "basename": "slides (1)",
-      "path": "React Native/Files/slides (1).pdf"
+      "basename": "Dashboard",
+      "path": "React Native/Dashboard.md"
     },
     {
       "basename": "Developing",
@@ -21,12 +21,32 @@
       "path": "Ionic/Data/Set Up Android Studio.md"
     },
     {
+      "basename": "Routing",
+      "path": "Ionic/Data/Routing.md"
+    },
+    {
       "basename": "Prompt",
       "path": "Ionic/Data/Prompt.md"
     },
     {
       "basename": "Lifecycle Methods",
       "path": "Ionic/Data/Lifecycle Methods.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
+    },
+    {
+      "basename": "slides (1)",
+      "path": "React Native/Files/slides (1).pdf"
     },
     {
       "basename": "Understanding PWA",
@@ -53,22 +73,6 @@
       "path": "Ionic/Files/Set Up Android Studio - Versioning SDK.png"
     },
     {
-      "basename": "Dashboard",
-      "path": "Ionic/Dashboard.md"
-    },
-    {
-      "basename": "env",
-      "path": "Ionic/old/env.md"
-    },
-    {
-      "basename": "Theory",
-      "path": "React Native/Data/Theory.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "React Native/Dashboard.md"
-    },
-    {
       "basename": "Conflic-Obsidian",
       "path": "Conflic-Obsidian.md"
     },
@@ -87,14 +91,6 @@
     {
       "basename": "Dashboard",
       "path": "React/Dashboard.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
     },
     {
       "basename": "Udemy-course",
@@ -195,10 +191,6 @@
     {
       "basename": "index",
       "path": "React/Libs/Next.js/index.md"
-    },
-    {
-      "basename": "Next_1",
-      "path": "React/Libs/Next.js/files/Next_1.pdf"
     }
   ],
   "omittedPaths": [],

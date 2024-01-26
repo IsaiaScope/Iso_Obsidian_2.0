@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiPwa",
       "TiBrandReactNative",
       "LiFiles",
       "IbDatabse",
-      "IbBeaker",
-      "SiNodedotjs"
+      "IbBeaker"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -118,7 +118,6 @@
   "React/Data": "TiDatabase",
   "React/Files": "LiFiles",
   "React": "SiReact",
-  "Ionic/PWA/Data": "TiDatabase",
   "Excel": "SiMicrosoftexcel",
   "Excel/Dashboard.md": "IbDashboard",
   "Excel/Files": "LiFiles",
@@ -138,5 +137,7 @@
   "React Native/Data/Theory.md": "IbBeaker",
   "React Native/Data": "IbDatabse",
   "React Native/Files": "LiFiles",
-  "React Native": "TiBrandReactNative"
+  "React Native": "TiBrandReactNative",
+  "PWA": "SiPwa",
+  "PWA/Vite/React/Data": "TiDatabase"
 }

@@ -1,16 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "Setup Ionic PWA",
+      "path": "PWA/Vite/React/Data/Setup Ionic PWA.md"
+    },
+    {
+      "basename": "Service Worker",
+      "path": "PWA/Vite/React/Data/Service Worker.md"
+    },
+    {
+      "basename": "PWA Installation",
+      "path": "PWA/Vite/React/Data/PWA Installation.md"
+    },
+    {
+      "basename": "Manifest",
+      "path": "PWA/Vite/React/Data/Manifest.md"
+    },
+    {
+      "basename": "Set Up Android Studio - Versioning SDK",
+      "path": "Ionic/Files/Set Up Android Studio - Versioning SDK.png"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Ionic/Dashboard.md"
+    },
+    {
+      "basename": "Set Up Android Studio",
+      "path": "Ionic/Data/Set Up Android Studio.md"
+    },
+    {
+      "basename": "Debugging",
+      "path": "Ionic/Data/Debugging.md"
+    },
+    {
+      "basename": "Developing",
+      "path": "Ionic/Data/Developing.md"
+    },
+    {
+      "basename": "Lifecycle Methods",
+      "path": "Ionic/Data/Lifecycle Methods.md"
+    },
+    {
+      "basename": "Prompt",
+      "path": "Ionic/Data/Prompt.md"
+    },
+    {
+      "basename": "env",
+      "path": "Ionic/old/env.md"
+    },
+    {
       "basename": "Theory",
       "path": "React Native/Data/Theory.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "React Native/Dashboard.md"
-    },
-    {
       "basename": "slides (1)",
       "path": "React Native/Files/slides (1).pdf"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "React Native/Dashboard.md"
     },
     {
       "basename": "Conflic-Obsidian",
@@ -151,54 +199,6 @@
     {
       "basename": "DashBoard",
       "path": "Style/DashBoard.md"
-    },
-    {
-      "basename": "Prompt",
-      "path": "Ionic/Data/Prompt.md"
-    },
-    {
-      "basename": "Debugging",
-      "path": "Ionic/Data/Debugging.md"
-    },
-    {
-      "basename": "Developing",
-      "path": "Ionic/Data/Developing.md"
-    },
-    {
-      "basename": "Lifecycle Methods",
-      "path": "Ionic/Data/Lifecycle Methods.md"
-    },
-    {
-      "basename": "react-test",
-      "path": "React/Files/react-test.pdf"
-    },
-    {
-      "basename": "Building a type-safe fetch in typescript",
-      "path": "JS and TS/TypeScript/Data/Building a type-safe fetch in typescript.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Excel/Dashboard.md"
-    },
-    {
-      "basename": "non-null-assertion-operator",
-      "path": "JS and TS/TypeScript/theory/non-null-assertion-operator.md"
-    },
-    {
-      "basename": "generics",
-      "path": "JS and TS/TypeScript/theory/generics.md"
-    },
-    {
-      "basename": "as-const",
-      "path": "JS and TS/TypeScript/theory/as-const.md"
-    },
-    {
-      "basename": "Stuff",
-      "path": "Stuff.md"
-    },
-    {
-      "basename": "router-class",
-      "path": "Angular/observable/router-class.md"
     }
   ],
   "omittedPaths": [],

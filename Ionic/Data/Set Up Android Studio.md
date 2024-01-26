@@ -1,6 +1,7 @@
 ---
 tags: 
 - Ionic
+- Android_Studio
 ---
 
 # Set Up Android Studio Up

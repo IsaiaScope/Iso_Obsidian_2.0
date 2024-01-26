@@ -1,4 +1,4 @@
-# Setup Ionic PWA
+# Setup Vite PWA
 
 ## Generate Splash Screens and Icons IOS & ANDROID
 
@@ -74,11 +74,11 @@ injectRegister: 'script'
 You **must** add a `robots.txt` file to allow search engines to crawl all your application pages, just add `robots.txt` to the `public` folder on your application:
 
 robots.txt - public folrder
-User-agent: *
+User-agent: \*
 Allow: /
 
-
 ## Service Worker Strategies
+
 As we mention in [Configuring vite-plugin-pwa] section, `vite-plugin-pwa` plugin will use `workbox-build` node library to generate your service worker. There are 2 available strategies, `generateSW` and `injectManifest`:
 
 - `generateSW`: the `vite-plugin-pwa` will generate the service worker for you, you don't need to write the code for the service worker
@@ -87,8 +87,6 @@ As we mention in [Configuring vite-plugin-pwa] section, `vite-plugin-pwa` pl
 To configure the service worker strategy, use the `strategies`' plugin option with `generateSW` (**default strategy**) or `injectManifest` value.
 
 You can find more information about the strategies in the [generateSW](https://vite-pwa-org.netlify.app/workbox/generate-sw) or [injectManifest](https://vite-pwa-org.netlify.app/workbox/inject-manifest) `Workbox` sections.
-
-
 
 ## to order
 
@@ -108,6 +106,3 @@ The precache manifest entry revision is just a `MD5` hash of the asset content
 
 When the user installs the new version of the application, we will have on the service worker cache all new assets and also the old ones. To delete old assets (from previous versions that are no longer necessary), and since you are building your own service worker, you will need to add the following code to your custom service worker:
 https://vite-pwa-org.netlify.app/guide/inject-manifest
-
-
-

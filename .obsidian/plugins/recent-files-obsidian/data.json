@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Theory",
+      "path": "React Native/Data/Theory.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "React Native/Dashboard.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Dashboard",
       "path": "React/Dashboard.md"
-    },
-    {
-      "basename": "Theory",
-      "path": "React Native/Data/Theory.md"
     },
     {
       "basename": "Summary",

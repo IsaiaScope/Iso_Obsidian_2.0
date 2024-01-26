@@ -6,6 +6,7 @@ tags:
 # Theory
 
 https://reactnative.dev/
+https://github.com/academind/react-native-practical-guide-code/tree/main
 expo lib semplify dev
 
 cannot insert text into a view; need text component

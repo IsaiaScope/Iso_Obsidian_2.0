@@ -5,8 +5,16 @@
       "path": "React Native/Data/Theory.md"
     },
     {
+      "basename": "Guess Number App",
+      "path": "React Native/Data/Guess Number App.md"
+    },
+    {
       "basename": "Goal App",
       "path": "React Native/Data/Goal App.md"
+    },
+    {
+      "basename": "slides (1)",
+      "path": "React Native/Files/slides (1).pdf"
     },
     {
       "basename": "Dashboard",
@@ -47,10 +55,6 @@
     {
       "basename": "Summary",
       "path": "Git and GitHub/GitHub/Summary.md"
-    },
-    {
-      "basename": "slides (1)",
-      "path": "React Native/Files/slides (1).pdf"
     },
     {
       "basename": "Understanding PWA",

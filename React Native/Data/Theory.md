@@ -15,3 +15,10 @@ flex box - def-vertical
 
 Question 7: What's the default styling/ layout behavior of a ‹ View› component?
 It uses Flexbox to organize its child components.
+
+console log are in terminal console
+
+? in termina shows shortcut
+
+npm i -g reac-devtools
+

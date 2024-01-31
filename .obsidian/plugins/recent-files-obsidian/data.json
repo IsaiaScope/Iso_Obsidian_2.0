@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Guess Number App",
+      "path": "React Native/Data/Guess Number App.md"
+    },
+    {
       "basename": "Workbook",
       "path": "Excel/Data/Workbook.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "Goal App",
       "path": "React Native/Data/Goal App.md"
-    },
-    {
-      "basename": "Guess Number App",
-      "path": "React Native/Data/Guess Number App.md"
     },
     {
       "basename": "Dashboard",

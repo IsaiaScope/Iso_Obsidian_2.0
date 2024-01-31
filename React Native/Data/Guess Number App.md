@@ -23,6 +23,7 @@ import { StyleSheet, ImageBackground, SafeAreaView } from "react-native";
 import { LinearGradient } from "expo-linear-gradient";
 import { useFonts } from "expo-font";
 import AppLoading from "expo-app-loading";
+import { StatusBar } from "expo-status-bar";
 
 import StartGameScreen from "./screens/StartGameScreen";
 import GameScreen from "./screens/GameScreen";
@@ -77,19 +78,22 @@ export default function App() {
 	}
 
 	return (
-		<LinearGradient
-			colors={[Colors.primary700, Colors.accent500]}
-			style={styles.rootScreen}
-		>
-			<ImageBackground
-				source={require("./assets/images/background.png")}
-				resizeMode="cover"
+		<>
+			<StatusBar style="light" />
+			<LinearGradient
+				colors={[Colors.primary700, Colors.accent500]}
 				style={styles.rootScreen}
-				imageStyle={styles.backgroundImage}
 			>
-				<SafeAreaView style={styles.rootScreen}>{screen}</SafeAreaView>
-			</ImageBackground>
-		</LinearGradient>
+				<ImageBackground
+					source={require("./assets/images/background.png")}
+					resizeMode="cover"
+					style={styles.rootScreen}
+					imageStyle={styles.backgroundImage}
+				>
+					<SafeAreaView style={styles.rootScreen}>{screen}</SafeAreaView>
+				</ImageBackground>
+			</LinearGradient>
+		</>
 	);
 }
 
@@ -161,13 +165,22 @@ const styles = StyleSheet.create({
 
 ## StartGameScreen.js
 
-`Alert` Launches an alert dialog with the specified title and message.
+- `Alert` Launches an alert dialog with the specified title and message.
+- `KeyboardAvoidingView`This component will automatically adjust its height, position, or bottom padding based on the keyboard height to remain visible while the virtual keyboard is displayed.
 
 Optionally provide a list of buttons. Tapping any button will fire the respective onPress callback and dismiss the alert. By default, the only button will be an 'OK' button.
 
 ```jsx
 import { useState } from "react";
-import { TextInput, View, StyleSheet, Alert } from "react-native";
+import {
+	TextInput,
+	View,
+	StyleSheet,
+	Alert,
+	useWindowDimensions,
+	KeyboardAvoidingView,
+	ScrollView,
+} from "react-native";
 
 import PrimaryButton from "../components/ui/PrimaryButton";
 import Title from "../components/ui/Title";
@@ -177,6 +190,8 @@ import InstructionText from "../components/ui/InstructionText";
 
 function StartGameScreen({ onPickNumber }) {
 	const [enteredNumber, setEnteredNumber] = useState("");
+
+	const { width, height } = useWindowDimensions();
 
 	function numberInputHandler(enteredText) {
 		setEnteredNumber(enteredText);
@@ -201,39 +216,52 @@ function StartGameScreen({ onPickNumber }) {
 		onPickNumber(chosenNumber);
 	}
 
+	const marginTopDistance = height < 380 ? 30 : 100;
+
 	return (
-		<View style={styles.rootContainer}>
-			<Title>Guess My Number</Title>
-			<Card>
-				<InstructionText>Enter a Number</InstructionText>
-				<TextInput
-					style={styles.numberInput}
-					maxLength={2}
-					keyboardType="number-pad"
-					autoCapitalize="none"
-					autoCorrect={false}
-					onChangeText={numberInputHandler}
-					value={enteredNumber}
-				/>
-				<View style={styles.buttonsContainer}>
-					<View style={styles.buttonContainer}>
-						<PrimaryButton onPress={resetInputHandler}>Reset</PrimaryButton>
-					</View>
-					<View style={styles.buttonContainer}>
-						<PrimaryButton onPress={confirmInputHandler}>Confirm</PrimaryButton>
-					</View>
+		<ScrollView style={styles.screen}>
+			<KeyboardAvoidingView style={styles.screen} behavior="position">
+				<View style={[styles.rootContainer, { marginTop: marginTopDistance }]}>
+					<Title>Guess My Number</Title>
+					<Card>
+						<InstructionText>Enter a Number</InstructionText>
+						<TextInput
+							style={styles.numberInput}
+							maxLength={2}
+							keyboardType="number-pad"
+							autoCapitalize="none"
+							autoCorrect={false}
+							onChangeText={numberInputHandler}
+							value={enteredNumber}
+						/>
+						<View style={styles.buttonsContainer}>
+							<View style={styles.buttonContainer}>
+								<PrimaryButton onPress={resetInputHandler}>Reset</PrimaryButton>
+							</View>
+							<View style={styles.buttonContainer}>
+								<PrimaryButton onPress={confirmInputHandler}>
+									Confirm
+								</PrimaryButton>
+							</View>
+						</View>
+					</Card>
 				</View>
-			</Card>
-		</View>
+			</KeyboardAvoidingView>
+		</ScrollView>
 	);
 }
 
 export default StartGameScreen;
 
+// const deviceHeight = Dimensions.get('window').height;
+
 const styles = StyleSheet.create({
+	screen: {
+		flex: 1,
+	},
 	rootContainer: {
 		flex: 1,
-		marginTop: 100,
+		// marginTop: deviceHeight < 380 ? 30 : 100,
 		alignItems: "center",
 	},
 	numberInput: {
@@ -264,7 +292,13 @@ const styles = StyleSheet.create({
 
 ```jsx
 import { useState, useEffect } from "react";
-import { View, StyleSheet, Alert, Text, FlatList } from "react-native";
+import {
+	View,
+	StyleSheet,
+	Alert,
+	FlatList,
+	useWindowDimensions,
+} from "react-native";
 import { Ionicons } from "@expo/vector-icons";
 
 import NumberContainer from "../components/game/NumberContainer";
@@ -291,6 +325,7 @@ function GameScreen({ userNumber, onGameOver }) {
 	const initialGuess = generateRandomBetween(1, 100, userNumber);
 	const [currentGuess, setCurrentGuess] = useState(initialGuess);
 	const [guessRounds, setGuessRounds] = useState([initialGuess]);
+	const { width, height } = useWindowDimensions();
 
 	useEffect(() => {
 		if (currentGuess === userNumber) {
@@ -332,9 +367,8 @@ function GameScreen({ userNumber, onGameOver }) {
 
 	const guessRoundsListLength = guessRounds.length;
 
-	return (
-		<View style={styles.screen}>
-			<Title>Opponent's Guess</Title>
+	let content = (
+		<>
 			<NumberContainer>{currentGuess}</NumberContainer>
 			<Card>
 				<InstructionText style={styles.instructionText}>
@@ -353,6 +387,33 @@ function GameScreen({ userNumber, onGameOver }) {
 					</View>
 				</View>
 			</Card>
+		</>
+	);
+
+	if (width > 500) {
+		content = (
+			<>
+				<View style={styles.buttonsContainerWide}>
+					<View style={styles.buttonContainer}>
+						<PrimaryButton onPress={nextGuessHandler.bind(this, "lower")}>
+							<Ionicons name="md-remove" size={24} color="white" />
+						</PrimaryButton>
+					</View>
+					<NumberContainer>{currentGuess}</NumberContainer>
+					<View style={styles.buttonContainer}>
+						<PrimaryButton onPress={nextGuessHandler.bind(this, "greater")}>
+							<Ionicons name="md-add" size={24} color="white" />
+						</PrimaryButton>
+					</View>
+				</View>
+			</>
+		);
+	}
+
+	return (
+		<View style={styles.screen}>
+			<Title>Opponent's Guess</Title>
+			{content}
 			<View style={styles.listContainer}>
 				{/* {guessRounds.map(guessRound => <Text key={guessRound}>{guessRound}</Text>)} */}
 				<FlatList
@@ -376,6 +437,7 @@ const styles = StyleSheet.create({
 	screen: {
 		flex: 1,
 		padding: 24,
+		alignItems: "center",
 	},
 	instructionText: {
 		marginBottom: 12,
@@ -385,6 +447,10 @@ const styles = StyleSheet.create({
 	},
 	buttonContainer: {
 		flex: 1,
+	},
+	buttonsContainerWide: {
+		flexDirection: "row",
+		alignItems: "center",
 	},
 	listContainer: {
 		flex: 1,

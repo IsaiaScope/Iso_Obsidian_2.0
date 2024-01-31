@@ -13,6 +13,7 @@ An portion of an app with multiple screen to guess a number
   - `useFonts` [:BoBxLink:](https://docs.expo.dev/versions/latest/sdk/font/); useFonts must be in root component
   - `LinearGradient` provides a native React view that transitions between multiple colors in a linear direction.
   - `AppLoading` expo-app-loading tells expo-splash-screen to keep the splash screen visible while the AppLoading component is mounted
+  - `StatusBar` to control the app's status bar. The status bar is the zone, typically at the top of the screen, that displays the current time, Wi-Fi and cellular network information, battery level and/or other status icons
 - React Native
   - `ImageBackground` component, which has the same props as `<Image>`, and add whatever children to it you would like to layer on top of it.
   - `SafeAreaView` renders nested content and automatically applies padding to reflect the portion of the view that is not covered by navigation bars, tab bars, toolbars, and other ancestor views.

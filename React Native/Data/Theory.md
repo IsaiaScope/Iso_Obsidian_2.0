@@ -28,4 +28,12 @@ npm i -g reac-devtools
 elevation => box shadow for andiod
 shadow prop => box shadow for ios
 
+scrollview
+
+platform API
+  // borderWidth: Platform.OS === 'android' ? 2 : 0,
+    // borderWidth: Platform.select({ ios: 0, android: 2 }),
+
+
+
 

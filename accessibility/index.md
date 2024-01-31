@@ -6,7 +6,7 @@
 		- [[Accessibility/data/tags/list]]
 		- [[button&checkbox]]
 		- [[contact-form]]
-		- [[navigation]]
+		- [[Accessibility/data/tags/navigation]]
 	- [[ARIA]]
 	- [[tools | Tools to test accessibility ]]
 - _Examples_

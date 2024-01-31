@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Workbook",
+      "path": "Excel/Data/Workbook.md"
+    },
+    {
+      "basename": "VBA",
+      "path": "Excel/Data/VBA.md"
+    },
+    {
+      "basename": "PivotTable",
+      "path": "Excel/Data/PivotTable.md"
+    },
+    {
+      "basename": "Chart",
+      "path": "Excel/Data/Chart.md"
+    },
+    {
+      "basename": "Fundamentals",
+      "path": "Excel/Data/Fundamentals.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Excel/Dashboard.md"
+    },
+    {
       "basename": "Theory",
       "path": "React Native/Data/Theory.md"
+    },
+    {
+      "basename": "Flex",
+      "path": "React Native/Files/Flex.pdf"
+    },
+    {
+      "basename": "Developing",
+      "path": "Ionic/Data/Developing.md"
+    },
+    {
+      "basename": "Debugging",
+      "path": "Ionic/Data/Debugging.md"
+    },
+    {
+      "basename": "Prompt",
+      "path": "Ionic/Data/Prompt.md"
+    },
+    {
+      "basename": "Lifecycle Methods",
+      "path": "Ionic/Data/Lifecycle Methods.md"
+    },
+    {
+      "basename": "Routing",
+      "path": "Ionic/Data/Routing.md"
     },
     {
       "basename": "Goal App",
@@ -23,10 +71,6 @@
     {
       "basename": "Dashboard",
       "path": "Volta/Dashboard.md"
-    },
-    {
-      "basename": "slides (1)",
-      "path": "React Native/Files/slides (1).pdf"
     },
     {
       "basename": "Set Project Versions",
@@ -57,28 +101,8 @@
       "path": "Volta/Data/Set Default Globally.md"
     },
     {
-      "basename": "Developing",
-      "path": "Ionic/Data/Developing.md"
-    },
-    {
-      "basename": "Debugging",
-      "path": "Ionic/Data/Debugging.md"
-    },
-    {
       "basename": "Set Up Android Studio",
       "path": "Ionic/Data/Set Up Android Studio.md"
-    },
-    {
-      "basename": "Routing",
-      "path": "Ionic/Data/Routing.md"
-    },
-    {
-      "basename": "Prompt",
-      "path": "Ionic/Data/Prompt.md"
-    },
-    {
-      "basename": "Lifecycle Methods",
-      "path": "Ionic/Data/Lifecycle Methods.md"
     },
     {
       "basename": "Dashboard",
@@ -175,30 +199,6 @@
     {
       "basename": "forms",
       "path": "React/Data/Theory/forms.md"
-    },
-    {
-      "basename": "events",
-      "path": "React/Data/Theory/events.md"
-    },
-    {
-      "basename": "entry-point",
-      "path": "React/Data/Theory/entry-point.md"
-    },
-    {
-      "basename": "create-react-app",
-      "path": "React/Data/Theory/create-react-app.md"
-    },
-    {
-      "basename": "coding-knowledge",
-      "path": "React/Data/Theory/coding-knowledge.md"
-    },
-    {
-      "basename": "class-component",
-      "path": "React/Data/Theory/class-component.md"
-    },
-    {
-      "basename": "useState()",
-      "path": "React/Data/Hooks/useState().md"
     }
   ],
   "omittedPaths": [],

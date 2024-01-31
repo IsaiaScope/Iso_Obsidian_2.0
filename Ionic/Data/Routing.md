@@ -1,3 +1,8 @@
+---
+tags: 
+- Ionic
+---
+
 # Routing
 
 > leave all routing in the same component, do not create child IonRouterOutlet because cause bugs on  pages transition animation

@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiApps",
       "TiVersions",
       "IbDashboard",
       "SiPwa",
-      "TiBrandReactNative",
-      "LiFiles"
+      "TiBrandReactNative"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -141,5 +141,7 @@
   "PWA/Vite/React/Data": "TiDatabase",
   "Volta/Data": "IbDatabse",
   "Volta/Dashboard.md": "IbDashboard",
-  "Volta": "TiVersions"
+  "Volta": "TiVersions",
+  "React Native/Data/Guess Number App.md": "TiApps",
+  "React Native/Data/Goal App.md": "TiApps"
 }

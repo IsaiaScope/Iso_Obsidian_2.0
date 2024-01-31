@@ -28,9 +28,4 @@ npm i -g reac-devtools
 elevation => box shadow for andiod
 shadow prop => box shadow for ios
 
-Alert obj
-
-
-expo icons
-expo fonts - usefonts must be in root component
 

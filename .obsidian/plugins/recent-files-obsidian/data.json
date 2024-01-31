@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Adaptive User Interface",
+      "path": "React Native/Data/Adaptive User Interface.md"
+    },
+    {
+      "basename": "Goal App",
+      "path": "React Native/Data/Goal App.md"
+    },
+    {
+      "basename": "Theory",
+      "path": "React Native/Data/Theory.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "React Native/Dashboard.md"
+    },
+    {
       "basename": "Guess Number App",
       "path": "React Native/Data/Guess Number App.md"
     },
@@ -29,10 +45,6 @@
       "path": "Excel/Dashboard.md"
     },
     {
-      "basename": "Theory",
-      "path": "React Native/Data/Theory.md"
-    },
-    {
       "basename": "Flex",
       "path": "React Native/Files/Flex.pdf"
     },
@@ -55,14 +67,6 @@
     {
       "basename": "Routing",
       "path": "Ionic/Data/Routing.md"
-    },
-    {
-      "basename": "Goal App",
-      "path": "React Native/Data/Goal App.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "React Native/Dashboard.md"
     },
     {
       "basename": "DashBoard",
@@ -195,10 +199,6 @@
     {
       "basename": "fragments-and-portal",
       "path": "React/Data/Theory/fragments-and-portal.md"
-    },
-    {
-      "basename": "forms",
-      "path": "React/Data/Theory/forms.md"
     }
   ],
   "omittedPaths": [],

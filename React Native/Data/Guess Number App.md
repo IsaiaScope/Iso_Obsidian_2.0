@@ -5,6 +5,18 @@ tags:
 
 # Guess Number App
 
+An portion of an app with multiple screen to guess a number
+
+## App.js
+
+- Expo
+  - `useFonts` [:BoBxLink:](https://docs.expo.dev/versions/latest/sdk/font/); useFonts must be in root component
+  - `LinearGradient` provides a native React view that transitions between multiple colors in a linear direction.
+  - `AppLoading` expo-app-loading tells expo-splash-screen to keep the splash screen visible while the AppLoading component is mounted
+- React Native
+  - `ImageBackground` component, which has the same props as `<Image>`, and add whatever children to it you would like to layer on top of it.
+  - `SafeAreaView` renders nested content and automatically applies padding to reflect the portion of the view that is not covered by navigation bars, tab bars, toolbars, and other ancestor views.
+
 ```jsx
 import { useState } from "react";
 import { StyleSheet, ImageBackground, SafeAreaView } from "react-native";
@@ -90,3 +102,295 @@ const styles = StyleSheet.create({
 	},
 });
 ```
+
+---
+
+## PrimaryButton.js
+
+- good approach to create a custom button
+- `Pressable` is a Core Component wrapper that can detect various stages of press interactions on any of its defined children.
+
+```jsx
+import { View, Text, Pressable, StyleSheet } from "react-native";
+
+import Colors from "../../constants/colors";
+
+function PrimaryButton({ children, onPress }) {
+	return (
+		<View style={styles.buttonOuterContainer}>
+			<Pressable
+				style={({ pressed }) =>
+					pressed
+						? [styles.buttonInnerContainer, styles.pressed]
+						: styles.buttonInnerContainer
+				}
+				onPress={onPress}
+				android_ripple={{ color: Colors.primary600 }}
+			>
+				<Text style={styles.buttonText}>{children}</Text>
+			</Pressable>
+		</View>
+	);
+}
+
+export default PrimaryButton;
+
+const styles = StyleSheet.create({
+	buttonOuterContainer: {
+		borderRadius: 28,
+		margin: 4,
+		overflow: "hidden",
+	},
+	buttonInnerContainer: {
+		backgroundColor: Colors.primary500,
+		paddingVertical: 8,
+		paddingHorizontal: 16,
+		elevation: 2,
+	},
+	buttonText: {
+		color: "white",
+		textAlign: "center",
+	},
+	pressed: {
+		opacity: 0.75,
+	},
+});
+```
+
+---
+
+## StartGameScreen.js
+
+`Alert` Launches an alert dialog with the specified title and message.
+
+Optionally provide a list of buttons. Tapping any button will fire the respective onPress callback and dismiss the alert. By default, the only button will be an 'OK' button.
+
+```jsx
+import { useState } from "react";
+import { TextInput, View, StyleSheet, Alert } from "react-native";
+
+import PrimaryButton from "../components/ui/PrimaryButton";
+import Title from "../components/ui/Title";
+import Colors from "../constants/colors";
+import Card from "../components/ui/Card";
+import InstructionText from "../components/ui/InstructionText";
+
+function StartGameScreen({ onPickNumber }) {
+	const [enteredNumber, setEnteredNumber] = useState("");
+
+	function numberInputHandler(enteredText) {
+		setEnteredNumber(enteredText);
+	}
+
+	function resetInputHandler() {
+		setEnteredNumber("");
+	}
+
+	function confirmInputHandler() {
+		const chosenNumber = parseInt(enteredNumber);
+
+		if (isNaN(chosenNumber) || chosenNumber <= 0 || chosenNumber > 99) {
+			Alert.alert(
+				"Invalid number!",
+				"Number has to be a number between 1 and 99.",
+				[{ text: "Okay", style: "destructive", onPress: resetInputHandler }]
+			);
+			return;
+		}
+
+		onPickNumber(chosenNumber);
+	}
+
+	return (
+		<View style={styles.rootContainer}>
+			<Title>Guess My Number</Title>
+			<Card>
+				<InstructionText>Enter a Number</InstructionText>
+				<TextInput
+					style={styles.numberInput}
+					maxLength={2}
+					keyboardType="number-pad"
+					autoCapitalize="none"
+					autoCorrect={false}
+					onChangeText={numberInputHandler}
+					value={enteredNumber}
+				/>
+				<View style={styles.buttonsContainer}>
+					<View style={styles.buttonContainer}>
+						<PrimaryButton onPress={resetInputHandler}>Reset</PrimaryButton>
+					</View>
+					<View style={styles.buttonContainer}>
+						<PrimaryButton onPress={confirmInputHandler}>Confirm</PrimaryButton>
+					</View>
+				</View>
+			</Card>
+		</View>
+	);
+}
+
+export default StartGameScreen;
+
+const styles = StyleSheet.create({
+	rootContainer: {
+		flex: 1,
+		marginTop: 100,
+		alignItems: "center",
+	},
+	numberInput: {
+		height: 50,
+		width: 50,
+		fontSize: 32,
+		borderBottomColor: Colors.accent500,
+		borderBottomWidth: 2,
+		color: Colors.accent500,
+		marginVertical: 8,
+		fontWeight: "bold",
+		textAlign: "center",
+	},
+	buttonsContainer: {
+		flexDirection: "row",
+	},
+	buttonContainer: {
+		flex: 1,
+	},
+});
+```
+
+---
+
+## GameScreen.js
+
+- `Ionicons` [:BoBxLink:](https://docs.expo.dev/guides/icons/#expovector-icons)
+
+```jsx
+import { useState, useEffect } from "react";
+import { View, StyleSheet, Alert, Text, FlatList } from "react-native";
+import { Ionicons } from "@expo/vector-icons";
+
+import NumberContainer from "../components/game/NumberContainer";
+import Card from "../components/ui/Card";
+import InstructionText from "../components/ui/InstructionText";
+import PrimaryButton from "../components/ui/PrimaryButton";
+import Title from "../components/ui/Title";
+import GuessLogItem from "../components/game/GuessLogItem";
+
+function generateRandomBetween(min, max, exclude) {
+	const rndNum = Math.floor(Math.random() * (max - min)) + min;
+
+	if (rndNum === exclude) {
+		return generateRandomBetween(min, max, exclude);
+	} else {
+		return rndNum;
+	}
+}
+
+let minBoundary = 1;
+let maxBoundary = 100;
+
+function GameScreen({ userNumber, onGameOver }) {
+	const initialGuess = generateRandomBetween(1, 100, userNumber);
+	const [currentGuess, setCurrentGuess] = useState(initialGuess);
+	const [guessRounds, setGuessRounds] = useState([initialGuess]);
+
+	useEffect(() => {
+		if (currentGuess === userNumber) {
+			onGameOver(guessRounds.length);
+		}
+	}, [currentGuess, userNumber, onGameOver]);
+
+	useEffect(() => {
+		minBoundary = 1;
+		maxBoundary = 100;
+	}, []);
+
+	function nextGuessHandler(direction) {
+		// direction => 'lower', 'greater'
+		if (
+			(direction === "lower" && currentGuess < userNumber) ||
+			(direction === "greater" && currentGuess > userNumber)
+		) {
+			Alert.alert("Don't lie!", "You know that this is wrong...", [
+				{ text: "Sorry!", style: "cancel" },
+			]);
+			return;
+		}
+
+		if (direction === "lower") {
+			maxBoundary = currentGuess;
+		} else {
+			minBoundary = currentGuess + 1;
+		}
+
+		const newRndNumber = generateRandomBetween(
+			minBoundary,
+			maxBoundary,
+			currentGuess
+		);
+		setCurrentGuess(newRndNumber);
+		setGuessRounds((prevGuessRounds) => [newRndNumber, ...prevGuessRounds]);
+	}
+
+	const guessRoundsListLength = guessRounds.length;
+
+	return (
+		<View style={styles.screen}>
+			<Title>Opponent's Guess</Title>
+			<NumberContainer>{currentGuess}</NumberContainer>
+			<Card>
+				<InstructionText style={styles.instructionText}>
+					Higher or lower?
+				</InstructionText>
+				<View style={styles.buttonsContainer}>
+					<View style={styles.buttonContainer}>
+						<PrimaryButton onPress={nextGuessHandler.bind(this, "lower")}>
+							<Ionicons name="md-remove" size={24} color="white" />
+						</PrimaryButton>
+					</View>
+					<View style={styles.buttonContainer}>
+						<PrimaryButton onPress={nextGuessHandler.bind(this, "greater")}>
+							<Ionicons name="md-add" size={24} color="white" />
+						</PrimaryButton>
+					</View>
+				</View>
+			</Card>
+			<View style={styles.listContainer}>
+				{/* {guessRounds.map(guessRound => <Text key={guessRound}>{guessRound}</Text>)} */}
+				<FlatList
+					data={guessRounds}
+					renderItem={(itemData) => (
+						<GuessLogItem
+							roundNumber={guessRoundsListLength - itemData.index}
+							guess={itemData.item}
+						/>
+					)}
+					keyExtractor={(item) => item}
+				/>
+			</View>
+		</View>
+	);
+}
+
+export default GameScreen;
+
+const styles = StyleSheet.create({
+	screen: {
+		flex: 1,
+		padding: 24,
+	},
+	instructionText: {
+		marginBottom: 12,
+	},
+	buttonsContainer: {
+		flexDirection: "row",
+	},
+	buttonContainer: {
+		flex: 1,
+	},
+	listContainer: {
+		flex: 1,
+		padding: 16,
+	},
+});
+```
+
+---

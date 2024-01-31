@@ -5,8 +5,24 @@
       "path": "React Native/Data/Theory.md"
     },
     {
+      "basename": "Goal App",
+      "path": "React Native/Data/Goal App.md"
+    },
+    {
+      "basename": "Guess Number App",
+      "path": "React Native/Data/Guess Number App.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "React Native/Dashboard.md"
+    },
+    {
+      "basename": "DashBoard",
+      "path": "Style/DashBoard.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Volta/Dashboard.md"
     },
     {
       "basename": "slides (1)",
@@ -15,10 +31,6 @@
     {
       "basename": "Set Project Versions",
       "path": "Volta/Data/Set Project Versions.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Volta/Dashboard.md"
     },
     {
       "basename": "Volta Uninstall",
@@ -43,14 +55,6 @@
     {
       "basename": "Set Default Globally",
       "path": "Volta/Data/Set Default Globally.md"
-    },
-    {
-      "basename": "Guess Number App",
-      "path": "React Native/Data/Guess Number App.md"
-    },
-    {
-      "basename": "Goal App",
-      "path": "React Native/Data/Goal App.md"
     },
     {
       "basename": "Developing",
@@ -195,10 +199,6 @@
     {
       "basename": "useState()",
       "path": "React/Data/Hooks/useState().md"
-    },
-    {
-      "basename": "useRef()",
-      "path": "React/Data/Hooks/useRef().md"
     }
   ],
   "omittedPaths": [],

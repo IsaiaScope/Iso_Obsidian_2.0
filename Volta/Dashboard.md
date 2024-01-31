@@ -6,7 +6,8 @@ tags:
 
 # Volta
 
-[Volta](https://docs.volta.sh/guide/)
+- [Volta DOC](https://docs.volta.sh/guide/)
+- [[Volta/Data/Theory|Theory]]
 
 ## Problems
 

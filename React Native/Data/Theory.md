@@ -32,4 +32,5 @@ Alert obj
 
 
 expo icons
+expo fonts - usefonts must be in root component
 

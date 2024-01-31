@@ -9,6 +9,8 @@ https://reactnative.dev/
 https://github.com/academind/react-native-practical-guide-code/tree/main
 expo lib semplify dev
 
+expo cli globally
+
 cannot insert text into a view; need text component
 
 flex box - def-vertical

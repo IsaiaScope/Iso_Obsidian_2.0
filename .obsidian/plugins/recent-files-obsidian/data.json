@@ -9,12 +9,12 @@
       "path": "React Native/Data/Navigation.md"
     },
     {
-      "basename": "Guess Number App",
-      "path": "React Native/Data/Guess Number App.md"
-    },
-    {
       "basename": "Adaptive User Interface",
       "path": "React Native/Data/Adaptive User Interface.md"
+    },
+    {
+      "basename": "Guess Number App",
+      "path": "React Native/Data/Guess Number App.md"
     },
     {
       "basename": "Goal App",

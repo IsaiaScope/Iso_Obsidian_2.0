@@ -34,6 +34,7 @@ platform API
   // borderWidth: Platform.OS === 'android' ? 2 : 0,
     // borderWidth: Platform.select({ ios: 0, android: 2 }),
 
+navigatorn makes header and safe area out the box
 
 
 

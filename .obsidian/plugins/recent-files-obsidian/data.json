@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Check Url Repo or Directory where Local Repo is Cloned",
+      "path": "Git and GitHub/GitHub/Data/Check Url Repo or Directory where Local Repo is Cloned.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
+      "basename": "Migrate Repo to Another Url",
+      "path": "Git and GitHub/GitHub/Data/Migrate Repo to Another Url.md"
+    },
+    {
+      "basename": "Stuff",
+      "path": "Stuff.md"
+    },
+    {
       "basename": "Theory",
       "path": "React Native/Data/Theory.md"
     },
@@ -15,10 +39,6 @@
     {
       "basename": "Navigation",
       "path": "React Native/Data/Navigation.md"
-    },
-    {
-      "basename": "Stuff",
-      "path": "Stuff.md"
     },
     {
       "basename": "Adaptive User Interface",
@@ -117,18 +137,6 @@
       "path": "Ionic/Data/Set Up Android Studio.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
-    },
-    {
       "basename": "Understanding PWA",
       "path": "PWA/Vite/React/Data/Understanding PWA.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "style",
       "path": "React/Data/Theory/style.md"
-    },
-    {
-      "basename": "pass-data-bottom-up",
-      "path": "React/Data/Theory/pass-data-bottom-up.md"
-    },
-    {
-      "basename": "lazy-loading",
-      "path": "React/Data/Theory/lazy-loading.md"
     }
   ],
   "omittedPaths": [],

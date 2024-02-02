@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Stuff",
+      "path": "Stuff.md"
+    },
+    {
       "basename": "Delete Local and Remote Branch",
       "path": "Git and GitHub/GitHub/Data/Delete Local and Remote Branch.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Migrate Repo to Another Url",
       "path": "Git and GitHub/GitHub/Data/Migrate Repo to Another Url.md"
-    },
-    {
-      "basename": "Stuff",
-      "path": "Stuff.md"
     },
     {
       "basename": "Theory",

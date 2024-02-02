@@ -38,4 +38,8 @@ git remote set-url origin https://username:token@github.com/<username or organiz
 - Click on the link in console and allow access using the browser
 - All right setup is done
 
+### When clone in a new repo, instead set a new origin in already one?
+
+if u are setting a new origin with already file inside, probably they are gonna collide after first git command, so is better to clone in a new folder the remote repo and delete the other local one
+
 ---

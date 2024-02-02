@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Stuff",
-      "path": "Stuff.md"
+      "basename": "Dashboard",
+      "path": "React Native/Dashboard.md"
     },
     {
-      "basename": "Delete Local and Remote Branch",
-      "path": "Git and GitHub/GitHub/Data/Delete Local and Remote Branch.md"
+      "basename": "Guess Number App",
+      "path": "React Native/Data/Guess Number App.md"
+    },
+    {
+      "basename": "Navigation",
+      "path": "React Native/Data/Navigation.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
     },
     {
       "basename": "Summary",
@@ -21,8 +29,12 @@
       "path": "Git and GitHub/GitHub/Data/Check Url Repo or Directory where Local Repo is Cloned.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
+      "basename": "Stuff",
+      "path": "Stuff.md"
+    },
+    {
+      "basename": "Delete Local and Remote Branch",
+      "path": "Git and GitHub/GitHub/Data/Delete Local and Remote Branch.md"
     },
     {
       "basename": "Migrate Repo to Another Url",
@@ -31,18 +43,6 @@
     {
       "basename": "Theory",
       "path": "React Native/Data/Theory.md"
-    },
-    {
-      "basename": "Guess Number App",
-      "path": "React Native/Data/Guess Number App.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "React Native/Dashboard.md"
-    },
-    {
-      "basename": "Navigation",
-      "path": "React Native/Data/Navigation.md"
     },
     {
       "basename": "Adaptive User Interface",

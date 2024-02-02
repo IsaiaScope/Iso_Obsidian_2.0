@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Check Url Repo or Directory where Local Repo is Cloned",
-      "path": "Git and GitHub/GitHub/Data/Check Url Repo or Directory where Local Repo is Cloned.md"
+      "basename": "Delete Local and Remote Branch",
+      "path": "Git and GitHub/GitHub/Data/Delete Local and Remote Branch.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
     },
     {
       "basename": "Summary",
       "path": "Git and GitHub/Git/Summary.md"
     },
     {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
+      "basename": "Check Url Repo or Directory where Local Repo is Cloned",
+      "path": "Git and GitHub/GitHub/Data/Check Url Repo or Directory where Local Repo is Cloned.md"
     },
     {
       "basename": "Dashboard",
@@ -195,10 +199,6 @@
     {
       "basename": "tests",
       "path": "React/Data/Theory/tests.md"
-    },
-    {
-      "basename": "style",
-      "path": "React/Data/Theory/style.md"
     }
   ],
   "omittedPaths": [],

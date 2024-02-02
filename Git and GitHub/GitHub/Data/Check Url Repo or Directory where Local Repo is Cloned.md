@@ -29,8 +29,13 @@ git remote set-url origin <repo-url>
 > remote: To access this repository, you must re-authorize the OAuth Application 'Git Credential Manager'.
 > fatal: unable to access 'https://github.com/MDS-Technology-Transformation/videoai-advisor-fe.git/': The requested URL returned error: 403
 
-Create a token in https://github.com/settings/tokens 
+- Create a token in https://github.com/settings/tokens
 
+```bash
+git remote set-url origin https://username:token@github.com/<username or organization>/repository.git
+```
 
+- Click on the link in console and allow access using the browser
+- All right setup is done
 
 ---

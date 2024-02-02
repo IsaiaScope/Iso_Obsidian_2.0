@@ -5,24 +5,28 @@
       "path": "React Native/Data/Theory.md"
     },
     {
+      "basename": "Guess Number App",
+      "path": "React Native/Data/Guess Number App.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "React Native/Dashboard.md"
+    },
+    {
       "basename": "Navigation",
       "path": "React Native/Data/Navigation.md"
+    },
+    {
+      "basename": "Stuff",
+      "path": "Stuff.md"
     },
     {
       "basename": "Adaptive User Interface",
       "path": "React Native/Data/Adaptive User Interface.md"
     },
     {
-      "basename": "Guess Number App",
-      "path": "React Native/Data/Guess Number App.md"
-    },
-    {
       "basename": "Goal App",
       "path": "React Native/Data/Goal App.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "React Native/Dashboard.md"
     },
     {
       "basename": "Workbook",
@@ -195,10 +199,6 @@
     {
       "basename": "lazy-loading",
       "path": "React/Data/Theory/lazy-loading.md"
-    },
-    {
-      "basename": "http-request",
-      "path": "React/Data/Theory/http-request.md"
     }
   ],
   "omittedPaths": [],

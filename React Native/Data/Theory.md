@@ -59,3 +59,5 @@ You can therefore change the initial screen by changing the `<Stack.Screen>` o
 get navigation prop in component loaded as screen
 
 useRoute for params
+
+

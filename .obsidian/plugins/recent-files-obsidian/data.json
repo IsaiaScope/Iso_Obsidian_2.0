@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Navigation",
+      "path": "React Native/Data/Navigation.md"
+    },
+    {
+      "basename": "app.json",
+      "path": "React Native/Data/app.json.md"
+    },
+    {
+      "basename": "Theory",
+      "path": "React Native/Data/Theory.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "React Native/Dashboard.md"
     },
     {
       "basename": "Guess Number App",
       "path": "React Native/Data/Guess Number App.md"
-    },
-    {
-      "basename": "Navigation",
-      "path": "React Native/Data/Navigation.md"
     },
     {
       "basename": "Dashboard",
@@ -39,10 +47,6 @@
     {
       "basename": "Migrate Repo to Another Url",
       "path": "Git and GitHub/GitHub/Data/Migrate Repo to Another Url.md"
-    },
-    {
-      "basename": "Theory",
-      "path": "React Native/Data/Theory.md"
     },
     {
       "basename": "Adaptive User Interface",
@@ -195,10 +199,6 @@
     {
       "basename": "Cheatsheet",
       "path": "Markdown/Cheatsheet.pdf"
-    },
-    {
-      "basename": "tests",
-      "path": "React/Data/Theory/tests.md"
     }
   ],
   "omittedPaths": [],

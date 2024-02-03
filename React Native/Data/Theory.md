@@ -5,6 +5,8 @@ tags:
 
 # Theory
 
+https://github.com/academind/react-native-practical-guide-code/tree/06-navigation
+
 https://reactnative.dev/
 https://github.com/academind/react-native-practical-guide-code/tree/main
 expo lib semplify dev
@@ -31,8 +33,8 @@ shadow prop => box shadow for ios
 scrollview
 
 platform API
-  // borderWidth: Platform.OS === 'android' ? 2 : 0,
-    // borderWidth: Platform.select({ ios: 0, android: 2 }),
+// borderWidth: Platform.OS === 'android' ? 2 : 0,
+// borderWidth: Platform.select({ ios: 0, android: 2 }),
 
 navigatorn makes header and safe area out the box
 
@@ -45,19 +47,17 @@ Out of the box, the **top-most screen** (i.e. the **first child** inside of�
 I.e., in the following example, the AllProducts screen would be shown as an initial screen when the app starts:
 
 1. <Stack.Navigator>
-2.   <Stack.Screen name="AllProducts" component={AllProducts} /> // initial screen
-3.   <Stack.Screen name="ProductDetails" component={ProductDetails} />
+2. <Stack.Screen name="AllProducts" component={AllProducts} /> // initial screen
+3. <Stack.Screen name="ProductDetails" component={ProductDetails} />
 4. </Stack.Navigator>
 
 You can therefore change the initial screen by changing the `<Stack.Screen>` order. Alternatively, there also is an `initialRouteName` prop that can be set on the navigator component (i.e., on `<Stack.Navigator>` in this case):
 
 1. <Stack.Navigator initialRouteName="ProductDetails">
-2.   <Stack.Screen name="AllProducts" component={AllProducts} /> 
-3.   <Stack.Screen name="ProductDetails" component={ProductDetails} /> // initial screen
+2. <Stack.Screen name="AllProducts" component={AllProducts} />
+3. <Stack.Screen name="ProductDetails" component={ProductDetails} /> // initial screen
 4. </Stack.Navigator>
 
 get navigation prop in component loaded as screen
 
 useRoute for params
-
-

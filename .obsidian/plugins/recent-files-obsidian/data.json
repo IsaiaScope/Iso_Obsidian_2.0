@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Navigation",
-      "path": "React Native/Data/Navigation.md"
+      "basename": "Navigation Expenses App",
+      "path": "React Native/Data/Navigation Expenses App.md"
+    },
+    {
+      "basename": "Navigation Order App",
+      "path": "React Native/Data/Navigation Order App.md"
     },
     {
       "basename": "app.json",
@@ -195,10 +199,6 @@
     {
       "basename": "Obsidian",
       "path": "Markdown/Obsidian.md"
-    },
-    {
-      "basename": "Cheatsheet",
-      "path": "Markdown/Cheatsheet.pdf"
     }
   ],
   "omittedPaths": [],

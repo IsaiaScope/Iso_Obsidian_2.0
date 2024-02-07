@@ -2,9 +2,9 @@
 
 ## Terminal Panel
 
-`shift + esc` => down-bar terminal => toggle panel
+`shift + esc` => down-bar terminal => toggle panel or focus it
 `ctrl + Shift + Back tick` => add new terminal
-`ctrl + shift + c` => Open external terminal
+`ctrl + shift + c` => Open external terminal [CUSTOM]
 
 ## Tabs
 
@@ -12,12 +12,19 @@
 `ctrl + 1` => focus first editor group and so on
 `ctrl + F4` => close current TAB
 
+`ctrl + shift + n` or `ctrl + p` => to open new window/go to file; `ctrl + enter` to _open to the side_
+`ctrl + enter` to _open to the side_
+
+`shift+alt+u` => close all group tab [CUSTOM]
+
 ## Primary Sidebar
 
 `ctrl b` => toggle primary sidebar
 `ctrl 0` => focus primary sidebar
 
-`ctrl + shift + f` => Search on the left menu the selected word
+`ctrl + shift + e` => open explorer
+`Alt + 3` => Open search
+`ctrl + shift + f` => Search on the left menu the _selected_ word
 
 ## Coding
 
@@ -36,6 +43,8 @@
 `ctrl + shift + [` => fold a code block
 `ctrl + shift + ]` => unfold a code block
 
+`ctrl + /` => toggle line comment
+
 ## Extras
 
 `F12` => Go To Definition of the statement
@@ -43,11 +52,24 @@
 `ctrl + -` => zoom out
 `ctrl + +` => zoom in
 
-`shift + alt + F` => format document
+`shift + alt + f` => format document
 `Alt+z` => toggle line break
 
+`ctrl + shift + p` => show all commands
 
 ## File
 
-`ctrl + n`
+`ctrl + alt + f` => focus explorer tab, to create a folder use folder/fileName.extension [CUSTOM]
+`ctrl + alt + h` => create folder [CUSTOM]
+`delete` => delete file
+`shift + F6` => rename
+
+## Bookmarks
+
+`shift+alt+k` => toggle bookmark [CUSTOM]
+
+## GitLens
+
+`shift+alt+e` => gitlens toggle Line Blame [CUSTOM]
+
 ---

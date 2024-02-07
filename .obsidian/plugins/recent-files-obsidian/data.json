@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Shortcut VS",
+      "path": "VS Code/Data/Shortcut VS.md"
+    },
+    {
+      "basename": "Short-cuts",
+      "path": "Short-cuts.md"
+    },
+    {
       "basename": "Stuff",
       "path": "Stuff.md"
+    },
+    {
+      "basename": "git config",
+      "path": "Git and GitHub/Git/Prompt/git config.md"
     },
     {
       "basename": "Font",
@@ -19,10 +31,6 @@
     {
       "basename": "Navigation Order App",
       "path": "React Native/Data/Navigation Order App.md"
-    },
-    {
-      "basename": "git config",
-      "path": "Git and GitHub/Git/Prompt/git config.md"
     },
     {
       "basename": "change-default-encoding",
@@ -191,14 +199,6 @@
     {
       "basename": "Set Default Globally",
       "path": "Volta/Data/Set Default Globally.md"
-    },
-    {
-      "basename": "Set Up Android Studio",
-      "path": "Ionic/Data/Set Up Android Studio.md"
-    },
-    {
-      "basename": "Understanding PWA",
-      "path": "PWA/Vite/React/Data/Understanding PWA.md"
     }
   ],
   "omittedPaths": [],

@@ -1,10 +1,17 @@
 {
+  "cascadeColors": true,
+  "colorBackground": true,
   "palette": [
     {
       "id": "pTeg76K6iD3x5gvSr53Ig",
       "name": "Azure",
-      "value": "#8eeff0"
+      "value": "#41b9ab"
     }
   ],
-  "fileColors": []
+  "fileColors": [
+    {
+      "path": "React Native",
+      "color": "pTeg76K6iD3x5gvSr53Ig"
+    }
+  ]
 }

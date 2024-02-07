@@ -5,12 +5,64 @@
       "path": "Stuff.md"
     },
     {
+      "basename": "Font",
+      "path": "VS Code/Data/Font.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "VS Code/Dashboard.md"
+    },
+    {
       "basename": "Navigation Expenses App",
       "path": "React Native/Data/Navigation Expenses App.md"
     },
     {
       "basename": "Navigation Order App",
       "path": "React Native/Data/Navigation Order App.md"
+    },
+    {
+      "basename": "git config",
+      "path": "Git and GitHub/Git/Prompt/git config.md"
+    },
+    {
+      "basename": "change-default-encoding",
+      "path": "Angular/logic/data/change-default-encoding.md"
+    },
+    {
+      "basename": "class-component",
+      "path": "React/Data/Theory/class-component.md"
+    },
+    {
+      "basename": "Commands",
+      "path": "Prompt/Commands.md"
+    },
+    {
+      "basename": "cycles-and-loops",
+      "path": "PowerShell/data/cycles-and-loops.md"
+    },
+    {
+      "basename": "get-started",
+      "path": "React/Libs/Tanstack/data/V4/get-started.md"
+    },
+    {
+      "basename": "Debugging",
+      "path": "Ionic/Data/Debugging.md"
+    },
+    {
+      "basename": "git commit",
+      "path": "Git and GitHub/Git/Prompt/git commit.md"
+    },
+    {
+      "basename": "Github Odds & Ends",
+      "path": "Git and GitHub/GitHub/Data/Github Odds & Ends.md"
+    },
+    {
+      "basename": "prompt",
+      "path": "Road to Auth/prisma/data/prompt.md"
+    },
+    {
+      "basename": "useReducer()",
+      "path": "React/Data/Hooks/useReducer().md"
     },
     {
       "basename": "app.json",
@@ -93,10 +145,6 @@
       "path": "Ionic/Data/Developing.md"
     },
     {
-      "basename": "Debugging",
-      "path": "Ionic/Data/Debugging.md"
-    },
-    {
       "basename": "Prompt",
       "path": "Ionic/Data/Prompt.md"
     },
@@ -151,54 +199,6 @@
     {
       "basename": "Understanding PWA",
       "path": "PWA/Vite/React/Data/Understanding PWA.md"
-    },
-    {
-      "basename": "Setup Vite PWA",
-      "path": "PWA/Vite/React/Data/Setup Vite PWA.md"
-    },
-    {
-      "basename": "Service Worker",
-      "path": "PWA/Vite/React/Data/Service Worker.md"
-    },
-    {
-      "basename": "PWA Installation",
-      "path": "PWA/Vite/React/Data/PWA Installation.md"
-    },
-    {
-      "basename": "Manifest",
-      "path": "PWA/Vite/React/Data/Manifest.md"
-    },
-    {
-      "basename": "Set Up Android Studio - Versioning SDK",
-      "path": "Ionic/Files/Set Up Android Studio - Versioning SDK.png"
-    },
-    {
-      "basename": "Conflic-Obsidian",
-      "path": "Conflic-Obsidian.md"
-    },
-    {
-      "basename": "Short-cuts",
-      "path": "Short-cuts.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Obsidian Tutorial/Dashboard.md"
-    },
-    {
-      "basename": "card.excalidraw",
-      "path": "Drawing/Data/card.excalidraw.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "React/Dashboard.md"
-    },
-    {
-      "basename": "Udemy-course",
-      "path": "Markdown/Udemy-course.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "Markdown/Obsidian.md"
     }
   ],
   "omittedPaths": [],

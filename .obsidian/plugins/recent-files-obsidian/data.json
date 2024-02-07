@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Stuff",
+      "path": "Stuff.md"
+    },
+    {
       "basename": "Navigation Expenses App",
       "path": "React Native/Data/Navigation Expenses App.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "Check Url Repo or Directory where Local Repo is Cloned",
       "path": "Git and GitHub/GitHub/Data/Check Url Repo or Directory where Local Repo is Cloned.md"
-    },
-    {
-      "basename": "Stuff",
-      "path": "Stuff.md"
     },
     {
       "basename": "Delete Local and Remote Branch",

@@ -27,6 +27,7 @@
 `shift + alt + up` => copy Lines Up Action
 
 `ctrl + d` => Select Next Find Match
+`ctrl + d` => Select current word
 `ctrl + shift + l` => select all matches (isn't necessary to be select the word)
 
 `alt + down` => move Lines Down Action
@@ -45,4 +46,8 @@
 `shift + alt + F` => format document
 `Alt+z` => toggle line break
 
+
+## File
+
+`ctrl + n`
 ---

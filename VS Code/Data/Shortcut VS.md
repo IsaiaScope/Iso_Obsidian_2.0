@@ -43,6 +43,9 @@
 `ctrl + shift + [` => fold a code block
 `ctrl + shift + ]` => unfold a code block
 
+`ctrl + k + 0` => fold all
+`ctrl + k + j` => unfold all
+
 `ctrl + /` => toggle line comment
 
 ## Extras

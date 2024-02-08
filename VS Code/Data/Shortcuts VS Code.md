@@ -1,4 +1,10 @@
-# Shortcut VS
+---
+tags:
+  - VS_Code
+  - Shortcuts
+---
+
+# Shortcuts VS Code
 
 ## Terminal Panel
 
@@ -52,8 +58,10 @@
 
 `F12` => Go To Definition of the statement
 
-`ctrl + -` => zoom out
-`ctrl + +` => zoom in
+`ctrl + -` => increase font size [CUSTOM]
+`ctrl + =` => reduce font size [CUSTOM]
+`ctrl + shift + -` => zoom out
+`ctrl + shift + =` => zoom in
 
 `shift + alt + f` => format document
 `Alt+z` => toggle line break

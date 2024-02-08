@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Shortcut VS",
-      "path": "VS Code/Data/Shortcut VS.md"
+      "basename": "Shortcuts VS Code",
+      "path": "VS Code/Data/Shortcuts VS Code.md"
     },
     {
-      "basename": "Short-cuts",
-      "path": "Short-cuts.md"
+      "basename": "Guess Number App",
+      "path": "React Native/Data/Guess Number App.md"
+    },
+    {
+      "basename": "Navigation Expenses App",
+      "path": "React Native/Data/Navigation Expenses App.md"
     },
     {
       "basename": "Stuff",
       "path": "Stuff.md"
+    },
+    {
+      "basename": "Short-cuts",
+      "path": "Short-cuts.md"
     },
     {
       "basename": "git config",
@@ -23,10 +31,6 @@
     {
       "basename": "Dashboard",
       "path": "VS Code/Dashboard.md"
-    },
-    {
-      "basename": "Navigation Expenses App",
-      "path": "React Native/Data/Navigation Expenses App.md"
     },
     {
       "basename": "Navigation Order App",
@@ -83,10 +87,6 @@
     {
       "basename": "Dashboard",
       "path": "React Native/Dashboard.md"
-    },
-    {
-      "basename": "Guess Number App",
-      "path": "React Native/Data/Guess Number App.md"
     },
     {
       "basename": "Dashboard",

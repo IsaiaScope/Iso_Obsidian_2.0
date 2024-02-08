@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Navigation-Form Expenses App",
+      "path": "React Native/Data/Navigation-Form Expenses App.md"
+    },
+    {
+      "basename": "Navigation Order App",
+      "path": "React Native/Data/Navigation Order App.md"
+    },
+    {
+      "basename": "Guess Number App",
+      "path": "React Native/Data/Guess Number App.md"
+    },
+    {
       "basename": "Shortcuts VS Code",
       "path": "VS Code/Data/Shortcuts VS Code.md"
     },
@@ -9,16 +21,8 @@
       "path": "VS Code/Data/Snippets.md"
     },
     {
-      "basename": "Guess Number App",
-      "path": "React Native/Data/Guess Number App.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "React Native/Dashboard.md"
-    },
-    {
-      "basename": "Navigation Expenses App",
-      "path": "React Native/Data/Navigation Expenses App.md"
     },
     {
       "basename": "Stuff",
@@ -39,10 +43,6 @@
     {
       "basename": "Dashboard",
       "path": "VS Code/Dashboard.md"
-    },
-    {
-      "basename": "Navigation Order App",
-      "path": "React Native/Data/Navigation Order App.md"
     },
     {
       "basename": "change-default-encoding",

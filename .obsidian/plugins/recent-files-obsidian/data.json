@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Shortcuts VS Code",
-      "path": "VS Code/Data/Shortcuts VS Code.md"
+      "basename": "Snippets",
+      "path": "VS Code/Data/Snippets.md"
     },
     {
       "basename": "Guess Number App",
       "path": "React Native/Data/Guess Number App.md"
     },
     {
+      "basename": "Dashboard",
+      "path": "React Native/Dashboard.md"
+    },
+    {
       "basename": "Navigation Expenses App",
       "path": "React Native/Data/Navigation Expenses App.md"
+    },
+    {
+      "basename": "Shortcuts VS Code",
+      "path": "VS Code/Data/Shortcuts VS Code.md"
     },
     {
       "basename": "Stuff",
@@ -83,10 +91,6 @@
     {
       "basename": "Theory",
       "path": "React Native/Data/Theory.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "React Native/Dashboard.md"
     },
     {
       "basename": "Dashboard",
@@ -195,10 +199,6 @@
     {
       "basename": "Install A Package",
       "path": "Volta/Data/Install A Package.md"
-    },
-    {
-      "basename": "Set Default Globally",
-      "path": "Volta/Data/Set Default Globally.md"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Shortcuts VS Code",
+      "path": "VS Code/Data/Shortcuts VS Code.md"
+    },
+    {
       "basename": "Snippets",
       "path": "VS Code/Data/Snippets.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Navigation Expenses App",
       "path": "React Native/Data/Navigation Expenses App.md"
-    },
-    {
-      "basename": "Shortcuts VS Code",
-      "path": "VS Code/Data/Shortcuts VS Code.md"
     },
     {
       "basename": "Stuff",

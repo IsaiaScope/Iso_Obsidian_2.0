@@ -5,12 +5,64 @@
       "path": "React Native/Data/Navigation-Form Expenses App.md"
     },
     {
+      "basename": "Guess Number App",
+      "path": "React Native/Data/Guess Number App.md"
+    },
+    {
+      "basename": "Native Functionality",
+      "path": "React Native/Data/Native Functionality.md"
+    },
+    {
       "basename": "Navigation Order App",
       "path": "React Native/Data/Navigation Order App.md"
     },
     {
-      "basename": "Guess Number App",
-      "path": "React Native/Data/Guess Number App.md"
+      "basename": "How Auth Work",
+      "path": "React Native/Files/How Auth Work.pdf"
+    },
+    {
+      "basename": "Flex",
+      "path": "React Native/Files/Flex.pdf"
+    },
+    {
+      "basename": "Hooks",
+      "path": "Fastify/Data/Book/Chapters/Hooks.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Fastify/Data/Book/Chapters/Overview.md"
+    },
+    {
+      "basename": "Plugin",
+      "path": "Fastify/Data/Book/Chapters/Plugin.md"
+    },
+    {
+      "basename": "Project",
+      "path": "Fastify/Data/Book/Chapters/Project.md"
+    },
+    {
+      "basename": "Routes",
+      "path": "Fastify/Data/Book/Chapters/Routes.md"
+    },
+    {
+      "basename": "Validation and Serialization",
+      "path": "Fastify/Data/Book/Chapters/Validation and Serialization.md"
+    },
+    {
+      "basename": "Auth",
+      "path": "React Native/Data/Auth.md"
+    },
+    {
+      "basename": "Goal App",
+      "path": "React Native/Data/Goal App.md"
+    },
+    {
+      "basename": "Theory",
+      "path": "React Native/Data/Theory.md"
+    },
+    {
+      "basename": "Adaptive User Interface",
+      "path": "React Native/Data/Adaptive User Interface.md"
     },
     {
       "basename": "Shortcuts VS Code",
@@ -89,10 +141,6 @@
       "path": "React Native/Data/app.json.md"
     },
     {
-      "basename": "Theory",
-      "path": "React Native/Data/Theory.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Git and GitHub/Dashboard.md"
     },
@@ -115,14 +163,6 @@
     {
       "basename": "Migrate Repo to Another Url",
       "path": "Git and GitHub/GitHub/Data/Migrate Repo to Another Url.md"
-    },
-    {
-      "basename": "Adaptive User Interface",
-      "path": "React Native/Data/Adaptive User Interface.md"
-    },
-    {
-      "basename": "Goal App",
-      "path": "React Native/Data/Goal App.md"
     },
     {
       "basename": "Workbook",
@@ -149,10 +189,6 @@
       "path": "Excel/Dashboard.md"
     },
     {
-      "basename": "Flex",
-      "path": "React Native/Files/Flex.pdf"
-    },
-    {
       "basename": "Developing",
       "path": "Ionic/Data/Developing.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "Lifecycle Methods",
       "path": "Ionic/Data/Lifecycle Methods.md"
-    },
-    {
-      "basename": "Routing",
-      "path": "Ionic/Data/Routing.md"
-    },
-    {
-      "basename": "DashBoard",
-      "path": "Style/DashBoard.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Volta/Dashboard.md"
-    },
-    {
-      "basename": "Set Project Versions",
-      "path": "Volta/Data/Set Project Versions.md"
-    },
-    {
-      "basename": "Volta Uninstall",
-      "path": "Volta/Data/Volta Uninstall.md"
-    },
-    {
-      "basename": "Volta Run",
-      "path": "Volta/Data/Volta Run.md"
-    },
-    {
-      "basename": "Theory",
-      "path": "Volta/Data/Theory.md"
-    },
-    {
-      "basename": "Check Version",
-      "path": "Volta/Data/Check Version.md"
-    },
-    {
-      "basename": "Install A Package",
-      "path": "Volta/Data/Install A Package.md"
     }
   ],
   "omittedPaths": [],

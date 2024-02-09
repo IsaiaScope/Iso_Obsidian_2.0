@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "@input()",
+      "path": "Angular/components/@input().md"
+    },
+    {
       "basename": "Navigation-Form Expenses App",
       "path": "React Native/Data/Navigation-Form Expenses App.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Prompt",
       "path": "Ionic/Data/Prompt.md"
-    },
-    {
-      "basename": "Lifecycle Methods",
-      "path": "Ionic/Data/Lifecycle Methods.md"
     }
   ],
   "omittedPaths": [],

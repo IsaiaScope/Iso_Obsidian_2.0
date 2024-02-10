@@ -61,3 +61,6 @@ You can therefore change the initial screen by changing the `<Stack.Screen>` o
 get navigation prop in component loaded as screen
 
 useRoute for params
+
+
+img picker ios needs permission to work, permission must be coded instead android has the allow modal by default

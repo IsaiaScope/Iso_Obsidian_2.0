@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "@input()",
-      "path": "Angular/components/@input().md"
-    },
-    {
-      "basename": "Navigation-Form Expenses App",
-      "path": "React Native/Data/Navigation-Form Expenses App.md"
-    },
-    {
-      "basename": "Guess Number App",
-      "path": "React Native/Data/Guess Number App.md"
+      "basename": "Theory",
+      "path": "React Native/Data/Theory.md"
     },
     {
       "basename": "Native Functionality",
       "path": "React Native/Data/Native Functionality.md"
     },
     {
+      "basename": "Dashboard",
+      "path": "React Native/Dashboard.md"
+    },
+    {
+      "basename": "Navigation-Form Expenses App",
+      "path": "React Native/Data/Navigation-Form Expenses App.md"
+    },
+    {
       "basename": "Navigation Order App",
       "path": "React Native/Data/Navigation Order App.md"
+    },
+    {
+      "basename": "@input()",
+      "path": "Angular/components/@input().md"
+    },
+    {
+      "basename": "Guess Number App",
+      "path": "React Native/Data/Guess Number App.md"
     },
     {
       "basename": "How Auth Work",
@@ -61,10 +69,6 @@
       "path": "React Native/Data/Goal App.md"
     },
     {
-      "basename": "Theory",
-      "path": "React Native/Data/Theory.md"
-    },
-    {
       "basename": "Adaptive User Interface",
       "path": "React Native/Data/Adaptive User Interface.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "Snippets",
       "path": "VS Code/Data/Snippets.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "React Native/Dashboard.md"
     },
     {
       "basename": "Stuff",

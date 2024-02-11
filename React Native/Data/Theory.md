@@ -72,3 +72,5 @@ when change screen components arent recreated just put on stuck so the solution 
 Expo help during develop building apps that can run as expo go app so in that enviroinment devloping is easy but u can still build standalone apps that can be published in stores
 
 build expo provide a good solution for building apps but less configurable, then `bare` configuration, get creating a new project as `minimal` template. then again is possible to build app without expo but is more expensive and complex
+
+expo eas to build the app in the cloud and publishing

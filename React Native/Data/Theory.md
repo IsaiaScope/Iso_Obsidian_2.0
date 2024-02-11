@@ -66,3 +66,7 @@ useRoute for params
 img picker ios needs permission to work, permission must be coded instead android has the allow modal by default
 
 when change screen components arent recreated just put on stuck so the solution isFocused hook, so if you go bach into the stuck the components are not recreated and things insiede the logic as useeffects aren't triggered
+
+
+
+Expo help during develop building apps that can run as expo go app so in that enviroinment devloping is easy but u can still build standalone apps that can be published in stores

@@ -5,6 +5,10 @@
       "path": "React Native/Data/Theory.md"
     },
     {
+      "basename": "Build",
+      "path": "React Native/Files/Build.pdf"
+    },
+    {
       "basename": "Native Functionality",
       "path": "React Native/Data/Native Functionality.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Developing",
       "path": "Ionic/Data/Developing.md"
-    },
-    {
-      "basename": "Prompt",
-      "path": "Ionic/Data/Prompt.md"
     }
   ],
   "omittedPaths": [],

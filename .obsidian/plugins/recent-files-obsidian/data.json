@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Adaptive User Interface",
-      "path": "React Native/Data/Adaptive User Interface.md"
+      "basename": "Dashboard",
+      "path": "JS and TS/JavaScript/Dashboard.md"
+    },
+    {
+      "basename": "Snippets",
+      "path": "VS Code/Data/Snippets.md"
+    },
+    {
+      "basename": "DOM Component",
+      "path": "JS and TS/JavaScript/Snippet/DOM Component.md"
     },
     {
       "basename": "Dashboard",
-      "path": "JS and TS/JavaScript/Dashboard.md"
+      "path": "React Native/Dashboard.md"
+    },
+    {
+      "basename": "Adaptive User Interface",
+      "path": "React Native/Data/Adaptive User Interface.md"
     },
     {
       "basename": "Cheatsheet",
@@ -51,10 +63,6 @@
     {
       "basename": "The Patterns",
       "path": "JS and TS/JavaScript/Design Patterns/Files/The Patterns.png"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "React Native/Dashboard.md"
     },
     {
       "basename": "Theory",
@@ -181,10 +189,6 @@
       "path": "VS Code/Data/Shortcuts VS Code.md"
     },
     {
-      "basename": "Snippets",
-      "path": "VS Code/Data/Snippets.md"
-    },
-    {
       "basename": "Stuff",
       "path": "Stuff.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "git config",
       "path": "Git and GitHub/Git/Prompt/git config.md"
-    },
-    {
-      "basename": "Font",
-      "path": "VS Code/Data/Font.md"
     }
   ],
   "omittedPaths": [],

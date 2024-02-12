@@ -11,8 +11,8 @@ tags:
 | Thirsty              |                Link                |
 | -------------------- | :--------------------------------: |
 | _Theory_             | [[React Native/Data/Theory \| ❤️]] |
-| _app.json_           |            [[app.json]]            |
-| _Build & Publishing_ |       [[Build & Publishing]]       |
+| _app.json_           |         [[app.json \| ❤️]]         |
+| _Build & Publishing_ |    [[Build & Publishing \| ❤️]]    |
 
 ---
 

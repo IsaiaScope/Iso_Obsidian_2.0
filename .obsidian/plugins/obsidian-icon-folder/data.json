@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasCode",
       "TiApps",
       "TiVersions",
       "IbDashboard",
-      "SiPwa",
-      "TiBrandReactNative"
+      "SiPwa"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -145,5 +145,7 @@
   "Volta/Dashboard.md": "IbDashboard",
   "Volta": "TiVersions",
   "React Native/Data/Guess Number App.md": "TiApps",
-  "React Native/Data/Goal App.md": "TiApps"
+  "React Native/Data/Goal App.md": "TiApps",
+  "JS and TS/JavaScript/Dashboard.md": "IbDashboard",
+  "JS and TS/JavaScript/Snippet": "FasCode"
 }

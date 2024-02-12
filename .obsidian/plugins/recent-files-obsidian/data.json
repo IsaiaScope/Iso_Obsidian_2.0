@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Init Project",
+      "path": "React Native/Learning/Init Project.md"
+    },
+    {
+      "basename": "Adaptive User Interface",
+      "path": "React Native/Data/Adaptive User Interface.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "React Native/Dashboard.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "DOM Component",
       "path": "JS and TS/JavaScript/Snippet/DOM Component.md"
-    },
-    {
-      "basename": "Adaptive User Interface",
-      "path": "React Native/Data/Adaptive User Interface.md"
     },
     {
       "basename": "Cheatsheet",
@@ -195,10 +199,6 @@
     {
       "basename": "Overview",
       "path": "Fastify/Data/Book/Chapters/Overview.md"
-    },
-    {
-      "basename": "Plugin",
-      "path": "Fastify/Data/Book/Chapters/Plugin.md"
     }
   ],
   "omittedPaths": [],

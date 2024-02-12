@@ -5,6 +5,14 @@
       "path": "React Native/Data/Notification.md"
     },
     {
+      "basename": "Dashboard",
+      "path": "React Native/Dashboard.md"
+    },
+    {
+      "basename": "Build",
+      "path": "React Native/Files/Build.pdf"
+    },
+    {
       "basename": "Native Functionality",
       "path": "React Native/Data/Native Functionality.md"
     },
@@ -19,14 +27,6 @@
     {
       "basename": "Publishing",
       "path": "React Native/Files/Publishing.pdf"
-    },
-    {
-      "basename": "Build",
-      "path": "React Native/Files/Build.pdf"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "React Native/Dashboard.md"
     },
     {
       "basename": "Custom Button",

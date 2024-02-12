@@ -5,6 +5,8 @@ tags:
 
 # Notification
 
+[[Notifications.pdf]]
+
 ## App.js
 
 `Notifications` a library that provides an API to fetch push notification tokens and to present, schedule, receive and respond to notifications

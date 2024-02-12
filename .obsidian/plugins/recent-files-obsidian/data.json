@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "React Native/Data/Untitled.md"
+      "basename": "Publishing",
+      "path": "React Native/Data/Publishing.md"
     },
     {
-      "basename": "Native Functionality",
-      "path": "React Native/Data/Native Functionality.md"
+      "basename": "Build",
+      "path": "React Native/Data/Build.md"
+    },
+    {
+      "basename": "Publishing",
+      "path": "React Native/Files/Publishing.pdf"
     },
     {
       "basename": "Theory",
@@ -19,6 +23,38 @@
     {
       "basename": "Dashboard",
       "path": "React Native/Dashboard.md"
+    },
+    {
+      "basename": "Custom Button",
+      "path": "React Native/Data/Custom Button.md"
+    },
+    {
+      "basename": "Camera",
+      "path": "React Native/Data/Camera.md"
+    },
+    {
+      "basename": "Map",
+      "path": "React Native/Data/Map.md"
+    },
+    {
+      "basename": "Native Functionality",
+      "path": "React Native/Data/Native Functionality.md"
+    },
+    {
+      "basename": "Location",
+      "path": "React Native/Data/Location.md"
+    },
+    {
+      "basename": "Auth",
+      "path": "React Native/Data/Auth.md"
+    },
+    {
+      "basename": "app.json",
+      "path": "React Native/Data/app.json.md"
+    },
+    {
+      "basename": "Adaptive User Interface",
+      "path": "React Native/Data/Adaptive User Interface.md"
     },
     {
       "basename": "Navigation-Form Expenses App",
@@ -69,16 +105,8 @@
       "path": "Fastify/Data/Book/Chapters/Validation and Serialization.md"
     },
     {
-      "basename": "Auth",
-      "path": "React Native/Data/Auth.md"
-    },
-    {
       "basename": "Goal App",
       "path": "React Native/Data/Goal App.md"
-    },
-    {
-      "basename": "Adaptive User Interface",
-      "path": "React Native/Data/Adaptive User Interface.md"
     },
     {
       "basename": "Shortcuts VS Code",
@@ -149,10 +177,6 @@
       "path": "React/Data/Hooks/useReducer().md"
     },
     {
-      "basename": "app.json",
-      "path": "React Native/Data/app.json.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Git and GitHub/Dashboard.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Migrate Repo to Another Url",
       "path": "Git and GitHub/GitHub/Data/Migrate Repo to Another Url.md"
-    },
-    {
-      "basename": "Workbook",
-      "path": "Excel/Data/Workbook.md"
-    },
-    {
-      "basename": "VBA",
-      "path": "Excel/Data/VBA.md"
-    },
-    {
-      "basename": "PivotTable",
-      "path": "Excel/Data/PivotTable.md"
-    },
-    {
-      "basename": "Chart",
-      "path": "Excel/Data/Chart.md"
-    },
-    {
-      "basename": "Fundamentals",
-      "path": "Excel/Data/Fundamentals.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Excel/Dashboard.md"
     }
   ],
   "omittedPaths": [],

@@ -196,7 +196,7 @@ const styles = StyleSheet.create({
 
 Where the screen in implemented
 
-> <Stack.Screen name="Map" component={Map} />
+> `<Stack.Screen name="Map" component={Map} />`
 
 ```jsx
 import { useEffect, useState } from "react";

@@ -1,6 +1,11 @@
+---
+tags:
+  - React_Native
+---
+
 # app.json
 
-> base config by expo
+> base config by expo for our app; then again is the place where write all config info.
 
 ```json
 {

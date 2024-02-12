@@ -1,60 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Notification",
-      "path": "React Native/Data/Notification.md"
+      "basename": "Adaptive User Interface",
+      "path": "React Native/Data/Adaptive User Interface.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "JS and TS/JavaScript/Dashboard.md"
+    },
+    {
+      "basename": "Cheatsheet",
+      "path": "Markdown/Cheatsheet.pdf"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Markdown/Obsidian.md"
+    },
+    {
+      "basename": "Udemy-course",
+      "path": "Markdown/Udemy-course.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
+    },
+    {
+      "basename": "Open-Closed Principle",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Open-Closed Principle.md"
+    },
+    {
+      "basename": "Single Responsibility Principle",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Single Responsibility Principle.md"
+    },
+    {
+      "basename": "Builder",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Builder.md"
+    },
+    {
+      "basename": "Bridge",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Bridge.md"
+    },
+    {
+      "basename": "Adapter",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Adapter.md"
+    },
+    {
+      "basename": "Interpreter",
+      "path": "JS and TS/JavaScript/Design Patterns/Files/Interpreter.png"
+    },
+    {
+      "basename": "The Patterns",
+      "path": "JS and TS/JavaScript/Design Patterns/Files/The Patterns.png"
     },
     {
       "basename": "Dashboard",
       "path": "React Native/Dashboard.md"
     },
     {
-      "basename": "Build",
-      "path": "React Native/Files/Build.pdf"
-    },
-    {
-      "basename": "Native Functionality",
-      "path": "React Native/Data/Native Functionality.md"
-    },
-    {
-      "basename": "Build & Publishing",
-      "path": "React Native/Data/Build & Publishing.md"
-    },
-    {
       "basename": "Theory",
       "path": "React Native/Data/Theory.md"
     },
     {
-      "basename": "Publishing",
-      "path": "React Native/Files/Publishing.pdf"
-    },
-    {
-      "basename": "Custom Button",
-      "path": "React Native/Data/Custom Button.md"
-    },
-    {
-      "basename": "Camera",
-      "path": "React Native/Data/Camera.md"
-    },
-    {
-      "basename": "Map",
-      "path": "React Native/Data/Map.md"
-    },
-    {
-      "basename": "Location",
-      "path": "React Native/Data/Location.md"
-    },
-    {
-      "basename": "Auth",
-      "path": "React Native/Data/Auth.md"
-    },
-    {
-      "basename": "app.json",
-      "path": "React Native/Data/app.json.md"
-    },
-    {
-      "basename": "Adaptive User Interface",
-      "path": "React Native/Data/Adaptive User Interface.md"
+      "basename": "Notification",
+      "path": "React Native/Data/Notification.md"
     },
     {
       "basename": "Navigation-Form Expenses App",
@@ -65,12 +73,76 @@
       "path": "React Native/Data/Navigation Order App.md"
     },
     {
-      "basename": "@input()",
-      "path": "Angular/components/@input().md"
+      "basename": "Native Functionality",
+      "path": "React Native/Data/Native Functionality.md"
+    },
+    {
+      "basename": "Map",
+      "path": "React Native/Data/Map.md"
+    },
+    {
+      "basename": "Location",
+      "path": "React Native/Data/Location.md"
     },
     {
       "basename": "Guess Number App",
       "path": "React Native/Data/Guess Number App.md"
+    },
+    {
+      "basename": "Goal App",
+      "path": "React Native/Data/Goal App.md"
+    },
+    {
+      "basename": "Custom Button",
+      "path": "React Native/Data/Custom Button.md"
+    },
+    {
+      "basename": "Camera",
+      "path": "React Native/Data/Camera.md"
+    },
+    {
+      "basename": "Build & Publishing",
+      "path": "React Native/Data/Build & Publishing.md"
+    },
+    {
+      "basename": "Auth",
+      "path": "React Native/Data/Auth.md"
+    },
+    {
+      "basename": "app.json",
+      "path": "React Native/Data/app.json.md"
+    },
+    {
+      "basename": "useRef()",
+      "path": "React/Data/Hooks/useRef().md"
+    },
+    {
+      "basename": "useState()",
+      "path": "React/Data/Hooks/useState().md"
+    },
+    {
+      "basename": "2) Prerequisites Info & Setup",
+      "path": "DevOps/Data/Sections/2) Prerequisites Info & Setup.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "DevOps/Dashboard.md"
+    },
+    {
+      "basename": "Notifications",
+      "path": "React Native/Files/Notifications.pdf"
+    },
+    {
+      "basename": "Build",
+      "path": "React Native/Files/Build.pdf"
+    },
+    {
+      "basename": "Publishing",
+      "path": "React Native/Files/Publishing.pdf"
+    },
+    {
+      "basename": "@input()",
+      "path": "Angular/components/@input().md"
     },
     {
       "basename": "How Auth Work",
@@ -105,10 +177,6 @@
       "path": "Fastify/Data/Book/Chapters/Validation and Serialization.md"
     },
     {
-      "basename": "Goal App",
-      "path": "React Native/Data/Goal App.md"
-    },
-    {
       "basename": "Shortcuts VS Code",
       "path": "VS Code/Data/Shortcuts VS Code.md"
     },
@@ -131,74 +199,6 @@
     {
       "basename": "Font",
       "path": "VS Code/Data/Font.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "VS Code/Dashboard.md"
-    },
-    {
-      "basename": "change-default-encoding",
-      "path": "Angular/logic/data/change-default-encoding.md"
-    },
-    {
-      "basename": "class-component",
-      "path": "React/Data/Theory/class-component.md"
-    },
-    {
-      "basename": "Commands",
-      "path": "Prompt/Commands.md"
-    },
-    {
-      "basename": "cycles-and-loops",
-      "path": "PowerShell/data/cycles-and-loops.md"
-    },
-    {
-      "basename": "get-started",
-      "path": "React/Libs/Tanstack/data/V4/get-started.md"
-    },
-    {
-      "basename": "Debugging",
-      "path": "Ionic/Data/Debugging.md"
-    },
-    {
-      "basename": "git commit",
-      "path": "Git and GitHub/Git/Prompt/git commit.md"
-    },
-    {
-      "basename": "Github Odds & Ends",
-      "path": "Git and GitHub/GitHub/Data/Github Odds & Ends.md"
-    },
-    {
-      "basename": "prompt",
-      "path": "Road to Auth/prisma/data/prompt.md"
-    },
-    {
-      "basename": "useReducer()",
-      "path": "React/Data/Hooks/useReducer().md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
-      "basename": "Check Url Repo or Directory where Local Repo is Cloned",
-      "path": "Git and GitHub/GitHub/Data/Check Url Repo or Directory where Local Repo is Cloned.md"
-    },
-    {
-      "basename": "Delete Local and Remote Branch",
-      "path": "Git and GitHub/GitHub/Data/Delete Local and Remote Branch.md"
-    },
-    {
-      "basename": "Migrate Repo to Another Url",
-      "path": "Git and GitHub/GitHub/Data/Migrate Repo to Another Url.md"
     }
   ],
   "omittedPaths": [],

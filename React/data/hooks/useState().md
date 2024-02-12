@@ -1,8 +1,10 @@
 #### useState()
+
 1. useState is native React function to manage status change.
-2. You can't use let variables locally to update components; `NOTE` *there is an important concept called State that says to React component to update the situation, re render and execute again all component logic, so also the logic, external the method that contain the useState() function, is called again*
-3. In the fallowing snippet *console.log('execute again when setTitle() is called')* is called every time setTitle() is called.
-4. Parameters: *when state depends on previous state u must use a function; viceversa u can use just a value*
+2. You can't use let variables locally to update components; `NOTE` _there is an important concept called State that says to React component to update the situation, re render and execute again all component logic, so also the logic, external the method that contain the useState() function, is called again_
+3. In the fallowing snippet _console.log('execute again when setTitle() is called')_ is called every time setTitle() is called.
+4. Parameters: _when state depends on previous state u must use a function; viceversa u can use just a value_
+
 ````ad-example
 title: *useState()*
 collapse: closed
@@ -18,6 +20,7 @@ const Components = (props) => {
 }
 ```
 ````
+
 ````ad-important
 title: *useState() when new state depends on previous state*
 collapse: closed
@@ -31,8 +34,10 @@ const addExpenseHandler = (expense) => {
 
 ```
 ````
+
 ---
-5. *Multiple state management* could be done in different ways someone better than other in different situation, using a single useState() or multiple
+
+5. _Multiple state management_ could be done in different ways someone better than other in different situation, using a single useState() or multiple
 
 ````ad-example
 title: *multiple useState()*
@@ -64,6 +69,7 @@ const submitHandler = (event) => {
 }
 ```
 ````
+
 ````ad-success
 title: *single useState() `RIGHT`*
 collapse: closed
@@ -92,6 +98,7 @@ const dateChangeHandler = (event) => {
 };
 ```
 ````
+
 ````ad-warning
 title: *single useState() `ERROR`*
 collapse: closed
@@ -122,9 +129,12 @@ const dateChangeHandler = (event) => {
 };
 ```
 ````
+
 ---
-6.  ***Computed value / Derived State***
-when a variable depends on state value, because useState rerender the component also al the code inside the component function is executed so any variable could be reassign and modify by some logic
+
+6.  **_Computed value / Derived State_**
+    when a variable depends on state value, because useState rerender the component also al the code inside the component function is executed so any variable could be reassign and modify by some logic
+
 ```jsx
 const Comp = (props) => {
 	const [var, func] = useState('2020');
@@ -145,3 +155,5 @@ const Comp = (props) => {
 	}
 }
 ```
+
+---

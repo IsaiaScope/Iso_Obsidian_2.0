@@ -7,6 +7,8 @@ tags:
 
 Basic firebase auth
 
+[[How Auth Work.pdf]]
+
 ## App.js
 
 ```jsx

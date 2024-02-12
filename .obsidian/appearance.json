@@ -9,7 +9,7 @@
     "no-icon-link",
     "my-obsidian"
   ],
-  "interfaceFontFamily": "Century Gothic",
+  "interfaceFontFamily": "Century Gothic,Fira Code",
   "monospaceFontFamily": "",
   "textFontFamily": "Century Gothic"
 }

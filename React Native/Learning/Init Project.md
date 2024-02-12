@@ -11,6 +11,8 @@ tags:
 npx create-expo-app --template
 ```
 
+https://docs.expo.dev/router/installation/#quick-start
+
 ## Run simulators
 
 ```json

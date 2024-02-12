@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Publishing",
-      "path": "React Native/Data/Publishing.md"
+      "basename": "Notification",
+      "path": "React Native/Data/Notification.md"
     },
     {
-      "basename": "Build",
-      "path": "React Native/Data/Build.md"
+      "basename": "Native Functionality",
+      "path": "React Native/Data/Native Functionality.md"
     },
     {
-      "basename": "Publishing",
-      "path": "React Native/Files/Publishing.pdf"
+      "basename": "Build & Publishing",
+      "path": "React Native/Data/Build & Publishing.md"
     },
     {
       "basename": "Theory",
       "path": "React Native/Data/Theory.md"
+    },
+    {
+      "basename": "Publishing",
+      "path": "React Native/Files/Publishing.pdf"
     },
     {
       "basename": "Build",
@@ -35,10 +39,6 @@
     {
       "basename": "Map",
       "path": "React Native/Data/Map.md"
-    },
-    {
-      "basename": "Native Functionality",
-      "path": "React Native/Data/Native Functionality.md"
     },
     {
       "basename": "Location",

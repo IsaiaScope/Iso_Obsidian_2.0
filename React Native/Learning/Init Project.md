@@ -8,7 +8,7 @@ tags:
 [environment-setup](https://reactnative.dev/docs/environment-setup)
 
 ```bash
-npx create-expo-app <app-name>
+npx create-expo-app --template
 ```
 
 ## Run simulators

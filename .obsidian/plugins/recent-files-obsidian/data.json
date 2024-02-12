@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "React Native/Data/Untitled.md"
+    },
+    {
+      "basename": "Native Functionality",
+      "path": "React Native/Data/Native Functionality.md"
+    },
+    {
       "basename": "Theory",
       "path": "React Native/Data/Theory.md"
     },
     {
       "basename": "Build",
       "path": "React Native/Files/Build.pdf"
-    },
-    {
-      "basename": "Native Functionality",
-      "path": "React Native/Data/Native Functionality.md"
     },
     {
       "basename": "Dashboard",
@@ -195,10 +199,6 @@
     {
       "basename": "Dashboard",
       "path": "Excel/Dashboard.md"
-    },
-    {
-      "basename": "Developing",
-      "path": "Ionic/Data/Developing.md"
     }
   ],
   "omittedPaths": [],

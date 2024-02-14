@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-W07",
+      "path": "Periodic Notes/Weekly Notes/2024-W07.md"
+    },
+    {
+      "basename": "Building a type-safe fetch in typescript",
+      "path": "JS and TS/TypeScript/Data/Building a type-safe fetch in typescript.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "React Native/Dashboard.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "HASH",
       "path": "Git and GitHub/Git/Data/HASH.md"
-    },
-    {
-      "basename": "2024-W07",
-      "path": "Periodic Notes/Weekly Notes/2024-W07.md"
     },
     {
       "basename": "Init Project",
@@ -195,10 +199,6 @@
     {
       "basename": "Publishing",
       "path": "React Native/Files/Publishing.pdf"
-    },
-    {
-      "basename": "@input()",
-      "path": "Angular/components/@input().md"
     }
   ],
   "omittedPaths": [],

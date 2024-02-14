@@ -83,4 +83,8 @@ tags:
 
 `shift+alt+e` => gitlens toggle Line Blame [CUSTOM]
 
+## ChatGPT
+
+`shift+alt+l` => open chat [CUSTOM]
+
 ---

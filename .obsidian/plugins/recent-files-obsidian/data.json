@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "React Native/Dashboard.md"
+    },
+    {
+      "basename": "Shortcuts VS Code",
+      "path": "VS Code/Data/Shortcuts VS Code.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "VS Code/Dashboard.md"
+    },
+    {
+      "basename": "git cherry-pick",
+      "path": "Git and GitHub/GitHub/Prompt/git cherry-pick.md"
+    },
+    {
+      "basename": "HASH",
+      "path": "Git and GitHub/Git/Data/HASH.md"
+    },
+    {
       "basename": "2024-W07",
       "path": "Periodic Notes/Weekly Notes/2024-W07.md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "Adaptive User Interface",
       "path": "React Native/Data/Adaptive User Interface.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "React Native/Dashboard.md"
     },
     {
       "basename": "git remote",
@@ -183,22 +199,6 @@
     {
       "basename": "@input()",
       "path": "Angular/components/@input().md"
-    },
-    {
-      "basename": "How Auth Work",
-      "path": "React Native/Files/How Auth Work.pdf"
-    },
-    {
-      "basename": "Flex",
-      "path": "React Native/Files/Flex.pdf"
-    },
-    {
-      "basename": "Hooks",
-      "path": "Fastify/Data/Book/Chapters/Hooks.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "Fastify/Data/Book/Chapters/Overview.md"
     }
   ],
   "omittedPaths": [],

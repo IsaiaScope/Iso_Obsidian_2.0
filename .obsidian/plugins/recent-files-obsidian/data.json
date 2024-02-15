@@ -5,6 +5,18 @@
       "path": "Periodic Notes/Weekly Notes/2024-W07.md"
     },
     {
+      "basename": "Daily Note Templates",
+      "path": "Periodic Notes/Templates/Daily Note Templates.md"
+    },
+    {
+      "basename": "Weekly Note Templates",
+      "path": "Periodic Notes/Templates/Weekly Note Templates.md"
+    },
+    {
+      "basename": "2024-W08",
+      "path": "Periodic Notes/Weekly Notes/2024-W08.md"
+    },
+    {
       "basename": "Building a type-safe fetch in typescript",
       "path": "JS and TS/TypeScript/Data/Building a type-safe fetch in typescript.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Dashboard",
       "path": "DevOps/Dashboard.md"
-    },
-    {
-      "basename": "Notifications",
-      "path": "React Native/Files/Notifications.pdf"
-    },
-    {
-      "basename": "Build",
-      "path": "React Native/Files/Build.pdf"
-    },
-    {
-      "basename": "Publishing",
-      "path": "React Native/Files/Publishing.pdf"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Stuff",
+      "path": "Stuff.md"
+    },
+    {
+      "basename": "2) Prerequisites Info & Setup",
+      "path": "DevOps/Data/Sections/2) Prerequisites Info & Setup.md"
+    },
+    {
+      "basename": "DecoDevOpsUdemyIntro",
+      "path": "DevOps/Files/Udemy Course/01.Introduction/DecoDevOpsUdemyIntro.pdf"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "DevOps/Dashboard.md"
+    },
+    {
+      "basename": "AtlassianDevOpsTrendsSurvey2020",
+      "path": "DevOps/Files/Udemy Course/01.Introduction/AtlassianDevOpsTrendsSurvey2020.pdf"
+    },
+    {
+      "basename": "2024-W08",
+      "path": "Periodic Notes/Weekly Notes/2024-W08.md"
+    },
+    {
       "basename": "2024-W07",
       "path": "Periodic Notes/Weekly Notes/2024-W07.md"
     },
@@ -11,10 +35,6 @@
     {
       "basename": "Weekly Note Templates",
       "path": "Periodic Notes/Templates/Weekly Note Templates.md"
-    },
-    {
-      "basename": "2024-W08",
-      "path": "Periodic Notes/Weekly Notes/2024-W08.md"
     },
     {
       "basename": "Building a type-safe fetch in typescript",
@@ -179,26 +199,6 @@
     {
       "basename": "Auth",
       "path": "React Native/Data/Auth.md"
-    },
-    {
-      "basename": "app.json",
-      "path": "React Native/Data/app.json.md"
-    },
-    {
-      "basename": "useRef()",
-      "path": "React/Data/Hooks/useRef().md"
-    },
-    {
-      "basename": "useState()",
-      "path": "React/Data/Hooks/useState().md"
-    },
-    {
-      "basename": "2) Prerequisites Info & Setup",
-      "path": "DevOps/Data/Sections/2) Prerequisites Info & Setup.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "DevOps/Dashboard.md"
     }
   ],
   "omittedPaths": [],

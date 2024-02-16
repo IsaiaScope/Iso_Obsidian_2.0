@@ -1,11 +1,20 @@
 ---
 tags:
-- DevOps
+  - DevOps
 ---
 
-# Prerequisites Info & Setup
+# 2) Prerequisites Info & Setup
 
-https://chocolatey.org/install
-https://community.chocolatey.org/packages
+## Software
+
+| Windows :SiWindowsxp: |          Link          |
+| --------------------- | :--------------------: |
+| \_\_                  | [[\| :LiFileSymlink:]] |
+
+---
+
+| Mac :FabApple: |          Link          |
+| -------------- | :--------------------: |
+| \_\_           | [[\| :LiFileSymlink:]] |
 
 ---

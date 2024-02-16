@@ -1,5 +1,5 @@
-# Weekly Notes
+# Todos For {{title}}
 
-## TODOS
+## Work
 
-- [ ] 
+---

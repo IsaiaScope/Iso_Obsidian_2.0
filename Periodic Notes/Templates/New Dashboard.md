@@ -1,10 +1,10 @@
 ---
 tags:
   - Dashboard
-  - DevOps
+  - 
 ---
 
-# Dashboard
+# {{title}}
 
 ## Theory 🍷
 

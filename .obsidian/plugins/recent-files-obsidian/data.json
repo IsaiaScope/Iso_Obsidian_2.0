@@ -1,36 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "2) Prerequisites Info & Setup",
-      "path": "DevOps/Data/Sections/2) Prerequisites Info & Setup.md"
-    },
-    {
-      "basename": "New Note",
-      "path": "Periodic Notes/Templates/New Note.md"
-    },
-    {
-      "basename": "2024-W08",
-      "path": "Periodic Notes/Weekly Notes/2024-W08.md"
-    },
-    {
-      "basename": "2024-W07",
-      "path": "Periodic Notes/Weekly Notes/2024-W07.md"
-    },
-    {
-      "basename": "Stuff",
-      "path": "Stuff.md"
-    },
-    {
-      "basename": "DecoDevOpsUdemyIntro",
-      "path": "DevOps/Files/Udemy Course/01.Introduction/DecoDevOpsUdemyIntro.pdf"
-    },
-    {
       "basename": "Dashboard",
       "path": "DevOps/Dashboard.md"
     },
     {
-      "basename": "AtlassianDevOpsTrendsSurvey2020",
-      "path": "DevOps/Files/Udemy Course/01.Introduction/AtlassianDevOpsTrendsSurvey2020.pdf"
+      "basename": "Prereqs_doc",
+      "path": "DevOps/Files/Udemy Course/02.Prerequisites/Prereqs_doc.pdf"
+    },
+    {
+      "basename": "2) Prerequisites Info & Setup",
+      "path": "DevOps/Data/Sections/2) Prerequisites Info & Setup.md"
+    },
+    {
+      "basename": "UbuntuPrereqs",
+      "path": "DevOps/Files/Udemy Course/02.Prerequisites/UbuntuPrereqs.pdf"
+    },
+    {
+      "basename": "New Dashboard",
+      "path": "Periodic Notes/Templates/New Dashboard.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "React Native/Dashboard.md"
+    },
+    {
+      "basename": "Init Project",
+      "path": "React Native/Learning/Init Project.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
+      "basename": "New Note",
+      "path": "Periodic Notes/Templates/New Note.md"
     },
     {
       "basename": "Daily Note Templates",
@@ -41,12 +49,32 @@
       "path": "Periodic Notes/Templates/Weekly Note Templates.md"
     },
     {
-      "basename": "Building a type-safe fetch in typescript",
-      "path": "JS and TS/TypeScript/Data/Building a type-safe fetch in typescript.md"
+      "basename": "2024-W09",
+      "path": "Periodic Notes/Weekly Notes/2024-W09.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "React Native/Dashboard.md"
+      "basename": "2024-W07",
+      "path": "Periodic Notes/Weekly Notes/2024-W07.md"
+    },
+    {
+      "basename": "2024-W08",
+      "path": "Periodic Notes/Weekly Notes/2024-W08.md"
+    },
+    {
+      "basename": "Stuff",
+      "path": "Stuff.md"
+    },
+    {
+      "basename": "DecoDevOpsUdemyIntro",
+      "path": "DevOps/Files/Udemy Course/01.Introduction/DecoDevOpsUdemyIntro.pdf"
+    },
+    {
+      "basename": "AtlassianDevOpsTrendsSurvey2020",
+      "path": "DevOps/Files/Udemy Course/01.Introduction/AtlassianDevOpsTrendsSurvey2020.pdf"
+    },
+    {
+      "basename": "Building a type-safe fetch in typescript",
+      "path": "JS and TS/TypeScript/Data/Building a type-safe fetch in typescript.md"
     },
     {
       "basename": "Shortcuts VS Code",
@@ -65,10 +93,6 @@
       "path": "Git and GitHub/Git/Data/HASH.md"
     },
     {
-      "basename": "Init Project",
-      "path": "React Native/Learning/Init Project.md"
-    },
-    {
       "basename": "Adaptive User Interface",
       "path": "React Native/Data/Adaptive User Interface.md"
     },
@@ -79,14 +103,6 @@
     {
       "basename": "Summary",
       "path": "Git and GitHub/GitHub/Summary.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
     },
     {
       "basename": "git init",
@@ -183,18 +199,6 @@
     {
       "basename": "Guess Number App",
       "path": "React Native/Data/Guess Number App.md"
-    },
-    {
-      "basename": "Goal App",
-      "path": "React Native/Data/Goal App.md"
-    },
-    {
-      "basename": "Custom Button",
-      "path": "React Native/Data/Custom Button.md"
-    },
-    {
-      "basename": "Camera",
-      "path": "React Native/Data/Camera.md"
     }
   ],
   "omittedPaths": [],

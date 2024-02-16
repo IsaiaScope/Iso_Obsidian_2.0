@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Commands",
+      "path": "Prompt/Commands.md"
+    },
+    {
+      "basename": "Prerequisites Info & Setup",
+      "path": "DevOps/Data/Sections/Prerequisites Info & Setup.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "DevOps/Dashboard.md"
+    },
+    {
       "basename": "LinuxSlides",
       "path": "DevOps/Files/Udemy Course/04.Linux/LinuxSlides.pdf"
     },
     {
       "basename": "LinuxQuickstartV5",
       "path": "DevOps/Files/Udemy Course/04.Linux/LinuxQuickstartV5.pdf"
-    },
-    {
-      "basename": "Prerequisites Info & Setup",
-      "path": "DevOps/Data/Sections/Prerequisites Info & Setup.md"
     },
     {
       "basename": "Virtualization",
@@ -35,10 +43,6 @@
     {
       "basename": "UbuntuPrereqs",
       "path": "DevOps/Files/Udemy Course/02.Prerequisites/UbuntuPrereqs.pdf"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "DevOps/Dashboard.md"
     },
     {
       "basename": "New Dashboard",
@@ -195,10 +199,6 @@
     {
       "basename": "Theory",
       "path": "React Native/Data/Theory.md"
-    },
-    {
-      "basename": "Notification",
-      "path": "React Native/Data/Notification.md"
     }
   ],
   "omittedPaths": [],

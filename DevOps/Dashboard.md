@@ -8,8 +8,11 @@ tags:
 
 ## Theory 🍷
 
-| Thirsty |          Link          |
-| ------- | :--------------------: |
-| \_\_    | [[\| :LiFileSymlink:]] |
+| Thirsty                       |                       Link                        |
+| ----------------------------- | :-----------------------------------------------: |
+| _[Prerequisites Info & Setup_ | [[Prerequisites Info & Setup \| :LiFileSymlink:]] |
+|                               |                                                   |
+
+[[\| :LiFileSymlink:]]
 
 ---

@@ -21,7 +21,7 @@ tags:
 - Sign into:
 
   - https://github.com
-  - https://www.godaddy.com
+  - https://www.godaddy.com (Domain Purchase)
   - https://hub.docker.com
   - https://www.sonarsource.com/products/sonarcloud/
   - https://aws.amazon.com/free

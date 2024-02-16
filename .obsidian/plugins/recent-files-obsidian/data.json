@@ -5,6 +5,18 @@
       "path": "DevOps/Data/Sections/2) Prerequisites Info & Setup.md"
     },
     {
+      "basename": "New Note",
+      "path": "Periodic Notes/Templates/New Note.md"
+    },
+    {
+      "basename": "2024-W08",
+      "path": "Periodic Notes/Weekly Notes/2024-W08.md"
+    },
+    {
+      "basename": "2024-W07",
+      "path": "Periodic Notes/Weekly Notes/2024-W07.md"
+    },
+    {
       "basename": "Stuff",
       "path": "Stuff.md"
     },
@@ -19,14 +31,6 @@
     {
       "basename": "AtlassianDevOpsTrendsSurvey2020",
       "path": "DevOps/Files/Udemy Course/01.Introduction/AtlassianDevOpsTrendsSurvey2020.pdf"
-    },
-    {
-      "basename": "2024-W08",
-      "path": "Periodic Notes/Weekly Notes/2024-W08.md"
-    },
-    {
-      "basename": "2024-W07",
-      "path": "Periodic Notes/Weekly Notes/2024-W07.md"
     },
     {
       "basename": "Daily Note Templates",
@@ -191,14 +195,6 @@
     {
       "basename": "Camera",
       "path": "React Native/Data/Camera.md"
-    },
-    {
-      "basename": "Build & Publishing",
-      "path": "React Native/Data/Build & Publishing.md"
-    },
-    {
-      "basename": "Auth",
-      "path": "React Native/Data/Auth.md"
     }
   ],
   "omittedPaths": [],

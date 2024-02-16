@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "LinuxSlides",
+      "path": "DevOps/Files/Udemy Course/04.Linux/LinuxSlides.pdf"
+    },
+    {
+      "basename": "LinuxQuickstartV5",
+      "path": "DevOps/Files/Udemy Course/04.Linux/LinuxQuickstartV5.pdf"
+    },
+    {
       "basename": "Prerequisites Info & Setup",
       "path": "DevOps/Data/Sections/Prerequisites Info & Setup.md"
+    },
+    {
+      "basename": "Virtualization",
+      "path": "DevOps/Files/Udemy Course/03.VmSetup/Virtualization.pdf"
+    },
+    {
+      "basename": "Vagrant",
+      "path": "DevOps/Files/Udemy Course/03.VmSetup/Vagrant.pdf"
+    },
+    {
+      "basename": "VMPrerequisite",
+      "path": "DevOps/Files/Udemy Course/03.VmSetup/VMPrerequisite.pdf"
+    },
+    {
+      "basename": "VMSetupSteps",
+      "path": "DevOps/Files/Udemy Course/03.VmSetup/VMSetupSteps.pdf"
+    },
+    {
+      "basename": "Prereqs_doc",
+      "path": "DevOps/Files/Udemy Course/02.Prerequisites/Prereqs_doc.pdf"
     },
     {
       "basename": "UbuntuPrereqs",
@@ -11,10 +39,6 @@
     {
       "basename": "Dashboard",
       "path": "DevOps/Dashboard.md"
-    },
-    {
-      "basename": "Prereqs_doc",
-      "path": "DevOps/Files/Udemy Course/02.Prerequisites/Prereqs_doc.pdf"
     },
     {
       "basename": "New Dashboard",
@@ -175,30 +199,6 @@
     {
       "basename": "Notification",
       "path": "React Native/Data/Notification.md"
-    },
-    {
-      "basename": "Navigation-Form Expenses App",
-      "path": "React Native/Data/Navigation-Form Expenses App.md"
-    },
-    {
-      "basename": "Navigation Order App",
-      "path": "React Native/Data/Navigation Order App.md"
-    },
-    {
-      "basename": "Native Functionality",
-      "path": "React Native/Data/Native Functionality.md"
-    },
-    {
-      "basename": "Map",
-      "path": "React Native/Data/Map.md"
-    },
-    {
-      "basename": "Location",
-      "path": "React Native/Data/Location.md"
-    },
-    {
-      "basename": "Guess Number App",
-      "path": "React Native/Data/Guess Number App.md"
     }
   ],
   "omittedPaths": [],

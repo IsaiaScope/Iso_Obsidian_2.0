@@ -5,16 +5,32 @@
       "path": "DevOps/Data/Sections/Prerequisites Info & Setup.md"
     },
     {
+      "basename": "2024-W08",
+      "path": "Periodic Notes/Weekly Notes/2024-W08.md"
+    },
+    {
+      "basename": "LinuxQuickstartV5",
+      "path": "DevOps/Files/Udemy Course/04.Linux/LinuxQuickstartV5.pdf"
+    },
+    {
+      "basename": "LinuxSlides",
+      "path": "DevOps/Files/Udemy Course/04.Linux/LinuxSlides.pdf"
+    },
+    {
+      "basename": "Vagrant",
+      "path": "DevOps/Files/Udemy Course/03.VmSetup/Vagrant.pdf"
+    },
+    {
+      "basename": "useReducer()",
+      "path": "React/Data/Hooks/useReducer().md"
+    },
+    {
       "basename": "VMSetupSteps",
       "path": "DevOps/Files/Udemy Course/03.VmSetup/VMSetupSteps.pdf"
     },
     {
       "basename": "Dashboard",
       "path": "DevOps/Dashboard.md"
-    },
-    {
-      "basename": "Vagrant",
-      "path": "DevOps/Files/Udemy Course/03.VmSetup/Vagrant.pdf"
     },
     {
       "basename": "Commands",
@@ -43,14 +59,6 @@
     {
       "basename": "VMPrerequisite",
       "path": "DevOps/Files/Udemy Course/03.VmSetup/VMPrerequisite.pdf"
-    },
-    {
-      "basename": "LinuxQuickstartV5",
-      "path": "DevOps/Files/Udemy Course/04.Linux/LinuxQuickstartV5.pdf"
-    },
-    {
-      "basename": "LinuxSlides",
-      "path": "DevOps/Files/Udemy Course/04.Linux/LinuxSlides.pdf"
     },
     {
       "basename": "Prereqs_doc",
@@ -95,10 +103,6 @@
     {
       "basename": "2024-W07",
       "path": "Periodic Notes/Weekly Notes/2024-W07.md"
-    },
-    {
-      "basename": "2024-W08",
-      "path": "Periodic Notes/Weekly Notes/2024-W08.md"
     },
     {
       "basename": "Stuff",
@@ -195,10 +199,6 @@
     {
       "basename": "Bridge",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Bridge.md"
-    },
-    {
-      "basename": "Adapter",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Adapter.md"
     }
   ],
   "omittedPaths": [],

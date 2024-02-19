@@ -38,6 +38,13 @@ It is a VM automation tool which uses hypervisor like Oracle VM virtualbox to ma
 
 ---
 
+## Linux
+
+The biggest difference between the two Linux distributions is that _Ubuntu_ is based on the Debian architecture while _CentOS_ is forked from Red Hat Enterprise Linux
+apt command in ubuntu and yum in centos to manage packages
+
+---
+
 | Windows :SiWindowsxp: |          Link          |
 | --------------------- | :--------------------: |
 | \_\_                  | [[\| :LiFileSymlink:]] |

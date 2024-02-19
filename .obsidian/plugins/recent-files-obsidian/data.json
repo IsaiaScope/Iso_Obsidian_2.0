@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-W08",
+      "path": "Periodic Notes/Weekly Notes/2024-W08.md"
+    },
+    {
       "basename": "Prerequisites Info & Setup",
       "path": "DevOps/Data/Sections/Prerequisites Info & Setup.md"
     },
     {
-      "basename": "2024-W08",
-      "path": "Periodic Notes/Weekly Notes/2024-W08.md"
+      "basename": "Dashboard",
+      "path": "DevOps/Dashboard.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "React Native/Dashboard.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Markdown/Obsidian.md"
+    },
+    {
+      "basename": "Cheatsheet",
+      "path": "Markdown/Cheatsheet.pdf"
+    },
+    {
+      "basename": "Udemy-course",
+      "path": "Markdown/Udemy-course.md"
+    },
+    {
+      "basename": "Commands",
+      "path": "Prompt/Commands.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Obsidian Tutorial/Dashboard.md"
+    },
+    {
+      "basename": "Ricerche complesse",
+      "path": "Obsidian Tutorial/Data/Ricerche complesse.md"
+    },
+    {
+      "basename": "Add Media",
+      "path": "Obsidian Tutorial/Data/Add Media.md"
     },
     {
       "basename": "LinuxQuickstartV5",
@@ -27,14 +63,6 @@
     {
       "basename": "VMSetupSteps",
       "path": "DevOps/Files/Udemy Course/03.VmSetup/VMSetupSteps.pdf"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "DevOps/Dashboard.md"
-    },
-    {
-      "basename": "Commands",
-      "path": "Prompt/Commands.md"
     },
     {
       "basename": "UbuntuPrereqs",
@@ -67,10 +95,6 @@
     {
       "basename": "New Dashboard",
       "path": "Periodic Notes/Templates/New Dashboard.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "React Native/Dashboard.md"
     },
     {
       "basename": "Init Project",
@@ -169,36 +193,12 @@
       "path": "JS and TS/JavaScript/Snippet/DOM Component.md"
     },
     {
-      "basename": "Cheatsheet",
-      "path": "Markdown/Cheatsheet.pdf"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "Markdown/Obsidian.md"
-    },
-    {
-      "basename": "Udemy-course",
-      "path": "Markdown/Udemy-course.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
     },
     {
       "basename": "Open-Closed Principle",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Open-Closed Principle.md"
-    },
-    {
-      "basename": "Single Responsibility Principle",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Single Responsibility Principle.md"
-    },
-    {
-      "basename": "Builder",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Builder.md"
-    },
-    {
-      "basename": "Bridge",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Bridge.md"
     }
   ],
   "omittedPaths": [],

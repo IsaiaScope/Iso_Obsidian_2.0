@@ -32,6 +32,8 @@ tags:
 
 ## Vagrant
 
+[[Vagrant.pdf | Vagrant]]
+
 It is a VM automation tool which uses hypervisor like Oracle VM virtualbox to manage vm's on our Laptop/Desktop
 
 ---

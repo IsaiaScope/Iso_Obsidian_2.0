@@ -8,10 +8,10 @@ tags:
 
 ## Theory 🍷
 
-| Thirsty                       |                       Link                        |
-| ----------------------------- | :-----------------------------------------------: |
-| _[Prerequisites Info & Setup_ | [[Prerequisites Info & Setup \| :LiFileSymlink:]] |
-|                               |                                                   |
+| Thirsty                      |                       Link                        |
+| ---------------------------- | :-----------------------------------------------: |
+| _Prerequisites Info & Setup_ | [[Prerequisites Info & Setup \| :LiFileSymlink:]] |
+|                              |                                                   |
 
 [[\| :LiFileSymlink:]]
 

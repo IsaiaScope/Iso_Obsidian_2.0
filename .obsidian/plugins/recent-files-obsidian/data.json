@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Prerequisites Info & Setup",
+      "path": "DevOps/Data/Sections/Prerequisites Info & Setup.md"
+    },
+    {
+      "basename": "VMSetupSteps",
+      "path": "DevOps/Files/Udemy Course/03.VmSetup/VMSetupSteps.pdf"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "DevOps/Dashboard.md"
+    },
+    {
+      "basename": "Vagrant",
+      "path": "DevOps/Files/Udemy Course/03.VmSetup/Vagrant.pdf"
+    },
+    {
+      "basename": "Commands",
+      "path": "Prompt/Commands.md"
+    },
+    {
+      "basename": "UbuntuPrereqs",
+      "path": "DevOps/Files/Udemy Course/02.Prerequisites/UbuntuPrereqs.pdf"
+    },
+    {
+      "basename": "VproSetupLocalIntroSlides",
+      "path": "DevOps/Files/Udemy Course/06.ProjectSetupLocal/VproSetupLocalIntroSlides.pdf"
+    },
+    {
+      "basename": "VprofileProjectSetupWindowsAndMacIntel",
+      "path": "DevOps/Files/Udemy Course/06.ProjectSetupLocal/VprofileProjectSetupWindowsAndMacIntel.pdf"
+    },
+    {
+      "basename": "VprofileProjectSetupMacM1M2",
+      "path": "DevOps/Files/Udemy Course/06.ProjectSetupLocal/VprofileProjectSetupMacM1M2.pdf"
+    },
+    {
+      "basename": "Virtualization",
+      "path": "DevOps/Files/Udemy Course/03.VmSetup/Virtualization.pdf"
+    },
+    {
+      "basename": "VMPrerequisite",
+      "path": "DevOps/Files/Udemy Course/03.VmSetup/VMPrerequisite.pdf"
+    },
+    {
       "basename": "LinuxQuickstartV5",
       "path": "DevOps/Files/Udemy Course/04.Linux/LinuxQuickstartV5.pdf"
     },
@@ -9,40 +53,8 @@
       "path": "DevOps/Files/Udemy Course/04.Linux/LinuxSlides.pdf"
     },
     {
-      "basename": "Commands",
-      "path": "Prompt/Commands.md"
-    },
-    {
-      "basename": "Prerequisites Info & Setup",
-      "path": "DevOps/Data/Sections/Prerequisites Info & Setup.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "DevOps/Dashboard.md"
-    },
-    {
-      "basename": "Virtualization",
-      "path": "DevOps/Files/Udemy Course/03.VmSetup/Virtualization.pdf"
-    },
-    {
-      "basename": "Vagrant",
-      "path": "DevOps/Files/Udemy Course/03.VmSetup/Vagrant.pdf"
-    },
-    {
-      "basename": "VMPrerequisite",
-      "path": "DevOps/Files/Udemy Course/03.VmSetup/VMPrerequisite.pdf"
-    },
-    {
-      "basename": "VMSetupSteps",
-      "path": "DevOps/Files/Udemy Course/03.VmSetup/VMSetupSteps.pdf"
-    },
-    {
       "basename": "Prereqs_doc",
       "path": "DevOps/Files/Udemy Course/02.Prerequisites/Prereqs_doc.pdf"
-    },
-    {
-      "basename": "UbuntuPrereqs",
-      "path": "DevOps/Files/Udemy Course/02.Prerequisites/UbuntuPrereqs.pdf"
     },
     {
       "basename": "New Dashboard",
@@ -187,18 +199,6 @@
     {
       "basename": "Adapter",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Adapter.md"
-    },
-    {
-      "basename": "Interpreter",
-      "path": "JS and TS/JavaScript/Design Patterns/Files/Interpreter.png"
-    },
-    {
-      "basename": "The Patterns",
-      "path": "JS and TS/JavaScript/Design Patterns/Files/The Patterns.png"
-    },
-    {
-      "basename": "Theory",
-      "path": "React Native/Data/Theory.md"
     }
   ],
   "omittedPaths": [],

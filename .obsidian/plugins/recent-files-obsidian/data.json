@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-W08",
-      "path": "Periodic Notes/Weekly Notes/2024-W08.md"
-    },
-    {
       "basename": "Prerequisites Info & Setup",
       "path": "DevOps/Data/Sections/Prerequisites Info & Setup.md"
+    },
+    {
+      "basename": "NetworkingUdemy",
+      "path": "DevOps/Files/Udemy Course/07.Networking/NetworkingUdemy.pdf"
+    },
+    {
+      "basename": "VprofileProjectSetupWindowsAndMacIntel",
+      "path": "DevOps/Files/Udemy Course/06.ProjectSetupLocal/VprofileProjectSetupWindowsAndMacIntel.pdf"
+    },
+    {
+      "basename": "VproSetupLocalIntroSlides",
+      "path": "DevOps/Files/Udemy Course/06.ProjectSetupLocal/VproSetupLocalIntroSlides.pdf"
+    },
+    {
+      "basename": "VprofileProjectSetupMacM1M2",
+      "path": "DevOps/Files/Udemy Course/06.ProjectSetupLocal/VprofileProjectSetupMacM1M2.pdf"
+    },
+    {
+      "basename": "2024-W08",
+      "path": "Periodic Notes/Weekly Notes/2024-W08.md"
     },
     {
       "basename": "Dashboard",
@@ -67,18 +83,6 @@
     {
       "basename": "UbuntuPrereqs",
       "path": "DevOps/Files/Udemy Course/02.Prerequisites/UbuntuPrereqs.pdf"
-    },
-    {
-      "basename": "VproSetupLocalIntroSlides",
-      "path": "DevOps/Files/Udemy Course/06.ProjectSetupLocal/VproSetupLocalIntroSlides.pdf"
-    },
-    {
-      "basename": "VprofileProjectSetupWindowsAndMacIntel",
-      "path": "DevOps/Files/Udemy Course/06.ProjectSetupLocal/VprofileProjectSetupWindowsAndMacIntel.pdf"
-    },
-    {
-      "basename": "VprofileProjectSetupMacM1M2",
-      "path": "DevOps/Files/Udemy Course/06.ProjectSetupLocal/VprofileProjectSetupMacM1M2.pdf"
     },
     {
       "basename": "Virtualization",
@@ -195,10 +199,6 @@
     {
       "basename": "Dashboard",
       "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
-    },
-    {
-      "basename": "Open-Closed Principle",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Open-Closed Principle.md"
     }
   ],
   "omittedPaths": [],

@@ -45,6 +45,12 @@ apt command in ubuntu and yum in centos to manage packages
 
 ---
 
+## Variables, JSON & YAML
+
+Data Exchange in DevOps toolsets uses mostly JSON & YAML As a DevOps Engineer its essential to understand, read & write this data format for data exchange between different applications & languages.
+
+---
+
 | Windows :SiWindowsxp: |          Link          |
 | --------------------- | :--------------------: |
 | \_\_                  | [[\| :LiFileSymlink:]] |

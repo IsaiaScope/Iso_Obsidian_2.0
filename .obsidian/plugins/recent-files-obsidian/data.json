@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "LinuxQuickstartV5",
+      "path": "DevOps/Files/Udemy Course/04.Linux/LinuxQuickstartV5.pdf"
+    },
+    {
+      "basename": "LinuxSlides",
+      "path": "DevOps/Files/Udemy Course/04.Linux/LinuxSlides.pdf"
+    },
+    {
       "basename": "Commands",
       "path": "Prompt/Commands.md"
     },
@@ -11,14 +19,6 @@
     {
       "basename": "Dashboard",
       "path": "DevOps/Dashboard.md"
-    },
-    {
-      "basename": "LinuxSlides",
-      "path": "DevOps/Files/Udemy Course/04.Linux/LinuxSlides.pdf"
-    },
-    {
-      "basename": "LinuxQuickstartV5",
-      "path": "DevOps/Files/Udemy Course/04.Linux/LinuxQuickstartV5.pdf"
     },
     {
       "basename": "Virtualization",

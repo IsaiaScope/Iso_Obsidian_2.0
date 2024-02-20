@@ -26,7 +26,7 @@ tags:
   - https://www.sonarsource.com/products/sonarcloud/
   - https://aws.amazon.com/free
 
-- [[UbuntuPrereqs.pdf]]
+- [[UbuntuPrereqs.pdf | UbuntuPrereqs]]
 
 ---
 

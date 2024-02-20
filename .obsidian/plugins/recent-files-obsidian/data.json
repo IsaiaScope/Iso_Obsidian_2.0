@@ -9,6 +9,14 @@
       "path": "DevOps/Files/Udemy Course/07.Networking/NetworkingUdemy.pdf"
     },
     {
+      "basename": "Stuff",
+      "path": "Stuff.md"
+    },
+    {
+      "basename": "events",
+      "path": "React/Data/Theory/events.md"
+    },
+    {
       "basename": "VprofileProjectSetupWindowsAndMacIntel",
       "path": "DevOps/Files/Udemy Course/06.ProjectSetupLocal/VprofileProjectSetupWindowsAndMacIntel.pdf"
     },
@@ -133,10 +141,6 @@
       "path": "Periodic Notes/Weekly Notes/2024-W07.md"
     },
     {
-      "basename": "Stuff",
-      "path": "Stuff.md"
-    },
-    {
       "basename": "DecoDevOpsUdemyIntro",
       "path": "DevOps/Files/Udemy Course/01.Introduction/DecoDevOpsUdemyIntro.pdf"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "DOM Component",
       "path": "JS and TS/JavaScript/Snippet/DOM Component.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
     }
   ],
   "omittedPaths": [],

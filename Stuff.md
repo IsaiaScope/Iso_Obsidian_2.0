@@ -42,11 +42,7 @@ npx kill-port 3000
 ngrok http http://localhost:3000 --domain=internal-dogfish-enjoyed.ngrok-free.app
 ```
 
-scss
-ui
-utility
-
 isaia.riva
 PappagalloRosa21@
 
-uOu&sHy1
+Funghetto69@

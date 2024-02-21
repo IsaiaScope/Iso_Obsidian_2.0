@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Docker",
+      "path": "DevOps/Data/Sections/Docker.md"
+    },
+    {
+      "basename": "Containers",
+      "path": "DevOps/Files/Udemy Course/08.Containers/Containers.pdf"
+    },
+    {
       "basename": "Prerequisites Info & Setup",
       "path": "DevOps/Data/Sections/Prerequisites Info & Setup.md"
+    },
+    {
+      "basename": "Shortcuts VS Code",
+      "path": "VS Code/Data/Shortcuts VS Code.md"
     },
     {
       "basename": "NetworkingUdemy",
@@ -153,10 +165,6 @@
       "path": "JS and TS/TypeScript/Data/Building a type-safe fetch in typescript.md"
     },
     {
-      "basename": "Shortcuts VS Code",
-      "path": "VS Code/Data/Shortcuts VS Code.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "VS Code/Dashboard.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Dashboard",
       "path": "JS and TS/JavaScript/Dashboard.md"
-    },
-    {
-      "basename": "Snippets",
-      "path": "VS Code/Data/Snippets.md"
-    },
-    {
-      "basename": "DOM Component",
-      "path": "JS and TS/JavaScript/Snippet/DOM Component.md"
     }
   ],
   "omittedPaths": [],

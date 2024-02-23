@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiBrandReactNative",
-      "FasCode",
-      "TiApps",
-      "TiVersions",
-      "IbDashboard"
+      "FabDocker",
+      "IbDashboard",
+      "LiFiles",
+      "BoBxsObjectsHorizontalLeft",
+      "LiDatabase"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -148,5 +148,10 @@
   "React Native/Data/Goal App.md": "TiApps",
   "JS and TS/JavaScript/Dashboard.md": "IbDashboard",
   "JS and TS/JavaScript/Snippet": "FasCode",
-  "Certificates/Udemy/React/React Native.pdf": "TiBrandReactNative"
+  "Certificates/Udemy/React/React Native.pdf": "TiBrandReactNative",
+  "DevOps/Data": "LiDatabase",
+  "DevOps/Data/Sections": "BoBxsObjectsHorizontalLeft",
+  "DevOps/Files": "LiFiles",
+  "DevOps/Dashboard.md": "IbDashboard",
+  "DevOps/Data/Sections/Docker.md": "FabDocker"
 }

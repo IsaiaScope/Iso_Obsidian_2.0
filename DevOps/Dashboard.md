@@ -11,8 +11,5 @@ tags:
 | Thirsty                      |                       Link                        |
 | ---------------------------- | :-----------------------------------------------: |
 | _Prerequisites Info & Setup_ | [[Prerequisites Info & Setup \| :LiFileSymlink:]] |
-|                              |                                                   |
-
-[[\| :LiFileSymlink:]]
 
 ---

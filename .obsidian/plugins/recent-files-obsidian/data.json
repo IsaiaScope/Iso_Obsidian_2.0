@@ -1,28 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "AWSSlides",
-      "path": "DevOps/Files/Udemy Course/10.AWSPart1/AWSSlides.pdf"
-    },
-    {
       "basename": "AWS",
       "path": "DevOps/Data/Sections/AWS.md"
-    },
-    {
-      "basename": "Docker",
-      "path": "DevOps/Data/Sections/Docker.md"
-    },
-    {
-      "basename": "AWS+Command+Line+Interface+Part+1",
-      "path": "DevOps/Files/Udemy Course/10.AWSPart1/AWS+Command+Line+Interface+Part+1.pdf"
     },
     {
       "basename": "Prerequisites Info & Setup",
       "path": "DevOps/Data/Sections/Prerequisites Info & Setup.md"
     },
     {
+      "basename": "Docker",
+      "path": "DevOps/Data/Sections/Docker.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "DevOps/Dashboard.md"
+    },
+    {
+      "basename": "Git",
+      "path": "DevOps/Files/Udemy Course/13.Git/Git.pdf"
+    },
+    {
+      "basename": "VproSetupAWSReArchIntroSlides",
+      "path": "DevOps/Files/Udemy Course/12.AWSCloudProjectRefactor/VproSetupAWSReArchIntroSlides.pdf"
+    },
+    {
+      "basename": "VproSetupAWSLift&ShiftIntroSlides",
+      "path": "DevOps/Files/Udemy Course/11.AWSCloudProjectLift&Shift/VproSetupAWSLift&ShiftIntroSlides.pdf"
+    },
+    {
+      "basename": "AWSSlides",
+      "path": "DevOps/Files/Udemy Course/10.AWSPart1/AWSSlides.pdf"
+    },
+    {
+      "basename": "AWS+Command+Line+Interface+Part+1",
+      "path": "DevOps/Files/Udemy Course/10.AWSPart1/AWS+Command+Line+Interface+Part+1.pdf"
     },
     {
       "basename": "Summary",
@@ -187,18 +199,6 @@
     {
       "basename": "DecoDevOpsUdemyIntro",
       "path": "DevOps/Files/Udemy Course/01.Introduction/DecoDevOpsUdemyIntro.pdf"
-    },
-    {
-      "basename": "AtlassianDevOpsTrendsSurvey2020",
-      "path": "DevOps/Files/Udemy Course/01.Introduction/AtlassianDevOpsTrendsSurvey2020.pdf"
-    },
-    {
-      "basename": "Building a type-safe fetch in typescript",
-      "path": "JS and TS/TypeScript/Data/Building a type-safe fetch in typescript.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "VS Code/Dashboard.md"
     }
   ],
   "omittedPaths": [],

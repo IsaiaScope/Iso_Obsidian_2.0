@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
       "basename": "Docker",
       "path": "DevOps/Data/Sections/Docker.md"
     },
     {
-      "basename": "Containers",
-      "path": "DevOps/Files/Udemy Course/08.Containers/Containers.pdf"
+      "basename": "Understanding PWA",
+      "path": "PWA/Vite/React/Data/Understanding PWA.md"
+    },
+    {
+      "basename": "Setup Vite PWA",
+      "path": "PWA/Vite/React/Data/Setup Vite PWA.md"
+    },
+    {
+      "basename": "Service Worker",
+      "path": "PWA/Vite/React/Data/Service Worker.md"
+    },
+    {
+      "basename": "PWA Installation",
+      "path": "PWA/Vite/React/Data/PWA Installation.md"
+    },
+    {
+      "basename": "Manifest",
+      "path": "PWA/Vite/React/Data/Manifest.md"
+    },
+    {
+      "basename": "Commands",
+      "path": "Prompt/Commands.md"
     },
     {
       "basename": "Prerequisites Info & Setup",
       "path": "DevOps/Data/Sections/Prerequisites Info & Setup.md"
+    },
+    {
+      "basename": "AWS+Command+Line+Interface+Part+1",
+      "path": "DevOps/Files/Udemy Course/10.AWSPart1/AWS+Command+Line+Interface+Part+1.pdf"
+    },
+    {
+      "basename": "Containers",
+      "path": "DevOps/Files/Udemy Course/08.Containers/Containers.pdf"
     },
     {
       "basename": "Shortcuts VS Code",
@@ -63,10 +95,6 @@
     {
       "basename": "Udemy-course",
       "path": "Markdown/Udemy-course.md"
-    },
-    {
-      "basename": "Commands",
-      "path": "Prompt/Commands.md"
     },
     {
       "basename": "Dashboard",
@@ -125,10 +153,6 @@
       "path": "React Native/Learning/Init Project.md"
     },
     {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Git and GitHub/Dashboard.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "HASH",
       "path": "Git and GitHub/Git/Data/HASH.md"
-    },
-    {
-      "basename": "Adaptive User Interface",
-      "path": "React Native/Data/Adaptive User Interface.md"
-    },
-    {
-      "basename": "git remote",
-      "path": "Git and GitHub/GitHub/Prompt/git remote.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
-    },
-    {
-      "basename": "git init",
-      "path": "Git and GitHub/Git/Prompt/git init.md"
-    },
-    {
-      "basename": "git clone",
-      "path": "Git and GitHub/GitHub/Prompt/git clone.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "JS and TS/JavaScript/Dashboard.md"
     }
   ],
   "omittedPaths": [],

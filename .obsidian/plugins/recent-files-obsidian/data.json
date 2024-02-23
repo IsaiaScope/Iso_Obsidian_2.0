@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
+      "basename": "AWSSlides",
+      "path": "DevOps/Files/Udemy Course/10.AWSPart1/AWSSlides.pdf"
+    },
+    {
+      "basename": "AWS",
+      "path": "DevOps/Data/Sections/AWS.md"
     },
     {
       "basename": "Docker",
       "path": "DevOps/Data/Sections/Docker.md"
+    },
+    {
+      "basename": "AWS+Command+Line+Interface+Part+1",
+      "path": "DevOps/Files/Udemy Course/10.AWSPart1/AWS+Command+Line+Interface+Part+1.pdf"
+    },
+    {
+      "basename": "Prerequisites Info & Setup",
+      "path": "DevOps/Data/Sections/Prerequisites Info & Setup.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "DevOps/Dashboard.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
     },
     {
       "basename": "Understanding PWA",
@@ -31,14 +51,6 @@
     {
       "basename": "Commands",
       "path": "Prompt/Commands.md"
-    },
-    {
-      "basename": "Prerequisites Info & Setup",
-      "path": "DevOps/Data/Sections/Prerequisites Info & Setup.md"
-    },
-    {
-      "basename": "AWS+Command+Line+Interface+Part+1",
-      "path": "DevOps/Files/Udemy Course/10.AWSPart1/AWS+Command+Line+Interface+Part+1.pdf"
     },
     {
       "basename": "Containers",
@@ -75,10 +87,6 @@
     {
       "basename": "VprofileProjectSetupMacM1M2",
       "path": "DevOps/Files/Udemy Course/06.ProjectSetupLocal/VprofileProjectSetupMacM1M2.pdf"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "DevOps/Dashboard.md"
     },
     {
       "basename": "Dashboard",
@@ -191,14 +199,6 @@
     {
       "basename": "Dashboard",
       "path": "VS Code/Dashboard.md"
-    },
-    {
-      "basename": "git cherry-pick",
-      "path": "Git and GitHub/GitHub/Prompt/git cherry-pick.md"
-    },
-    {
-      "basename": "HASH",
-      "path": "Git and GitHub/Git/Data/HASH.md"
     }
   ],
   "omittedPaths": [],

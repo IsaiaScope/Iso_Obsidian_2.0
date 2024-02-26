@@ -10,6 +10,6 @@ tags:
 
 | Thirsty                      |                       Link                        |
 | ---------------------------- | :-----------------------------------------------: |
-| _Prerequisites Info & Setup_ | [[Prerequisites Info & Setup \| :LiFileSymlink:]] |
+| _Prerequisites Info & Setup_ | [[Info & Setup| :LiFileSymlink:]] |
 
 ---

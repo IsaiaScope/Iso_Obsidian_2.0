@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Info & Setup",
+      "path": "DevOps/Data/Info & Setup.md"
+    },
+    {
+      "basename": "AWSSlides",
+      "path": "DevOps/Files/Udemy Course/10.AWSPart1/AWSSlides.pdf"
+    },
+    {
+      "basename": "Cloudformation",
+      "path": "DevOps/Files/Udemy Course/25.cloudformation/Cloudformation.pdf"
+    },
+    {
+      "basename": "Terraform",
+      "path": "DevOps/Files/Udemy Course/24.Terraform/Terraform.pdf"
+    },
+    {
+      "basename": "CICD4ContainersProjectSlides",
+      "path": "DevOps/Files/Udemy Course/23.CiCdForContainers/CICD4ContainersProjectSlides.pdf"
+    },
+    {
+      "basename": "AppDepOnK8sProIntroSlides",
+      "path": "DevOps/Files/Udemy Course/22.AppDeplouOnK8sProject/AppDepOnK8sProIntroSlides.pdf"
+    },
+    {
       "basename": "Docker",
-      "path": "DevOps/Data/Sections/Docker.md"
+      "path": "DevOps/Files/Udemy Course/20.Docker/Docker.pdf"
     },
     {
       "basename": "CI-Jenkins",
@@ -17,16 +41,8 @@
       "path": "DevOps/Files/Udemy Course/13.Git/Git.pdf"
     },
     {
-      "basename": "AWS",
-      "path": "DevOps/Data/Sections/AWS.md"
-    },
-    {
       "basename": "hot-americano",
       "path": "DevOps/Files/Udemy Course/16.Python/Python-Scripts/fabric/2121_wave_cafe/img/hot-americano.png"
-    },
-    {
-      "basename": "Prerequisites Info & Setup",
-      "path": "DevOps/Data/Sections/Prerequisites Info & Setup.md"
     },
     {
       "basename": "Dashboard",
@@ -39,10 +55,6 @@
     {
       "basename": "VproSetupAWSLift&ShiftIntroSlides",
       "path": "DevOps/Files/Udemy Course/11.AWSCloudProjectLift&Shift/VproSetupAWSLift&ShiftIntroSlides.pdf"
-    },
-    {
-      "basename": "AWSSlides",
-      "path": "DevOps/Files/Udemy Course/10.AWSPart1/AWSSlides.pdf"
     },
     {
       "basename": "AWS+Command+Line+Interface+Part+1",
@@ -179,26 +191,6 @@
     {
       "basename": "New Dashboard",
       "path": "Periodic Notes/Templates/New Dashboard.md"
-    },
-    {
-      "basename": "Init Project",
-      "path": "React Native/Learning/Init Project.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
-    },
-    {
-      "basename": "New Note",
-      "path": "Periodic Notes/Templates/New Note.md"
-    },
-    {
-      "basename": "Daily Note Templates",
-      "path": "Periodic Notes/Templates/Daily Note Templates.md"
-    },
-    {
-      "basename": "Weekly Note Templates",
-      "path": "Periodic Notes/Templates/Weekly Note Templates.md"
     }
   ],
   "omittedPaths": [],

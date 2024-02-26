@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Docker",
+      "path": "DevOps/Data/Sections/Docker.md"
+    },
+    {
+      "basename": "CI-Jenkins",
+      "path": "DevOps/Files/Udemy Course/15.CI-Jenkins/CI-Jenkins.pdf"
+    },
+    {
+      "basename": "Build+Triggers+Remotely",
+      "path": "DevOps/Files/Udemy Course/15.CI-Jenkins/Build+Triggers+Remotely.pdf"
+    },
+    {
+      "basename": "Git",
+      "path": "DevOps/Files/Udemy Course/13.Git/Git.pdf"
+    },
+    {
       "basename": "AWS",
       "path": "DevOps/Data/Sections/AWS.md"
+    },
+    {
+      "basename": "hot-americano",
+      "path": "DevOps/Files/Udemy Course/16.Python/Python-Scripts/fabric/2121_wave_cafe/img/hot-americano.png"
     },
     {
       "basename": "Prerequisites Info & Setup",
       "path": "DevOps/Data/Sections/Prerequisites Info & Setup.md"
     },
     {
-      "basename": "Docker",
-      "path": "DevOps/Data/Sections/Docker.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "DevOps/Dashboard.md"
-    },
-    {
-      "basename": "Git",
-      "path": "DevOps/Files/Udemy Course/13.Git/Git.pdf"
     },
     {
       "basename": "VproSetupAWSReArchIntroSlides",
@@ -187,18 +199,6 @@
     {
       "basename": "Weekly Note Templates",
       "path": "Periodic Notes/Templates/Weekly Note Templates.md"
-    },
-    {
-      "basename": "2024-W09",
-      "path": "Periodic Notes/Weekly Notes/2024-W09.md"
-    },
-    {
-      "basename": "2024-W07",
-      "path": "Periodic Notes/Weekly Notes/2024-W07.md"
-    },
-    {
-      "basename": "DecoDevOpsUdemyIntro",
-      "path": "DevOps/Files/Udemy Course/01.Introduction/DecoDevOpsUdemyIntro.pdf"
     }
   ],
   "omittedPaths": [],

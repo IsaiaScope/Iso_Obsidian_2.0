@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Stuff",
+      "path": "Stuff.md"
+    },
+    {
       "basename": "2024-W09",
       "path": "Periodic Notes/Weekly Notes/2024-W09.md"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "NetworkingUdemy",
       "path": "DevOps/Files/Udemy Course/07.Networking/NetworkingUdemy.pdf"
-    },
-    {
-      "basename": "Stuff",
-      "path": "Stuff.md"
     },
     {
       "basename": "events",

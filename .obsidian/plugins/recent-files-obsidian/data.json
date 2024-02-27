@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Animations",
+      "path": "Three.js/Data/Animations.md"
+    },
+    {
       "basename": "First Simple Snippet",
       "path": "Three.js/Snippets/First Simple Snippet.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Vagrant",
       "path": "DevOps/Files/Udemy Course/03.VmSetup/Vagrant.pdf"
-    },
-    {
-      "basename": "useReducer()",
-      "path": "React/Data/Hooks/useReducer().md"
     }
   ],
   "omittedPaths": [],

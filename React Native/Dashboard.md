@@ -37,8 +37,8 @@ tags:
 
 ## Snippets
 
-| WOW                    | Link |
-| ---------------------- | :--: |
-| _Create a new Project_ |      |
+| WOW                    |          Link          |
+| ---------------------- | :--------------------: |
+| _Create a new Project_ | [[Init Project \| ❤️]] |
 
 ---

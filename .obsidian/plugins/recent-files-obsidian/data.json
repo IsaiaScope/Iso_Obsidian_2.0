@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "DevOps",
+      "path": "Certificates/Udemy/DevOps.pdf"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Three.js/Dashboard.md"
+    },
+    {
+      "basename": "Snippets",
+      "path": "VS Code/Data/Snippets.md"
+    },
+    {
+      "basename": "Shortcuts VS Code",
+      "path": "VS Code/Data/Shortcuts VS Code.md"
+    },
+    {
+      "basename": "Font",
+      "path": "VS Code/Data/Font.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "React Native/Dashboard.md"
+    },
+    {
+      "basename": "Init Project",
+      "path": "React Native/Learning/Init Project.md"
     },
     {
       "basename": "Setup Vite PWA",
@@ -101,10 +125,6 @@
       "path": "DevOps/Files/Udemy Course/08.Containers/Containers.pdf"
     },
     {
-      "basename": "Shortcuts VS Code",
-      "path": "VS Code/Data/Shortcuts VS Code.md"
-    },
-    {
       "basename": "NetworkingUdemy",
       "path": "DevOps/Files/Udemy Course/07.Networking/NetworkingUdemy.pdf"
     },
@@ -175,22 +195,6 @@
     {
       "basename": "UbuntuPrereqs",
       "path": "DevOps/Files/Udemy Course/02.Prerequisites/UbuntuPrereqs.pdf"
-    },
-    {
-      "basename": "Virtualization",
-      "path": "DevOps/Files/Udemy Course/03.VmSetup/Virtualization.pdf"
-    },
-    {
-      "basename": "VMPrerequisite",
-      "path": "DevOps/Files/Udemy Course/03.VmSetup/VMPrerequisite.pdf"
-    },
-    {
-      "basename": "Prereqs_doc",
-      "path": "DevOps/Files/Udemy Course/02.Prerequisites/Prereqs_doc.pdf"
-    },
-    {
-      "basename": "New Dashboard",
-      "path": "Periodic Notes/Templates/New Dashboard.md"
     }
   ],
   "omittedPaths": [],

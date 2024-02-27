@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiDeviceDesktopAnalytics",
       "TiBrandThreejs",
       "SiThreedotjs",
       "FabDocker",
-      "IbDashboard",
-      "LiFiles"
+      "IbDashboard"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -152,5 +152,6 @@
   "DevOps/Data": "LiDatabase",
   "DevOps/Files": "LiFiles",
   "DevOps/Dashboard.md": "IbDashboard",
-  "Three.js": "TiBrandThreejs"
+  "Three.js": "TiBrandThreejs",
+  "Certificates/Udemy/DevOps.pdf": "TiDeviceDesktopAnalytics"
 }

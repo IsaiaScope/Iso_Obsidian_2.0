@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Transform Object",
-      "path": "Three.js/Data/Transform Object.md"
+      "basename": "First Simple Snippet",
+      "path": "Three.js/Snippets/First Simple Snippet.md"
     },
     {
       "basename": "Basics",
       "path": "Three.js/Data/Basics.md"
+    },
+    {
+      "basename": "Transform Object",
+      "path": "Three.js/Data/Transform Object.md"
     },
     {
       "basename": "Dashboard",
@@ -195,10 +199,6 @@
     {
       "basename": "useReducer()",
       "path": "React/Data/Hooks/useReducer().md"
-    },
-    {
-      "basename": "VMSetupSteps",
-      "path": "DevOps/Files/Udemy Course/03.VmSetup/VMSetupSteps.pdf"
     }
   ],
   "omittedPaths": [],

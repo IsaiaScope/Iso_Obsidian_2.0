@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Cameras",
+      "path": "Three.js/Data/Cameras.md"
+    },
+    {
+      "basename": "Basics",
+      "path": "Three.js/Data/Basics.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Three.js/Dashboard.md"
+    },
+    {
       "basename": "Animations",
       "path": "Three.js/Data/Animations.md"
     },
@@ -9,16 +21,8 @@
       "path": "Three.js/Snippets/First Simple Snippet.md"
     },
     {
-      "basename": "Basics",
-      "path": "Three.js/Data/Basics.md"
-    },
-    {
       "basename": "Transform Object",
       "path": "Three.js/Data/Transform Object.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Three.js/Dashboard.md"
     },
     {
       "basename": "2024-W09",
@@ -195,10 +199,6 @@
     {
       "basename": "LinuxSlides",
       "path": "DevOps/Files/Udemy Course/04.Linux/LinuxSlides.pdf"
-    },
-    {
-      "basename": "Vagrant",
-      "path": "DevOps/Files/Udemy Course/03.VmSetup/Vagrant.pdf"
     }
   ],
   "omittedPaths": [],

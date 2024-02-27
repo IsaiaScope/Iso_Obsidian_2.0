@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "React Native/Dashboard.md"
+    },
+    {
+      "basename": "Setup Vite PWA",
+      "path": "PWA/Vite/React/Data/Setup Vite PWA.md"
+    },
+    {
+      "basename": "Service Worker",
+      "path": "PWA/Vite/React/Data/Service Worker.md"
+    },
+    {
+      "basename": "Manifest",
+      "path": "PWA/Vite/React/Data/Manifest.md"
+    },
+    {
+      "basename": "Understanding PWA",
+      "path": "PWA/Vite/React/Data/Understanding PWA.md"
+    },
+    {
+      "basename": "Info & Setup",
+      "path": "DevOps/Data/Info & Setup.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "DevOps/Dashboard.md"
+    },
+    {
       "basename": "Stuff",
       "path": "Stuff.md"
     },
     {
       "basename": "2024-W09",
       "path": "Periodic Notes/Weekly Notes/2024-W09.md"
-    },
-    {
-      "basename": "Info & Setup",
-      "path": "DevOps/Data/Info & Setup.md"
     },
     {
       "basename": "AWSSlides",
@@ -53,10 +77,6 @@
       "path": "DevOps/Files/Udemy Course/16.Python/Python-Scripts/fabric/2121_wave_cafe/img/hot-americano.png"
     },
     {
-      "basename": "Dashboard",
-      "path": "DevOps/Dashboard.md"
-    },
-    {
       "basename": "VproSetupAWSReArchIntroSlides",
       "path": "DevOps/Files/Udemy Course/12.AWSCloudProjectRefactor/VproSetupAWSReArchIntroSlides.pdf"
     },
@@ -71,26 +91,6 @@
     {
       "basename": "Summary",
       "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
-      "basename": "Understanding PWA",
-      "path": "PWA/Vite/React/Data/Understanding PWA.md"
-    },
-    {
-      "basename": "Setup Vite PWA",
-      "path": "PWA/Vite/React/Data/Setup Vite PWA.md"
-    },
-    {
-      "basename": "Service Worker",
-      "path": "PWA/Vite/React/Data/Service Worker.md"
-    },
-    {
-      "basename": "PWA Installation",
-      "path": "PWA/Vite/React/Data/PWA Installation.md"
-    },
-    {
-      "basename": "Manifest",
-      "path": "PWA/Vite/React/Data/Manifest.md"
     },
     {
       "basename": "Commands",
@@ -127,10 +127,6 @@
     {
       "basename": "VprofileProjectSetupMacM1M2",
       "path": "DevOps/Files/Udemy Course/06.ProjectSetupLocal/VprofileProjectSetupMacM1M2.pdf"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "React Native/Dashboard.md"
     },
     {
       "basename": "Obsidian",

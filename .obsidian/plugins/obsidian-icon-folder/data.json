@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiBrandThreejs",
+      "SiThreedotjs",
       "FabDocker",
       "IbDashboard",
-      "LiFiles",
-      "BoBxsObjectsHorizontalLeft",
-      "LiDatabase"
+      "LiFiles"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -151,5 +151,6 @@
   "Certificates/Udemy/React/React Native.pdf": "TiBrandReactNative",
   "DevOps/Data": "LiDatabase",
   "DevOps/Files": "LiFiles",
-  "DevOps/Dashboard.md": "IbDashboard"
+  "DevOps/Dashboard.md": "IbDashboard",
+  "Three.js": "TiBrandThreejs"
 }

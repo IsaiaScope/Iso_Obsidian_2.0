@@ -5,6 +5,10 @@
       "path": "Three.js/Data/Transform Object.md"
     },
     {
+      "basename": "Basics",
+      "path": "Three.js/Data/Basics.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Three.js/Dashboard.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "VMSetupSteps",
       "path": "DevOps/Files/Udemy Course/03.VmSetup/VMSetupSteps.pdf"
-    },
-    {
-      "basename": "UbuntuPrereqs",
-      "path": "DevOps/Files/Udemy Course/02.Prerequisites/UbuntuPrereqs.pdf"
     }
   ],
   "omittedPaths": [],

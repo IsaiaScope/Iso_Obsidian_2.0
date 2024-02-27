@@ -1,4 +1,4 @@
-1. [[basics]]
+1. [[PowerShell/data/basics]]
 2. [[help-system]]
 3. [[command-syntax]]
 4. [[PowerShell/data/short-cuts]]

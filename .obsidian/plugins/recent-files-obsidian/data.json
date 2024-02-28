@@ -6,19 +6,51 @@
     },
     {
       "basename": "Next_1",
-      "path": "React/Libs/Next.js/files/Next_1.pdf"
-    },
-    {
-      "basename": "index",
-      "path": "React/Libs/Next.js/index.md"
+      "path": "React/Libs/Next.js/pdf/Udemy Course/Next_1.pdf"
     },
     {
       "basename": "Dashboard",
       "path": "Three.js/Dashboard.md"
     },
     {
+      "basename": "17-dis",
+      "path": "React/Libs/Next.js/pdf/Udemy Course/17-dis.pdf"
+    },
+    {
+      "basename": "16-dis",
+      "path": "React/Libs/Next.js/pdf/Udemy Course/16-dis.pdf"
+    },
+    {
+      "basename": "15-int",
+      "path": "React/Libs/Next.js/pdf/Udemy Course/15-int.pdf"
+    },
+    {
+      "basename": "14-int",
+      "path": "React/Libs/Next.js/pdf/Udemy Course/14-int.pdf"
+    },
+    {
+      "basename": "13-int",
+      "path": "React/Libs/Next.js/pdf/Udemy Course/13-int.pdf"
+    },
+    {
+      "basename": "12-int",
+      "path": "React/Libs/Next.js/pdf/Udemy Course/12-int.pdf"
+    },
+    {
+      "basename": "11-int",
+      "path": "React/Libs/Next.js/pdf/Udemy Course/11-int.pdf"
+    },
+    {
+      "basename": "10 - int",
+      "path": "React/Libs/Next.js/pdf/Udemy Course/10 - int.pdf"
+    },
+    {
       "basename": "Cameras",
       "path": "Three.js/Data/Cameras.md"
+    },
+    {
+      "basename": "index",
+      "path": "React/Libs/Next.js/index.md"
     },
     {
       "basename": "Basics",
@@ -167,38 +199,6 @@
     {
       "basename": "VprofileProjectSetupWindowsAndMacIntel",
       "path": "DevOps/Files/Udemy Course/06.ProjectSetupLocal/VprofileProjectSetupWindowsAndMacIntel.pdf"
-    },
-    {
-      "basename": "VprofileSetupLocalIntroSlides",
-      "path": "DevOps/Files/Udemy Course/06.ProjectSetupLocal/VprofileSetupLocalIntroSlides.pdf"
-    },
-    {
-      "basename": "2024-W08",
-      "path": "Periodic Notes/Weekly Notes/2024-W08.md"
-    },
-    {
-      "basename": "VprofileProjectSetupMacM1M2",
-      "path": "DevOps/Files/Udemy Course/06.ProjectSetupLocal/VprofileProjectSetupMacM1M2.pdf"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "Markdown/Obsidian.md"
-    },
-    {
-      "basename": "Cheatsheet",
-      "path": "Markdown/Cheatsheet.pdf"
-    },
-    {
-      "basename": "Udemy-course",
-      "path": "Markdown/Udemy-course.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Obsidian Tutorial/Dashboard.md"
-    },
-    {
-      "basename": "Ricerche complesse",
-      "path": "Obsidian Tutorial/Data/Ricerche complesse.md"
     }
   ],
   "omittedPaths": [],

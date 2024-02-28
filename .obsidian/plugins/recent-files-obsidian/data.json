@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "get-started",
+      "path": "React/Libs/Next.js/data/get-started.md"
+    },
+    {
+      "basename": "Next_1",
+      "path": "React/Libs/Next.js/files/Next_1.pdf"
+    },
+    {
+      "basename": "index",
+      "path": "React/Libs/Next.js/index.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Three.js/Dashboard.md"
+    },
+    {
       "basename": "Cameras",
       "path": "Three.js/Data/Cameras.md"
     },
     {
       "basename": "Basics",
       "path": "Three.js/Data/Basics.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Three.js/Dashboard.md"
     },
     {
       "basename": "Animations",
@@ -187,18 +199,6 @@
     {
       "basename": "Ricerche complesse",
       "path": "Obsidian Tutorial/Data/Ricerche complesse.md"
-    },
-    {
-      "basename": "Add Media",
-      "path": "Obsidian Tutorial/Data/Add Media.md"
-    },
-    {
-      "basename": "LinuxQuickstartV5",
-      "path": "DevOps/Files/Udemy Course/04.Linux/LinuxQuickstartV5.pdf"
-    },
-    {
-      "basename": "LinuxSlides",
-      "path": "DevOps/Files/Udemy Course/04.Linux/LinuxSlides.pdf"
     }
   ],
   "omittedPaths": [],

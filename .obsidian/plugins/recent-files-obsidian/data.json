@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-W10",
+      "path": "Periodic Notes/Weekly Notes/2024-W10.md"
+    },
+    {
+      "basename": "2024-W09",
+      "path": "Periodic Notes/Weekly Notes/2024-W09.md"
+    },
+    {
+      "basename": "15-int",
+      "path": "React/Libs/Next.js/PDF/Udemy Course/15-int.pdf"
+    },
+    {
+      "basename": "14-int",
+      "path": "React/Libs/Next.js/PDF/Udemy Course/14-int.pdf"
+    },
+    {
+      "basename": "13-int",
+      "path": "React/Libs/Next.js/PDF/Udemy Course/13-int.pdf"
+    },
+    {
+      "basename": "12-int",
+      "path": "React/Libs/Next.js/PDF/Udemy Course/12-int.pdf"
+    },
+    {
       "basename": "11-int",
       "path": "React/Libs/Next.js/PDF/Udemy Course/11-int.pdf"
     },
@@ -57,32 +81,12 @@
       "path": "React/Libs/Next.js/PDF/Udemy Course/16-dis.pdf"
     },
     {
-      "basename": "15-int",
-      "path": "React/Libs/Next.js/PDF/Udemy Course/15-int.pdf"
-    },
-    {
-      "basename": "14-int",
-      "path": "React/Libs/Next.js/PDF/Udemy Course/14-int.pdf"
-    },
-    {
-      "basename": "13-int",
-      "path": "React/Libs/Next.js/PDF/Udemy Course/13-int.pdf"
-    },
-    {
-      "basename": "12-int",
-      "path": "React/Libs/Next.js/PDF/Udemy Course/12-int.pdf"
-    },
-    {
       "basename": "Dashboard",
       "path": "React/Libs/Next.js/Dashboard.md"
     },
     {
       "basename": "First Simple Snippet",
       "path": "Three.js/Snippets/First Simple Snippet.md"
-    },
-    {
-      "basename": "2024-W09",
-      "path": "Periodic Notes/Weekly Notes/2024-W09.md"
     },
     {
       "basename": "DevOps",
@@ -195,10 +199,6 @@
     {
       "basename": "events",
       "path": "React/Data/Theory/events.md"
-    },
-    {
-      "basename": "VprofileProjectSetupWindowsAndMacIntel",
-      "path": "DevOps/Files/Udemy Course/06.ProjectSetupLocal/VprofileProjectSetupWindowsAndMacIntel.pdf"
     }
   ],
   "omittedPaths": [],

@@ -40,7 +40,7 @@ _LIBS_
 - [[React/Libs/Tanstack/index|Tanstack]]
 - [[React/Libs/Redux/index|Redux]]
 - [[React/Libs/React Router/index|React Router]]
-- [[React/Libs/Next.js/index|Next.js]]
+- [[React/Libs/Next.js/Dashboard|Next.js]]
 
 ---
 

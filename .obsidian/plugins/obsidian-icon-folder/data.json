@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiNextdotjs",
-      "TiDeviceDesktopAnalytics",
-      "TiBrandThreejs",
-      "SiThreedotjs",
-      "FabDocker"
+      "RiFlightTakeoffFill",
+      "SiUdemy",
+      "FarFilePdf",
+      "LiFiles",
+      "TiDatabase"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -154,5 +154,10 @@
   "DevOps/Dashboard.md": "IbDashboard",
   "Three.js": "TiBrandThreejs",
   "Certificates/Udemy/DevOps.pdf": "TiDeviceDesktopAnalytics",
-  "React/Libs/Next.js": "SiNextdotjs"
+  "React/Libs/Next.js": "SiNextdotjs",
+  "React/Libs/Next.js/Data": "TiDatabase",
+  "React/Libs/Next.js/Files": "LiFiles",
+  "React/Libs/Next.js/PDF": "FarFilePdf",
+  "React/Libs/Next.js/PDF/Udemy Course": "SiUdemy",
+  "React/Libs/Next.js/Data/init.md": "RiFlightTakeoffFill"
 }

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "get-started",
-      "path": "React/Libs/Next.js/data/get-started.md"
+      "basename": "11-int",
+      "path": "React/Libs/Next.js/PDF/Udemy Course/11-int.pdf"
+    },
+    {
+      "basename": "1-Init",
+      "path": "React/Libs/Next.js/PDF/Udemy Course/1-Init.pdf"
+    },
+    {
+      "basename": "init",
+      "path": "React/Libs/Next.js/Data/init.md"
     },
     {
       "basename": "Stuff",
@@ -34,7 +42,7 @@
     },
     {
       "basename": "Next_1",
-      "path": "React/Libs/Next.js/pdf/Udemy Course/Next_1.pdf"
+      "path": "React/Libs/Next.js/PDF/Udemy Course/Next_1.pdf"
     },
     {
       "basename": "Dashboard",
@@ -42,39 +50,31 @@
     },
     {
       "basename": "17-dis",
-      "path": "React/Libs/Next.js/pdf/Udemy Course/17-dis.pdf"
+      "path": "React/Libs/Next.js/PDF/Udemy Course/17-dis.pdf"
     },
     {
       "basename": "16-dis",
-      "path": "React/Libs/Next.js/pdf/Udemy Course/16-dis.pdf"
+      "path": "React/Libs/Next.js/PDF/Udemy Course/16-dis.pdf"
     },
     {
       "basename": "15-int",
-      "path": "React/Libs/Next.js/pdf/Udemy Course/15-int.pdf"
+      "path": "React/Libs/Next.js/PDF/Udemy Course/15-int.pdf"
     },
     {
       "basename": "14-int",
-      "path": "React/Libs/Next.js/pdf/Udemy Course/14-int.pdf"
+      "path": "React/Libs/Next.js/PDF/Udemy Course/14-int.pdf"
     },
     {
       "basename": "13-int",
-      "path": "React/Libs/Next.js/pdf/Udemy Course/13-int.pdf"
+      "path": "React/Libs/Next.js/PDF/Udemy Course/13-int.pdf"
     },
     {
       "basename": "12-int",
-      "path": "React/Libs/Next.js/pdf/Udemy Course/12-int.pdf"
+      "path": "React/Libs/Next.js/PDF/Udemy Course/12-int.pdf"
     },
     {
-      "basename": "11-int",
-      "path": "React/Libs/Next.js/pdf/Udemy Course/11-int.pdf"
-    },
-    {
-      "basename": "10 - int",
-      "path": "React/Libs/Next.js/pdf/Udemy Course/10 - int.pdf"
-    },
-    {
-      "basename": "index",
-      "path": "React/Libs/Next.js/index.md"
+      "basename": "Dashboard",
+      "path": "React/Libs/Next.js/Dashboard.md"
     },
     {
       "basename": "First Simple Snippet",

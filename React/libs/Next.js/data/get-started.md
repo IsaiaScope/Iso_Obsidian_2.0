@@ -5,6 +5,6 @@
 
 npx vercel
 
-npx prisma init --datasource-provider sqlite
-
+npx prisma init --datasource-provider sqlit
 npx prisma migrate dev
+

@@ -48,3 +48,5 @@ PappagalloRosa21@
 Funghetto69@
 
 Fincons1234@
+
+## keyboard English (United State) => layouts => United States-Internation (Qwerty)

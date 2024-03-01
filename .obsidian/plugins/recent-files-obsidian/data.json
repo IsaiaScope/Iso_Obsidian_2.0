@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Stuff",
-      "path": "Stuff.md"
-    },
-    {
       "basename": "2024-W10",
       "path": "Periodic Notes/Weekly Notes/2024-W10.md"
+    },
+    {
+      "basename": "git stash",
+      "path": "Git and GitHub/Git/Prompt/git stash.md"
+    },
+    {
+      "basename": "Stuff",
+      "path": "Stuff.md"
     },
     {
       "basename": "2024-W09",
@@ -195,10 +199,6 @@
     {
       "basename": "NetworkingUdemy",
       "path": "DevOps/Files/Udemy Course/07.Networking/NetworkingUdemy.pdf"
-    },
-    {
-      "basename": "events",
-      "path": "React/Data/Theory/events.md"
     }
   ],
   "omittedPaths": [],

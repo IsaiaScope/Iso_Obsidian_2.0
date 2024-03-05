@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Textures",
+      "path": "Three.js/Data/Textures.md"
+    },
+    {
+      "basename": "First Simple Snippet",
+      "path": "Three.js/Snippets/First Simple Snippet.md"
+    },
+    {
       "basename": "Debug UI",
       "path": "Three.js/Data/Debug UI.md"
     },
@@ -133,10 +141,6 @@
       "path": "React/Libs/Next.js/PDF/Udemy Course/16-dis.pdf"
     },
     {
-      "basename": "First Simple Snippet",
-      "path": "Three.js/Snippets/First Simple Snippet.md"
-    },
-    {
       "basename": "DevOps",
       "path": "Certificates/Udemy/DevOps.pdf"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "AppDepOnK8sProIntroSlides",
       "path": "DevOps/Files/Udemy Course/22.AppDeplouOnK8sProject/AppDepOnK8sProIntroSlides.pdf"
-    },
-    {
-      "basename": "Docker",
-      "path": "DevOps/Files/Udemy Course/20.Docker/Docker.pdf"
     }
   ],
   "omittedPaths": [],

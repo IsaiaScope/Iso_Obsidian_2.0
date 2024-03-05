@@ -1,5 +1,6 @@
 ---
 tags:
+  - three_js
 ---
 
 # First Simple Snippet

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Debug UI",
+      "path": "Three.js/Data/Debug UI.md"
+    },
+    {
       "basename": "Geometries",
       "path": "Three.js/Data/Geometries.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Docker",
       "path": "DevOps/Files/Udemy Course/20.Docker/Docker.pdf"
-    },
-    {
-      "basename": "CI-Jenkins",
-      "path": "DevOps/Files/Udemy Course/15.CI-Jenkins/CI-Jenkins.pdf"
     }
   ],
   "omittedPaths": [],

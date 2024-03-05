@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Geometries",
+      "path": "Three.js/Data/Geometries.md"
+    },
+    {
       "basename": "Fullscreen and resizing",
       "path": "Three.js/Data/Fullscreen and resizing.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "CI-Jenkins",
       "path": "DevOps/Files/Udemy Course/15.CI-Jenkins/CI-Jenkins.pdf"
-    },
-    {
-      "basename": "Build+Triggers+Remotely",
-      "path": "DevOps/Files/Udemy Course/15.CI-Jenkins/Build+Triggers+Remotely.pdf"
     }
   ],
   "omittedPaths": [],

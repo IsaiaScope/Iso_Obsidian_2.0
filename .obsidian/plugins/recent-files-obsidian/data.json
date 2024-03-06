@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "shadcn configuration",
+      "path": "React/Libs/Shadcn-ui/shadcn configuration.md"
+    },
+    {
       "basename": "Tailwind (clsx + twMerge)",
       "path": "React/Libs/Tailwind/Tailwind (clsx + twMerge).md"
     },
@@ -9,16 +13,40 @@
       "path": "React/Libs/Tailwind/prettier-plugin-tailwindcss.md"
     },
     {
+      "basename": "git commit",
+      "path": "Git and GitHub/Git/Prompt/git commit.md"
+    },
+    {
+      "basename": "Set Default Globally",
+      "path": "Volta/Data/Set Default Globally.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Volta/Dashboard.md"
+    },
+    {
+      "basename": "Set Project Versions",
+      "path": "Volta/Data/Set Project Versions.md"
+    },
+    {
+      "basename": "Volta Run",
+      "path": "Volta/Data/Volta Run.md"
+    },
+    {
+      "basename": "init",
+      "path": "React/Libs/Next.js/Data/init.md"
+    },
+    {
+      "basename": "ielts",
+      "path": "English/ielts.md"
+    },
+    {
       "basename": "SW Lifecycle 3",
       "path": "PWA/Vite/React/Files/SW Lifecycle 3.png"
     },
     {
       "basename": "Shortcuts VS Code",
       "path": "VS Code/Data/Shortcuts VS Code.md"
-    },
-    {
-      "basename": "init",
-      "path": "React/Libs/Next.js/Data/init.md"
     },
     {
       "basename": "Transform Object",
@@ -63,10 +91,6 @@
     {
       "basename": "Summary",
       "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Volta/Dashboard.md"
     },
     {
       "basename": "Check Version",
@@ -175,30 +199,6 @@
     {
       "basename": "Animations",
       "path": "Three.js/Data/Animations.md"
-    },
-    {
-      "basename": "Basics",
-      "path": "Three.js/Data/Basics.md"
-    },
-    {
-      "basename": "Snippets",
-      "path": "VS Code/Data/Snippets.md"
-    },
-    {
-      "basename": "16-dis",
-      "path": "React/Libs/Next.js/PDF/Udemy Course/16-dis.pdf"
-    },
-    {
-      "basename": "DevOps",
-      "path": "Certificates/Udemy/DevOps.pdf"
-    },
-    {
-      "basename": "Font",
-      "path": "VS Code/Data/Font.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "React Native/Dashboard.md"
     }
   ],
   "omittedPaths": [],

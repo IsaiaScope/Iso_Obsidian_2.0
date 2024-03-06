@@ -36,7 +36,7 @@ export default function Button({ className }) {
 	return (
 		<button
 			className={twMerge(
-				"•bg-blue-500 py-2 px-4",
+				"bg-blue-500 py-2 px-4",
 				className,
 				pending && "bg-gray-500"
 			)}

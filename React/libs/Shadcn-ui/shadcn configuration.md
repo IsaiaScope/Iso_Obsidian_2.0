@@ -45,7 +45,7 @@ npx shadcn-ui@latest init
 
 [components-json](https://ui.shadcn.com/docs/components-json)
 
-- `aliases.tils` is the import alias for your utility functions.
+- `aliases.utils` is the import alias for your utility functions.
 - The CLI will use the `aliases.ui` value to determine where to place your `ui` components. Use this config if you want to customize the installation directory for your `ui` components.
 - `aliases.components` is the import alias for your components.
 
@@ -63,7 +63,7 @@ npx shadcn-ui@latest init
 		"prefix": ""
 	},
 	"aliases": {
-		"components": "@/components",
+		"components": "@/components/shadcn-ui",
 		"utils": "@/libraries/tailwindcss/twMerge-clsx-utility-class",
 		"ui": "@/components/shadcn-ui"
 	}

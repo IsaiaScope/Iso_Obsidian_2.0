@@ -5,6 +5,8 @@ tags:
 
 # [Tailwind CSS](https://tailwindcss.com/) (clsx + twMerge)
 
+> [YT Source](https://www.youtube.com/watch?v=re2JFITR7TI)
+
 ```
 npm i tailwind tailwind-merge clsx
 ```

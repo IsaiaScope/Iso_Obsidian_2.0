@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "prettier-plugin-tailwindcss",
-      "path": "React/Libs/Tailwind/prettier-plugin-tailwindcss.md"
-    },
-    {
       "basename": "Tailwind (clsx + twMerge)",
       "path": "React/Libs/Tailwind/Tailwind (clsx + twMerge).md"
+    },
+    {
+      "basename": "prettier-plugin-tailwindcss",
+      "path": "React/Libs/Tailwind/prettier-plugin-tailwindcss.md"
     },
     {
       "basename": "SW Lifecycle 3",

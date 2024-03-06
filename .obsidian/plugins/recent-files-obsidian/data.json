@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Shortcuts VS Code",
-      "path": "VS Code/Data/Shortcuts VS Code.md"
+      "basename": "prettier-plugin-tailwindcss",
+      "path": "React/Libs/Tailwind/prettier-plugin-tailwindcss.md"
     },
     {
       "basename": "Tailwind (clsx + twMerge)",
-      "path": "Tailwind (clsx + twMerge).md"
+      "path": "React/Libs/Tailwind/Tailwind (clsx + twMerge).md"
+    },
+    {
+      "basename": "SW Lifecycle 3",
+      "path": "PWA/Vite/React/Files/SW Lifecycle 3.png"
+    },
+    {
+      "basename": "Shortcuts VS Code",
+      "path": "VS Code/Data/Shortcuts VS Code.md"
     },
     {
       "basename": "init",
@@ -191,14 +199,6 @@
     {
       "basename": "Dashboard",
       "path": "React Native/Dashboard.md"
-    },
-    {
-      "basename": "Init Project",
-      "path": "React Native/Learning/Init Project.md"
-    },
-    {
-      "basename": "Setup Vite PWA",
-      "path": "PWA/Vite/React/Data/Setup Vite PWA.md"
     }
   ],
   "omittedPaths": [],

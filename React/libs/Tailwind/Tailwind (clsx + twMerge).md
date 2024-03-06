@@ -1,7 +1,6 @@
 ---
 tags:
-
-- Tailwind
+  - TailwindCSS
 ---
 
 # [Tailwind CSS](https://tailwindcss.com/) (clsx + twMerge)

@@ -10,7 +10,7 @@ _THEORY_
 - [Events](events.md)
 - [Pass data bottom up](pass-data-bottom-up.md)
 - [Coding knowledge](coding-knowledge.md)
-- [How to Style ?](style.md)
+- [How to Style ?](React/Data/Theory/style.md)
 - [[fragments-and-portal | Fragments and Portals]]
 - [[how-react-works | How React works ?]]
 - [[class-component | Class components]]

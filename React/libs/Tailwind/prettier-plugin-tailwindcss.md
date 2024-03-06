@@ -3,7 +3,7 @@ tags:
   - TailwindCSS
 ---
 
-# prettier-plugin-tailwindcss
+# [prettier-plugin-tailwindcss](https://www.npmjs.com/package/prettier-plugin-tailwindcss)
 
 ## setup
 

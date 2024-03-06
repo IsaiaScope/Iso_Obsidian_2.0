@@ -89,4 +89,8 @@ tags:
 
 `shift+alt+l` => open chat [CUSTOM]
 
+## Tailwind
+
+`shift+alt+'` toggle compact classes
+
 ---

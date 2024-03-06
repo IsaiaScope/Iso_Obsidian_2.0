@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Next_Max",
+      "path": "React/Libs/Next.js/PDF/Udemy Course/Next_Max.pdf"
+    },
+    {
+      "basename": "init",
+      "path": "React/Libs/Next.js/Data/init.md"
+    },
+    {
       "basename": "Textures",
       "path": "Three.js/Data/Textures.md"
     },
@@ -25,16 +33,8 @@
       "path": "Three.js/Data/Cameras.md"
     },
     {
-      "basename": "init",
-      "path": "React/Libs/Next.js/Data/init.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "React/Libs/Next.js/Dashboard.md"
-    },
-    {
-      "basename": "Next_1",
-      "path": "React/Libs/Next.js/PDF/Udemy Course/Next_1.pdf"
     },
     {
       "basename": "18-dis",

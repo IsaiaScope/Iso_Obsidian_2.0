@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Tailwind (clsx + twMerge)",
+      "path": "Tailwind (clsx + twMerge).md"
+    },
+    {
       "basename": "init",
       "path": "React/Libs/Next.js/Data/init.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Setup Vite PWA",
       "path": "PWA/Vite/React/Data/Setup Vite PWA.md"
-    },
-    {
-      "basename": "Service Worker",
-      "path": "PWA/Vite/React/Data/Service Worker.md"
     }
   ],
   "omittedPaths": [],

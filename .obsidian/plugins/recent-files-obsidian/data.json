@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Next_Max",
-      "path": "React/Libs/Next.js/PDF/Udemy Course/Next_Max.pdf"
-    },
-    {
       "basename": "init",
       "path": "React/Libs/Next.js/Data/init.md"
+    },
+    {
+      "basename": "Transform Object",
+      "path": "Three.js/Data/Transform Object.md"
     },
     {
       "basename": "Textures",
@@ -15,6 +15,50 @@
     {
       "basename": "First Simple Snippet",
       "path": "Three.js/Snippets/First Simple Snippet.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Three.js/Dashboard.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
+      "basename": "Make a Repo",
+      "path": "Git and GitHub/GitHub/Data/Make a Repo.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Obsidian Tutorial/Dashboard.md"
+    },
+    {
+      "basename": "Commands",
+      "path": "Prompt/Commands.md"
+    },
+    {
+      "basename": "git push",
+      "path": "Git and GitHub/GitHub/Prompt/git push.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Volta/Dashboard.md"
+    },
+    {
+      "basename": "Check Version",
+      "path": "Volta/Data/Check Version.md"
+    },
+    {
+      "basename": "Next_Max",
+      "path": "React/Libs/Next.js/PDF/Udemy Course/Next_Max.pdf"
     },
     {
       "basename": "Debug UI",
@@ -121,20 +165,12 @@
       "path": "Three.js/Data/Basics.md"
     },
     {
-      "basename": "Transform Object",
-      "path": "Three.js/Data/Transform Object.md"
-    },
-    {
       "basename": "Snippets",
       "path": "VS Code/Data/Snippets.md"
     },
     {
       "basename": "Shortcuts VS Code",
       "path": "VS Code/Data/Shortcuts VS Code.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Three.js/Dashboard.md"
     },
     {
       "basename": "16-dis",
@@ -163,42 +199,6 @@
     {
       "basename": "Service Worker",
       "path": "PWA/Vite/React/Data/Service Worker.md"
-    },
-    {
-      "basename": "Manifest",
-      "path": "PWA/Vite/React/Data/Manifest.md"
-    },
-    {
-      "basename": "Understanding PWA",
-      "path": "PWA/Vite/React/Data/Understanding PWA.md"
-    },
-    {
-      "basename": "Info & Setup",
-      "path": "DevOps/Data/Info & Setup.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "DevOps/Dashboard.md"
-    },
-    {
-      "basename": "AWSSlides",
-      "path": "DevOps/Files/Udemy Course/10.AWSPart1/AWSSlides.pdf"
-    },
-    {
-      "basename": "Cloudformation",
-      "path": "DevOps/Files/Udemy Course/25.cloudformation/Cloudformation.pdf"
-    },
-    {
-      "basename": "Terraform",
-      "path": "DevOps/Files/Udemy Course/24.Terraform/Terraform.pdf"
-    },
-    {
-      "basename": "CICD4ContainersProjectSlides",
-      "path": "DevOps/Files/Udemy Course/23.CiCdForContainers/CICD4ContainersProjectSlides.pdf"
-    },
-    {
-      "basename": "AppDepOnK8sProIntroSlides",
-      "path": "DevOps/Files/Udemy Course/22.AppDeplouOnK8sProject/AppDepOnK8sProIntroSlides.pdf"
     }
   ],
   "omittedPaths": [],

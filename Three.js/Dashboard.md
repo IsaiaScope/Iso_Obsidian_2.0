@@ -1,7 +1,7 @@
 ---
 tags:
   - Dashboard
-  - Three.js
+  - three_js
 ---
 
 # Three.js

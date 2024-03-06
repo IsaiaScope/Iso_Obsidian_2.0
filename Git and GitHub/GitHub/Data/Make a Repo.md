@@ -14,6 +14,10 @@ If you already have an existing repo locally that you want to get on Github...
 ![[git remote#Adding A New Remote | Adding A New Remote]]
 ![[git push#Connecting our local branch to a branch on Github| Sets the upstream of the local branch so that tracks the branch on the origin repo]]
 
+### If you get and error on first push is possible to force repo branch with a local one
+
+![[git push#Force Push]]
+
 ---
 
 ## Cloning a existing Repo from GitHub

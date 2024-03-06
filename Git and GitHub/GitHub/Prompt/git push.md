@@ -83,3 +83,19 @@ git push <remote> --delete <remote-branch-name>
 ```
 
 ---
+
+## Force Push
+
+- `-f` or `--force`: This flag is used to force the push operation, meaning that it will overwrite changes on the remote branch with the changes from your local branch, even if they conflict. It's a powerful command and should be used with caution, especially in a collaborative environment.
+
+```bash
+git push -f origin <remote-branch-name>
+```
+
+The command `git push -f origin dev` is a Git command used to forcefully push changes from your local Git repository to a remote repository, specifically to the `dev` branch on the remote repository named `origin`.
+
+```bash
+git push -f origin dev
+```
+
+---

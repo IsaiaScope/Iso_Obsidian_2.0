@@ -3,7 +3,13 @@ tags:
 - shadcn_ui
 ---
 
-# shadcn configuration
+# shadcn
+
+Provides you with re-usable components built on top of Radix UI and Tailwind CSS. It’s gaining quick popularity among the developers. It’s highly customizable unlike Radix and configures perfectly with Tailwind.
+
+The key difference between Radix UI and Shadcn is that Shadcn is not a package you can install, no need for *npm install* command. It does not add another dependency in your project.
+
+## configuration
 
 Run the `shadcn-ui` init command to setup your project:
 

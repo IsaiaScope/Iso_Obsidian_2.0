@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "shadcn",
+      "path": "React/Libs/Shadcn-ui/shadcn.md"
+    },
+    {
       "basename": "Dark Mode",
       "path": "React/Libs/Shadcn-ui/Dark Mode.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "init",
       "path": "React/Libs/Next.js/Data/init.md"
-    },
-    {
-      "basename": "shadcn configuration",
-      "path": "React/Libs/Shadcn-ui/shadcn configuration.md"
     },
     {
       "basename": "Tailwind (clsx + twMerge)",

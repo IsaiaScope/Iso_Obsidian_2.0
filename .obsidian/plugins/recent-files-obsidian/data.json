@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dark Mode",
+      "path": "React/Libs/Shadcn-ui/Dark Mode.md"
+    },
+    {
       "basename": "Project Structure",
       "path": "React/Libs/Next.js/Data/Project Structure.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "14-int",
       "path": "React/Libs/Next.js/PDF/Udemy Course/14-int.pdf"
-    },
-    {
-      "basename": "13-int",
-      "path": "React/Libs/Next.js/PDF/Udemy Course/13-int.pdf"
     }
   ],
   "omittedPaths": [],

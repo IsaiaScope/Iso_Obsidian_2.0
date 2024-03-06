@@ -58,8 +58,8 @@ export default function Button({ className }) {
 
 	return (
 		<button
-			className={twMerge("•bg-blue-500 py-2 px-4", className, {
-				"@bg-gray-500": pending,
+			className={twMerge("bg-blue-500 py-2 px-4", className, {
+				"bg-gray-500": pending,
 			})}
 		>
 			Submit    
@@ -92,14 +92,14 @@ export function cn(...inputs: ClassValue[]) {
 > use utility functions inside components to style
 
 ```jsx
-// this code works but style conflicts is random and order is not granted :(
+// final code
 export default function Button({ className, ...props }) {
 	const [pending, setPending] = useState(false);
 
 	return (
 		<button
-			className={cn("•bg-blue-500 py-2 px-4", className, {
-				"@bg-gray-500": pending,
+			className={cn("bg-blue-500 py-2 px-4", className, {
+				"bg-gray-500": pending,
 			})}
 			{...props}
 		>

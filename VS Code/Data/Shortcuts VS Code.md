@@ -68,6 +68,8 @@ tags:
 
 `ctrl + shift + p` => show all commands
 
+`Alt + m` => reopen With Editor (useful to switch .md file)
+
 ## File
 
 `ctrl + alt + f` => focus explorer tab, to create a folder use folder/fileName.extension [CUSTOM]

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Project Structure",
+      "path": "React/Libs/Next.js/Data/Project Structure.md"
+    },
+    {
+      "basename": "init",
+      "path": "React/Libs/Next.js/Data/init.md"
+    },
+    {
       "basename": "shadcn configuration",
       "path": "React/Libs/Shadcn-ui/shadcn configuration.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Volta Run",
       "path": "Volta/Data/Volta Run.md"
-    },
-    {
-      "basename": "init",
-      "path": "React/Libs/Next.js/Data/init.md"
     },
     {
       "basename": "ielts",
@@ -195,10 +199,6 @@
     {
       "basename": "13-int",
       "path": "React/Libs/Next.js/PDF/Udemy Course/13-int.pdf"
-    },
-    {
-      "basename": "Animations",
-      "path": "Three.js/Data/Animations.md"
     }
   ],
   "omittedPaths": [],

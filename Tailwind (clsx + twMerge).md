@@ -7,7 +7,7 @@ tags:
 # [Tailwind CSS](https://tailwindcss.com/) (clsx + twMerge)
 
 ```
-npm i --save tailwind tailwind-merge clsx
+npm i tailwind tailwind-merge clsx
 ```
 
 ## [twMerge](https://www.npmjs.com/package/tailwind-merge)

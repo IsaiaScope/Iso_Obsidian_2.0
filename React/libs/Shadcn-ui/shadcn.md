@@ -1,6 +1,6 @@
 ---
 tags:
-- shadcn_ui
+- Shadcn_ui
 ---
 
 # shadcn
@@ -21,7 +21,6 @@ npx shadcn-ui@latest init
 
 ## folder structure
 
-.
 ├── app
 │ ├── layout.tsx
 │ └── page.tsx
@@ -65,7 +64,7 @@ npx shadcn-ui@latest init
 		"config": "tailwind.config.ts",
 		"css": "@/styles/globals.css",
 		"baseColor": "gray" | "neutral" | "slate" | "stone" | "zinc",
-		"cssVariables": false,
+		"cssVariables": true,
 		"prefix": ""
 	},
 	"aliases": {

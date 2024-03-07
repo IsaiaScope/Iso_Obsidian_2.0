@@ -1,5 +1,6 @@
 ---
 tags:
+  - Next_js
 ---
 
 # Project Structure

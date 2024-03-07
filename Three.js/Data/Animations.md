@@ -1,6 +1,6 @@
 ---
 tags:
-  - three_js
+  - Three_js
 ---
 
 # Animations

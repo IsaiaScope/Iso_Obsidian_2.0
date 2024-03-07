@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "style",
-      "path": "React/Libs/Shadcn-ui/style.md"
-    },
-    {
-      "basename": "shadcn",
-      "path": "React/Libs/Shadcn-ui/shadcn.md"
+      "basename": "Font",
+      "path": "React/Libs/Next.js/Data/Font.md"
     },
     {
       "basename": "Project Structure",
@@ -15,6 +11,58 @@
     {
       "basename": "init",
       "path": "React/Libs/Next.js/Data/init.md"
+    },
+    {
+      "basename": "style",
+      "path": "React/Libs/Shadcn-ui/style.md"
+    },
+    {
+      "basename": "Transform Object",
+      "path": "Three.js/Data/Transform Object.md"
+    },
+    {
+      "basename": "Textures",
+      "path": "Three.js/Data/Textures.md"
+    },
+    {
+      "basename": "Geometries",
+      "path": "Three.js/Data/Geometries.md"
+    },
+    {
+      "basename": "Fullscreen and resizing",
+      "path": "Three.js/Data/Fullscreen and resizing.md"
+    },
+    {
+      "basename": "Debug UI",
+      "path": "Three.js/Data/Debug UI.md"
+    },
+    {
+      "basename": "Cameras",
+      "path": "Three.js/Data/Cameras.md"
+    },
+    {
+      "basename": "Basics",
+      "path": "Three.js/Data/Basics.md"
+    },
+    {
+      "basename": "Animations",
+      "path": "Three.js/Data/Animations.md"
+    },
+    {
+      "basename": "First Simple Snippet",
+      "path": "Three.js/Snippets/First Simple Snippet.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Three.js/Dashboard.md"
+    },
+    {
+      "basename": "shadcn",
+      "path": "React/Libs/Shadcn-ui/shadcn.md"
+    },
+    {
+      "basename": "Set Default Globally",
+      "path": "Volta/Data/Set Default Globally.md"
     },
     {
       "basename": "Tailwind (clsx + twMerge)",
@@ -27,10 +75,6 @@
     {
       "basename": "git commit",
       "path": "Git and GitHub/Git/Prompt/git commit.md"
-    },
-    {
-      "basename": "Set Default Globally",
-      "path": "Volta/Data/Set Default Globally.md"
     },
     {
       "basename": "Dashboard",
@@ -55,22 +99,6 @@
     {
       "basename": "Shortcuts VS Code",
       "path": "VS Code/Data/Shortcuts VS Code.md"
-    },
-    {
-      "basename": "Transform Object",
-      "path": "Three.js/Data/Transform Object.md"
-    },
-    {
-      "basename": "Textures",
-      "path": "Three.js/Data/Textures.md"
-    },
-    {
-      "basename": "First Simple Snippet",
-      "path": "Three.js/Snippets/First Simple Snippet.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Three.js/Dashboard.md"
     },
     {
       "basename": "Summary",
@@ -107,22 +135,6 @@
     {
       "basename": "Next_Max",
       "path": "React/Libs/Next.js/PDF/Udemy Course/Next_Max.pdf"
-    },
-    {
-      "basename": "Debug UI",
-      "path": "Three.js/Data/Debug UI.md"
-    },
-    {
-      "basename": "Geometries",
-      "path": "Three.js/Data/Geometries.md"
-    },
-    {
-      "basename": "Fullscreen and resizing",
-      "path": "Three.js/Data/Fullscreen and resizing.md"
-    },
-    {
-      "basename": "Cameras",
-      "path": "Three.js/Data/Cameras.md"
     },
     {
       "basename": "Dashboard",
@@ -187,18 +199,6 @@
     {
       "basename": "git stash",
       "path": "Git and GitHub/Git/Prompt/git stash.md"
-    },
-    {
-      "basename": "Stuff",
-      "path": "Stuff.md"
-    },
-    {
-      "basename": "15-int",
-      "path": "React/Libs/Next.js/PDF/Udemy Course/15-int.pdf"
-    },
-    {
-      "basename": "14-int",
-      "path": "React/Libs/Next.js/PDF/Udemy Course/14-int.pdf"
     }
   ],
   "omittedPaths": [],

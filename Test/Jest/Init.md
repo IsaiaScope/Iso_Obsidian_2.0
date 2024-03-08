@@ -98,6 +98,27 @@ function UserForm({ onUserAdd }) {
 export default UserForm;
 ```
 
+Right now, whenever we render user form, we are not passing in any props to it whatsoever.
+
+No props.
+
+So inside of user form, whenever we render this thing, it is not being given an on user ad prop.
+
+We did not provide one.
+
+So when we simulate submitting the form handle submit is called, but there is no function called on
+
+user ad we did not provide it.
+
+So on user ad is essentially undefined and that's why we are seeing an error message whenever we run
+
+our tests right now.
+
+So we need to fix this up.
+
+One way we could fix this up is by going back over to our test and putting in right here on user ad.
+
+
 ```js
 import { render, screen } from "@testing-library/react";
 import user from "@testing-library/user-event";

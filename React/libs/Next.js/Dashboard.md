@@ -1,4 +1,4 @@
 - _THEORY_
-	- [[init|init]]
+	- [[React/Libs/Next.js/Data/init|init]]
 
 ---

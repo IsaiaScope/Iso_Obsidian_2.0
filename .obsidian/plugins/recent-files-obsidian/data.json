@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-W10",
+      "path": "Periodic Notes/Weekly Notes/2024-W10.md"
+    },
+    {
+      "basename": "style",
+      "path": "React/Libs/Shadcn-ui/style.md"
+    },
+    {
+      "basename": "shadcn",
+      "path": "React/Libs/Shadcn-ui/shadcn.md"
+    },
+    {
       "basename": "Init",
       "path": "Test/Jest/Init.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "Transform Object",
       "path": "Three.js/Data/Transform Object.md"
-    },
-    {
-      "basename": "2024-W10",
-      "path": "Periodic Notes/Weekly Notes/2024-W10.md"
     },
     {
       "basename": "Stuff",
@@ -31,10 +39,6 @@
     {
       "basename": "init",
       "path": "React/Libs/Next.js/Data/init.md"
-    },
-    {
-      "basename": "style",
-      "path": "React/Libs/Shadcn-ui/style.md"
     },
     {
       "basename": "Textures",
@@ -71,10 +75,6 @@
     {
       "basename": "Dashboard",
       "path": "Three.js/Dashboard.md"
-    },
-    {
-      "basename": "shadcn",
-      "path": "React/Libs/Shadcn-ui/shadcn.md"
     },
     {
       "basename": "Set Default Globally",

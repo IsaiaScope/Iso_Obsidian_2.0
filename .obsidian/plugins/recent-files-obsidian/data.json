@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Project Structure",
+      "path": "React/Libs/Next.js/Data/Project Structure.md"
+    },
+    {
+      "basename": "init",
+      "path": "React/Libs/Next.js/Data/init.md"
+    },
+    {
+      "basename": "Font",
+      "path": "React/Libs/Next.js/Data/Font.md"
+    },
+    {
       "basename": "2024-W10",
       "path": "Periodic Notes/Weekly Notes/2024-W10.md"
     },
@@ -27,18 +39,6 @@
     {
       "basename": "Stuff",
       "path": "Stuff.md"
-    },
-    {
-      "basename": "Font",
-      "path": "React/Libs/Next.js/Data/Font.md"
-    },
-    {
-      "basename": "Project Structure",
-      "path": "React/Libs/Next.js/Data/Project Structure.md"
-    },
-    {
-      "basename": "init",
-      "path": "React/Libs/Next.js/Data/init.md"
     },
     {
       "basename": "Textures",

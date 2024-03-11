@@ -194,4 +194,17 @@ test("empties the two inputs when form is submitted", async () => {
 });
 ```
 
+mock
+
+A mock function is a fake function that doesn't really do anything when it is called.
+
+All it does is record the fact that it got called and also records the arguments that it was called
+
+with.
+
+![[Pasted image 20240311130950.png]]
+
+
+
+
 ---

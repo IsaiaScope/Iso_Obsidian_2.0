@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "i18next",
+      "path": "React/Libs/i18next.md"
+    },
+    {
+      "basename": "Tailwind (clsx + twMerge)",
+      "path": "React/Libs/Tailwind/Tailwind (clsx + twMerge).md"
+    },
+    {
+      "basename": "prettier-plugin-tailwindcss",
+      "path": "React/Libs/Tailwind/prettier-plugin-tailwindcss.md"
+    },
+    {
+      "basename": "Init",
+      "path": "Test/Jest/Init.md"
+    },
+    {
       "basename": "2024-W10",
       "path": "Periodic Notes/Weekly Notes/2024-W10.md"
     },
@@ -23,10 +39,6 @@
     {
       "basename": "shadcn",
       "path": "React/Libs/Shadcn-ui/shadcn.md"
-    },
-    {
-      "basename": "Init",
-      "path": "Test/Jest/Init.md"
     },
     {
       "basename": "Pasted image 20240308072647",
@@ -79,14 +91,6 @@
     {
       "basename": "Set Default Globally",
       "path": "Volta/Data/Set Default Globally.md"
-    },
-    {
-      "basename": "Tailwind (clsx + twMerge)",
-      "path": "React/Libs/Tailwind/Tailwind (clsx + twMerge).md"
-    },
-    {
-      "basename": "prettier-plugin-tailwindcss",
-      "path": "React/Libs/Tailwind/prettier-plugin-tailwindcss.md"
     },
     {
       "basename": "git commit",

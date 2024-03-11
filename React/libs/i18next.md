@@ -25,15 +25,16 @@ Even using next the implementation involve `react-i18next` that under the hood i
 
 ### Tutorial for react-i18next
 
-[react-i18next](https://i18nexus.com/tutorials/nextjs/react-i18next)
-[You Tube Guide for react-i18next](https://www.youtube.com/watch?v=J8tnD2BWY28&t=542s)
-[next-i18n-router](https://github.com/i18nexus/next-i18n-router)
+- [react-i18next](https://i18nexus.com/tutorials/nextjs/react-i18next)
+- [You Tube Guide for react-i18next](https://www.youtube.com/watch?v=J8tnD2BWY28&t=542s)
+- [next-i18n-router](https://github.com/i18nexus/next-i18n-router)
+- [Next DOC](https://nextjs.org/docs/app/building-your-application/routing/internationalization)
 
 ### Create Translations
 
-[i18nexus](https://app.i18nexus.com) (Site for translations and where pull json form)
-Scripts to pull json and update type safe into code
-[YT: type safe video guide](https://youtu.be/GLIas4DH3Ww?si=HNX_qCgYpr_gm38d&t=79 "https://youtu.be/GLIas4DH3Ww?si=HNX_qCgYpr_gm38d&t=79")
+- [i18nexus](https://app.i18nexus.com) (Site for translations and where pull json form)
+  Scripts to pull json and update type safe into code
+- [YT: type safe video guide](https://youtu.be/GLIas4DH3Ww?si=HNX_qCgYpr_gm38d&t=79 "https://youtu.be/GLIas4DH3Ww?si=HNX_qCgYpr_gm38d&t=79")
 
 ```shell
 // package.json

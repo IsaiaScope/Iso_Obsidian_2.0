@@ -81,7 +81,8 @@ function UserForm({ onUserAdd }) {
 					id="name"
 					value={name}
 					onChange={(e) => setName(e.target.value)}
-				/>   
+				/>
+				   
 			</div>
 			<div>
 				<label htmlFor="email">Enter Email</label>
@@ -117,7 +118,6 @@ our tests right now.
 So we need to fix this up.
 
 One way we could fix this up is by going back over to our test and putting in right here on user ad.
-
 
 ```js
 import { render, screen } from "@testing-library/react";
@@ -202,6 +202,56 @@ All it does is record the fact that it got called and also records the arguments
 
 with.
 
+We most often use mock functions whenever we need to make sure that a component actually calls a callback.
+
+The mock function is going to have some internal storage of sorts.
+
+It's going to record how many times it has been called.
+
+It's also going to record all the different arguments it receives whenever it gets called.
 ![[Pasted image 20240311130950.png]]
 
+NOTE
+So this is a label and an input element.
+
+I want to tell you a little bit around some normal traditional HTML stuff.
+
+So this is not really a React specific.
+
+If you are ever creating a label with an input next to it, you can give the label a for attributes.
+
+In JSX, we have to write it out as HTML four, but if you are doing normal HTML, it would be just
+
+for if a label has an HTML four that is equal to an input elements ID attribute.
+
+Then clicking on the label is going to focus the input.
+![[Pasted image 20240313075036.png]]
+
+So this is just a little accessibility and usability thing, particularly for mobile devices where a
+
+user might accidentally tap on the label when they really mean to select the input.
+
+BIND INPUTS
+It's going to find some label that has text that matches this regular expression of enter email and
+
+it's going to give us the input element that is associated with that label.
+
+So either of these query functions would be absolutely appropriate to use.
+
+Now React Testing Library itself prefers or recommends that you use rolls to select elements.
+
+```js
+// Find the two inputs
+
+const nameInput = screen.getByRole("textbox", {
+	name: /name/i,
+});
+
+const emailInput = screen.getByRole("textbox", {
+	name: /email/i,
+});
+```
+
 ---
+
+

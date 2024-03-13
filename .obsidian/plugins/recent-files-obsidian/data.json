@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "UserList",
+      "path": "Test/Jest/Data/UserList.md"
+    },
+    {
+      "basename": "Init",
+      "path": "Test/Jest/Data/Init.md"
+    },
+    {
       "basename": "2024-W10",
       "path": "Periodic Notes/Weekly Notes/2024-W10.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "2024-W09",
       "path": "Periodic Notes/Weekly Notes/2024-W09.md"
-    },
-    {
-      "basename": "Init",
-      "path": "Test/Jest/Init.md"
     },
     {
       "basename": "Tailwind (clsx + twMerge)",
@@ -195,10 +199,6 @@
     {
       "basename": "TanStack Query 4",
       "path": "Certificates/Udemy/React/TanStack Query 4.pdf"
-    },
-    {
-      "basename": "React Native",
-      "path": "Certificates/Udemy/React/React Native.pdf"
     }
   ],
   "omittedPaths": [],

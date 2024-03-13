@@ -53,6 +53,19 @@ So you sometimes are going to have to use this little styling workaround again j
 are actually clickable.
 ![[Pasted image 20240313082022.png]]
 
+
+Another way is 
+And when I run that test file, if I scroll up now here's the result of the screenshot debug.
+
+It's going to take all the current rendered output from our component and print it out on the screen
+
+so we can use this to very easily see what the current state or what the visible state really is of
+
+our component.
+```js
+screen.debug()
+```
+
 ## code
 
 ![[Pasted image 20240313082816.png]]

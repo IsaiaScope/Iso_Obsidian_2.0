@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Init",
-      "path": "Test/Jest/Data/Init.md"
+      "basename": "Untitled",
+      "path": "Test/Jest/Data/Untitled.md"
     },
     {
       "basename": "UserList",
@@ -11,6 +11,14 @@
     {
       "basename": "i18next",
       "path": "React/Libs/i18next.md"
+    },
+    {
+      "basename": "core concept",
+      "path": "Test/Jest/Data/core concept.md"
+    },
+    {
+      "basename": "Init",
+      "path": "Test/Jest/Data/Init.md"
     },
     {
       "basename": "2024-W10",
@@ -191,14 +199,6 @@
     {
       "basename": "Nextjs",
       "path": "Certificates/Udemy/React/Nextjs.pdf"
-    },
-    {
-      "basename": "Ionic React",
-      "path": "Certificates/Udemy/React/Ionic React.pdf"
-    },
-    {
-      "basename": "TanStack Query 4",
-      "path": "Certificates/Udemy/React/TanStack Query 4.pdf"
     }
   ],
   "omittedPaths": [],

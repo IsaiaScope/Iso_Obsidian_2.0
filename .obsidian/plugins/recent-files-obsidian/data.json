@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Test/Jest/Data/Untitled.md"
+      "basename": "rtl-book",
+      "path": "Test/Jest/Data/rtl-book.md"
+    },
+    {
+      "basename": "roles-notes",
+      "path": "Test/Jest/Data/roles-notes.md"
     },
     {
       "basename": "UserList",
@@ -195,10 +199,6 @@
     {
       "basename": "10-Int",
       "path": "React/Libs/Next.js/PDF/Udemy Course/10-Int.pdf"
-    },
-    {
-      "basename": "Nextjs",
-      "path": "Certificates/Udemy/React/Nextjs.pdf"
     }
   ],
   "omittedPaths": [],

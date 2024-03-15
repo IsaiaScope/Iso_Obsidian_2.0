@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "i18next",
+      "path": "React/Libs/i18next.md"
+    },
+    {
       "basename": "rtl-book",
       "path": "Test/Jest/Data/rtl-book.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "UserList",
       "path": "Test/Jest/Data/UserList.md"
-    },
-    {
-      "basename": "i18next",
-      "path": "React/Libs/i18next.md"
     },
     {
       "basename": "core concept",

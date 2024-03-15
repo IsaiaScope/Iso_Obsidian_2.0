@@ -39,7 +39,41 @@ For example, input elements an input.
 ![[Pasted image 20240315115535.png]]
 
 good approach 
-![[Pasted image 20240315115606.png]]
+![[Pasted image 20240315120538.png]]
 
 
 ---
+
+Just a moment ago, I told you that the accessible name is going to be whatever text we put in between
+
+these two tags, but in some cases, like input elements, we are not really supposed to make two separate
+
+open and close inputs and put text in between.
+
+Instead, inputs are really intended to be self-closing, something like this.
+
+So in this case, how would we use an accessible name with an input?
+
+Well, let me show you that really quickly.
+
+This is something that we've seen on our previous application work done, but I just want to kind of
+
+document this in the notebook.
+
+So you've got a record of it going into the future down here at the very bottom of the page, I'm going
+
+to add in another code cell.
+![[Pasted image 20240315120732.png]]
+
+![[Pasted image 20240315120830.png]]
+
+solution
+
+![[Pasted image 20240315121023.png]]
+
+
+![[Pasted image 20240315121052.png]]
+
+
+##  Directly Assigning an Accessible Name
+

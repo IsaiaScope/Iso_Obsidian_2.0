@@ -76,4 +76,16 @@ solution
 
 
 ##  Directly Assigning an Accessible Name
+So we're going to use this fallback whenever trying to use an accessible name doesn't quite work out
 
+because we don't want to put plain text into an element.
+
+And this is going to happen very, very frequently whenever you are trying to show a button that contains
+
+an icon, that's definitely like the number one most particular use case where this is going to come
+
+up.
+
+Autoscroll
+![[Pasted image 20240316150637.png]]
+![[Pasted image 20240316150722.png]]

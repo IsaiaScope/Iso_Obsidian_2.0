@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "accessible name",
-      "path": "Test/Jest/Data/accessible name.md"
+      "basename": "rtl-book",
+      "path": "Test/Jest/Data/rtl-book.md"
+    },
+    {
+      "basename": "Init",
+      "path": "Test/Jest/Data/Init.md"
+    },
+    {
+      "basename": "Query functions",
+      "path": "Test/Jest/Data/Query functions.md"
     },
     {
       "basename": "i18next",
@@ -13,16 +21,8 @@
       "path": "Test/Jest/Data/core concept.md"
     },
     {
-      "basename": "Init",
-      "path": "Test/Jest/Data/Init.md"
-    },
-    {
       "basename": "roles-notes",
       "path": "Test/Jest/Data/roles-notes.md"
-    },
-    {
-      "basename": "rtl-book",
-      "path": "Test/Jest/Data/rtl-book.md"
     },
     {
       "basename": "UserList",

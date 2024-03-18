@@ -2,7 +2,9 @@
 tags:
 ---
 
-# accessible name
+
+# Query functions
+## accessible name
 
 
 Whenever we try to run the get viral function, the expectation is that we are going to find exactly
@@ -89,3 +91,5 @@ up.
 Autoscroll
 ![[Pasted image 20240316150637.png]]
 ![[Pasted image 20240316150722.png]]
+
+

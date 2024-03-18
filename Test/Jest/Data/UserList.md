@@ -13,7 +13,7 @@ We can use a nice little trick to help us understand how to find particular elem
 ![[Pasted image 20240313080050.png]]
 
 So this is not an error message that is popping up.
-
+ 
 It is a little bit more of a warning.
 
 ```js

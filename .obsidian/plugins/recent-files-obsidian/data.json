@@ -5,6 +5,10 @@
       "path": "Test/Jest/Data/hard concepts.md"
     },
     {
+      "basename": "Pasted image 20240319110208",
+      "path": "Test/Jest/Images/Pasted image 20240319110208.png"
+    },
+    {
       "basename": "Untitled",
       "path": "Test/Jest/Data/Untitled.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "Dashboard",
       "path": "Three.js/Dashboard.md"
-    },
-    {
-      "basename": "Set Default Globally",
-      "path": "Volta/Data/Set Default Globally.md"
-    },
-    {
-      "basename": "git commit",
-      "path": "Git and GitHub/Git/Prompt/git commit.md"
     }
   ],
   "omittedPaths": [],

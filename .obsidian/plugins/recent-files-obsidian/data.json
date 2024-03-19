@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "hard concepts",
+      "path": "Test/Jest/Data/hard concepts.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Test/Jest/Data/Untitled.md"
+    },
+    {
+      "basename": "core concept",
+      "path": "Test/Jest/Data/core concept.md"
+    },
+    {
+      "basename": "Init",
+      "path": "Test/Jest/Data/Init.md"
+    },
+    {
       "basename": "UserList",
       "path": "Test/Jest/Data/UserList.md"
     },
@@ -15,14 +31,6 @@
     {
       "basename": "Query functions",
       "path": "Test/Jest/Data/Query functions.md"
-    },
-    {
-      "basename": "Init",
-      "path": "Test/Jest/Data/Init.md"
-    },
-    {
-      "basename": "core concept",
-      "path": "Test/Jest/Data/core concept.md"
     },
     {
       "basename": "i18next",
@@ -191,14 +199,6 @@
     {
       "basename": "git commit",
       "path": "Git and GitHub/Git/Prompt/git commit.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Volta/Dashboard.md"
-    },
-    {
-      "basename": "Set Project Versions",
-      "path": "Volta/Data/Set Project Versions.md"
     }
   ],
   "omittedPaths": [],

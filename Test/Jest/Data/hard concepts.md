@@ -117,6 +117,9 @@ involve data fetching instead of using fact,
 
 ![[Pasted image 20240319110827.png]]
 
+![[Pasted image 20240319184952.png]]
+
+![[Pasted image 20240319185201.png]]
 
 Okay, So let's imagine that we are trying to test a very simple component.
 

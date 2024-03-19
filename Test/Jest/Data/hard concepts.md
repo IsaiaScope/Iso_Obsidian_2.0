@@ -9,6 +9,12 @@ tags:
 
 act
 
+Any time you have a user effect function that contains any kind of asynchronous code and after the promise
+
+gets resolved or after we get back some data, we update some states, we are almost always going to
+
+see an act warning.
+
 ![[Pasted image 20240319110208.png]]
 
 ```tsx
@@ -120,7 +126,7 @@ involve data fetching instead of using fact,
 ![[Pasted image 20240319184952.png]]
 
 ![[Pasted image 20240319185201.png]]
-
+![[Pasted image 20240319190049.png]]
 Okay, So let's imagine that we are trying to test a very simple component.
 
 The goal of this component is to show a button, and whenever a user clicks on that button, we want

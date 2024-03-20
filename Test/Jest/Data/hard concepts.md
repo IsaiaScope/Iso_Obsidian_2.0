@@ -137,5 +137,13 @@ users on the screen.
 
 ![[Pasted image 20240319191601.png]]
 
+### module mock
+
+I do not want to actually render the file icon inside of this test file at all.
+
+I don't want to render it.
+
+I want that component to just pretty much not exist, so to speak.
+
 
 ---

@@ -70,6 +70,22 @@ very specific kind of response for these tests and then a very different server 
 
 us a totally different kind of response for these tests, which is exactly what we are looking for.
 
+
+
+
+## Setting Up a Debugger
+![[Pasted image 20240320150013.png]]
+package json add test:debug script
+now is possible to add debugger in test files just writing `debugger`
+```shell
+react-scripts --inspect-brk test --runInBand --no-cache
+```
+## note
+
+describe.only() or test.only() make a test to run itself and ignore other ones 
+
+
+
 ```tsx
 import { render, screen } from '@testing-library/react';
 import { MemoryRouter } from 'react-router-dom';

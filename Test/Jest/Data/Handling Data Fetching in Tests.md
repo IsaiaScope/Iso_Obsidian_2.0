@@ -45,6 +45,30 @@ export default function useRepositories(searchQuery) {
 ```
 
 ```tsx
+import { setupServer } from 'msw/node';
+import { rest } from 'msw';
+
+export function createServer(handlerConfig) {
+  const handlers = handlerConfig.map((config) => {
+    return rest[config.method || 'get'](config.path, (req, res, ctx) => {
+      return res(ctx.json(config.res(req, res, ctx)));
+    });
+  });
+
+  const server = setupServer(...handlers);
+  beforeAll(() => {
+    server.listen();
+  });
+  afterEach(() => {
+    server.resetHandlers();
+  });
+  afterAll(() => {
+    server.close();
+  });
+}
+```
+
+```tsx
 // HomeRoute
 import Hero from '../components/Hero';
 import RepositoriesTable from '../components/repositories/RepositoriesTable';
@@ -121,7 +145,6 @@ then just go ahead and respond, send back some JSON, respond with an array of ob
 represents a repository.
 
 ![[Pasted image 20240320094915.png]]
-
 
 ```tsx
 // HomeRoute.test

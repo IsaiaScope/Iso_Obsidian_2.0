@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "auth",
+      "path": "Test/Jest/Data/auth.md"
+    },
+    {
       "basename": "Handling Data Fetching in Tests",
       "path": "Test/Jest/Data/Handling Data Fetching in Tests.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "First Simple Snippet",
       "path": "Three.js/Snippets/First Simple Snippet.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Three.js/Dashboard.md"
     }
   ],
   "omittedPaths": [],

@@ -83,6 +83,7 @@ react-scripts --inspect-brk test --runInBand --no-cache
 describe.only() or test.only() make a test to run itself and ignore other ones
 
 ![[Pasted image 20240320152018.png]]
+![[Pasted image 20240320152957.png]]
 
 ```tsx
 import { render, screen } from '@testing-library/react';
@@ -201,5 +202,23 @@ The first is grid block here and whatever data we are returning inside of this f
 it's somehow getting down to our second described block.
 
 The second set of tests inside this file.
+
+But again, the real goal here was to see those debugging strategies and just understand that sometimes
+
+your libraries in a development or production environment, they're going to do things like caching
+
+and that's very desirable.
+
+We like that.
+
+But when we go over to the testing world, that same exact behavior is really bad and we want to turn
+
+it off entirely or our tests are going to fail in really unexpected ways.
+
+That was the whole point of all this.
+
+Not really to focus on SBR too much.
+
+
 
 ---

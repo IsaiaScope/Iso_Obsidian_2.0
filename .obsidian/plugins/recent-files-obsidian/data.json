@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-W13",
+      "path": "Periodic Notes/Weekly Notes/2024-W13.md"
+    },
+    {
       "basename": "React Testing Library and Jest",
       "path": "Certificates/Udemy/React/React Testing Library and Jest.pdf"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Basics",
       "path": "Three.js/Data/Basics.md"
-    },
-    {
-      "basename": "Animations",
-      "path": "Three.js/Data/Animations.md"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "React Testing Library and Jest",
+      "path": "Certificates/Udemy/React/React Testing Library and Jest.pdf"
+    },
+    {
       "basename": "auth",
       "path": "Test/Jest/Data/auth.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Animations",
       "path": "Three.js/Data/Animations.md"
-    },
-    {
-      "basename": "First Simple Snippet",
-      "path": "Three.js/Snippets/First Simple Snippet.md"
     }
   ],
   "omittedPaths": [],

@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiJest",
       "SiNextdotjs",
       "RiFlightTakeoffFill",
       "SiUdemy",
-      "FarFilePdf",
-      "LiFiles"
+      "FarFilePdf"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -160,5 +160,6 @@
   "React/Libs/Next.js/PDF": "FarFilePdf",
   "React/Libs/Next.js/PDF/Udemy Course": "SiUdemy",
   "React/Libs/Next.js/Data/init.md": "RiFlightTakeoffFill",
-  "Certificates/Udemy/React/Nextjs.pdf": "SiNextdotjs"
+  "Certificates/Udemy/React/Nextjs.pdf": "SiNextdotjs",
+  "Certificates/Udemy/React/React Testing Library and Jest.pdf": "SiJest"
 }

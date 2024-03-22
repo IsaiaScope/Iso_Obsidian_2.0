@@ -5,6 +5,46 @@
       "path": "Periodic Notes/Weekly Notes/2024-W13.md"
     },
     {
+      "basename": "i18next",
+      "path": "React/Libs/i18next.md"
+    },
+    {
+      "basename": "Tailwind (clsx + twMerge)",
+      "path": "React/Libs/Tailwind/Tailwind (clsx + twMerge).md"
+    },
+    {
+      "basename": "prettier-plugin-tailwindcss",
+      "path": "React/Libs/Tailwind/prettier-plugin-tailwindcss.md"
+    },
+    {
+      "basename": "style",
+      "path": "React/Libs/Shadcn-ui/style.md"
+    },
+    {
+      "basename": "shadcn",
+      "path": "React/Libs/Shadcn-ui/shadcn.md"
+    },
+    {
+      "basename": "Project Structure",
+      "path": "React/Libs/Next.js/Data/Project Structure.md"
+    },
+    {
+      "basename": "init",
+      "path": "React/Libs/Next.js/Data/init.md"
+    },
+    {
+      "basename": "Font",
+      "path": "React/Libs/Next.js/Data/Font.md"
+    },
+    {
+      "basename": "displays",
+      "path": "Test/Jest/Data/displays.md"
+    },
+    {
+      "basename": "roles-notes",
+      "path": "Test/Jest/Data/roles-notes.md"
+    },
+    {
       "basename": "React Testing Library and Jest",
       "path": "Certificates/Udemy/React/React Testing Library and Jest.pdf"
     },
@@ -25,10 +65,6 @@
       "path": "Test/Jest/Images/Pasted image 20240319110208.png"
     },
     {
-      "basename": "Untitled",
-      "path": "Test/Jest/Data/Untitled.md"
-    },
-    {
       "basename": "core concept",
       "path": "Test/Jest/Data/core concept.md"
     },
@@ -45,16 +81,8 @@
       "path": "Test/Jest/Data/rtl-book.md"
     },
     {
-      "basename": "roles-notes",
-      "path": "Test/Jest/Data/roles-notes.md"
-    },
-    {
       "basename": "Query functions",
       "path": "Test/Jest/Data/Query functions.md"
-    },
-    {
-      "basename": "i18next",
-      "path": "React/Libs/i18next.md"
     },
     {
       "basename": "Pasted image 20240315120538",
@@ -141,34 +169,6 @@
       "path": "Periodic Notes/Weekly Notes/2024-W09.md"
     },
     {
-      "basename": "Tailwind (clsx + twMerge)",
-      "path": "React/Libs/Tailwind/Tailwind (clsx + twMerge).md"
-    },
-    {
-      "basename": "prettier-plugin-tailwindcss",
-      "path": "React/Libs/Tailwind/prettier-plugin-tailwindcss.md"
-    },
-    {
-      "basename": "Project Structure",
-      "path": "React/Libs/Next.js/Data/Project Structure.md"
-    },
-    {
-      "basename": "init",
-      "path": "React/Libs/Next.js/Data/init.md"
-    },
-    {
-      "basename": "Font",
-      "path": "React/Libs/Next.js/Data/Font.md"
-    },
-    {
-      "basename": "style",
-      "path": "React/Libs/Shadcn-ui/style.md"
-    },
-    {
-      "basename": "shadcn",
-      "path": "React/Libs/Shadcn-ui/shadcn.md"
-    },
-    {
       "basename": "Transform Object",
       "path": "Three.js/Data/Transform Object.md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "Cameras",
       "path": "Three.js/Data/Cameras.md"
-    },
-    {
-      "basename": "Basics",
-      "path": "Three.js/Data/Basics.md"
     }
   ],
   "omittedPaths": [],

@@ -5,6 +5,14 @@
       "path": "Periodic Notes/Weekly Notes/2024-W13.md"
     },
     {
+      "basename": "Stuff",
+      "path": "Stuff.md"
+    },
+    {
+      "basename": "Short-cuts",
+      "path": "Short-cuts.md"
+    },
+    {
       "basename": "add-prop-conditionally-to-object",
       "path": "JS and TS/To ORDER/snippets/data/add-prop-conditionally-to-object.md"
     },
@@ -177,10 +185,6 @@
       "path": "Three.js/Data/Transform Object.md"
     },
     {
-      "basename": "Stuff",
-      "path": "Stuff.md"
-    },
-    {
       "basename": "Textures",
       "path": "Three.js/Data/Textures.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Debug UI",
       "path": "Three.js/Data/Debug UI.md"
-    },
-    {
-      "basename": "Cameras",
-      "path": "Three.js/Data/Cameras.md"
     }
   ],
   "omittedPaths": [],

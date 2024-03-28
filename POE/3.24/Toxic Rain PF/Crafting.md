@@ -104,6 +104,24 @@ Life + Resistances + _NON-CHANNELLING SKILLS HAVE # TO TOTAL MANA COST_
 
 ## Helmet
 
+LION PELT
+
 ### Low Budget
 
 Life + Resistances + _# to Level of Socketed AoE Cems, #% increased Area of Effect_
+
+### Mid
+
+- [ ] LION PELT _Lvl85_
+- [ ] Fracture Tier1 Life
+- [ ] _Loathing essence_ spam untile suffix are fine
+- [ ] Suffix cannot be changed + Veiled chaos for _# to Level of Socketed AoE Cems, #% increased Area of Effect_
+  - Note just craft _# to Level of Socketed AoE Cems, #% increased Area of Effect_ if broken
+- [ ] craft _#% of Physical Damage from Hits taken as Fire Damage Element_
+
+#### Implicit
+
+_#% OF PHYSICAL DAMAGE FROM HITS TAKEN AS LIGHTNING DAMAGE_
+_#% REDUCED MANA COST OF ATTACKS_
+
+## 

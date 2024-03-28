@@ -7,6 +7,16 @@ mechanic base on contacts, rouge's markers and blue prints
 
 the reward in contracts don't change with the rarity, you can run the contract white. Make a contract rare just make monsters drop more consistent but not afflicts chest s in the heist
 
+## Before Kitava strat
+
+Contract Regex in order to by and run
+
+```
+Lockpi|Percep|Demo
+```
+
+get to act 6 and every level up go to contract vendor and pick up contracts with that regex, question mark chest are the more rewarding and appear just if you dont kill Kitava because those chest are specific league chests and before mapping loot inside are replaced wit random currency
+
 ## Contracts
 
 | Contract                     | Description                         |
@@ -52,5 +62,6 @@ Important stats to roll
 
 - Reveals wings - Just with Gianna discounts
 - Assign rouges to wings select always different Lvl5 rouges (not use same rouge if possible on the same triplete of rogues, use same rouge on different location with no problem)
+- get your Trinket
 
-## Trinket
+---

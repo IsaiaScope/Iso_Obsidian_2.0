@@ -52,4 +52,58 @@ AGATE AMULET
 
 ### Low Budget
 
+Life + Resistances + _- Non-Channelling Skills have # to Total Mana Cost Mana_
 
+### Mid Budget (+1)
+
+- [ ] AGATE AMULET _Lvl82_ for _#% TO DAMAGE OVER TIME MULTIPLIER_
+- [ ] _#% TO DAMAGE OVER TIME MULTIPLIER_ _chaos orb_ spam or just _buy one on the market_
+- [ ] _Make sure to have full SUFFIXES_ and craft SUFFIXES CANNOT BE CHANGED
+- [ ] _Harvest reforge a rare item with chaos_ to grantee _+1 to Level of all Chaos Skill Gems_ prefix
+- [ ] Now to fill prefixes can craft mana + exalted slam or just craft _- Non-Channelling Skills have # to Total Mana Cost Mana_ if only one prefix is open
+
+### End Budget (+2)
+
+- [ ] AGATE AMULET _Lvl82_ for _#% TO DAMAGE OVER TIME MULTIPLIER_
+- [ ] _#% TO DAMAGE OVER TIME MULTIPLIER_ fracture 23% or more
+- [ ] _Alteration_ spam for _+1 to Level of all Skill Gems_ (~2500 Alteration... very tedious)
+- [ ] [YT Guide](https://youtu.be/327_qVnPOq8?si=VQsC7LAaR9p2T4rK&t=2401)
+
+## Belt
+
+HEAVY BELT/LEATHER BELT/STYGIAN VISE + Life + Resistances
+
+### Low/Mid Budget
+
+- [ ] HEAVY BELT/LEATHER BELT/STYGIAN VISE _Lvl82_
+- [ ] Life + Resistances with
+- [ ] _#% reduced Flask Charges used_ or _#% increased Flask Charges gained_
+  - _NOTE_ cannot have both on the same time
+- [ ] craft prefix _#% reduced Flask Charges gained, Flasks applied to you have #% increased Effect_
+
+### End Game
+
+Headhunter or Mage-blood
+
+## Rings
+
+### Low Budget
+
+Life + Resistances + _NON-CHANNELLING SKILLS HAVE # TO TOTAL MANA COST_
+
+### Mid (Dispare on hit ring)
+
+- [ ] Amethyst Ring _Lvl84_ for T1 Resistances
+- [ ] Hunter exalted orb slam
+- [ ] Harvest reforge _caster_
+- [ ] open prefix for craft + _NON-CHANNELLING SKILLS HAVE # TO TOTAL MANA COST_
+
+### End Budget
+
+[YT Guide](https://youtu.be/327_qVnPOq8?si=LPsK8HKar9X0Zs8a&t=4208)
+
+## Helmet
+
+### Low Budget
+
+Life + Resistances + _# to Level of Socketed AoE Cems, #% increased Area of Effect_

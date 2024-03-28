@@ -56,6 +56,7 @@ Important stats to roll
 - +1 TO LOCKPICKING(specific for rouge job) LEVEL FOR HEISTS
 - +1 TO LEVEL OF ALL JOBS FOR HEISTS
 - #% CHANCE TO NOT ACTIVATE LOCKDOWN IN GRAND HEISTS
+- #% INCREASED ROGUE'S MARKER VALUE OF PRIMARY HEIST TARGET (means more coins when selling contracts end loot)
 
 #### Crafting gear
 

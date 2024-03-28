@@ -55,6 +55,12 @@ Important stats to roll
 - INCREASED JOB SPEED
 - +1 TO LOCKPICKING(specific for rouge job) LEVEL FOR HEISTS
 - +1 TO LEVEL OF ALL JOBS FOR HEISTS
+- #% CHANCE TO NOT ACTIVATE LOCKDOWN IN GRAND HEISTS
+
+#### Crafting gear
+
+Harvest reforge speed for INCREASED JOB SPEED on weapons for example
+Note not all pieces gear can roll job speed
 
 ---
 

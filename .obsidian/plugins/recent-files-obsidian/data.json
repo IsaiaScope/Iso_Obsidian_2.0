@@ -5,6 +5,18 @@
       "path": "POE/Heist/Documentation.md"
     },
     {
+      "basename": "Heist Rogues Gear",
+      "path": "POE/Heist/Heist Rogues Gear.jpg"
+    },
+    {
+      "basename": "Contracts Description",
+      "path": "POE/Heist/Contracts Description.png"
+    },
+    {
+      "basename": "Contracts Reward",
+      "path": "POE/Heist/Contracts Reward.jpg"
+    },
+    {
       "basename": "Crafting",
       "path": "POE/3.24/Toxic Rain PF/Crafting.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "2024-W09",
       "path": "Periodic Notes/Weekly Notes/2024-W09.md"
-    },
-    {
-      "basename": "Transform Object",
-      "path": "Three.js/Data/Transform Object.md"
-    },
-    {
-      "basename": "Textures",
-      "path": "Three.js/Data/Textures.md"
-    },
-    {
-      "basename": "Geometries",
-      "path": "Three.js/Data/Geometries.md"
     }
   ],
   "omittedPaths": [],

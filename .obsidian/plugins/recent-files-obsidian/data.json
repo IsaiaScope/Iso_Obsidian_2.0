@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Crafting",
+      "path": "POE/3.24/Toxic Rain PF/Crafting.md"
+    },
+    {
       "basename": "2024-W13",
       "path": "Periodic Notes/Weekly Notes/2024-W13.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Fullscreen and resizing",
       "path": "Three.js/Data/Fullscreen and resizing.md"
-    },
-    {
-      "basename": "Debug UI",
-      "path": "Three.js/Data/Debug UI.md"
     }
   ],
   "omittedPaths": [],

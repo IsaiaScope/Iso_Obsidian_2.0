@@ -47,6 +47,10 @@ Important stats to roll
 - +1 TO LEVEL OF ALL JOBS FOR HEISTS
 
 ---
+
 ## Blueprints
+
+- Reveals wings - Just with Gianna discounts
+- Assign rouges to wings select always different Lvl5 rouges (not use same rouge if possible on the same triplete of rogues, use same rouge on different location with no problem)
 
 ## Trinket

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Crafting",
+      "path": "POE/3.24/Toxic Rain PF/Crafting.md"
+    },
+    {
+      "basename": "Documentation",
+      "path": "POE/Heist/Documentation.md"
+    },
+    {
+      "basename": "Documentation",
+      "path": "POE/Lab/Documentation.md"
+    },
+    {
       "basename": "Documentation",
       "path": "POE/Betrayal/Documentation.md"
     },
@@ -13,10 +25,6 @@
       "path": "POE/Heist/Contracts Reward.jpg"
     },
     {
-      "basename": "Documentation",
-      "path": "POE/Heist/Documentation.md"
-    },
-    {
       "basename": "Stuff",
       "path": "Stuff.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "Contracts Description",
       "path": "POE/Heist/Contracts Description.png"
-    },
-    {
-      "basename": "Crafting",
-      "path": "POE/3.24/Toxic Rain PF/Crafting.md"
     },
     {
       "basename": "2024-W13",

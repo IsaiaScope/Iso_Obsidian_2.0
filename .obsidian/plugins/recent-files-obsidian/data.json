@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Betrayal Sheet",
-      "path": "POE/Betrayal/Betrayal Sheet.jpeg"
-    },
-    {
       "basename": "Documentation",
       "path": "POE/Betrayal/Documentation.md"
+    },
+    {
+      "basename": "Cheat Sheet",
+      "path": "POE/Betrayal/Cheat Sheet.png"
+    },
+    {
+      "basename": "Contracts Reward",
+      "path": "POE/Heist/Contracts Reward.jpg"
+    },
+    {
+      "basename": "Betrayal Sheet",
+      "path": "POE/Betrayal/Betrayal Sheet.jpeg"
     },
     {
       "basename": "Documentation",
@@ -15,10 +23,6 @@
     {
       "basename": "Stuff",
       "path": "Stuff.md"
-    },
-    {
-      "basename": "Contracts Reward",
-      "path": "POE/Heist/Contracts Reward.jpg"
     },
     {
       "basename": "Heist Rogues Gear",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20240308073040",
       "path": "Test/Jest/Images/Pasted image 20240308073040.png"
-    },
-    {
-      "basename": "Pasted image 20240308072647",
-      "path": "Test/Jest/Images/Pasted image 20240308072647.png"
     }
   ],
   "omittedPaths": [],

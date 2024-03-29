@@ -7,8 +7,14 @@
 - Yellow lines connection means they work together on the same job and nothing else
 - Rivals (red lines) means that are rival and is more likely that are gonna trying killing other out joining the fight
 - Trusted (green lines) means that are trusted and is more likely that are gonna help each other out joining the fight
-- _Practically red lines & green lines are good because make more people spawn_  so DO NOT REMOVE RIVALS/TRUSTED
+- _Practically red lines & green lines are good because make more people spawn_ so DO NOT REMOVE RIVALS/TRUSTED
 
 ## Safehouse
 
+- Never set unused
 
+## Cheat Sheet Generator
+
+[customCheatsheet](https://pathofexile.elrincondelexiliado.com/syndicate/?customCheatsheet=%5B1%2C2%2C1%2C2%2C3%2C3%2C1%2C1%2C2%2C2%2C2%2C2%2C2%2C2%2C1%2C2%2C2%2C0%2C0%2C2%2C2%2C3%2C2%2C3%2C3%2C1%2C2%2C2%2C3%2C2%2C1%2C2%2C3%2C3%2C3%2C2%2C0%2C2%2C2%2C3%2C2%2C3%2C3%2C1%2C2%2C2%2C3%2C2%2C2%2C2%2C2%2C3%2C3%2C3%2C0%2C1%2C2%2C3%2C3%2C3%2C3%2C2%2C2%2C2%2C1%2C2%2C2%2C2%2C2%2C1%2C2%2C1%2C0%2C1%2C1%2C1%2C1%2C3%2C1%2C1%2C1%2C1%2C1%2C1%2C1%2C1%2C1%2C1%2C1%2C1%5D)
+
+---

@@ -5,6 +5,10 @@
       "path": "POE/Heist/Documentation.md"
     },
     {
+      "basename": "Stuff",
+      "path": "Stuff.md"
+    },
+    {
       "basename": "Contracts Reward",
       "path": "POE/Heist/Contracts Reward.jpg"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "2024-W13",
       "path": "Periodic Notes/Weekly Notes/2024-W13.md"
-    },
-    {
-      "basename": "Stuff",
-      "path": "Stuff.md"
     },
     {
       "basename": "Short-cuts",

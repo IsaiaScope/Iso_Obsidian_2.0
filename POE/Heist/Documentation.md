@@ -19,9 +19,22 @@ get to act 6 and every level up go to contract vendor and pick up contracts with
 
 ## Contracts
 
+In order
+Run Gianna contracts for bluebrint discount
+
+```
+deception|percep|cunter
+```
+
+```
+engi|priceless
+```
+
 | Contract                     | Description                         |
 | ---------------------------- | ----------------------------------- |
 | Deception (Best ones by far) | No door on exit and involved Gianna |
+| perception                   |                                     |
+|                              |                                     |
 
 ---
 

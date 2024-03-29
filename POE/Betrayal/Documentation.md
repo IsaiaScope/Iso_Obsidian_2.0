@@ -8,10 +8,11 @@
 - Rivals (red lines) means that are rival and is more likely that are gonna trying killing other out joining the fight
 - Trusted (green lines) means that are trusted and is more likely that are gonna help each other out joining the fight
 - _Practically red lines & green lines are good because make more people spawn_ so DO NOT REMOVE RIVALS/TRUSTED
+- items on NPCs make them strong; hover on them to see the addition stat granted
 
 ## Safehouse
 
-- Never set unused
+- Never set unused because can possible to lose access if you fail next encounter
 
 ## Cheat Sheet Generator
 

@@ -33,8 +33,6 @@ engi|priceless
 | Contract                     | Description                         |
 | ---------------------------- | ----------------------------------- |
 | Deception (Best ones by far) | No door on exit and involved Gianna |
-| perception                   |                                     |
-|                              |                                     |
 
 ---
 

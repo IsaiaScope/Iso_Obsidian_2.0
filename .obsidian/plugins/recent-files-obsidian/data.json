@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Betrayal Sheet",
+      "path": "POE/Betrayal/Betrayal Sheet.jpeg"
+    },
+    {
       "basename": "Documentation",
       "path": "POE/Betrayal/Documentation.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20240308072647",
       "path": "Test/Jest/Images/Pasted image 20240308072647.png"
-    },
-    {
-      "basename": "2024-W10",
-      "path": "Periodic Notes/Weekly Notes/2024-W10.md"
     }
   ],
   "omittedPaths": [],

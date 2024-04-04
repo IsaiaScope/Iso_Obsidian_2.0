@@ -5,8 +5,16 @@
       "path": "Periodic Notes/Weekly Notes/2024-W14.md"
     },
     {
+      "basename": "git stash",
+      "path": "Git and GitHub/Git/Prompt/git stash.md"
+    },
+    {
       "basename": "Crafting",
       "path": "POE/3.24/Toxic Rain PF/Crafting.md"
+    },
+    {
+      "basename": "Contracts Reward",
+      "path": "POE/Heist/Contracts Reward.jpg"
     },
     {
       "basename": "Documentation",
@@ -23,10 +31,6 @@
     {
       "basename": "Cheat Sheet",
       "path": "POE/Betrayal/Cheat Sheet.png"
-    },
-    {
-      "basename": "Contracts Reward",
-      "path": "POE/Heist/Contracts Reward.jpg"
     },
     {
       "basename": "Stuff",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20240308073427",
       "path": "Test/Jest/Images/Pasted image 20240308073427.png"
-    },
-    {
-      "basename": "Pasted image 20240308073131",
-      "path": "Test/Jest/Images/Pasted image 20240308073131.png"
     }
   ],
   "omittedPaths": [],

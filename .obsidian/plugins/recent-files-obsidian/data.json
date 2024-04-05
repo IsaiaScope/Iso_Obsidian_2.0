@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Theory",
+      "path": "Players/Theory.md"
+    },
+    {
       "basename": "2024-W14",
       "path": "Periodic Notes/Weekly Notes/2024-W14.md"
     },
@@ -9,16 +13,16 @@
       "path": "VS Code/Data/Shortcuts VS Code.md"
     },
     {
+      "basename": "Crafting",
+      "path": "POE/3.24/Toxic Rain PF/Crafting.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "VS Code/Dashboard.md"
     },
     {
       "basename": "git stash",
       "path": "Git and GitHub/Git/Prompt/git stash.md"
-    },
-    {
-      "basename": "Crafting",
-      "path": "POE/3.24/Toxic Rain PF/Crafting.md"
     },
     {
       "basename": "Contracts Reward",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20240308074716",
       "path": "Test/Jest/Images/Pasted image 20240308074716.png"
-    },
-    {
-      "basename": "Pasted image 20240308074039",
-      "path": "Test/Jest/Images/Pasted image 20240308074039.png"
     }
   ],
   "omittedPaths": [],

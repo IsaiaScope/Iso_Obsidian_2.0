@@ -21,18 +21,17 @@ build/install-linux-prereqs.sh
 
 - [ ] The custom build involved 3 files on dds-repository-libs-shaka
 
-  - build/dds (folder with custom business logic to add)
-  - types/dds (for saying witch js files include and exclude from the build)
+  - dds (folder with custom business logic to add)
+  - build/types/dds (for saying witch js files include and exclude from the build)
     - /ui/language_utils.js (the original from shaka repo is removed)
     - /dds/language_utils.js (our custom one is added)
 
 - [ ] In shaka-player repo project copy `types/dds` and `build/dds`
-- [ ] than update `dds/language_utils.js` with `ui/language_utils.js` but make sure to override the part of language mapping; we need to replace `mozilla.LanguageMapping` with `shaka.ui.LanguageMapping` and use that instance instead the mozilla one
+- [ ] Than update `dds/language_utils.js` with `ui/language_utils.js` but make sure to override the part of language mapping; we need to replace `mozilla.LanguageMapping` with `shaka.ui.LanguageMapping` and use that instance instead the mozilla one
 
 ```js
   goog.require('shaka.ui.LanguageMapping');
   ....
-
 
   static getLanguageName(locale, localization) {
 	const language = shaka.util.LanguageUtils.getBase(locale);
@@ -51,33 +50,38 @@ build/install-linux-prereqs.sh
   }
 ```
 
-- [ ]
-- [ ] shaka-player.dds
+- [ ] Now we are ready to build the code, place yourself on shaka-player repo project and launch
 
-la build la trovi in 'shaka-player/dist/shaka-player.ui.debug'
+```bash
+build/build.py +@dds --force --mode release --name dds
+```
 
----
+- [ ] A new file will be generate _dist/shaka-player.dds.js_ thats containt our _shaka build_ (note: those files are hide by git ignore so don't show for commit)
+- [ ] Copy that wherever you want
 
-build @complete, per aggiungere file alla build dds-repository-libs-shaka/build/types agggiungere un file li, puoi omettere e aggiungere roba
-nel file complete configurare la build
-|3|+@ads|
-|4|+@cast|
-|5|+@fairplay|
-|6|+@networking|
-|7|+@manifests|
-|8|+@polyfill|
-|9|+@text|
-|10|+@ui|
+### Note
 
-per esempio in ads importo tutti i file che mi servono per la pubblicità e li posso modificare e aggiungere il mio file che mi serve o voglio sovrascirvere
-build/build.py +@dds --force --mode release --name dds nella folder dds read me
+build/types/complete holds the build configuration and make possible to customize the build.
 
----
+```
++@ads
++@cast
++@fairplay
++@networking
++@manifests
++@polyfill
++@text
++@ui
+```
 
-goog.provide('shaka.cast.CastProxy'); export
-goog.require('shaka.Player'); import
-quando i moduli non era supportato
+for example `ads` imports all file needed for advertising with the possibility to add or remove files with plus or minus sign
 
-@privare vuole dire veramente che è privato e inaccessibile
+#### Our custom command
+
+create a @complete build because build/types/dds holds build/types/complete and rename the build with dds inside: `shaka-player.dds.js`
+
+```
+build/build.py +@dds --force --mode release --name dds
+```
 
 ---

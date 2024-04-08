@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Theory",
+      "path": "Players/Theory.md"
+    },
+    {
       "basename": "Upgrade shaka-player",
       "path": "Players/Upgrade shaka-player.md"
+    },
+    {
+      "basename": "Testing Shaka build",
+      "path": "Players/Testing Shaka build.md"
     },
     {
       "basename": "Create Linux environment",
       "path": "Players/Create Linux environment.md"
     },
     {
-      "basename": "Theory",
-      "path": "Players/Theory.md"
+      "basename": "Crafting",
+      "path": "POE/3.24/Toxic Rain PF/Crafting.md"
     },
     {
       "basename": "2024-W14",
@@ -19,10 +27,6 @@
     {
       "basename": "Conflic-Obsidian",
       "path": "Conflic-Obsidian.md"
-    },
-    {
-      "basename": "Crafting",
-      "path": "POE/3.24/Toxic Rain PF/Crafting.md"
     },
     {
       "basename": "Short-cuts",

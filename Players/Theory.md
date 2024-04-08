@@ -3,15 +3,27 @@ tags:
 - players
 ---
 
+> sorry for italian hard topic needs hard time
+
 # Theory
 
-| Concept  | Description/Link |
-| -------- | ---------------- |
-| DRM      |                  |
-| manifest |                  |
-| captions/subtitles         |                  |
+| Concept            | Description/Link |
+| ------------------ | ---------------- |
+| DRM                |                  |
+| manifest           |                  |
+| captions/subtitles |                  |
 
 ##
+
+goog.provide('shaka.cast.CastProxy'); export
+goog.require('shaka.Player'); import
+quando i moduli non era supportato
+
+@privare vuole dire veramente che è privato e inaccessibile
+
+---
+
+---
 
 DRM - digital right magement - gestisce i diritti e crittografa i chunk e la crittografazione avviene tipo con irdeto, comecast, castlab (azienda cje ti permette di fare la crittografia dei chunk) e in base alla configurazione che ti danno devi configurare il player per avere la gestione del drm
 drm per shaka e antri player sono:
@@ -131,7 +143,6 @@ chrome può usare sia m3u8 che dash verificare che il player usa muxjs per usare
 ```
 
 ---
-
 
 sottotitoli wvtt verificare DDSTextDisplayer sono supportati e se i colori si vedono bene i colori sono una specie di sottitoli che usano hmtl
 locals.js è un import di shaka che è una lista enorme di latino e english per i sottotitoli e se non è una di queste lingue non sivedono bene i sottotitoli quindi in +../../dds/language_mapping.js che permette di aggiungere alla lista queste label

@@ -1,0 +1,115 @@
+---
+tags:
+---
+
+# Create environment
+
+## Install Linux
+
+> download _Debian_ or Ubuntu from windows store
+
+move to C disk after user creation
+
+```bash
+cd /mnt/c
+```
+
+move to folder project
+
+```bash
+cd Users/isaia.riva/Desktop/op/shaka-player
+```
+
+```bash
+cd Users/isaia.riva/Documents/Workspace/Filmbank/dds-repository-libs-shaka
+```
+
+install dependencies
+
+```bash
+npm i
+```
+
+lists update where packages are taken
+
+```bash
+sudo apt update
+```
+
+package contents upgrade
+
+```bash
+sudo apt upgrade
+```
+
+In case of new environment maybe some dependencies are needed
+make sure that git is installed like on you machine
+
+```bash
+sudo apt install curl
+
+```
+
+```bash
+sudo apt-get install python3
+```
+
+build/install-linux-prereqs.sh => to launch a file basta andare sullo script di definizione
+sudo apt-get install python3 => install python package
+se hai un problema con python modificare aggiungendo 3 a 'sudo apt -y install git python3 default-jre-headless apache2' in build/install-linux-prereqs.sh
+sudo apt install curl
+
+se c'è tipo problemi come
+
+However the following packages replace it:
+python-is-python3
+E: Package 'python-minimal' has no installation candidate
+
+The following packages have unmet dependencies:
+nodejs : Depends: python-minimal but it is not installable
+E: Unmet dependencies. Try 'apt --fix-broken install' with no packages (or specify a solution).
+
+usa
+sudo apt --fix-broken install
+
+build/install-linux-prereqs.sh per verificare i prereq for la build
+la build la trovi in 'shaka-player/dist/shaka-player.ui.debug'
+
+---
+
+sottotitoli wvtt verificare DDSTextDisplayer sono supportati e se i colori si vedono bene i colori sono una specie di sottitoli che usano hmtl
+locals.js è un import di shaka che è una lista enorme di latino e english per i sottotitoli e se non è una di queste lingue non sivedono bene i sottotitoli quindi in +../../dds/language_mapping.js che permette di aggiungere alla lista queste label
+vedere come aggiungere queste voci da documentazione se è possibile
+
+Configuring text displayer -> wvtt perchè colori e html devono essere rispettati
+e aggiungere lingue in più
+
+custom build di shaka => example dds-repository-libs-shaka di filmbank
+build @complete, per aggiungere file alla build dds-repository-libs-shaka/build/types agggiungere un file li, puoi omettere e aggiungere roba
+nel file complete configurare la build
+|3|+@ads|
+|4|+@cast|
+|5|+@fairplay|
+|6|+@networking|
+|7|+@manifests|
+|8|+@polyfill|
+|9|+@text|
+|10|+@ui|
+
+per esempio in ads importo tutti i file che mi servono per la pubblicità e li posso modificare e aggiungere il mio file che mi serve o voglio sovrascirvere
+build/build.py +@dds --force --mode release --name dds nella folder dds read me
+
+copy dds folder in build
+copy dds file in types
+
+shaka-player.dds
+
+---
+
+goog.provide('shaka.cast.CastProxy'); export
+goog.require('shaka.Player'); import
+quando i moduli non era supportato
+
+@privare vuole dire veramente che è privato e inaccessibile
+
+---

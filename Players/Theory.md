@@ -5,6 +5,14 @@ tags:
 
 # Theory
 
+| Concept  | Description/Link |
+| -------- | ---------------- |
+| DRM      |                  |
+| manifest |                  |
+| captions/subtitles         |                  |
+
+##
+
 DRM - digital right magement - gestisce i diritti e crittografa i chunk e la crittografazione avviene tipo con irdeto, comecast, castlab (azienda cje ti permette di fare la crittografia dei chunk) e in base alla configurazione che ti danno devi configurare il player per avere la gestione del drm
 drm per shaka e antri player sono:
 widewine - per tutti non va su safari

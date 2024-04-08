@@ -9,12 +9,16 @@
       "path": "Players/Theory.md"
     },
     {
-      "basename": "Shortcuts VS Code",
-      "path": "VS Code/Data/Shortcuts VS Code.md"
-    },
-    {
       "basename": "Crafting",
       "path": "POE/3.24/Toxic Rain PF/Crafting.md"
+    },
+    {
+      "basename": "git remote",
+      "path": "Git and GitHub/GitHub/Prompt/git remote.md"
+    },
+    {
+      "basename": "Shortcuts VS Code",
+      "path": "VS Code/Data/Shortcuts VS Code.md"
     },
     {
       "basename": "Dashboard",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20240311130950",
       "path": "Test/Jest/Images/Pasted image 20240311130950.png"
-    },
-    {
-      "basename": "Pasted image 20240308074716",
-      "path": "Test/Jest/Images/Pasted image 20240308074716.png"
     }
   ],
   "omittedPaths": [],

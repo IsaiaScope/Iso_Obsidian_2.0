@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Create environment",
-      "path": "Players/Create environment.md"
+      "basename": "Upgrade shaka-player",
+      "path": "Players/Upgrade shaka-player.md"
+    },
+    {
+      "basename": "Create Linux environment",
+      "path": "Players/Create Linux environment.md"
+    },
+    {
+      "basename": "Theory",
+      "path": "Players/Theory.md"
     },
     {
       "basename": "2024-W14",
@@ -11,10 +19,6 @@
     {
       "basename": "Conflic-Obsidian",
       "path": "Conflic-Obsidian.md"
-    },
-    {
-      "basename": "Theory",
-      "path": "Players/Theory.md"
     },
     {
       "basename": "Crafting",
@@ -27,14 +31,6 @@
     {
       "basename": "Stuff",
       "path": "Stuff.md"
-    },
-    {
-      "basename": "Filmbank Update",
-      "path": "Players/Filmbank Update.md"
-    },
-    {
-      "basename": "Upgrade shaka-player",
-      "path": "Players/Upgrade shaka-player.md"
     },
     {
       "basename": "git remote",

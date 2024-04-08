@@ -30,62 +30,28 @@ build/install-linux-prereqs.sh
 - [ ] than update `dds/language_utils.js` with `ui/language_utils.js` but make sure to override the part of language mapping; we need to replace `mozilla.LanguageMapping` with `shaka.ui.LanguageMapping` and use that instance instead the mozilla one
 
 ```js
+  goog.require('shaka.ui.LanguageMapping');
+  ....
+
+
   static getLanguageName(locale, localization) {
-    if (!locale && !localization) {
-      return '';
-    }
-  
-    // Shorthand for resolving a localization ID.
-    const resolve = (id) => localization.resolve(id);
-
-    // Handle some special cases first.  These are reserved language tags that
-    // are used to indicate something that isn't one specific language.
-    switch (locale) {
-      case 'mul':
-        return resolve(shaka.ui.Locales.Ids.MULTIPLE_LANGUAGES);
-      case 'und':
-        return resolve(shaka.ui.Locales.Ids.UNDETERMINED_LANGUAGE);
-      case 'zxx':
-        return resolve(shaka.ui.Locales.Ids.NOT_APPLICABLE);
-    }
-
-    // Extract the base language from the locale as a fallback step.
-    const language = shaka.util.LanguageUtils.getBase(locale);
+	const language = shaka.util.LanguageUtils.getBase(locale);
     const languageMapping = new shaka.ui.LanguageMapping();
     const languageMap = languageMapping.getMap();
-    // First try to resolve the full language name.
-    // If that fails, try the base.
-
-    // Finally, report "unknown".
-
-    // When there is a loss of specificity (either to a base language or to
-
-    // "unknown"), we should append the original language code.
-
-    // Otherwise, there may be multiple identical-looking items in the list.
 
     if (locale in languageMap) {
-
       return languageMap[locale].nativeName;
-
     } else if (language in languageMap) {
-
       return languageMap[language].nativeName +
-
           ' (' + locale + ')';
-
     } else {
-
       return resolve(shaka.ui.Locales.Ids.UNRECOGNIZED_LANGUAGE) +
-
           ' (' + locale + ')';
-
     }
-
   }
-
 ```
-- [ ] 
+
+- [ ]
 - [ ] shaka-player.dds
 
 la build la trovi in 'shaka-player/dist/shaka-player.ui.debug'

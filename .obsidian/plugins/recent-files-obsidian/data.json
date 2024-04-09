@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Theory",
-      "path": "Players/Theory.md"
+      "basename": "Shortcuts VS Code",
+      "path": "VS Code/Data/Shortcuts VS Code.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "VS Code/Dashboard.md"
     },
     {
       "basename": "Upgrade shaka-player",
       "path": "Players/Upgrade shaka-player.md"
+    },
+    {
+      "basename": "Theory",
+      "path": "Players/Theory.md"
     },
     {
       "basename": "Testing Shaka build",
@@ -39,14 +47,6 @@
     {
       "basename": "git remote",
       "path": "Git and GitHub/GitHub/Prompt/git remote.md"
-    },
-    {
-      "basename": "Shortcuts VS Code",
-      "path": "VS Code/Data/Shortcuts VS Code.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "VS Code/Dashboard.md"
     },
     {
       "basename": "git stash",

@@ -22,6 +22,7 @@ tags:
 `ctrl + enter` to _open to the side_
 
 `shift+alt+u` => close all group tab [CUSTOM]
+`ctrl + tab` => see all open tabs open on the current group
 
 ## Primary Sidebar
 

@@ -61,3 +61,17 @@ option(great)
 
 
 ```
+
+```meta-bind
+
+style: primary
+
+label: Meta Bind Help
+
+action:
+
+type: command
+
+command: obsidian-meta-bind-plugin:open-faq
+
+```

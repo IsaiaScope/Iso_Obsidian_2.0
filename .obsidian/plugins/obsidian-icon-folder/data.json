@@ -25,7 +25,9 @@
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
-    "iconIdentifier": ":"
+    "iconIdentifier": ":",
+    "iconsInLinksEnabled": true,
+    "debugMode": false
   },
   "Obsidian Tutorial": "SiObsidian",
   "Obsidian Tutorial/Data": "TiDatabase",

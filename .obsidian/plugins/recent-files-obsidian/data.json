@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-W14",
+      "path": "Periodic Notes/Weekly Notes/2024-W14.md"
+    },
+    {
       "basename": "Weekly Note Templates",
       "path": "Periodic Notes/Templates/Weekly Note Templates.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Theory",
       "path": "Players/Theory.md"
-    },
-    {
-      "basename": "2024-W14",
-      "path": "Periodic Notes/Weekly Notes/2024-W14.md"
     },
     {
       "basename": "Testing Shaka build",

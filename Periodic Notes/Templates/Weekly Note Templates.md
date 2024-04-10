@@ -1,46 +1,11 @@
----
-completed: true
-bind_target: 52
-rating: bad
-FilmBank:
-  - bad
-FilmBankProjects:
-  - 02:00
-  - ok
-  - bad
-  - great
-  - good
----
-
 # Todos For {{title}}
 
 ## FilmBank [JIRA](https://fincons.atlassian.net/jira/software/projects/DDS/boards/9/timeline)
 
-```meta-bind
-
-INPUT[multiSelect(
-
-option(trash),
-
-option(bad),
-
-option(ok),
-
-option(good),
-
-option(great)
-
-):FilmBankProjects]
-
-```
-
-```meta-bind
-
-INPUT[time:FilmBankProjects]
-
-```
-
----
+- iframeplayer
+- wordpress
+- adminportal
+- downloadmanager
 
 |                     DONE                      | Ticket | Project | Desc |
 | :-------------------------------------------: | :----: | ------- | :--: |
@@ -55,6 +20,9 @@ INPUT[time:FilmBankProjects]
 ---
 
 ## RTE [JIRA](https://ott-jira.finconsgroup.com/secure/RapidBoard.jspa?rapidView=1&projectKey=RTEBB&view=planning.nodetail&quickFilter=1)
+
+- web
+- chromecast
 
 |                     DONE                      | Ticket | Project | Desc |
 | :-------------------------------------------: | :----: | ------- | :--: |

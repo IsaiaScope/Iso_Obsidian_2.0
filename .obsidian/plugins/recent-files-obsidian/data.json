@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Weekly Note Templates",
+      "path": "Periodic Notes/Templates/Weekly Note Templates.md"
+    },
+    {
       "basename": "2024-W14",
       "path": "Periodic Notes/Weekly Notes/2024-W14.md"
+    },
+    {
+      "basename": "Theory",
+      "path": "Players/Theory.md"
+    },
+    {
+      "basename": "Testing Shaka build",
+      "path": "Players/Testing Shaka build.md"
+    },
+    {
+      "basename": "Template Method",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Template Method.md"
+    },
+    {
+      "basename": "Daily Note Templates",
+      "path": "Periodic Notes/Templates/Daily Note Templates.md"
     },
     {
       "basename": "Crafting",
@@ -19,14 +39,6 @@
     {
       "basename": "Upgrade shaka-player",
       "path": "Players/Upgrade shaka-player.md"
-    },
-    {
-      "basename": "Theory",
-      "path": "Players/Theory.md"
-    },
-    {
-      "basename": "Testing Shaka build",
-      "path": "Players/Testing Shaka build.md"
     },
     {
       "basename": "Create Linux environment",
@@ -187,18 +199,6 @@
     {
       "basename": "Pasted image 20240313100706",
       "path": "Test/Jest/Images/Pasted image 20240313100706.png"
-    },
-    {
-      "basename": "Pasted image 20240313100524",
-      "path": "Test/Jest/Images/Pasted image 20240313100524.png"
-    },
-    {
-      "basename": "Pasted image 20240313082921",
-      "path": "Test/Jest/Images/Pasted image 20240313082921.png"
-    },
-    {
-      "basename": "Pasted image 20240313082816",
-      "path": "Test/Jest/Images/Pasted image 20240313082816.png"
     }
   ],
   "omittedPaths": [],

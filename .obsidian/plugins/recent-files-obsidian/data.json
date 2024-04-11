@@ -1,32 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-W14",
-      "path": "Periodic Notes/Weekly Notes/2024-W14.md"
-    },
-    {
-      "basename": "Weekly Note Templates",
-      "path": "Periodic Notes/Templates/Weekly Note Templates.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "Markdown/Obsidian.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Obsidian Tutorial/Dashboard.md"
+      "basename": "Theory",
+      "path": "Players/Theory.md"
     },
     {
       "basename": "Shortcuts VS Code",
       "path": "VS Code/Data/Shortcuts VS Code.md"
     },
     {
-      "basename": "Theory",
-      "path": "Players/Theory.md"
+      "basename": "2024-W14",
+      "path": "Periodic Notes/Weekly Notes/2024-W14.md"
+    },
+    {
+      "basename": "Upgrade shaka-player",
+      "path": "Players/Upgrade shaka-player.md"
     },
     {
       "basename": "Testing Shaka build",
       "path": "Players/Testing Shaka build.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Markdown/Obsidian.md"
+    },
+    {
+      "basename": "Weekly Note Templates",
+      "path": "Periodic Notes/Templates/Weekly Note Templates.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Obsidian Tutorial/Dashboard.md"
     },
     {
       "basename": "Template Method",
@@ -43,10 +47,6 @@
     {
       "basename": "Dashboard",
       "path": "VS Code/Dashboard.md"
-    },
-    {
-      "basename": "Upgrade shaka-player",
-      "path": "Players/Upgrade shaka-player.md"
     },
     {
       "basename": "Create Linux environment",

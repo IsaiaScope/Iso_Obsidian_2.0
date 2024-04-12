@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-W15",
+      "path": "Periodic Notes/Weekly Notes/2024-W15.md"
+    },
+    {
+      "basename": "2024-W14",
+      "path": "Periodic Notes/Weekly Notes/2024-W14.md"
+    },
+    {
       "basename": "Theory",
       "path": "Players/Theory.md"
     },
     {
       "basename": "Shortcuts VS Code",
       "path": "VS Code/Data/Shortcuts VS Code.md"
-    },
-    {
-      "basename": "2024-W14",
-      "path": "Periodic Notes/Weekly Notes/2024-W14.md"
     },
     {
       "basename": "Upgrade shaka-player",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20240315115535",
       "path": "Test/Jest/Images/Pasted image 20240315115535.png"
-    },
-    {
-      "basename": "Pasted image 20240313100752",
-      "path": "Test/Jest/Images/Pasted image 20240313100752.png"
     }
   ],
   "omittedPaths": [],

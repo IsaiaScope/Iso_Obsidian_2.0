@@ -12,7 +12,7 @@
 - downloadmanager
 
 |                     DONE                      | Level | Ticket | Project | Desc |
-| :-------------------------------------------: | :---: | :----: | ------- | :--: |
+| :-------------------------------------------: | :---: | :----: | :-----: | :--: |
 | <input type="checkbox" unchecked id="b5a2b9"> |       |  []()  |         |      |
 
 ### More FilmBank Task Description
@@ -29,7 +29,7 @@
 - chromecast
 
 |                     DONE                      | Level | Ticket | Project | Desc |
-| :-------------------------------------------: | :---: | :----: | ------- | :--: |
+| :-------------------------------------------: | :---: | :----: | :-----: | :--: |
 | <input type="checkbox" unchecked id="64f445"> |       |  []()  |         |      |
 
 ### More RTE Task Description
@@ -43,7 +43,7 @@
 ## Mediaset
 
 |                     DONE                      | Level | Ticket | Project | Desc |
-| :-------------------------------------------: | :---: | :----: | ------- | :--: |
+| :-------------------------------------------: | :---: | :----: | :-----: | :--: |
 | <input type="checkbox" unchecked id="23647e"> |       |  []()  |         |      |
 
 ### More Mediaset Task Description

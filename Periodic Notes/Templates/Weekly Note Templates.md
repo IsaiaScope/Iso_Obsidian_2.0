@@ -1,5 +1,9 @@
 # Todos For {{title}}
 
+> _Levels:_ 🟢🟡🔴
+
+---
+
 ## FilmBank [JIRA](https://fincons.atlassian.net/jira/software/projects/DDS/boards/9/timeline)
 
 - iframeplayer
@@ -7,9 +11,9 @@
 - adminportal
 - downloadmanager
 
-|                     DONE                      | Ticket | Project | Desc |
-| :-------------------------------------------: | :----: | ------- | :--: |
-| <input type="checkbox" unchecked id="b5a2b9"> |  []()  |         |      |
+|                     DONE                      | Level | Ticket | Project | Desc |
+| :-------------------------------------------: | :---: | :----: | ------- | :--: |
+| <input type="checkbox" unchecked id="b5a2b9"> |       |  []()  |         |      |
 
 ### More FilmBank Task Description
 
@@ -24,9 +28,9 @@
 - web
 - chromecast
 
-|                     DONE                      | Ticket | Project | Desc |
-| :-------------------------------------------: | :----: | ------- | :--: |
-| <input type="checkbox" unchecked id="64f445"> |  []()  |         |      |
+|                     DONE                      | Level | Ticket | Project | Desc |
+| :-------------------------------------------: | :---: | :----: | ------- | :--: |
+| <input type="checkbox" unchecked id="64f445"> |       |  []()  |         |      |
 
 ### More RTE Task Description
 
@@ -38,9 +42,9 @@
 
 ## Mediaset
 
-|                     DONE                      | Ticket | Project | Desc |
-| :-------------------------------------------: | :----: | ------- | :--: |
-| <input type="checkbox" unchecked id="64f445"> |  []()  |         |      |
+|                     DONE                      | Level | Ticket | Project | Desc |
+| :-------------------------------------------: | :---: | :----: | ------- | :--: |
+| <input type="checkbox" unchecked id="23647e"> |       |  []()  |         |      |
 
 ### More Mediaset Task Description
 

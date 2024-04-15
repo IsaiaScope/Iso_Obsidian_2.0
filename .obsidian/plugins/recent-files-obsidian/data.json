@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-W15",
+      "path": "Periodic Notes/Weekly Notes/2024-W15.md"
+    },
+    {
+      "basename": "as-const",
+      "path": "JS and TS/TypeScript/theory/as-const.md"
+    },
+    {
+      "basename": "generics",
+      "path": "JS and TS/TypeScript/theory/generics.md"
+    },
+    {
+      "basename": "non-null-assertion-operator",
+      "path": "JS and TS/TypeScript/theory/non-null-assertion-operator.md"
+    },
+    {
+      "basename": "type-guards",
+      "path": "JS and TS/TypeScript/theory/type-guards.md"
+    },
+    {
+      "basename": "one-type-or-another",
+      "path": "JS and TS/TypeScript/theory/one-type-or-another.md"
+    },
+    {
       "basename": "Shortcuts VS Code",
       "path": "VS Code/Data/Shortcuts VS Code.md"
     },
     {
       "basename": "Weekly Note Templates",
       "path": "Periodic Notes/Templates/Weekly Note Templates.md"
-    },
-    {
-      "basename": "2024-W15",
-      "path": "Periodic Notes/Weekly Notes/2024-W15.md"
     },
     {
       "basename": "Daily Note Templates",
@@ -179,26 +199,6 @@
     {
       "basename": "Pasted image 20240319110208",
       "path": "Test/Jest/Images/Pasted image 20240319110208.png"
-    },
-    {
-      "basename": "core concept",
-      "path": "Test/Jest/Data/core concept.md"
-    },
-    {
-      "basename": "Init",
-      "path": "Test/Jest/Data/Init.md"
-    },
-    {
-      "basename": "UserList",
-      "path": "Test/Jest/Data/UserList.md"
-    },
-    {
-      "basename": "rtl-book",
-      "path": "Test/Jest/Data/rtl-book.md"
-    },
-    {
-      "basename": "Query functions",
-      "path": "Test/Jest/Data/Query functions.md"
     }
   ],
   "omittedPaths": [],

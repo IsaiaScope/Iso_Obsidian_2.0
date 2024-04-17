@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-W15",
+      "path": "Periodic Notes/Weekly Notes/2024-W15.md"
+    },
+    {
+      "basename": "Upgrade shaka-player",
+      "path": "Players/Upgrade shaka-player.md"
+    },
+    {
+      "basename": "2024-W14",
+      "path": "Periodic Notes/Weekly Notes/2024-W14.md"
+    },
+    {
+      "basename": "Weekly Note Templates",
+      "path": "Periodic Notes/Templates/Weekly Note Templates.md"
+    },
+    {
       "basename": "useState()",
       "path": "React/Data/Hooks/useState().md"
     },
     {
-      "basename": "2024-W16",
-      "path": "Periodic Notes/Weekly Notes/2024-W16.md"
-    },
-    {
       "basename": "as-const",
       "path": "JS and TS/TypeScript/theory/as-const.md"
-    },
-    {
-      "basename": "2024-W15",
-      "path": "Periodic Notes/Weekly Notes/2024-W15.md"
     },
     {
       "basename": "generics",
@@ -37,10 +45,6 @@
       "path": "VS Code/Data/Shortcuts VS Code.md"
     },
     {
-      "basename": "Weekly Note Templates",
-      "path": "Periodic Notes/Templates/Weekly Note Templates.md"
-    },
-    {
       "basename": "Daily Note Templates",
       "path": "Periodic Notes/Templates/Daily Note Templates.md"
     },
@@ -53,16 +57,8 @@
       "path": "Periodic Notes/Templates/New Note.md"
     },
     {
-      "basename": "2024-W14",
-      "path": "Periodic Notes/Weekly Notes/2024-W14.md"
-    },
-    {
       "basename": "Theory",
       "path": "Players/Theory.md"
-    },
-    {
-      "basename": "Upgrade shaka-player",
-      "path": "Players/Upgrade shaka-player.md"
     },
     {
       "basename": "Testing Shaka build",

@@ -85,3 +85,10 @@ build/build.py +@dds --force --mode release --name dds
 ```
 
 ---
+
+## Css Update
+
+In `style.scss` is imported `@import 'libs/shaka-player/4.7.11/control';` that is a file with all CSS needed.
+For adding new CSS in a the new version copy `\node_modules\shaka-player\dist\controls.css` in another custom file and import that in in `style.scss`
+
+---

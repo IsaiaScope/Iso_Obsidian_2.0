@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Make a Repo",
+      "path": "Git and GitHub/GitHub/Data/Make a Repo.md"
+    },
+    {
+      "basename": "git init",
+      "path": "Git and GitHub/Git/Prompt/git init.md"
+    },
+    {
+      "basename": "git clone",
+      "path": "Git and GitHub/GitHub/Prompt/git clone.md"
+    },
+    {
+      "basename": "get-started",
+      "path": "React/Libs/Redux/data/get-started.md"
+    },
+    {
       "basename": "2024-W15",
       "path": "Periodic Notes/Weekly Notes/2024-W15.md"
     },
@@ -183,18 +199,6 @@
     {
       "basename": "roles-notes",
       "path": "Test/Jest/Data/roles-notes.md"
-    },
-    {
-      "basename": "React Testing Library and Jest",
-      "path": "Certificates/Udemy/React/React Testing Library and Jest.pdf"
-    },
-    {
-      "basename": "auth",
-      "path": "Test/Jest/Data/auth.md"
-    },
-    {
-      "basename": "Handling Data Fetching in Tests",
-      "path": "Test/Jest/Data/Handling Data Fetching in Tests.md"
     }
   ],
   "omittedPaths": [],

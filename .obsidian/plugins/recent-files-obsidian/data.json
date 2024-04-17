@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-W15",
-      "path": "Periodic Notes/Weekly Notes/2024-W15.md"
+      "basename": "useState()",
+      "path": "React/Data/Hooks/useState().md"
+    },
+    {
+      "basename": "2024-W16",
+      "path": "Periodic Notes/Weekly Notes/2024-W16.md"
     },
     {
       "basename": "as-const",
       "path": "JS and TS/TypeScript/theory/as-const.md"
+    },
+    {
+      "basename": "2024-W15",
+      "path": "Periodic Notes/Weekly Notes/2024-W15.md"
     },
     {
       "basename": "generics",
@@ -191,14 +199,6 @@
     {
       "basename": "Handling Data Fetching in Tests",
       "path": "Test/Jest/Data/Handling Data Fetching in Tests.md"
-    },
-    {
-      "basename": "hard concepts",
-      "path": "Test/Jest/Data/hard concepts.md"
-    },
-    {
-      "basename": "Pasted image 20240319110208",
-      "path": "Test/Jest/Images/Pasted image 20240319110208.png"
     }
   ],
   "omittedPaths": [],

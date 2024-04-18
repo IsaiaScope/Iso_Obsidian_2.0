@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-W16",
+      "path": "Periodic Notes/Weekly Notes/2024-W16.md"
+    },
+    {
+      "basename": "2024-W15",
+      "path": "Periodic Notes/Weekly Notes/2024-W15.md"
+    },
+    {
+      "basename": "Check Version",
+      "path": "Volta/Data/Check Version.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Volta/Dashboard.md"
+    },
+    {
+      "basename": "Set Project Versions",
+      "path": "Volta/Data/Set Project Versions.md"
+    },
+    {
       "basename": "Stuff",
       "path": "Stuff.md"
     },
@@ -27,10 +47,6 @@
     {
       "basename": "get-started",
       "path": "React/Libs/Redux/data/get-started.md"
-    },
-    {
-      "basename": "2024-W15",
-      "path": "Periodic Notes/Weekly Notes/2024-W15.md"
     },
     {
       "basename": "Upgrade shaka-player",
@@ -183,22 +199,6 @@
     {
       "basename": "Project Structure",
       "path": "React/Libs/Next.js/Data/Project Structure.md"
-    },
-    {
-      "basename": "init",
-      "path": "React/Libs/Next.js/Data/init.md"
-    },
-    {
-      "basename": "Font",
-      "path": "React/Libs/Next.js/Data/Font.md"
-    },
-    {
-      "basename": "displays",
-      "path": "Test/Jest/Data/displays.md"
-    },
-    {
-      "basename": "roles-notes",
-      "path": "Test/Jest/Data/roles-notes.md"
     }
   ],
   "omittedPaths": [],

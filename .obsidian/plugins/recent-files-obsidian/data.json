@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Stuff",
+      "path": "Stuff.md"
+    },
+    {
+      "basename": "Short-cuts",
+      "path": "Short-cuts.md"
+    },
+    {
+      "basename": "Conflic-Obsidian",
+      "path": "Conflic-Obsidian.md"
+    },
+    {
       "basename": "Make a Repo",
       "path": "Git and GitHub/GitHub/Data/Make a Repo.md"
     },
@@ -103,18 +115,6 @@
     {
       "basename": "Create Linux environment",
       "path": "Players/Create Linux environment.md"
-    },
-    {
-      "basename": "Conflic-Obsidian",
-      "path": "Conflic-Obsidian.md"
-    },
-    {
-      "basename": "Short-cuts",
-      "path": "Short-cuts.md"
-    },
-    {
-      "basename": "Stuff",
-      "path": "Stuff.md"
     },
     {
       "basename": "git remote",

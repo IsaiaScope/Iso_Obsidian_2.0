@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "CLI",
+      "path": "isonfireCLI/data-on-fire/CLI.md"
+    },
+    {
+      "basename": "README",
+      "path": "isonfireCLI/README.md"
+    },
+    {
+      "basename": "Upgrade shaka-player",
+      "path": "Players/Upgrade shaka-player.md"
+    },
+    {
       "basename": "2024-W16",
       "path": "Periodic Notes/Weekly Notes/2024-W16.md"
     },
@@ -51,10 +63,6 @@
     {
       "basename": "get-started",
       "path": "React/Libs/Redux/data/get-started.md"
-    },
-    {
-      "basename": "Upgrade shaka-player",
-      "path": "Players/Upgrade shaka-player.md"
     },
     {
       "basename": "2024-W14",
@@ -191,14 +199,6 @@
     {
       "basename": "prettier-plugin-tailwindcss",
       "path": "React/Libs/Tailwind/prettier-plugin-tailwindcss.md"
-    },
-    {
-      "basename": "style",
-      "path": "React/Libs/Shadcn-ui/style.md"
-    },
-    {
-      "basename": "shadcn",
-      "path": "React/Libs/Shadcn-ui/shadcn.md"
     }
   ],
   "omittedPaths": [],

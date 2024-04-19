@@ -5,6 +5,10 @@
       "path": "Periodic Notes/Weekly Notes/2024-W16.md"
     },
     {
+      "basename": "git tag",
+      "path": "Git and GitHub/GitHub/Prompt/git tag.md"
+    },
+    {
       "basename": "2024-W15",
       "path": "Periodic Notes/Weekly Notes/2024-W15.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "shadcn",
       "path": "React/Libs/Shadcn-ui/shadcn.md"
-    },
-    {
-      "basename": "Project Structure",
-      "path": "React/Libs/Next.js/Data/Project Structure.md"
     }
   ],
   "omittedPaths": [],

@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "CLI",
-      "path": "isonfireCLI/data-on-fire/CLI.md"
+      "basename": "init-CLI",
+      "path": "isonfireCLI/doc/init-CLI.md"
     },
     {
       "basename": "README",
       "path": "isonfireCLI/README.md"
+    },
+    {
+      "basename": "reference-package-version-inside",
+      "path": "Node/package.json/reference-package-version-inside.md"
+    },
+    {
+      "basename": "libraries",
+      "path": "Node/npm/libraries.md"
     },
     {
       "basename": "Upgrade shaka-player",
@@ -191,14 +199,6 @@
     {
       "basename": "i18next",
       "path": "React/Libs/i18next.md"
-    },
-    {
-      "basename": "Tailwind (clsx + twMerge)",
-      "path": "React/Libs/Tailwind/Tailwind (clsx + twMerge).md"
-    },
-    {
-      "basename": "prettier-plugin-tailwindcss",
-      "path": "React/Libs/Tailwind/prettier-plugin-tailwindcss.md"
     }
   ],
   "omittedPaths": [],

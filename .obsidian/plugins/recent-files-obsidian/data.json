@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-W15",
+      "path": "Periodic Notes/Weekly Notes/2024-W15.md"
+    },
+    {
+      "basename": "Create Linux environment",
+      "path": "Players/Create Linux environment.md"
+    },
+    {
+      "basename": "Upgrade shaka-player",
+      "path": "Players/Upgrade shaka-player.md"
+    },
+    {
+      "basename": "Theory",
+      "path": "Players/Theory.md"
+    },
+    {
+      "basename": "Testing Shaka build",
+      "path": "Players/Testing Shaka build.md"
+    },
+    {
       "basename": "README",
       "path": "isonfireCLI/README.md"
     },
@@ -17,20 +37,12 @@
       "path": "Node/npm/libraries.md"
     },
     {
-      "basename": "Upgrade shaka-player",
-      "path": "Players/Upgrade shaka-player.md"
-    },
-    {
       "basename": "2024-W16",
       "path": "Periodic Notes/Weekly Notes/2024-W16.md"
     },
     {
       "basename": "git tag",
       "path": "Git and GitHub/GitHub/Prompt/git tag.md"
-    },
-    {
-      "basename": "2024-W15",
-      "path": "Periodic Notes/Weekly Notes/2024-W15.md"
     },
     {
       "basename": "Check Version",
@@ -121,14 +133,6 @@
       "path": "Periodic Notes/Templates/New Note.md"
     },
     {
-      "basename": "Theory",
-      "path": "Players/Theory.md"
-    },
-    {
-      "basename": "Testing Shaka build",
-      "path": "Players/Testing Shaka build.md"
-    },
-    {
       "basename": "Obsidian",
       "path": "Markdown/Obsidian.md"
     },
@@ -147,10 +151,6 @@
     {
       "basename": "Dashboard",
       "path": "VS Code/Dashboard.md"
-    },
-    {
-      "basename": "Create Linux environment",
-      "path": "Players/Create Linux environment.md"
     },
     {
       "basename": "git remote",

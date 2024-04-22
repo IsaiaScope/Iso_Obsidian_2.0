@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "init-CLI",
-      "path": "isonfireCLI/doc/init-CLI.md"
-    },
-    {
       "basename": "README",
       "path": "isonfireCLI/README.md"
+    },
+    {
+      "basename": "init-CLI",
+      "path": "isonfireCLI/doc/init-CLI.md"
     },
     {
       "basename": "reference-package-version-inside",

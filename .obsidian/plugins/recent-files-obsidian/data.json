@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "icomoon",
+      "path": "isonfireCLI/doc/icomoon.md"
+    },
+    {
+      "basename": "2024-W16",
+      "path": "Periodic Notes/Weekly Notes/2024-W16.md"
+    },
+    {
+      "basename": "reference-package-version-inside",
+      "path": "Node/package.json/reference-package-version-inside.md"
+    },
+    {
       "basename": "2024-W15",
       "path": "Periodic Notes/Weekly Notes/2024-W15.md"
+    },
+    {
+      "basename": "2024-W14",
+      "path": "Periodic Notes/Weekly Notes/2024-W14.md"
+    },
+    {
+      "basename": "init-CLI",
+      "path": "isonfireCLI/doc/init-CLI.md"
+    },
+    {
+      "basename": "README",
+      "path": "isonfireCLI/README.md"
+    },
+    {
+      "basename": "Using CSS custom properties",
+      "path": "Style/CSS/Data/Using CSS custom properties.md"
+    },
+    {
+      "basename": "@extend",
+      "path": "Style/SASS/@extend.md"
+    },
+    {
+      "basename": "@input()",
+      "path": "Angular/components/@input().md"
+    },
+    {
+      "basename": "change-default-encoding",
+      "path": "Angular/logic/data/change-default-encoding.md"
+    },
+    {
+      "basename": "coding-knowledge",
+      "path": "React/Data/Theory/coding-knowledge.md"
     },
     {
       "basename": "Create Linux environment",
@@ -21,24 +65,8 @@
       "path": "Players/Testing Shaka build.md"
     },
     {
-      "basename": "README",
-      "path": "isonfireCLI/README.md"
-    },
-    {
-      "basename": "init-CLI",
-      "path": "isonfireCLI/doc/init-CLI.md"
-    },
-    {
-      "basename": "reference-package-version-inside",
-      "path": "Node/package.json/reference-package-version-inside.md"
-    },
-    {
       "basename": "libraries",
       "path": "Node/npm/libraries.md"
-    },
-    {
-      "basename": "2024-W16",
-      "path": "Periodic Notes/Weekly Notes/2024-W16.md"
     },
     {
       "basename": "git tag",
@@ -83,10 +111,6 @@
     {
       "basename": "get-started",
       "path": "React/Libs/Redux/data/get-started.md"
-    },
-    {
-      "basename": "2024-W14",
-      "path": "Periodic Notes/Weekly Notes/2024-W14.md"
     },
     {
       "basename": "Weekly Note Templates",
@@ -175,30 +199,6 @@
     {
       "basename": "Documentation",
       "path": "POE/Betrayal/Documentation.md"
-    },
-    {
-      "basename": "Cheat Sheet",
-      "path": "POE/Betrayal/Cheat Sheet.png"
-    },
-    {
-      "basename": "Heist Rogues Gear",
-      "path": "POE/Heist/Heist Rogues Gear.jpg"
-    },
-    {
-      "basename": "Contracts Description",
-      "path": "POE/Heist/Contracts Description.png"
-    },
-    {
-      "basename": "2024-W13",
-      "path": "Periodic Notes/Weekly Notes/2024-W13.md"
-    },
-    {
-      "basename": "add-prop-conditionally-to-object",
-      "path": "JS and TS/To ORDER/snippets/data/add-prop-conditionally-to-object.md"
-    },
-    {
-      "basename": "i18next",
-      "path": "React/Libs/i18next.md"
     }
   ],
   "omittedPaths": [],

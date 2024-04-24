@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Init",
+      "path": "React/Libs/Framer Motion/Init.md"
+    },
+    {
+      "basename": "Textures",
+      "path": "Three.js/Data/Textures.md"
+    },
+    {
+      "basename": "First Simple Snippet",
+      "path": "Three.js/Snippets/First Simple Snippet.md"
+    },
+    {
       "basename": "2024-W16",
       "path": "Periodic Notes/Weekly Notes/2024-W16.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Contracts Reward",
       "path": "POE/Heist/Contracts Reward.jpg"
-    },
-    {
-      "basename": "Documentation",
-      "path": "POE/Heist/Documentation.md"
-    },
-    {
-      "basename": "Documentation",
-      "path": "POE/Lab/Documentation.md"
-    },
-    {
-      "basename": "Documentation",
-      "path": "POE/Betrayal/Documentation.md"
     }
   ],
   "omittedPaths": [],

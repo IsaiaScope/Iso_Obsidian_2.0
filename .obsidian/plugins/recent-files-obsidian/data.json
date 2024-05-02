@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Make a Repo",
+      "path": "Git and GitHub/GitHub/Data/Make a Repo.md"
+    },
+    {
+      "basename": "Github Odds & Ends",
+      "path": "Git and GitHub/GitHub/Data/Github Odds & Ends.md"
+    },
+    {
+      "basename": "git aliases",
+      "path": "Git and GitHub/GitHub/Data/git aliases.md"
+    },
+    {
       "basename": "Delete Local and Remote Branch",
       "path": "Git and GitHub/GitHub/Data/Delete Local and Remote Branch.md"
+    },
+    {
+      "basename": "git push",
+      "path": "Git and GitHub/GitHub/Prompt/git push.md"
     },
     {
       "basename": "shadcn",
@@ -121,10 +137,6 @@
       "path": "Conflic-Obsidian.md"
     },
     {
-      "basename": "Make a Repo",
-      "path": "Git and GitHub/GitHub/Data/Make a Repo.md"
-    },
-    {
       "basename": "git init",
       "path": "Git and GitHub/Git/Prompt/git init.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Dashboard",
       "path": "Obsidian Tutorial/Dashboard.md"
-    },
-    {
-      "basename": "Template Method",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Template Method.md"
-    },
-    {
-      "basename": "Crafting",
-      "path": "POE/3.24/Toxic Rain PF/Crafting.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "VS Code/Dashboard.md"
     }
   ],
   "omittedPaths": [],

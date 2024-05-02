@@ -12,5 +12,6 @@
   "strictLineBreaks": false,
   "showFrontmatter": false,
   "autoConvertHtml": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": false
 }

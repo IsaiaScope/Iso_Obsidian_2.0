@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Stuff",
+      "path": "Stuff.md"
+    },
+    {
+      "basename": "shadcn",
+      "path": "React/Libs/Shadcn-ui/shadcn.md"
+    },
+    {
       "basename": "Init",
       "path": "React/Libs/Framer Motion/Init.md"
     },
@@ -97,10 +105,6 @@
       "path": "Volta/Data/Set Project Versions.md"
     },
     {
-      "basename": "Stuff",
-      "path": "Stuff.md"
-    },
-    {
       "basename": "Short-cuts",
       "path": "Short-cuts.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "git stash",
       "path": "Git and GitHub/Git/Prompt/git stash.md"
-    },
-    {
-      "basename": "Contracts Reward",
-      "path": "POE/Heist/Contracts Reward.jpg"
     }
   ],
   "omittedPaths": [],

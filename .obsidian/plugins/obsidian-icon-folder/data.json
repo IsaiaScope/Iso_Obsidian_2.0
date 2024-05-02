@@ -27,7 +27,9 @@
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":",
     "iconsInLinksEnabled": true,
-    "debugMode": false
+    "debugMode": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor"
   },
   "Obsidian Tutorial": "SiObsidian",
   "Obsidian Tutorial/Data": "TiDatabase",

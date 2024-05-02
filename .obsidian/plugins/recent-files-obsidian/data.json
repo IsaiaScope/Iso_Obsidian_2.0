@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-W18",
+      "path": "Periodic Notes/Weekly Notes/2024-W18.md"
+    },
+    {
+      "basename": "git remote",
+      "path": "Git and GitHub/GitHub/Prompt/git remote.md"
+    },
+    {
+      "basename": "Delete Local and Remote Branch",
+      "path": "Git and GitHub/GitHub/Data/Delete Local and Remote Branch.md"
+    },
+    {
+      "basename": "shadcn",
+      "path": "React/Libs/Shadcn-ui/shadcn.md"
+    },
+    {
       "basename": "Make a Repo",
       "path": "Git and GitHub/GitHub/Data/Make a Repo.md"
     },
@@ -13,20 +29,16 @@
       "path": "Git and GitHub/GitHub/Data/git aliases.md"
     },
     {
-      "basename": "Delete Local and Remote Branch",
-      "path": "Git and GitHub/GitHub/Data/Delete Local and Remote Branch.md"
+      "basename": "Remote Branches",
+      "path": "Git and GitHub/GitHub/Data/Remote Branches.md"
+    },
+    {
+      "basename": "Migrate Repo to Another Url",
+      "path": "Git and GitHub/GitHub/Data/Migrate Repo to Another Url.md"
     },
     {
       "basename": "git push",
       "path": "Git and GitHub/GitHub/Prompt/git push.md"
-    },
-    {
-      "basename": "shadcn",
-      "path": "React/Libs/Shadcn-ui/shadcn.md"
-    },
-    {
-      "basename": "2024-W18",
-      "path": "Periodic Notes/Weekly Notes/2024-W18.md"
     },
     {
       "basename": "2024-W16",
@@ -187,18 +199,6 @@
     {
       "basename": "New Dashboard",
       "path": "Periodic Notes/Templates/New Dashboard.md"
-    },
-    {
-      "basename": "New Note",
-      "path": "Periodic Notes/Templates/New Note.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "Markdown/Obsidian.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Obsidian Tutorial/Dashboard.md"
     }
   ],
   "omittedPaths": [],

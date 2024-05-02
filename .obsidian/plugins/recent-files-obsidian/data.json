@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Stuff",
-      "path": "Stuff.md"
+      "basename": "2024-W18",
+      "path": "Periodic Notes/Weekly Notes/2024-W18.md"
+    },
+    {
+      "basename": "2024-W16",
+      "path": "Periodic Notes/Weekly Notes/2024-W16.md"
     },
     {
       "basename": "shadcn",
       "path": "React/Libs/Shadcn-ui/shadcn.md"
+    },
+    {
+      "basename": "Stuff",
+      "path": "Stuff.md"
     },
     {
       "basename": "Init",
@@ -19,10 +27,6 @@
     {
       "basename": "First Simple Snippet",
       "path": "Three.js/Snippets/First Simple Snippet.md"
-    },
-    {
-      "basename": "2024-W16",
-      "path": "Periodic Notes/Weekly Notes/2024-W16.md"
     },
     {
       "basename": "icomoon",
@@ -195,10 +199,6 @@
     {
       "basename": "git remote",
       "path": "Git and GitHub/GitHub/Prompt/git remote.md"
-    },
-    {
-      "basename": "git stash",
-      "path": "Git and GitHub/Git/Prompt/git stash.md"
     }
   ],
   "omittedPaths": [],

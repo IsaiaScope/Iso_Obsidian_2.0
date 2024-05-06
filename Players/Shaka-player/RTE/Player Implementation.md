@@ -1,10 +1,10 @@
 # Player Implementation
 
-## Actual Implementation
+- [ ] TODO Refactor
 
 Shaka player web => player events state =>  
 3.110.0_shaka-player  
-player service 615  
+player service line:615  
 player component => add subscription => player events state.subscribe passano tutti gli eventi  
 tramite api di shaka aggiungo i bottoni o li metto custom  
 objectdetail => contiene i dati del media  

@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Manifest",
-      "path": "Players/Manifest.md"
+      "basename": "Theory",
+      "path": "Players/Theory.md"
+    },
+    {
+      "basename": "Codecs",
+      "path": "Players/Codecs.md"
+    },
+    {
+      "basename": "Text Tracks",
+      "path": "Players/Text Tracks.md"
+    },
+    {
+      "basename": "Create Linux environment",
+      "path": "Players/Create Linux environment.md"
     },
     {
       "basename": "DRM",
       "path": "Players/DRM.md"
     },
     {
-      "basename": "Theory",
-      "path": "Players/Theory.md"
-    },
-    {
-      "basename": "Create Linux environment",
-      "path": "Players/Create Linux environment.md"
+      "basename": "Manifest",
+      "path": "Players/Manifest.md"
     },
     {
       "basename": "git remote",
@@ -191,14 +199,6 @@
     {
       "basename": "git clone",
       "path": "Git and GitHub/GitHub/Prompt/git clone.md"
-    },
-    {
-      "basename": "get-started",
-      "path": "React/Libs/Redux/data/get-started.md"
-    },
-    {
-      "basename": "Weekly Note Templates",
-      "path": "Periodic Notes/Templates/Weekly Note Templates.md"
     }
   ],
   "omittedPaths": [],

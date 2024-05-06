@@ -7,11 +7,18 @@ tags:
 
 # Theory
 
-| Concept            | Description/Link |
-| ------------------ | ---------------- |
-| DRM                |   [Go](./DRM)               |
-| manifest           |       [Go](./DRM)           |
-| captions/subtitles |        [Go](./DRM)          |
+| Concept     | Description/Link |
+| ----------- | ---------------- |
+| DRM         | [Go](./DRM)      |
+| manifest    | [Go](./DRM)      |
+| CDN         |                  |
+| Text Tracks | [Go](./DRM)      |
+
+## Introduction - What is [CDN](https://www.gumlet.com/learn/what-is-video-cdn/?
+
+A Content Delivery Network (`CDN`) is a geographically distributed network of servers that works to speed up the delivery of internet content. Imagine a CDN like a giant storage network for websites, with outposts all over the world.
+
+For example, think about a popular video streaming service like Netflix. When you hit play on a movie, the data for that movie isn't necessarily coming from Netflix's headquarters. Instead, a CDN might store a copy of the movie on a server closer to you. This way, the data doesn't have to travel as far, resulting in a faster and smoother playback experience.
 
 ##
 
@@ -22,15 +29,6 @@ quando i moduli non era supportato
 @privare vuole dire veramente che è privato e inaccessibile
 
 ---
-
-sottotitoli wvtt verificare DDSTextDisplayer sono supportati e se i colori si vedono bene i colori sono una specie di sottitoli che usano hmtl
-locals.js è un import di shaka che è una lista enorme di latino e english per i sottotitoli e se non è una di queste lingue non sivedono bene i sottotitoli quindi in +../../dds/language_mapping.js che permette di aggiungere alla lista queste label
-vedere come aggiungere queste voci da documentazione se è possibile
-
-Configuring text displayer -> wvtt perchè colori e html devono essere rispettati
-e aggiungere lingue in più
-
-----------------
 
 Shaka player web => player events state =>  
 3.110.0_shaka-player  

@@ -7,4 +7,4 @@ vedere come aggiungere queste voci da documentazione se è possibile
 Configuring text displayer -> wvtt perchè colori e html devono essere rispettati
 e aggiungere lingue in più
 
-----------------
+---

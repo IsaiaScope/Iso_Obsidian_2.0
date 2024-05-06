@@ -40,7 +40,7 @@ The process of `HLS` streaming can be visualized as a harmonious operation among
 
 ### DASH
 
-> In `DASH` fornisce un file formato mpd (se lo apri sembra un xml), usa anche file di testo .xml per i chunk (che sono file fisici storati sulla macchia server e quindi possono essere storati e salvati localmente) e si usa su sistemi operativi che non sono Apple
+> In `DASH` fornisce un file formato `MPD (Media Presentation Description)`; se lo apri sembra un xml, usa anche file di testo .xml per i chunk (che sono file fisici storati sulla macchia server e quindi possono essere storati e salvati localmente) e si usa su sistemi operativi che non sono Apple
 
 `DASH` is an adaptive bitrate streaming technology where a multimedia file is partitioned into one or more segments and delivered to a client using HTTP. A media presentation description (`MPD`) describes segment information (timing, UR, media characteristics like video resolution and bit rate.
 

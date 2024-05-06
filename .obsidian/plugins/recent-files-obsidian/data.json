@@ -1,32 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Text_Tracks",
+      "path": "Players/Text_Tracks.md"
+    },
+    {
+      "basename": "Theory",
+      "path": "Players/Shaka-player/Theory.md"
+    },
+    {
       "basename": "Theory",
       "path": "Players/Theory.md"
-    },
-    {
-      "basename": "Codecs",
-      "path": "Players/Codecs.md"
-    },
-    {
-      "basename": "Text Tracks",
-      "path": "Players/Text Tracks.md"
-    },
-    {
-      "basename": "Create Linux environment",
-      "path": "Players/Create Linux environment.md"
-    },
-    {
-      "basename": "DRM",
-      "path": "Players/DRM.md"
     },
     {
       "basename": "Manifest",
       "path": "Players/Manifest.md"
     },
     {
-      "basename": "git remote",
-      "path": "Git and GitHub/GitHub/Prompt/git remote.md"
+      "basename": "DRM",
+      "path": "Players/DRM.md"
+    },
+    {
+      "basename": "Create Linux environment",
+      "path": "Players/Create Linux environment.md"
     },
     {
       "basename": "Upgrade shaka-player",
@@ -35,6 +31,10 @@
     {
       "basename": "Testing Shaka build",
       "path": "Players/Shaka-player/Filmbank/Testing Shaka build.md"
+    },
+    {
+      "basename": "git remote",
+      "path": "Git and GitHub/GitHub/Prompt/git remote.md"
     },
     {
       "basename": "2024-W18",

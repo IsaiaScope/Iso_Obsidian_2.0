@@ -1,6 +1,6 @@
 # DRM - digital right magement
 
-_gestisce i diritti e crittografia dei chunk_ e la crittografazione avviene grazie ad aziende come `irdeto`, `comecast`, `castLab`, che in base alla configurazione che ti danno devi settare il player per avere la gestione del drm.
+_gestisce i diritti e crittografia dei chunk_ e la crittografazione avviene grazie ad aziende come `irdeto`, `comecast`, `castLab`, che in base alla configurazione che ti danno devi settare il player per avere la gestione del DRM.
 
 ## Gli standard di DRM
 

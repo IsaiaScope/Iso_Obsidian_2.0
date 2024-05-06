@@ -27,7 +27,7 @@ There are three popular streaming protocols that support adaptive bitrate stream
 
 - **HLS (HTTP Live Streaming)** is the most commonly used protocol for video distribution on mobile devices because it’s supported by all major browsers and devices. It supports a variety of bitrates but requires you to use a different URL for each variant.
 - **DASH (Dynamic Adaptive Streaming over HTTP)** is newer than HLS and has recently gained popularity due to its ability to dynamically adapt playback quality based on network conditions or device capabilities. For example, if you’re watching from your phone over Wi-Fi with 4G LTE enabled, DASH will automatically switch from 480p to 1080p resolution without buffering or pausing the stream.
-- **IIS Smooth Streaming** is another popular option supported by Microsoft Silverlight and iOS devices. However, it only supports streaming up to 1080p quality at maximum.
+- **IIS Smooth Streaming** is another popular option supported by Microsoft Silverlight and iOS devices. However, it only supports streaming up to 1080p quality at maximum. anche in alcuni box
 
 ## Protocols
 

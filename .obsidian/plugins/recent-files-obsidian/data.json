@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Manifest",
+      "path": "Players/Manifest.md"
+    },
+    {
+      "basename": "DRM",
+      "path": "Players/DRM.md"
+    },
+    {
+      "basename": "Theory",
+      "path": "Players/Theory.md"
+    },
+    {
+      "basename": "Create Linux environment",
+      "path": "Players/Create Linux environment.md"
+    },
+    {
+      "basename": "git remote",
+      "path": "Git and GitHub/GitHub/Prompt/git remote.md"
+    },
+    {
+      "basename": "Upgrade shaka-player",
+      "path": "Players/Shaka-player/Filmbank/Upgrade shaka-player.md"
+    },
+    {
+      "basename": "Testing Shaka build",
+      "path": "Players/Shaka-player/Filmbank/Testing Shaka build.md"
+    },
+    {
+      "basename": "2024-W18",
+      "path": "Periodic Notes/Weekly Notes/2024-W18.md"
+    },
+    {
+      "basename": "2024-W14",
+      "path": "Periodic Notes/Weekly Notes/2024-W14.md"
+    },
+    {
+      "basename": "2024-W15",
+      "path": "Periodic Notes/Weekly Notes/2024-W15.md"
+    },
+    {
+      "basename": "2024-W16",
+      "path": "Periodic Notes/Weekly Notes/2024-W16.md"
+    },
+    {
       "basename": "Display Grid",
       "path": "Style/CSS/Data/Display Grid.md"
     },
@@ -27,14 +71,6 @@
     {
       "basename": "init",
       "path": "React/Libs/Next.js/Data/init.md"
-    },
-    {
-      "basename": "2024-W18",
-      "path": "Periodic Notes/Weekly Notes/2024-W18.md"
-    },
-    {
-      "basename": "git remote",
-      "path": "Git and GitHub/GitHub/Prompt/git remote.md"
     },
     {
       "basename": "Delete Local and Remote Branch",
@@ -69,10 +105,6 @@
       "path": "Git and GitHub/GitHub/Prompt/git push.md"
     },
     {
-      "basename": "2024-W16",
-      "path": "Periodic Notes/Weekly Notes/2024-W16.md"
-    },
-    {
       "basename": "Stuff",
       "path": "Stuff.md"
     },
@@ -95,14 +127,6 @@
     {
       "basename": "reference-package-version-inside",
       "path": "Node/package.json/reference-package-version-inside.md"
-    },
-    {
-      "basename": "2024-W15",
-      "path": "Periodic Notes/Weekly Notes/2024-W15.md"
-    },
-    {
-      "basename": "2024-W14",
-      "path": "Periodic Notes/Weekly Notes/2024-W14.md"
     },
     {
       "basename": "init-CLI",
@@ -131,22 +155,6 @@
     {
       "basename": "coding-knowledge",
       "path": "React/Data/Theory/coding-knowledge.md"
-    },
-    {
-      "basename": "Create Linux environment",
-      "path": "Players/Create Linux environment.md"
-    },
-    {
-      "basename": "Upgrade shaka-player",
-      "path": "Players/Upgrade shaka-player.md"
-    },
-    {
-      "basename": "Theory",
-      "path": "Players/Theory.md"
-    },
-    {
-      "basename": "Testing Shaka build",
-      "path": "Players/Testing Shaka build.md"
     },
     {
       "basename": "libraries",
@@ -191,14 +199,6 @@
     {
       "basename": "Weekly Note Templates",
       "path": "Periodic Notes/Templates/Weekly Note Templates.md"
-    },
-    {
-      "basename": "useState()",
-      "path": "React/Data/Hooks/useState().md"
-    },
-    {
-      "basename": "as-const",
-      "path": "JS and TS/TypeScript/theory/as-const.md"
     }
   ],
   "omittedPaths": [],

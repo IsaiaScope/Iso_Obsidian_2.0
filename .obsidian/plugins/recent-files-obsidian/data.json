@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Theory",
-      "path": "Players/Shaka-player/Theory.md"
+      "basename": "Player Implementation",
+      "path": "Players/Shaka-player/RTE/Player Implementation.md"
     },
     {
-      "basename": "Text_Tracks",
-      "path": "Players/Text_Tracks.md"
+      "basename": "libraries",
+      "path": "Node/npm/libraries.md"
+    },
+    {
+      "basename": "Upgrade shaka-player",
+      "path": "Players/Shaka-player/Filmbank/Upgrade shaka-player.md"
     },
     {
       "basename": "Theory",
       "path": "Players/Theory.md"
+    },
+    {
+      "basename": "Text_Tracks",
+      "path": "Players/Text_Tracks.md"
     },
     {
       "basename": "Manifest",
@@ -25,12 +33,12 @@
       "path": "Players/Create Linux environment.md"
     },
     {
-      "basename": "Upgrade shaka-player",
-      "path": "Players/Shaka-player/Filmbank/Upgrade shaka-player.md"
-    },
-    {
       "basename": "Testing Shaka build",
       "path": "Players/Shaka-player/Filmbank/Testing Shaka build.md"
+    },
+    {
+      "basename": "Theory",
+      "path": "Players/Shaka-player/Theory.md"
     },
     {
       "basename": "git remote",
@@ -165,10 +173,6 @@
       "path": "React/Data/Theory/coding-knowledge.md"
     },
     {
-      "basename": "libraries",
-      "path": "Node/npm/libraries.md"
-    },
-    {
       "basename": "git tag",
       "path": "Git and GitHub/GitHub/Prompt/git tag.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "git init",
       "path": "Git and GitHub/Git/Prompt/git init.md"
-    },
-    {
-      "basename": "git clone",
-      "path": "Git and GitHub/GitHub/Prompt/git clone.md"
     }
   ],
   "omittedPaths": [],

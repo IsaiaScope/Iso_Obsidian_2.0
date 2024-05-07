@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Materials",
+      "path": "Three.js/Data/Materials.md"
+    },
+    {
+      "basename": "Textures",
+      "path": "Three.js/Data/Textures.md"
+    },
+    {
+      "basename": "2024-W18",
+      "path": "Periodic Notes/Weekly Notes/2024-W18.md"
+    },
+    {
+      "basename": "Building a type-safe fetch in typescript",
+      "path": "JS and TS/TypeScript/Data/Building a type-safe fetch in typescript.md"
+    },
+    {
+      "basename": "as-const",
+      "path": "JS and TS/TypeScript/theory/as-const.md"
+    },
+    {
+      "basename": "type-guards",
+      "path": "JS and TS/TypeScript/theory/type-guards.md"
+    },
+    {
+      "basename": "one-type-or-another",
+      "path": "JS and TS/TypeScript/theory/one-type-or-another.md"
+    },
+    {
+      "basename": "non-null-assertion-operator",
+      "path": "JS and TS/TypeScript/theory/non-null-assertion-operator.md"
+    },
+    {
       "basename": "Create Linux environment",
       "path": "Players/Create Linux environment.md"
     },
@@ -35,10 +67,6 @@
     {
       "basename": "Player Implementation",
       "path": "Players/Shaka-player/RTE/Player Implementation.md"
-    },
-    {
-      "basename": "2024-W18",
-      "path": "Periodic Notes/Weekly Notes/2024-W18.md"
     },
     {
       "basename": "libraries",
@@ -129,10 +157,6 @@
       "path": "React/Libs/Framer Motion/Init.md"
     },
     {
-      "basename": "Textures",
-      "path": "Three.js/Data/Textures.md"
-    },
-    {
       "basename": "First Simple Snippet",
       "path": "Three.js/Snippets/First Simple Snippet.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "git tag",
       "path": "Git and GitHub/GitHub/Prompt/git tag.md"
-    },
-    {
-      "basename": "Check Version",
-      "path": "Volta/Data/Check Version.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Volta/Dashboard.md"
-    },
-    {
-      "basename": "Set Project Versions",
-      "path": "Volta/Data/Set Project Versions.md"
-    },
-    {
-      "basename": "Short-cuts",
-      "path": "Short-cuts.md"
-    },
-    {
-      "basename": "Conflic-Obsidian",
-      "path": "Conflic-Obsidian.md"
-    },
-    {
-      "basename": "git init",
-      "path": "Git and GitHub/Git/Prompt/git init.md"
     }
   ],
   "omittedPaths": [],

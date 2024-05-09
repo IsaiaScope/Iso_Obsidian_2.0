@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "useReducer()",
+      "path": "React/Data/Hooks/useReducer().md"
+    },
+    {
+      "basename": "createContext()&useContext()",
+      "path": "React/Data/Hooks/createContext()&useContext().md"
+    },
+    {
       "basename": "2024-W18",
       "path": "Periodic Notes/Weekly Notes/2024-W18.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "change-default-encoding",
       "path": "Angular/logic/data/change-default-encoding.md"
-    },
-    {
-      "basename": "coding-knowledge",
-      "path": "React/Data/Theory/coding-knowledge.md"
-    },
-    {
-      "basename": "git tag",
-      "path": "Git and GitHub/GitHub/Prompt/git tag.md"
     }
   ],
   "omittedPaths": [],

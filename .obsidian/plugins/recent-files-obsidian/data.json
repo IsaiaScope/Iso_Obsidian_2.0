@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Migrate Repo to Another Url",
+      "path": "Git and GitHub/GitHub/Data/Migrate Repo to Another Url.md"
+    },
+    {
+      "basename": "git remote",
+      "path": "Git and GitHub/GitHub/Prompt/git remote.md"
+    },
+    {
       "basename": "2024-W18",
       "path": "Periodic Notes/Weekly Notes/2024-W18.md"
     },
@@ -81,10 +93,6 @@
       "path": "Node/npm/libraries.md"
     },
     {
-      "basename": "git remote",
-      "path": "Git and GitHub/GitHub/Prompt/git remote.md"
-    },
-    {
       "basename": "2024-W14",
       "path": "Periodic Notes/Weekly Notes/2024-W14.md"
     },
@@ -149,10 +157,6 @@
       "path": "Git and GitHub/GitHub/Data/Remote Branches.md"
     },
     {
-      "basename": "Migrate Repo to Another Url",
-      "path": "Git and GitHub/GitHub/Data/Migrate Repo to Another Url.md"
-    },
-    {
       "basename": "git push",
       "path": "Git and GitHub/GitHub/Prompt/git push.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "@input()",
       "path": "Angular/components/@input().md"
-    },
-    {
-      "basename": "change-default-encoding",
-      "path": "Angular/logic/data/change-default-encoding.md"
     }
   ],
   "omittedPaths": [],

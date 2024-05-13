@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "Create custom plugin",
+      "path": "Obsidian Tutorial/Data/Create custom plugin.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Obsidian Tutorial/Dashboard.md"
     },
     {
       "basename": "useReducer()",
       "path": "React/Data/Hooks/useReducer().md"
+    },
+    {
+      "basename": "Ricerche complesse",
+      "path": "Obsidian Tutorial/Data/Ricerche complesse.md"
+    },
+    {
+      "basename": "Add Media",
+      "path": "Obsidian Tutorial/Data/Add Media.md"
     },
     {
       "basename": "2024-W20",
@@ -179,26 +191,6 @@
     {
       "basename": "icomoon",
       "path": "isonfireCLI/doc/icomoon.md"
-    },
-    {
-      "basename": "reference-package-version-inside",
-      "path": "Node/package.json/reference-package-version-inside.md"
-    },
-    {
-      "basename": "init-CLI",
-      "path": "isonfireCLI/doc/init-CLI.md"
-    },
-    {
-      "basename": "README",
-      "path": "isonfireCLI/README.md"
-    },
-    {
-      "basename": "Using CSS custom properties",
-      "path": "Style/CSS/Data/Using CSS custom properties.md"
-    },
-    {
-      "basename": "@extend",
-      "path": "Style/SASS/@extend.md"
     }
   ],
   "omittedPaths": [],

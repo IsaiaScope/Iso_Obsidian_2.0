@@ -43,3 +43,9 @@ linklist:
 ```
 
 ---
+
+## Custom plugin
+
+- [[Create custom plugin]]
+
+---

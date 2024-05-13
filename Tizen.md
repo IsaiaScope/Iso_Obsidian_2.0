@@ -5,3 +5,4 @@ https://git02.finconsgroup.com/sebastiano.bianchini/fincons-smarttv-portal
 entrer in apps => fare 12345 => dev mode on and ip del pc from ipconfig
 
 C:\Users\adm.riva1\Desktop\Tizen Studio\ide - eclipse
+app-tizen

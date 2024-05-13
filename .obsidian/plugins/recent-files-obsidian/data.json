@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "2024-W20",
+      "path": "Periodic Notes/Weekly Notes/2024-W20.md"
+    },
+    {
+      "basename": "2024-W18",
+      "path": "Periodic Notes/Weekly Notes/2024-W18.md"
     },
     {
       "basename": "Migrate Repo to Another Url",
       "path": "Git and GitHub/GitHub/Data/Migrate Repo to Another Url.md"
     },
     {
-      "basename": "git remote",
-      "path": "Git and GitHub/GitHub/Prompt/git remote.md"
+      "basename": "Untitled",
+      "path": "Untitled.md"
     },
     {
-      "basename": "2024-W18",
-      "path": "Periodic Notes/Weekly Notes/2024-W18.md"
+      "basename": "git remote",
+      "path": "Git and GitHub/GitHub/Prompt/git remote.md"
     },
     {
       "basename": "useReducer()",
@@ -195,10 +199,6 @@
     {
       "basename": "@extend",
       "path": "Style/SASS/@extend.md"
-    },
-    {
-      "basename": "@input()",
-      "path": "Angular/components/@input().md"
     }
   ],
   "omittedPaths": [],

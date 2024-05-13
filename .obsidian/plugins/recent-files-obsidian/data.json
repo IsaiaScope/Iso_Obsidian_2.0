@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "useReducer()",
+      "path": "React/Data/Hooks/useReducer().md"
+    },
+    {
       "basename": "2024-W20",
       "path": "Periodic Notes/Weekly Notes/2024-W20.md"
     },
@@ -13,16 +21,8 @@
       "path": "Git and GitHub/GitHub/Data/Migrate Repo to Another Url.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
       "basename": "git remote",
       "path": "Git and GitHub/GitHub/Prompt/git remote.md"
-    },
-    {
-      "basename": "useReducer()",
-      "path": "React/Data/Hooks/useReducer().md"
     },
     {
       "basename": "createContext()&useContext()",

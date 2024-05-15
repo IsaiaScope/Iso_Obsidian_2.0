@@ -1,12 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "Tizen",
-      "path": "Tizen.md"
-    },
-    {
       "basename": "2024-W20",
       "path": "Periodic Notes/Weekly Notes/2024-W20.md"
+    },
+    {
+      "basename": "Theory",
+      "path": "React Native/Data/Theory.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "React Native/Dashboard.md"
+    },
+    {
+      "basename": "Build & Publishing",
+      "path": "React Native/Data/Build & Publishing.md"
+    },
+    {
+      "basename": "Adaptive User Interface",
+      "path": "React Native/Data/Adaptive User Interface.md"
+    },
+    {
+      "basename": "app.json",
+      "path": "React Native/Data/app.json.md"
+    },
+    {
+      "basename": "Auth",
+      "path": "React Native/Data/Auth.md"
+    },
+    {
+      "basename": "Camera",
+      "path": "React Native/Data/Camera.md"
+    },
+    {
+      "basename": "Custom Button",
+      "path": "React Native/Data/Custom Button.md"
+    },
+    {
+      "basename": "Goal App",
+      "path": "React Native/Data/Goal App.md"
+    },
+    {
+      "basename": "Location",
+      "path": "React Native/Data/Location.md"
+    },
+    {
+      "basename": "Guess Number App",
+      "path": "React Native/Data/Guess Number App.md"
+    },
+    {
+      "basename": "Map",
+      "path": "React Native/Data/Map.md"
+    },
+    {
+      "basename": "Native Functionality",
+      "path": "React Native/Data/Native Functionality.md"
+    },
+    {
+      "basename": "Navigation Order App",
+      "path": "React Native/Data/Navigation Order App.md"
+    },
+    {
+      "basename": "Navigation-Form Expenses App",
+      "path": "React Native/Data/Navigation-Form Expenses App.md"
+    },
+    {
+      "basename": "Notification",
+      "path": "React Native/Data/Notification.md"
+    },
+    {
+      "basename": "Publishing",
+      "path": "React Native/Files/Publishing.pdf"
+    },
+    {
+      "basename": "Notifications",
+      "path": "React Native/Files/Notifications.pdf"
+    },
+    {
+      "basename": "How Auth Work",
+      "path": "React Native/Files/How Auth Work.pdf"
+    },
+    {
+      "basename": "Init Project",
+      "path": "React Native/Learning/Init Project.md"
+    },
+    {
+      "basename": "Tizen",
+      "path": "Tizen.md"
     },
     {
       "basename": "Create custom plugin",
@@ -119,82 +199,6 @@
     {
       "basename": "2024-W15",
       "path": "Periodic Notes/Weekly Notes/2024-W15.md"
-    },
-    {
-      "basename": "2024-W16",
-      "path": "Periodic Notes/Weekly Notes/2024-W16.md"
-    },
-    {
-      "basename": "Display Grid",
-      "path": "Style/CSS/Data/Display Grid.md"
-    },
-    {
-      "basename": "DashBoard",
-      "path": "Style/DashBoard.md"
-    },
-    {
-      "basename": "A Tale of width and max-width",
-      "path": "Style/CSS/Data/A Tale of width and max-width.md"
-    },
-    {
-      "basename": "border-box and content-box",
-      "path": "Style/CSS/Data/border-box and content-box.md"
-    },
-    {
-      "basename": "Font",
-      "path": "React/Libs/Next.js/Data/Font.md"
-    },
-    {
-      "basename": "Project Structure",
-      "path": "React/Libs/Next.js/Data/Project Structure.md"
-    },
-    {
-      "basename": "init",
-      "path": "React/Libs/Next.js/Data/init.md"
-    },
-    {
-      "basename": "Delete Local and Remote Branch",
-      "path": "Git and GitHub/GitHub/Data/Delete Local and Remote Branch.md"
-    },
-    {
-      "basename": "shadcn",
-      "path": "React/Libs/Shadcn-ui/shadcn.md"
-    },
-    {
-      "basename": "Make a Repo",
-      "path": "Git and GitHub/GitHub/Data/Make a Repo.md"
-    },
-    {
-      "basename": "Github Odds & Ends",
-      "path": "Git and GitHub/GitHub/Data/Github Odds & Ends.md"
-    },
-    {
-      "basename": "git aliases",
-      "path": "Git and GitHub/GitHub/Data/git aliases.md"
-    },
-    {
-      "basename": "Remote Branches",
-      "path": "Git and GitHub/GitHub/Data/Remote Branches.md"
-    },
-    {
-      "basename": "git push",
-      "path": "Git and GitHub/GitHub/Prompt/git push.md"
-    },
-    {
-      "basename": "Stuff",
-      "path": "Stuff.md"
-    },
-    {
-      "basename": "Init",
-      "path": "React/Libs/Framer Motion/Init.md"
-    },
-    {
-      "basename": "First Simple Snippet",
-      "path": "Three.js/Snippets/First Simple Snippet.md"
-    },
-    {
-      "basename": "icomoon",
-      "path": "isonfireCLI/doc/icomoon.md"
     }
   ],
   "omittedPaths": [],

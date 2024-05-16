@@ -5,6 +5,14 @@
       "path": "Periodic Notes/Weekly Notes/2024-W20.md"
     },
     {
+      "basename": "Stuff",
+      "path": "Stuff.md"
+    },
+    {
+      "basename": "Tizen",
+      "path": "Tizen.md"
+    },
+    {
       "basename": "Theory",
       "path": "React Native/Data/Theory.md"
     },
@@ -83,10 +91,6 @@
     {
       "basename": "Init Project",
       "path": "React Native/Learning/Init Project.md"
-    },
-    {
-      "basename": "Tizen",
-      "path": "Tizen.md"
     },
     {
       "basename": "Create custom plugin",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-W14",
       "path": "Periodic Notes/Weekly Notes/2024-W14.md"
-    },
-    {
-      "basename": "2024-W15",
-      "path": "Periodic Notes/Weekly Notes/2024-W15.md"
     }
   ],
   "omittedPaths": [],

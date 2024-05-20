@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "2024-W20",
       "path": "Periodic Notes/Weekly Notes/2024-W20.md"
     },
     {
-      "basename": "2024-W18",
-      "path": "Periodic Notes/Weekly Notes/2024-W18.md"
+      "basename": "Weekly Note Templates",
+      "path": "Periodic Notes/Templates/Weekly Note Templates.md"
+    },
+    {
+      "basename": "Tizen",
+      "path": "Tizen.md"
     },
     {
       "basename": "Stuff",
       "path": "Stuff.md"
     },
     {
-      "basename": "Tizen",
-      "path": "Tizen.md"
+      "basename": "2024-W18",
+      "path": "Periodic Notes/Weekly Notes/2024-W18.md"
     },
     {
       "basename": "Theory",
@@ -191,14 +199,6 @@
     {
       "basename": "Player Implementation",
       "path": "Players/Shaka-player/RTE/Player Implementation.md"
-    },
-    {
-      "basename": "libraries",
-      "path": "Node/npm/libraries.md"
-    },
-    {
-      "basename": "2024-W14",
-      "path": "Periodic Notes/Weekly Notes/2024-W14.md"
     }
   ],
   "omittedPaths": [],

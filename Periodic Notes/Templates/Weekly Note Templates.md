@@ -1,4 +1,4 @@
-# Riva Isaia Allocation For {{date:gggg [Week] ww}}
+# Riva Isaia Allocation For {{date:[Week ]WW - MMMM YYYY}}
 
 | PROJCTS I'M WORKING ON | TIME PER MONTH (Days) | TIME SPENT (Days) |
 | :--------------------: | :-------------------: | :---------------: |

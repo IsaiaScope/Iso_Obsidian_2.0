@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-W21",
+      "path": "Periodic Notes/Weekly Notes/2024-W21.md"
+    },
+    {
+      "basename": "Weekly Note Templates",
+      "path": "Periodic Notes/Templates/Weekly Note Templates.md"
+    },
+    {
       "basename": "Daily Note Templates",
       "path": "Periodic Notes/Templates/Daily Note Templates.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "New Note",
       "path": "Periodic Notes/Templates/New Note.md"
-    },
-    {
-      "basename": "Weekly Note Templates",
-      "path": "Periodic Notes/Templates/Weekly Note Templates.md"
     },
     {
       "basename": "2024-W20",
@@ -195,10 +199,6 @@
     {
       "basename": "Theory",
       "path": "Players/Theory.md"
-    },
-    {
-      "basename": "Theory",
-      "path": "Players/Shaka-player/Theory.md"
     }
   ],
   "omittedPaths": [],

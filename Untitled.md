@@ -9,7 +9,7 @@
 
 ## FilmBank [JIRA](https://fincons.atlassian.net/jira/software/projects/DDS/boards/9/timeline)
 
-<table>
+<table class="todo">
 <thead>
   <tr>
     <th>DONE</th>
@@ -21,7 +21,7 @@
 </thead>
 <tbody>
   <tr>
-    <td class="DONE"><input type="checkbox" unchecked id="3422a9"></td>
+    <td class="DONE"><input type="checkbox" checked id="3422a9"></td>
     <td class="LEVEL"><select id="19d3e9"><option value="1" selected="selected">Low 🟢</option><option value="2">Middle 🟡</option><option value="3">ASAP 🔴</option></select></td>
     <td class="TICKET">[]()</td>
     <td class="PROJECT"><select id="6670da"><option value="1" selected="selected">iframeplayer</option><option value="2">wordpress</option><option value="3">adminportal</option><option value="4">downloadmanager</option></select></td>
@@ -45,7 +45,7 @@
 
 ## RTE [JIRA](https://ott-jira.finconsgroup.com/secure/RapidBoard.jspa?rapidView=1&projectKey=RTEBB&view=planning.nodetail&quickFilter=1)
 
-<table>
+<table class="todo">
 <thead>
   <tr>
     <th>DONE</th>
@@ -58,7 +58,7 @@
 <tbody>
   <tr>
     <td class="DONE"><input type="checkbox" unchecked id="226a06"></td>
-    <td class="LEVEL"><select id="bb7219"><option value="1">Low 🟢</option><option value="2"> Middle🟡</option><option value="3">ASAP 🔴</option></select></td>
+    <td class="LEVEL"><select id="bb7219"><option value="1">Low 🟢</option><option value="2" selected="selected">Middle🟡</option><option value="3">ASAP 🔴</option></select></td>
     <td class="TICKET">[]()</td>
     <td class="PROJECT"><select id="60b959"><option value="1">web</option><option value="2" selected="selected">chromecast</option></select></td>
     <td class="DESCRIPTION"></td>

@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "May2024_Week-21",
+      "path": "Periodic Notes/Weekly Notes/May2024_Week-21.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Excel/Dashboard.md"
+    },
+    {
       "basename": "Create custom plugin",
       "path": "Obsidian Tutorial/Data/Create custom plugin.md"
     },
     {
       "basename": "Dashboard",
       "path": "Obsidian Tutorial/Dashboard.md"
-    },
-    {
-      "basename": "May2024_Week-21",
-      "path": "Periodic Notes/Weekly Notes/May2024_Week-21.md"
     },
     {
       "basename": "Weekly Note Templates",
@@ -195,10 +199,6 @@
     {
       "basename": "Text_Tracks",
       "path": "Players/Text_Tracks.md"
-    },
-    {
-      "basename": "Theory",
-      "path": "Players/Theory.md"
     }
   ],
   "omittedPaths": [],

@@ -29,6 +29,25 @@ git branch --set-upstream-to origin/dev
 
 if doesn't work use: `git push -u origin dev`
 
+### Note (important set up)
+
+- `repo` is the path to your GitHub repository. For example, if your GitHub repo is located at https://github.com/your-username/your-repo-name, the path is `your-username/your-repo-name`.
+- Remember to add a comma after the closing brace, `}`, of the **previous entry**.
+- A `LICENSE` (LICENCE.md) that determines how others are allowed to use the plugin and its source code. If you need help to [add a license](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository) for your plugin, refer to [Choose a License](https://choosealicense.com/).
+- `id` is unique to your plugin. Search `community-plugins.json` to confirm that there's no existing plugin with the same id. The `id` can't contain `obsidian` or `plugin`.
+
+### Note (tag to release)
+
+add a tag to release and trigger git hub action
+
+```
+git tag -a 1.0.1 -m "1.0.1"
+```
+
+```
+git push origin 1.0.1
+```
+
 ## smart-html-select-plugin
 
 [smart-html-select-plugin](https://github.com/IsaiaScope/smart-html-select-plugin)

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Create custom plugin",
+      "path": "Obsidian Tutorial/Data/Create custom plugin.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Obsidian Tutorial/Dashboard.md"
+    },
+    {
       "basename": "May2024_Week-21",
       "path": "Periodic Notes/Weekly Notes/May2024_Week-21.md"
     },
@@ -119,14 +127,6 @@
     {
       "basename": "Init Project",
       "path": "React Native/Learning/Init Project.md"
-    },
-    {
-      "basename": "Create custom plugin",
-      "path": "Obsidian Tutorial/Data/Create custom plugin.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Obsidian Tutorial/Dashboard.md"
     },
     {
       "basename": "useReducer()",

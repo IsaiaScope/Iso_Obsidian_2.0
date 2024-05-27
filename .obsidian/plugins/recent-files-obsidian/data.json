@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "Tizen",
-      "path": "Tizen.md"
-    },
-    {
       "basename": "Create custom plugin",
       "path": "Obsidian Tutorial/Data/Create custom plugin.md"
     },
@@ -21,16 +13,24 @@
       "path": "Periodic Notes/Weekly Notes/May2024_Week-22.md"
     },
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Stuff",
+      "path": "Stuff.md"
+    },
+    {
+      "basename": "Tizen",
+      "path": "Tizen.md"
+    },
+    {
       "basename": "May2024_Week-21",
       "path": "Periodic Notes/Weekly Notes/May2024_Week-21.md"
     },
     {
       "basename": "Crafting",
       "path": "POE/3.24/Toxic Rain PF/Crafting.md"
-    },
-    {
-      "basename": "Stuff",
-      "path": "Stuff.md"
     },
     {
       "basename": "file-manipulation",

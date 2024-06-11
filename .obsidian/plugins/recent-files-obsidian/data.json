@@ -5,6 +5,10 @@
       "path": "Periodic Notes/Weekly Notes/May2024_Week-22.md"
     },
     {
+      "basename": "2024-W09",
+      "path": "Periodic Notes/Weekly Notes/2024-W09.md"
+    },
+    {
       "basename": "May2024_Week-21",
       "path": "Periodic Notes/Weekly Notes/May2024_Week-21.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "type-guards",
       "path": "JS and TS/TypeScript/theory/type-guards.md"
-    },
-    {
-      "basename": "one-type-or-another",
-      "path": "JS and TS/TypeScript/theory/one-type-or-another.md"
     }
   ],
   "omittedPaths": [],

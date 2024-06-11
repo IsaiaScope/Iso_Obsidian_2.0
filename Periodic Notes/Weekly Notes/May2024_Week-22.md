@@ -1,9 +1,9 @@
 # Riva Isaia Allocation For May 2024 Week 22
 
-| PROJCTS I'M WORKING ON | TIME PER MONTH (Days) |                               TIME SPENT (Days)                                |
-| :--------------------: | :-------------------: | :----------------------------------------------------------------------------: |
-|          RTE           |          10           |                                                                                |
-|        Filmbank        |           4           | <input type="checkbox" unchecked id=""><input type="checkbox" unchecked id=""> |
+| PROJCTS I'M WORKING ON | TIME PER MONTH (Days) | TIME SPENT (Days) |
+| :--------------------: | :-------------------: | :---------------: |
+|          RTE           |          10           |                   |
+|        Filmbank        |           4           |                   |
 
 ---
 
@@ -31,7 +31,7 @@
     <td class="DONE"><input type="checkbox" unchecked id="40d19f"></td>
     <td class="LEVEL"><select id="2a76aa"><option value="1" selected="selected">Low 🟢</option><option value="2">Middle 🟡</option><option value="3">ASAP 🔴</option></select></td>
     <td class="TICKET"><a href="https://fincons.atlassian.net/browse/DDS-1031">DDS-1031</a></td>
-    <td class="PROJECT"><select id="e2554f"><option value="1">iframeplayer</option><option value="2" selected="selected">wordpress</option><option value="3">adminportal</option><option value="4">downloadmanager</option></select></td>
+    <td class="PROJECT"><select id="e2554f"><option value="1" >iframeplayer</option><option value="2" selected="selected">wordpress</option><option value="3" >adminportal</option><option value="4" >downloadmanager</option></select></td>
     <td class="DESCRIPTION">Add Studio name in the detail page</td>
   </tr>
   <tr>

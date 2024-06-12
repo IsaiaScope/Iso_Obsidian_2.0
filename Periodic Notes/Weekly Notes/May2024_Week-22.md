@@ -21,7 +21,7 @@
 </thead>
 <tbody>
   <tr>
-    <td class="DONE"><input type="checkbox" unchecked id="3422a9"></td>
+    <td class="DONE"><input type="checkbox" checked id="3422a9"></td>
     <td class="LEVEL"><select id="19d3e9"><option value="1" selected="selected">Low 🟢</option><option value="2">Middle 🟡</option><option value="3">ASAP 🔴</option></select></td>
     <td class="TICKET"><a href="https://fincons.atlassian.net/browse/DDS-1049">DDS-1049</a></td>
     <td class="PROJECT"><select id="6670da"><option value="1" >iframeplayer</option><option value="2" selected="selected">wordpress</option><option value="3" >adminportal</option><option value="4" >downloadmanager</option></select></td>
@@ -55,6 +55,13 @@
     <td class="PROJECT"><select id="98508d"><option value="1" >iframeplayer</option><option value="2" selected="selected">wordpress</option><option value="3" >adminportal</option><option value="4" >downloadmanager</option></select></td>
     <td class="DESCRIPTION">Create instance DLSU</td>
   </tr>
+  <tr>
+    <td class="DONE"><input type="checkbox" unchecked id="c6232a"></td>
+    <td class="LEVEL"><select id="dec478"><option value="1" >Low 🟢</option><option value="2" selected="selected">Middle 🟡</option><option value="3" >ASAP 🔴</option></select></td>
+    <td class="TICKET"><a href="">Untracked</a></td>
+    <td class="PROJECT"><select id="a913b4"><option value="1" selected="selected">iframeplayer</option><option value="2" >wordpress</option><option value="3" >adminportal</option><option value="4" >downloadmanager</option></select></td>
+    <td class="DESCRIPTION">su hope e demo dopo qr 'your session timed out, please refresh the page to continue'</td>
+  </tr>
 </tbody>
 </table>
 
@@ -79,17 +86,10 @@
 <tbody>
   <tr>
     <td class="DONE"><input type="checkbox" unchecked id="226a06"></td>
-    <td class="LEVEL"><select id="bb7219"><option value="1" selected="selected">Low 🟢</option><option value="2">Middle🟡</option><option value="3">ASAP 🔴</option></select></td>
-    <td class="TICKET"><a href=""></a></td>
-    <td class="PROJECT"><select id="60b959"><option value="1" selected="selected">web</option><option value="2">chromecast</option></select></td>
-    <td class="DESCRIPTION"></td>
-  </tr>
-  <tr>
-    <td class="DONE"><input type="checkbox" unchecked id="bf1fa6"></td>
-    <td class="LEVEL"><select id="26ab27"><option value="1">Low 🟢</option><option value="2">Middle 🟡</option><option value="3">ASAP 🔴</option></select></td>
-    <td class="TICKET"><a href=""></a></td>
-    <td class="PROJECT"><select id="ef570e"><option value="1">web</option><option value="2" selected="selected">chromecast</option></select></td>
-    <td class="DESCRIPTION"></td>
+    <td class="LEVEL"><select id="bb7219"><option value="1" >Low 🟢</option><option value="2" selected="selected">Middle🟡</option><option value="3" >ASAP 🔴</option></select></td>
+    <td class="TICKET"><a href="https://ott-jira.finconsgroup.com/browse/RTEBB-3775">RTEBB-3775</a></td>
+    <td class="PROJECT"><select id="60b959"><option value="1" >web</option><option value="2" selected="selected">chromecast</option></select></td>
+    <td class="DESCRIPTION">Modify Live pause behaviour - always resume playback from live edge - Part 3 - CHROMECAST(F)</td>
   </tr>
 </tbody>
 </table>

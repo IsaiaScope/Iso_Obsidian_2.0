@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "test.excalidraw",
+      "path": "Drawing/test.excalidraw.md"
+    },
+    {
       "basename": "May2024_Week-22",
       "path": "Periodic Notes/Weekly Notes/May2024_Week-22.md"
+    },
+    {
+      "basename": "May2024_Week-21",
+      "path": "Periodic Notes/Weekly Notes/May2024_Week-21.md"
     },
     {
       "basename": "Cheat Sheet TreeJs",
@@ -11,10 +19,6 @@
     {
       "basename": "2024-W09",
       "path": "Periodic Notes/Weekly Notes/2024-W09.md"
-    },
-    {
-      "basename": "May2024_Week-21",
-      "path": "Periodic Notes/Weekly Notes/May2024_Week-21.md"
     },
     {
       "basename": "Weekly Note Templates",
@@ -195,10 +199,6 @@
     {
       "basename": "Building a type-safe fetch in typescript",
       "path": "JS and TS/TypeScript/Data/Building a type-safe fetch in typescript.md"
-    },
-    {
-      "basename": "as-const",
-      "path": "JS and TS/TypeScript/theory/as-const.md"
     }
   ],
   "omittedPaths": [],

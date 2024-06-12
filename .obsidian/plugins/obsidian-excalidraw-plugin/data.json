@@ -86,7 +86,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.28",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.6",
     "libraryItems": [
       {
         "status": "unpublished",
@@ -3135,8 +3135,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "s",
-            "lineHeight": 1.1491228070175445,
-            "baseline": 33
+            "lineHeight": 1.1491228070175445
           },
           {
             "type": "text",
@@ -3176,8 +3175,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "J",
-            "lineHeight": 1.147058823529408,
-            "baseline": 29
+            "lineHeight": 1.147058823529408
           },
           {
             "type": "rectangle",
@@ -3865,8 +3863,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "webpack",
-            "lineHeight": 1.1666666666666643,
-            "baseline": 21
+            "lineHeight": 1.1666666666666643
           }
         ],
         "id": "b0EaVSPR1zvAMSJCJF5Z9",
@@ -26003,8 +26000,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Button",
-            "lineHeight": 1.25,
-            "baseline": 31
+            "lineHeight": 1.25
           }
         ],
         "id": "GAwmmQaDaHWr5CQpMgrSD",
@@ -26083,8 +26079,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Number",
-            "lineHeight": 1.25,
-            "baseline": 31
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -26336,8 +26331,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "dd/mm/yyyy",
-            "lineHeight": 1.25,
-            "baseline": 31
+            "lineHeight": 1.25
           },
           {
             "type": "rectangle",
@@ -27031,8 +27025,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Select",
-            "lineHeight": 1.25,
-            "baseline": 31
+            "lineHeight": 1.25
           },
           {
             "type": "line",
@@ -29252,8 +29245,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "JSON",
-            "lineHeight": 1.5682862358092613,
-            "baseline": 81
+            "lineHeight": 1.5682862358092613
           },
           {
             "type": "line",
@@ -32832,8 +32824,7 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": "DNS",
-            "lineHeight": 1.5723270440251587,
-            "baseline": 76
+            "lineHeight": 1.5723270440251587
           },
           {
             "type": "line",

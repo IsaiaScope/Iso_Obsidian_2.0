@@ -5,6 +5,10 @@
       "path": "Periodic Notes/Weekly Notes/May2024_Week-22.md"
     },
     {
+      "basename": "Cheat Sheet TreeJs",
+      "path": "Three.js/Cheat Sheet TreeJs.pdf"
+    },
+    {
       "basename": "2024-W09",
       "path": "Periodic Notes/Weekly Notes/2024-W09.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "as-const",
       "path": "JS and TS/TypeScript/theory/as-const.md"
-    },
-    {
-      "basename": "type-guards",
-      "path": "JS and TS/TypeScript/theory/type-guards.md"
     }
   ],
   "omittedPaths": [],

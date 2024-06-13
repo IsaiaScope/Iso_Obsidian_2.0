@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Manifest",
+      "path": "Players/Manifest.md"
+    },
+    {
+      "basename": "Cheat Sheet TreeJs",
+      "path": "Three.js/Cheat Sheet TreeJs.pdf"
+    },
+    {
+      "basename": "Theory",
+      "path": "Players/Theory.md"
+    },
+    {
+      "basename": "DRM",
+      "path": "Players/DRM.md"
+    },
+    {
       "basename": "test.excalidraw",
       "path": "Drawing/test.excalidraw.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "May2024_Week-21",
       "path": "Periodic Notes/Weekly Notes/May2024_Week-21.md"
-    },
-    {
-      "basename": "Cheat Sheet TreeJs",
-      "path": "Three.js/Cheat Sheet TreeJs.pdf"
     },
     {
       "basename": "2024-W09",
@@ -187,18 +199,6 @@
     {
       "basename": "createContext()&useContext()",
       "path": "React/Data/Hooks/createContext()&useContext().md"
-    },
-    {
-      "basename": "Textures",
-      "path": "Three.js/Data/Textures.md"
-    },
-    {
-      "basename": "Materials",
-      "path": "Three.js/Data/Materials.md"
-    },
-    {
-      "basename": "Building a type-safe fetch in typescript",
-      "path": "JS and TS/TypeScript/Data/Building a type-safe fetch in typescript.md"
     }
   ],
   "omittedPaths": [],

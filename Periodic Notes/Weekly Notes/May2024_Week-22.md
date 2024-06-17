@@ -2,8 +2,8 @@
 
 | PROJCTS I'M WORKING ON | TIME PER MONTH (Days) | TIME SPENT (Days) |
 | :--------------------: | :-------------------: | :---------------: |
-|          RTE           |          10           |                   |
-|        Filmbank        |           4           |                   |
+|          RTE           |          10           |         1         |
+|        Filmbank        |           4           |         6         |
 
 ---
 

@@ -9,7 +9,7 @@
     "enabled": true
   },
   "weekly": {
-    "format": "MMMMYYYY_[Week-]ww",
+    "format": "[Week-]ww_MMMMYYYY",
     "template": "Periodic Notes/Templates/Weekly Note Templates.md",
     "folder": "Periodic Notes/Weekly Notes",
     "enabled": true

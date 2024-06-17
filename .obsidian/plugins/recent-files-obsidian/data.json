@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Week-25_June2024",
+      "path": "Periodic Notes/Weekly Notes/Week-25_June2024.md"
+    },
+    {
+      "basename": "Cheat Sheet TreeJs",
+      "path": "Three.js/Cheat Sheet TreeJs.pdf"
+    },
+    {
       "basename": "May2024_Week-22",
       "path": "Periodic Notes/Weekly Notes/May2024_Week-22.md"
+    },
+    {
+      "basename": "May2024_Week-21",
+      "path": "Periodic Notes/Weekly Notes/May2024_Week-21.md"
     },
     {
       "basename": "Manifest",
@@ -13,20 +25,12 @@
       "path": "Players/DRM.md"
     },
     {
-      "basename": "Cheat Sheet TreeJs",
-      "path": "Three.js/Cheat Sheet TreeJs.pdf"
-    },
-    {
       "basename": "Theory",
       "path": "Players/Theory.md"
     },
     {
       "basename": "test.excalidraw",
       "path": "Drawing/test.excalidraw.md"
-    },
-    {
-      "basename": "May2024_Week-21",
-      "path": "Periodic Notes/Weekly Notes/May2024_Week-21.md"
     },
     {
       "basename": "2024-W09",
@@ -191,14 +195,6 @@
     {
       "basename": "Migrate Repo to Another Url",
       "path": "Git and GitHub/GitHub/Data/Migrate Repo to Another Url.md"
-    },
-    {
-      "basename": "git remote",
-      "path": "Git and GitHub/GitHub/Prompt/git remote.md"
-    },
-    {
-      "basename": "createContext()&useContext()",
-      "path": "React/Data/Hooks/createContext()&useContext().md"
     }
   ],
   "omittedPaths": [],

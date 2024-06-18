@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Display Flex",
+      "path": "Style/CSS/Data/Display Flex.md"
+    },
+    {
+      "basename": "DashBoard",
+      "path": "Style/DashBoard.md"
+    },
+    {
+      "basename": "Display Grid",
+      "path": "Style/CSS/Data/Display Grid.md"
+    },
+    {
+      "basename": "git init",
+      "path": "Git and GitHub/Git/Prompt/git init.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
+    },
+    {
+      "basename": "Make a Repo",
+      "path": "Git and GitHub/GitHub/Data/Make a Repo.md"
+    },
+    {
       "basename": "Week-25_June2024",
       "path": "Periodic Notes/Weekly Notes/Week-25_June2024.md"
     },
@@ -171,30 +199,6 @@
     {
       "basename": "Publishing",
       "path": "React Native/Files/Publishing.pdf"
-    },
-    {
-      "basename": "Notifications",
-      "path": "React Native/Files/Notifications.pdf"
-    },
-    {
-      "basename": "How Auth Work",
-      "path": "React Native/Files/How Auth Work.pdf"
-    },
-    {
-      "basename": "Init Project",
-      "path": "React Native/Learning/Init Project.md"
-    },
-    {
-      "basename": "useReducer()",
-      "path": "React/Data/Hooks/useReducer().md"
-    },
-    {
-      "basename": "Add Media",
-      "path": "Obsidian Tutorial/Data/Add Media.md"
-    },
-    {
-      "basename": "Migrate Repo to Another Url",
-      "path": "Git and GitHub/GitHub/Data/Migrate Repo to Another Url.md"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Week-25_June2024",
+      "path": "Periodic Notes/Weekly Notes/Week-25_June2024.md"
+    },
+    {
+      "basename": "git config",
+      "path": "Git and GitHub/Git/Prompt/git config.md"
+    },
+    {
+      "basename": "git commit",
+      "path": "Git and GitHub/Git/Prompt/git commit.md"
+    },
+    {
+      "basename": "how-react-works",
+      "path": "React/Data/Theory/how-react-works.md"
+    },
+    {
       "basename": "Display Flex",
       "path": "Style/CSS/Data/Display Flex.md"
     },
@@ -27,10 +43,6 @@
     {
       "basename": "Make a Repo",
       "path": "Git and GitHub/GitHub/Data/Make a Repo.md"
-    },
-    {
-      "basename": "Week-25_June2024",
-      "path": "Periodic Notes/Weekly Notes/Week-25_June2024.md"
     },
     {
       "basename": "Cheat Sheet TreeJs",
@@ -187,18 +199,6 @@
     {
       "basename": "Navigation Order App",
       "path": "React Native/Data/Navigation Order App.md"
-    },
-    {
-      "basename": "Navigation-Form Expenses App",
-      "path": "React Native/Data/Navigation-Form Expenses App.md"
-    },
-    {
-      "basename": "Notification",
-      "path": "React Native/Data/Notification.md"
-    },
-    {
-      "basename": "Publishing",
-      "path": "React Native/Files/Publishing.pdf"
     }
   ],
   "omittedPaths": [],

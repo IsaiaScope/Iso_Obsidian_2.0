@@ -9,6 +9,18 @@
       "path": "Three.js/Cheat Sheet TreeJs.pdf"
     },
     {
+      "basename": "test.excalidraw",
+      "path": "Drawing/test.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-06-24 10.55.59.excalidraw",
+      "path": "Drawing/Drawing 2024-06-24 10.55.59.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-06-24 10.55.59.excalidraw",
+      "path": "Drawing/Drawing 2024-06-24 10.55.59.excalidraw.svg"
+    },
+    {
       "basename": "git config",
       "path": "Git and GitHub/Git/Prompt/git config.md"
     },
@@ -67,10 +79,6 @@
     {
       "basename": "Theory",
       "path": "Players/Theory.md"
-    },
-    {
-      "basename": "test.excalidraw",
-      "path": "Drawing/test.excalidraw.md"
     },
     {
       "basename": "2024-W09",
@@ -191,14 +199,6 @@
     {
       "basename": "Map",
       "path": "React Native/Data/Map.md"
-    },
-    {
-      "basename": "Native Functionality",
-      "path": "React Native/Data/Native Functionality.md"
-    },
-    {
-      "basename": "Navigation Order App",
-      "path": "React Native/Data/Navigation Order App.md"
     }
   ],
   "omittedPaths": [],

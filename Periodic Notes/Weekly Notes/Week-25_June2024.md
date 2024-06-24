@@ -45,7 +45,7 @@
     <td class="DONE"><input type="checkbox" unchecked id="ab69a5"></td>
     <td class="LEVEL"><select id="aecff3"><option value="1" selected="selected">Low 🟢</option><option value="2">Middle 🟡</option><option value="3">ASAP 🔴</option></select></td>
     <td class="TICKET"><a href="https://fincons.atlassian.net/browse/DDS-1073">DDS-1073</a></td>
-    <td class="PROJECT"><select id="481f0c"><option value="0" selected="selected"></option><option value="1" >iframeplayer</option><option value="2" >wordpress</option><option value="3" >adminportal</option><option value="4" >downloadmanager</option></select></td>
+    <td class="PROJECT"><select id="b0339f"><option value="0" ></option><option value="1" >iframeplayer</option><option value="2" selected="selected">wordpress</option><option value="3" >adminportal</option><option value="4" >downloadmanager</option></select></td>
     <td class="DESCRIPTION">login and redirection pages: new features</td>
   </tr>
    <tr>

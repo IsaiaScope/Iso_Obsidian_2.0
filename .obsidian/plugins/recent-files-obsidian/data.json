@@ -5,6 +5,10 @@
       "path": "Periodic Notes/Weekly Notes/Week-25_June2024.md"
     },
     {
+      "basename": "Cheat Sheet TreeJs",
+      "path": "Three.js/Cheat Sheet TreeJs.pdf"
+    },
+    {
       "basename": "git config",
       "path": "Git and GitHub/Git/Prompt/git config.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Make a Repo",
       "path": "Git and GitHub/GitHub/Data/Make a Repo.md"
-    },
-    {
-      "basename": "Cheat Sheet TreeJs",
-      "path": "Three.js/Cheat Sheet TreeJs.pdf"
     },
     {
       "basename": "May2024_Week-22",

@@ -23,10 +23,39 @@
   <tr>
     <td class="DONE"><input type="checkbox" unchecked id="40d19f"></td>
     <td class="LEVEL"><select id="2a76aa"><option value="1" selected="selected">Low 🟢</option><option value="2">Middle 🟡</option><option value="3">ASAP 🔴</option></select></td>
-    <td class="TICKET"><a href=""></a></td>
-    <td class="PROJECT"><select id="e2554f"><option value="0" selected="selected"></option><option value="1" >iframeplayer</option><option value="2" >wordpress</option><option value="3" >adminportal</option><option value="4" >downloadmanager</option></select></td>
-    <td class="DESCRIPTION"></td>
+    <td class="TICKET"><a href="https://fincons.atlassian.net/browse/DDS-1032">DDS-1032</a></td>
+    <td class="PROJECT"><select id="e2554f"><option value="0" ></option><option value="1" >iframeplayer</option><option value="2" selected="selected">wordpress</option><option value="3" >adminportal</option><option value="4" >downloadmanager</option></select></td>
+    <td class="DESCRIPTION">Add the possibility to filter by Studio name (Distributor)</td>
   </tr>
+<tr>
+    <td class="DONE"><input type="checkbox" unchecked id="779a29"></td>
+    <td class="LEVEL"><select id="766daa"><option value="1" selected="selected">Low 🟢</option><option value="2">Middle 🟡</option><option value="3">ASAP 🔴</option></select></td>
+    <td class="TICKET"><a href="https://fincons.atlassian.net/browse/DDS-1058">DDS-1058</a></td>
+    <td class="PROJECT"><select id="4b3154"><option value="0" ></option><option value="1" >iframeplayer</option><option value="2" >wordpress</option><option value="3" >adminportal</option><option value="4" selected="selected">downloadmanager</option></select></td>
+    <td class="DESCRIPTION">playbility offline content not between bookings</td>
+  </tr>
+ <tr>
+    <td class="DONE"><input type="checkbox" unchecked id="f8d326"></td>
+    <td class="LEVEL"><select id="aecff3"><option value="1" selected="selected">Low 🟢</option><option value="2">Middle 🟡</option><option value="3">ASAP 🔴</option></select></td>
+    <td class="TICKET"><a href="https://fincons.atlassian.net/browse/DDS-1075">DDS-1075</a></td>
+    <td class="PROJECT"><select id="481f0c"><option value="0" ></option><option value="1" >iframeplayer</option><option value="2" selected="selected">wordpress</option><option value="3" >adminportal</option><option value="4" >downloadmanager</option></select></td>
+    <td class="DESCRIPTION">add distributor field in title manager</td>
+  </tr>
+   <tr>
+    <td class="DONE"><input type="checkbox" unchecked id="ab69a5"></td>
+    <td class="LEVEL"><select id="aecff3"><option value="1" selected="selected">Low 🟢</option><option value="2">Middle 🟡</option><option value="3">ASAP 🔴</option></select></td>
+    <td class="TICKET"><a href="https://fincons.atlassian.net/browse/DDS-1073">DDS-1073</a></td>
+    <td class="PROJECT"><select id="481f0c"><option value="0" selected="selected"></option><option value="1" >iframeplayer</option><option value="2" >wordpress</option><option value="3" >adminportal</option><option value="4" >downloadmanager</option></select></td>
+    <td class="DESCRIPTION">login and redirection pages: new features</td>
+  </tr>
+   <tr>
+    <td class="DONE"><input type="checkbox" unchecked id="97f1af"></td>
+    <td class="LEVEL"><select id="3d70a3"><option value="1" selected="selected">Low 🟢</option><option value="2">Middle 🟡</option><option value="3">ASAP 🔴</option></select></td>
+    <td class="TICKET"><a href="https://fincons.atlassian.net/browse/DDS-1045">DDS-1045</a></td>
+    <td class="PROJECT"><select id="ec5759"><option value="0" ></option><option value="1" >iframeplayer</option><option value="2" selected="selected">wordpress</option><option value="3" >adminportal</option><option value="4" >downloadmanager</option></select></td>
+    <td class="DESCRIPTION">Introduction of the new metadata field "theatricalReleaseDate"</td>
+  </tr>
+  
 </tbody>
 </table>
 

@@ -86,7 +86,7 @@
 </thead>
 <tbody>
   <tr>
-    <td class="DONE"><input type="checkbox" unchecked id="3422a9"></td>
+    <td class="DONE"><input type="checkbox" checked id="3422a9"></td>
     <td class="LEVEL"><select id="19d3e9"><option value="1" selected="selected">Low 🟢</option><option value="2">Middle 🟡</option><option value="3">ASAP 🔴</option></select></td>
     <td class="TICKET"><a href="https://ott-jira.finconsgroup.com/browse/RTEBB-3652">RTEBB-3652</a></td>
 	   <td class="PROJECT"><select id="ff2ca7"><option value="0" ></option><option value="1" >web</option><option value="2" >chromecast</option><option value="3" selected="selected">smart tv</option></select></td>

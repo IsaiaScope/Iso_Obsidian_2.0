@@ -28,7 +28,7 @@
     <td class="DESCRIPTION">Add the possibility to filter by Studio name (Distributor)</td>
   </tr>
 <tr>
-    <td class="DONE"><input type="checkbox" unchecked id="779a29"></td>
+    <td class="DONE"><input type="checkbox" checked id="779a29"></td>
     <td class="LEVEL"><select id="766daa"><option value="1" >Low 🟢</option><option value="2" selected="selected">Middle 🟡</option><option value="3" >ASAP 🔴</option></select></td>
     <td class="TICKET"><a href="https://fincons.atlassian.net/browse/DDS-1058">DDS-1058</a></td>
     <td class="PROJECT"><select id="4b3154"><option value="0" ></option><option value="1" >iframeplayer</option><option value="2" >wordpress</option><option value="3" >adminportal</option><option value="4" selected="selected">downloadmanager</option></select></td>
@@ -56,7 +56,7 @@
     <td class="DESCRIPTION">Introduction of the new metadata field "theatricalReleaseDate"</td>
   </tr>
  <tr>
-    <td class="DONE"><input type="checkbox" unchecked id="73bf74"></td>
+    <td class="DONE"><input type="checkbox" checked id="73bf74"></td>
     <td class="LEVEL"><select id="6e059b"><option value="1" >Low 🟢</option><option value="2" selected="selected">Middle 🟡</option><option value="3" >ASAP 🔴</option></select></td>
     <td class="TICKET"><a href="https://fincons.atlassian.net/browse/DDS-1072">DDS-1072</a></td>
     <td class="PROJECT"><select id="69109c"><option value="0" ></option><option value="1" >iframeplayer</option><option value="2" >wordpress</option><option value="3" >adminportal</option><option value="4" selected="selected">downloadmanager</option></select></td>

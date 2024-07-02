@@ -92,6 +92,13 @@
 	   <td class="PROJECT"><select id="ff2ca7"><option value="0" ></option><option value="1" >web</option><option value="2" >chromecast</option><option value="3" selected="selected">smart tv</option></select></td>
     <td class="DESCRIPTION">QR SIGN IN SMART TV</td>
   </tr>
+<tr>
+    <td class="DONE"><input type="checkbox" unchecked id="0b3e94"></td>
+    <td class="LEVEL"><select id="e1e97e"><option value="1" selected="selected">Low 🟢</option><option value="2">Middle 🟡</option><option value="3">ASAP 🔴</option></select></td>
+    <td class="TICKET"><a href="https://ott-jira.finconsgroup.com/browse/RTEBB-3974">RTEBB-3974</a></td>
+	   <td class="PROJECT"><select id="88cc67"><option value="0" ></option><option value="1" selected="selected">web</option><option value="2" >chromecast</option><option value="3" >smart tv</option></select></td>
+    <td class="DESCRIPTION">Web Shaka - Chrome Mobile - ads cut</td>
+  </tr>
 </tbody>
 </table>
 

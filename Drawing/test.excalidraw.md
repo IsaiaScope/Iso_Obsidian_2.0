@@ -88,7 +88,10 @@ to FE
 
 do login ^MQNMnXY7
 
-profile.html ^pG26kHCg
+profile.html
++
+cookies with spotify
+data ^pG26kHCg
 
 %%
 # Drawing
@@ -3017,8 +3020,8 @@ profile.html ^pG26kHCg
 		},
 		{
 			"type": "text",
-			"version": 425,
-			"versionNonce": 1687685444,
+			"version": 503,
+			"versionNonce": 416489084,
 			"isDeleted": false,
 			"id": "pG26kHCg",
 			"fillStyle": "hachure",
@@ -3027,28 +3030,28 @@ profile.html ^pG26kHCg
 			"roughness": 2,
 			"opacity": 50,
 			"angle": 0,
-			"x": 9986.90942919318,
-			"y": -1599.6992427160303,
+			"x": 9766.527824317342,
+			"y": -1736.8420998588872,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 546.951904296875,
-			"height": 130.95681501528705,
+			"width": 889.1434762137287,
+			"height": 462.060850326068,
 			"seed": 1696277372,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1719918615618,
+			"updated": 1719919881064,
 			"link": null,
 			"locked": false,
-			"fontSize": 104.76545201222963,
+			"fontSize": 92.41217006521357,
 			"fontFamily": 1,
-			"text": "profile.html",
-			"rawText": "profile.html",
+			"text": "profile.html\n+\ncookies with spotify\ndata",
+			"rawText": "profile.html\n+\ncookies with spotify\ndata",
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "profile.html",
+			"originalText": "profile.html\n+\ncookies with spotify\ndata",
 			"lineHeight": 1.25
 		},
 		{
@@ -4130,10 +4133,10 @@ profile.html ^pG26kHCg
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -1940.470638735589,
-		"scrollY": 4414.223720356819,
+		"scrollX": -5041.49724227494,
+		"scrollY": 2634.9554237120406,
 		"zoom": {
-			"value": 0.2
+			"value": 0.35
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

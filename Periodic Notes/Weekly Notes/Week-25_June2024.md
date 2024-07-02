@@ -35,10 +35,10 @@
     <td class="DESCRIPTION">playbility offline content not between bookings</td>
   </tr>
  <tr>
-    <td class="DONE"><input type="checkbox" unchecked id="f8d326"></td>
+    <td class="DONE"><input type="checkbox" checked id="f8d326"></td>
     <td class="LEVEL"><select id="aecff3"><option value="1" selected="selected">Low 🟢</option><option value="2">Middle 🟡</option><option value="3">ASAP 🔴</option></select></td>
     <td class="TICKET"><a href="https://fincons.atlassian.net/browse/DDS-1075">DDS-1075</a></td>
-    <td class="PROJECT"><select id="481f0c"><option value="0" ></option><option value="1" >iframeplayer</option><option value="2" selected="selected">wordpress</option><option value="3" >adminportal</option><option value="4" >downloadmanager</option></select></td>
+    <td class="PROJECT"><select id="481f0c"><option value="0" ></option><option value="1" >iframeplayer</option><option value="2" >wordpress</option><option value="3" selected="selected">adminportal</option><option value="4" >downloadmanager</option></select></td>
     <td class="DESCRIPTION">add distributor field in title manager</td>
   </tr>
    <tr>

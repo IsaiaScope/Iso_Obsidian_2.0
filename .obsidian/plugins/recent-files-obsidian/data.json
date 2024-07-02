@@ -9,6 +9,10 @@
       "path": "Three.js/Cheat Sheet TreeJs.pdf"
     },
     {
+      "basename": "May2024_Week-22",
+      "path": "Periodic Notes/Weekly Notes/May2024_Week-22.md"
+    },
+    {
       "basename": "test.excalidraw",
       "path": "Drawing/test.excalidraw.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "Make a Repo",
       "path": "Git and GitHub/GitHub/Data/Make a Repo.md"
-    },
-    {
-      "basename": "May2024_Week-22",
-      "path": "Periodic Notes/Weekly Notes/May2024_Week-22.md"
     },
     {
       "basename": "May2024_Week-21",

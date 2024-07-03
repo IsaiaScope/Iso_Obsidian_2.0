@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "git remote",
+      "path": "Git and GitHub/GitHub/Prompt/git remote.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
+      "basename": "Migrate Repo to Another Url",
+      "path": "Git and GitHub/GitHub/Data/Migrate Repo to Another Url.md"
+    },
+    {
       "basename": "test.excalidraw",
       "path": "Drawing/test.excalidraw.md"
     },
@@ -51,14 +67,6 @@
     {
       "basename": "git init",
       "path": "Git and GitHub/Git/Prompt/git init.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
     },
     {
       "basename": "Make a Repo",
@@ -191,14 +199,6 @@
     {
       "basename": "Location",
       "path": "React Native/Data/Location.md"
-    },
-    {
-      "basename": "Guess Number App",
-      "path": "React Native/Data/Guess Number App.md"
-    },
-    {
-      "basename": "Map",
-      "path": "React Native/Data/Map.md"
     }
   ],
   "omittedPaths": [],

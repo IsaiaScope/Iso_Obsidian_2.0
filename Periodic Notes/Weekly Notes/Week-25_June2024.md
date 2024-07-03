@@ -21,7 +21,7 @@
 </thead>
 <tbody>
   <tr>
-    <td class="DONE"><input type="checkbox" unchecked id="40d19f"></td>
+    <td class="DONE"><input type="checkbox" checked id="40d19f"></td>
     <td class="LEVEL"><select id="2a76aa"><option value="1" selected="selected">Low 🟢</option><option value="2" >Middle 🟡</option><option value="3" >ASAP 🔴</option></select></td>
     <td class="TICKET"><a href="https://fincons.atlassian.net/browse/DDS-1032">DDS-1032</a></td>
     <td class="PROJECT"><select id="e2554f"><option value="0" ></option><option value="1" >iframeplayer</option><option value="2" selected="selected">wordpress</option><option value="3" >adminportal</option><option value="4" >downloadmanager</option></select></td>

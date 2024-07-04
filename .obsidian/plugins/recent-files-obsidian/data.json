@@ -5,6 +5,46 @@
       "path": "Periodic Notes/Weekly Notes/Week-25_June2024.md"
     },
     {
+      "basename": "Upgrade shaka-player",
+      "path": "Players/Shaka-player/Filmbank/Upgrade shaka-player.md"
+    },
+    {
+      "basename": "Create Linux environment",
+      "path": "Players/Create Linux environment.md"
+    },
+    {
+      "basename": "Testing Shaka build",
+      "path": "Players/Shaka-player/Filmbank/Testing Shaka build.md"
+    },
+    {
+      "basename": "Cheat Sheet TreeJs",
+      "path": "Three.js/Cheat Sheet TreeJs.pdf"
+    },
+    {
+      "basename": "Player Implementation",
+      "path": "Players/Shaka-player/RTE/Player Implementation.md"
+    },
+    {
+      "basename": "Theory",
+      "path": "Players/Shaka-player/Theory.md"
+    },
+    {
+      "basename": "DRM",
+      "path": "Players/DRM.md"
+    },
+    {
+      "basename": "Manifest",
+      "path": "Players/Manifest.md"
+    },
+    {
+      "basename": "Text_Tracks",
+      "path": "Players/Text_Tracks.md"
+    },
+    {
+      "basename": "Theory",
+      "path": "Players/Theory.md"
+    },
+    {
       "basename": "git remote",
       "path": "Git and GitHub/GitHub/Prompt/git remote.md"
     },
@@ -27,10 +67,6 @@
     {
       "basename": "May2024_Week-22",
       "path": "Periodic Notes/Weekly Notes/May2024_Week-22.md"
-    },
-    {
-      "basename": "Cheat Sheet TreeJs",
-      "path": "Three.js/Cheat Sheet TreeJs.pdf"
     },
     {
       "basename": "Drawing 2024-06-24 10.55.59.excalidraw",
@@ -75,18 +111,6 @@
     {
       "basename": "May2024_Week-21",
       "path": "Periodic Notes/Weekly Notes/May2024_Week-21.md"
-    },
-    {
-      "basename": "Manifest",
-      "path": "Players/Manifest.md"
-    },
-    {
-      "basename": "DRM",
-      "path": "Players/DRM.md"
-    },
-    {
-      "basename": "Theory",
-      "path": "Players/Theory.md"
     },
     {
       "basename": "2024-W09",
@@ -175,30 +199,6 @@
     {
       "basename": "Adaptive User Interface",
       "path": "React Native/Data/Adaptive User Interface.md"
-    },
-    {
-      "basename": "app.json",
-      "path": "React Native/Data/app.json.md"
-    },
-    {
-      "basename": "Auth",
-      "path": "React Native/Data/Auth.md"
-    },
-    {
-      "basename": "Camera",
-      "path": "React Native/Data/Camera.md"
-    },
-    {
-      "basename": "Custom Button",
-      "path": "React Native/Data/Custom Button.md"
-    },
-    {
-      "basename": "Goal App",
-      "path": "React Native/Data/Goal App.md"
-    },
-    {
-      "basename": "Location",
-      "path": "React Native/Data/Location.md"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Font",
+      "path": "VS Code/Data/Font.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "VS Code/Dashboard.md"
+    },
+    {
       "basename": "Week-25_June2024",
       "path": "Periodic Notes/Weekly Notes/Week-25_June2024.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Dashboard",
       "path": "React Native/Dashboard.md"
-    },
-    {
-      "basename": "Build & Publishing",
-      "path": "React Native/Data/Build & Publishing.md"
-    },
-    {
-      "basename": "Adaptive User Interface",
-      "path": "React Native/Data/Adaptive User Interface.md"
     }
   ],
   "omittedPaths": [],

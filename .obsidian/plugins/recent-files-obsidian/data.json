@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Scaffolding React App (Vite)",
+      "path": "Scaffolding React App (Vite).md"
+    },
+    {
       "basename": "shadcn",
       "path": "React/Libs/Shadcn-ui/shadcn.md"
     },
@@ -9,8 +13,12 @@
       "path": "React/Libs/Shadcn-ui/style.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "Create Linux environment",
+      "path": "Players/Create Linux environment.md"
+    },
+    {
+      "basename": "Shortcuts VS Code",
+      "path": "VS Code/Data/Shortcuts VS Code.md"
     },
     {
       "basename": "Tizen",
@@ -35,10 +43,6 @@
     {
       "basename": "Upgrade shaka-player",
       "path": "Players/Shaka-player/Filmbank/Upgrade shaka-player.md"
-    },
-    {
-      "basename": "Create Linux environment",
-      "path": "Players/Create Linux environment.md"
     },
     {
       "basename": "Testing Shaka build",
@@ -195,10 +199,6 @@
     {
       "basename": "New Note",
       "path": "Periodic Notes/Templates/New Note.md"
-    },
-    {
-      "basename": "2024-W18",
-      "path": "Periodic Notes/Weekly Notes/2024-W18.md"
     }
   ],
   "omittedPaths": [],

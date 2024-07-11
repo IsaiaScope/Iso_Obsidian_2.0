@@ -1,3 +1,5 @@
+# Backend
+
 tsx flags supported
 https://nodejs.org/docs/latest-v20.x/api/cli.html
 
@@ -8,10 +10,17 @@ https://pnpm.io/filtering
 
 ---
 
-be hono
-https://hono.dev/
+## Hono for server building
+
+[Hono[(https://hono.dev/docs/)
+
+```
+pnpm create hono@latest
+```
 
 ---
+
+# Frontend
 
 ## Style
 
@@ -48,6 +57,8 @@ export function cn(...inputs: ClassValue[]) {
 - [ ] now u can style :)
 - [ ] _NOTE_ in `tailwind.config.ts` you cannot use `tsconfig.json` path aliases
 
+---
+
 ## UI
 
 ### Shadcn
@@ -63,6 +74,7 @@ Step to configure with [`vite@5.3.1`](https://ui.shadcn.com/docs/installation/vi
 ```json
   "compilerOptions": {
     "paths": {
+      // shadcn read just `tsconfig.json` so we need to add it here for components.json
       "@shadcn": ["./src/components/shadcn"]
     }
   }
@@ -86,6 +98,7 @@ Step to configure with [`vite@5.3.1`](https://ui.shadcn.com/docs/installation/vi
 	"compilerOptions": {
 	    "paths": {
 	      "@cn": ["./src/utility/style/twMerge-clsx-utility-class.ts"],
+	      // this alias is for the shared components import correct into components/shadcn folder
 	      "@shadcn/*": ["./src/components/shadcn/*"],
 	 }
 ```
@@ -110,3 +123,5 @@ Step to configure with [`vite@5.3.1`](https://ui.shadcn.com/docs/installation/vi
     ],
   },
 ```
+
+---

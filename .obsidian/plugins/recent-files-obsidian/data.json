@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "git remote",
+      "path": "Git and GitHub/GitHub/Prompt/git remote.md"
+    },
+    {
       "basename": "Font",
       "path": "VS Code/Data/Font.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "Theory",
       "path": "Players/Theory.md"
-    },
-    {
-      "basename": "git remote",
-      "path": "Git and GitHub/GitHub/Prompt/git remote.md"
     },
     {
       "basename": "Summary",

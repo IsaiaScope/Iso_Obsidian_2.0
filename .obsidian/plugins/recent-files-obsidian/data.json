@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "shadcn",
+      "path": "React/Libs/Shadcn-ui/shadcn.md"
+    },
+    {
+      "basename": "style",
+      "path": "React/Libs/Shadcn-ui/style.md"
+    },
+    {
       "basename": "Untitled",
       "path": "Untitled.md"
+    },
+    {
+      "basename": "Tizen",
+      "path": "Tizen.md"
     },
     {
       "basename": "git remote",
@@ -145,10 +157,6 @@
       "path": "Stuff.md"
     },
     {
-      "basename": "Tizen",
-      "path": "Tizen.md"
-    },
-    {
       "basename": "Crafting",
       "path": "POE/3.24/Toxic Rain PF/Crafting.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2024-W18",
       "path": "Periodic Notes/Weekly Notes/2024-W18.md"
-    },
-    {
-      "basename": "Theory",
-      "path": "React Native/Data/Theory.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "React Native/Dashboard.md"
     }
   ],
   "omittedPaths": [],

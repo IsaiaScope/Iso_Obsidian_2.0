@@ -17,13 +17,14 @@ tw
 https://tailwindcss.com/docs/guides/vite
 
 ```shell
-npm install -D prettier prettier-plugin-tailwindcss tailwindcss postcss autoprefixer tailwind-merge clsx
+pnpm install -D prettier prettier-plugin-tailwindcss tailwindcss postcss autoprefixer tailwind-merge clsx
+```
+```
+npx tailwindcss init -p
 ```
 
-- [ ] npx tailwindcss init -p than follow https://tailwindcss.com/docs/guides/vite
-- [ ] create prettier.config.js
-
-
+- [ ] after `npx tailwindcss init -p` than follow https://tailwindcss.com/docs/guides/vite
+- [ ] create prettier.config.js in the root of all project
 
 ```js
 module.exports = {
@@ -31,4 +32,15 @@ module.exports = {
 };
 ```
 
-- [ ] 
+- [ ] create `twMerge-clsx-utility-class.ts`
+
+```ts
+import { type ClassValue, clsx } from 'clsx';
+import { twMerge } from 'tailwind-merge';
+ 
+export function cn(...inputs: ClassValue[]) {
+  return twMerge(clsx(inputs));
+}
+```
+
+- [ ] now u can style :)

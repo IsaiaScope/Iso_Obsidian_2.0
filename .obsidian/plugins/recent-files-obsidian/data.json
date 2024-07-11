@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "git remote",
       "path": "Git and GitHub/GitHub/Prompt/git remote.md"
     },
@@ -127,10 +131,6 @@
     {
       "basename": "Weekly Note Templates",
       "path": "Periodic Notes/Templates/Weekly Note Templates.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     },
     {
       "basename": "Create custom plugin",

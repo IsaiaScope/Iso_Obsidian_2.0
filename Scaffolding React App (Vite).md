@@ -12,11 +12,29 @@ https://pnpm.io/filtering
 
 ## Hono for server building
 
-[Hono[(https://hono.dev/docs/)
+[Hono](https://hono.dev/docs/)
 
 ```
 pnpm create hono@latest
 ```
+
+## Setup a proxy (Avoid CORS in develop)
+
+- [ ] in `vite.config.ts`, forward any request that start with `/api` to port 3000 actually our BE
+
+```json
+  server: {
+    proxy: {
+     "/api": {
+	     target: "http://127.0.0.1:3000",
+	     changeOrigin: true,
+      },
+    }
+  },
+```
+
+- [ ] _NOTE_ if `target: http://localhost:3000` doesn't work mean your server is not configured to listen on IPv6, you can force Vite to use the IPv4 address `127.0.0.1` instead.
+- [ ] _NOTE_ example: `FE: fetchUrl = "/api/events"`; `BE: "/api/events" must be a valid route`
 
 ---
 

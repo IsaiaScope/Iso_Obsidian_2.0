@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Week-25_June2024",
+      "path": "Periodic Notes/Weekly Notes/Week-25_June2024.md"
+    },
+    {
       "basename": "Scaffolding React App (Vite)",
       "path": "Scaffolding React App (Vite).md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Dashboard",
       "path": "VS Code/Dashboard.md"
-    },
-    {
-      "basename": "Week-25_June2024",
-      "path": "Periodic Notes/Weekly Notes/Week-25_June2024.md"
     },
     {
       "basename": "Upgrade shaka-player",

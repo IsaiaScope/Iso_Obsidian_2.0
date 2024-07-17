@@ -5,6 +5,10 @@
       "path": "Docker/docker.md"
     },
     {
+      "basename": "Pasted image 20240717125827",
+      "path": "Docker/Pasted image 20240717125827.png"
+    },
+    {
       "basename": "Scaffolding React App (Vite)",
       "path": "Scaffolding React App (Vite).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Daily Note Templates",
       "path": "Periodic Notes/Templates/Daily Note Templates.md"
-    },
-    {
-      "basename": "New Dashboard",
-      "path": "Periodic Notes/Templates/New Dashboard.md"
     }
   ],
   "omittedPaths": [],

@@ -4,7 +4,7 @@
   "spellcheckLanguages": null,
   "livePreview": false,
   "defaultViewMode": "preview",
-  "attachmentFolderPath": "Test/Jest/Images",
+  "attachmentFolderPath": "./",
   "showLineNumber": false,
   "alwaysUpdateLinks": true,
   "showInlineTitle": false,

@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Week-25_June2024",
-      "path": "Periodic Notes/Weekly Notes/Week-25_June2024.md"
+      "basename": "docker",
+      "path": "Docker/docker.md"
     },
     {
       "basename": "Scaffolding React App (Vite)",
       "path": "Scaffolding React App (Vite).md"
+    },
+    {
+      "basename": "Stuff",
+      "path": "Stuff.md"
+    },
+    {
+      "basename": "Week-25_June2024",
+      "path": "Periodic Notes/Weekly Notes/Week-25_June2024.md"
     },
     {
       "basename": "shadcn",
@@ -157,10 +165,6 @@
       "path": "Obsidian Tutorial/Dashboard.md"
     },
     {
-      "basename": "Stuff",
-      "path": "Stuff.md"
-    },
-    {
       "basename": "Crafting",
       "path": "POE/3.24/Toxic Rain PF/Crafting.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "New Dashboard",
       "path": "Periodic Notes/Templates/New Dashboard.md"
-    },
-    {
-      "basename": "New Note",
-      "path": "Periodic Notes/Templates/New Note.md"
     }
   ],
   "omittedPaths": [],

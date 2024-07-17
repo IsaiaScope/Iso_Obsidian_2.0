@@ -11,4 +11,4 @@ this technique is commonly used in the cloud if you're deploying something to AW
 ## containerization 
 which is the thing that Docker is kind of based around, in container setup what you would do is you would have a host PC much like the virtualization setup that we set up before now let's say on this host PC we want to run a set of processes but we want these processes to run in isolation we don't want them to touch anything
 else now we can achieve that using some technics like the _CH root command_ which will create a new route for a process so it can only live inside that
-root and it can't touch anything outside of that like any of the other users directories or things like that that are already on the system.  We could also 
+root and it can't touch anything outside of that like any of the other users directories or things like that that are already on the system.  We could also use a kernel feature like the r 

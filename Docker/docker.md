@@ -14,3 +14,9 @@ which is the thing that Docker is kind of based around. In container setup; what
 else now we can achieve that using some technics like the _CH root command_ which will create a new root for a process so it can only live inside that
 root and it can't touch anything outside of that like any of the other users directories or things like that that are already on the system. We could also use a kernel feature like the _rlimit_ feature which will limit the amount of resources these processes take up. Those techniques amongst other things compass what is containerization. With containerization you could do all this manually yourself but it's really difficult and pretty tricky so there are programs that help manage the life cycle of your containers this is where Docker comes into play. _Docker is a program that manages the life cycles of containers edit them, run them and interact with them. them so to sum up containerization is the ability to create a lightweight environment where processes can run on a host operating system they share all the
 same things in that operating system but they cannot touch anything outside of their little bounded box_
+
+Docker does that by packaging an application into something 
+
+## Install
+
+- [Debian](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-debian-10)

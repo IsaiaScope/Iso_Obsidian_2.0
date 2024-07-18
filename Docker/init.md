@@ -2,7 +2,7 @@
 
 ## virtualisation
 
-- [[Pasted image 20240717125827.png | virtualisation]]
+- [[virtualization.png| virtualisation]]
 
 _host_ could be anything it could be your local PC it could a server up in the cloud and whatever it is it's a piece of Hardware, what happens is we take little pieces of each of these pieces of hardware (CPU, memory, I/O - hard-drive) and separate them out into a separate machine this is a _virtual machine_.
 then we take these pieces of hardware and in this virtual machine we actually run a full entire operating system.
@@ -20,7 +20,15 @@ else now we can achieve that using some technics like the _CH root command_ whic
 root and it can't touch anything outside of that like any of the other users directories or things like that that are already on the system. We could also use a kernel feature like the _rlimit_ feature which will limit the amount of resources these processes take up. Those techniques amongst other things compass what is containerization. With containerization you could do all this manually yourself but it's really difficult and pretty tricky so there are programs that help manage the life cycle of your containers this is where Docker comes into play. _Docker is a program that manages the life cycles of containers edit them, run them and interact with them. them so to sum up containerization is the ability to create a lightweight environment where processes can run on a host operating system they share all the
 same things in that operating system but they cannot touch anything outside of their little bounded box_
 
-## 
+## Theory
+
+![[how an OS is made up.png]]
+![[Pasted image 20240718113901.png]]
+![[Pasted image 20240718113959.png]]
+Docker operates just to Application level so It's needs is Linux environment to run, instead VMs have inside also the Kernel (basically window, Linux and OS system in general). This way the images are very tiny and fast
+![[Pasted image 20240718114025.png]]
+To make possible to run Linux based container on windows tool like Docker Desktop are necessary
+![[Pasted image 20240718114134.png]]
 
 ---
 

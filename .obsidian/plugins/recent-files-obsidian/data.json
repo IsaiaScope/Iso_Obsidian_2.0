@@ -5,8 +5,12 @@
       "path": "Docker/init.md"
     },
     {
-      "basename": "Pasted image 20240717125827",
-      "path": "Docker/Pasted image 20240717125827.png"
+      "basename": "how an OS is made up",
+      "path": "Docker/how an OS is made up.png"
+    },
+    {
+      "basename": "virtualization",
+      "path": "Docker/virtualization.png"
     },
     {
       "basename": "Scaffolding React App (Vite)",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-W20",
       "path": "Periodic Notes/Weekly Notes/2024-W20.md"
-    },
-    {
-      "basename": "Daily Note Templates",
-      "path": "Periodic Notes/Templates/Daily Note Templates.md"
     }
   ],
   "omittedPaths": [],

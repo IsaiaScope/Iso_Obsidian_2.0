@@ -63,12 +63,16 @@ docker run {name}:{tag/version} = Creates a container from given image and start
 -d or --detach = Runs container in background and prints the container ID, prevent terminal to lock and keep working in it
 -p or --publish = Publish a container's port to the host
 -p {HOST_PORT}: {CONTAINER_PORT}
-docker run -d -p 9000:80 nginx:1.23 = expose container at localhost 9000
-![[Pasted image 20240718155505.png]]
+docker run -d -p 9000:80 nginx:1.23 = expose container at localhost 9000, Standard to use the same port on your host as container is using
+-a or --all = Lists all containers (stopped and running)
+
+_NOTE_ every docker run create a new container every time even they are not running they are persisting
 
 docker logs {container ID} = View logs from service running inside the container. (which are present at the time of execution)
 
 docker stop {container ID} = Stop one or more running containers
+
+docker start {container} = Start one or more stopped containers
 
 ### containers
 

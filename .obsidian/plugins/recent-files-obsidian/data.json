@@ -5,12 +5,12 @@
       "path": "Docker/init.md"
     },
     {
-      "basename": "how an OS is made up",
-      "path": "Docker/how an OS is made up.png"
-    },
-    {
       "basename": "Week-30_July2024",
       "path": "Periodic Notes/Weekly Notes/Week-30_July2024.md"
+    },
+    {
+      "basename": "how an OS is made up",
+      "path": "Docker/how an OS is made up.png"
     },
     {
       "basename": "Nextjs",
@@ -195,10 +195,6 @@
     {
       "basename": "file-manipulation",
       "path": "PowerShell/data/file-manipulation.md"
-    },
-    {
-      "basename": "Ricerche complesse",
-      "path": "Obsidian Tutorial/Data/Ricerche complesse.md"
     }
   ],
   "omittedPaths": [],

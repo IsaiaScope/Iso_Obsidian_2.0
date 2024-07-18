@@ -1,4 +1,5 @@
 [Docker YT - Theory](https://www.youtube.com/watch?v=Ud7Npgi6x8E)
+[Docker YT - Theory in Deept](https://www.youtube.com/watch?v=pg19Z8LL06w)
 
 ## virtualisation
 
@@ -29,6 +30,28 @@ Docker operates just to Application level so It's needs is Linux environment to 
 ![[Pasted image 20240718114025.png]]
 To make possible to run Linux based container on windows tool like Docker Desktop are necessary
 ![[Pasted image 20240718114134.png]]
+
+## images
+
+![[Pasted image 20240718122852.png]]
+![[Pasted image 20240718123044.png]]
+![[Pasted image 20240718123114.png]]
+![[Pasted image 20240718123148.png]]
+![[Pasted image 20240718123448.png]]
+Images registry - Docker hub
+![[Pasted image 20240718123605.png]]
+![[Pasted image 20240718123633.png]]
+![[Pasted image 20240718123813.png]]
+
+## prompt
+
+### images
+
+docker images = List all Docker images
+
+### containers
+
+docker ps = List running containers
 
 ---
 

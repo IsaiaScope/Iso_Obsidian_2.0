@@ -5,6 +5,18 @@
       "path": "Docker/init.md"
     },
     {
+      "basename": "Nextjs",
+      "path": "Certificates/Udemy/React/Nextjs.pdf"
+    },
+    {
+      "basename": "React",
+      "path": "Certificates/Udemy/React/React.pdf"
+    },
+    {
+      "basename": "React Native",
+      "path": "Certificates/Udemy/React/React Native.pdf"
+    },
+    {
       "basename": "how an OS is made up",
       "path": "Docker/how an OS is made up.png"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "reference-package-version-inside",
       "path": "Node/package.json/reference-package-version-inside.md"
-    },
-    {
-      "basename": "libraries",
-      "path": "Node/npm/libraries.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Excel/Dashboard.md"
-    },
-    {
-      "basename": "2024-W20",
-      "path": "Periodic Notes/Weekly Notes/2024-W20.md"
     }
   ],
   "omittedPaths": [],

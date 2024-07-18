@@ -5,6 +5,14 @@
       "path": "Docker/init.md"
     },
     {
+      "basename": "how an OS is made up",
+      "path": "Docker/how an OS is made up.png"
+    },
+    {
+      "basename": "Week-30_July2024",
+      "path": "Periodic Notes/Weekly Notes/Week-30_July2024.md"
+    },
+    {
       "basename": "Nextjs",
       "path": "Certificates/Udemy/React/Nextjs.pdf"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "React Native",
       "path": "Certificates/Udemy/React/React Native.pdf"
-    },
-    {
-      "basename": "how an OS is made up",
-      "path": "Docker/how an OS is made up.png"
     },
     {
       "basename": "virtualization",
@@ -195,10 +199,6 @@
     {
       "basename": "Ricerche complesse",
       "path": "Obsidian Tutorial/Data/Ricerche complesse.md"
-    },
-    {
-      "basename": "reference-package-version-inside",
-      "path": "Node/package.json/reference-package-version-inside.md"
     }
   ],
   "omittedPaths": [],

@@ -43,11 +43,32 @@ Images registry - Docker hub
 ![[Pasted image 20240718123633.png]]
 ![[Pasted image 20240718123813.png]]
 
+_Images are useful just if running in a container environment_
+
+![[Pasted image 20240718154102.png]]
+
+## Port Binding
+
+![[Pasted image 20240718154413.png]]
+![[Pasted image 20240718154900.png]]
+
 ## prompt
 
 ### images
 
 docker images = List all Docker images
+docker pull {name}: {tag/version} = Pull an image from a registry
+
+docker run {name}:{tag/version} = Creates a container from given image and starts it, image can be also in the cloud and docker install that before executing in automatic
+-d or --detach = Runs container in background and prints the container ID, prevent terminal to lock and keep working in it
+-p or --publish = Publish a container's port to the host
+-p {HOST_PORT}: {CONTAINER_PORT}
+docker run -d -p 9000:80 nginx:1.23 = expose container at localhost 9000
+![[Pasted image 20240718155505.png]]
+
+docker logs {container ID} = View logs from service running inside the container. (which are present at the time of execution)
+
+docker stop {container ID} = Stop one or more running containers
 
 ### containers
 
@@ -63,10 +84,11 @@ docker ps = List running containers
 
 If you need to start or check the status of the Docker service on a system that uses `systemd`, you can use the following commands:
 
-**Start Docker Service**:
+**Start/Stop Docker Service**:
+NOTE: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
 
 ```bash
-sudo service docker start
+sudo service docker start/stop
 ```
 
 **Check Docker Service Status**:

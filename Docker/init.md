@@ -52,6 +52,11 @@ _Images are useful just if running in a container environment_
 ![[Pasted image 20240718154413.png]]
 ![[Pasted image 20240718154900.png]]
 
+## Registry vs Repository
+
+![[Pasted image 20240719114649.png]]
+![[Pasted image 20240719114724.png]]
+
 ## prompt
 
 ### images
@@ -59,7 +64,7 @@ _Images are useful just if running in a container environment_
 docker images = List all Docker images
 docker pull {name}: {tag/version} = Pull an image from a registry
 
-docker run {name}:{tag/version} = Creates a container from given image and starts it, image can be also in the cloud and docker install that before executing in automatic
+docker run {name}:{tag/version} = _Creates_ a container from given image and starts it, image can be also in the cloud and docker install that before executing in automatic
 -d or --detach = Runs container in background and prints the container ID, prevent terminal to lock and keep working in it
 -p or --publish = Publish a container's port to the host
 -p {HOST_PORT}: {CONTAINER_PORT}
@@ -69,15 +74,15 @@ docker run -d -p 9000:80 nginx:1.23 = expose container at localhost 9000, Standa
 
 _NOTE_ every docker run create a new container every time even they are not running they are persisting
 
-docker logs {container ID} = View logs from service running inside the container. (which are present at the time of execution)
+### containers
+
+docker ps = List running containers
+
+docker logs {container ID/name} = View logs from service running inside the container. (which are present at the time of execution)
 
 docker stop {container ID/name container ID/name container ID/name ....} = Stop one or more running containers
 
 docker start {{container ID/name container ID/name container ID/name ....}} = Start one or more stopped containers
-
-### containers
-
-docker ps = List running containers
 
 ---
 
@@ -101,3 +106,15 @@ sudo service docker start/stop
 ```bash
 sudo service docker status
 ```
+
+## Building
+![[Pasted image 20240719114844.png]]
+![[Pasted image 20240719114932.png]]
+
+### Dockerfile
+
+![[Pasted image 20240719115321.png]]
+![[Pasted image 20240719115342.png]]
+![[Pasted image 20240719115422.png]]
+we start from node and build our image on top of that adding more data and ecc...
+![[Pasted image 20240719115525.png]]

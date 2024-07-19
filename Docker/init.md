@@ -108,6 +108,7 @@ sudo service docker status
 ```
 
 ## Building
+
 ![[Pasted image 20240719114844.png]]
 ![[Pasted image 20240719114932.png]]
 
@@ -118,3 +119,27 @@ sudo service docker status
 ![[Pasted image 20240719115422.png]]
 we start from node and build our image on top of that adding more data and ecc...
 ![[Pasted image 20240719115525.png]]
+![[Pasted image 20240719120205.png]]
+
+![[Pasted image 20240719120432.png]]
+![[Pasted image 20240719120448.png]]
+![[Pasted image 20240719120523.png]]
+NOTE /app/ the slash at the and say to create the folder if doesn't exist
+
+![[Pasted image 20240719120622.png]]
+set the path as default location
+![[Pasted image 20240719120726.png]]
+
+### build an Image from docker file
+
+`docker build -t <name> <dockerfile location>`
+-t or --tag = Sets a name and optionally a tag in the "name:tag" format
+`docker build -t node-app:1.0 .`
+
+than run `doker images` if build success the nel image is available to run
+docker run for starting a new container
+
+_NOTE_ in case of https://gitlab.com/nanuchi/docker-in-1-hour
+`docker run -d -p 3000:3000 node-app: 1.0` the second 3000 is where the server is running on the container and we expose that on our local host 3000 define by the first one
+
+## 

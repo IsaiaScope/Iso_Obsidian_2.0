@@ -65,14 +65,15 @@ docker run {name}:{tag/version} = Creates a container from given image and start
 -p {HOST_PORT}: {CONTAINER_PORT}
 docker run -d -p 9000:80 nginx:1.23 = expose container at localhost 9000, Standard to use the same port on your host as container is using
 -a or --all = Lists all containers (stopped and running)
+--name = Assign a name to the container
 
 _NOTE_ every docker run create a new container every time even they are not running they are persisting
 
 docker logs {container ID} = View logs from service running inside the container. (which are present at the time of execution)
 
-docker stop {container ID} = Stop one or more running containers
+docker stop {container ID/name container ID/name container ID/name ....} = Stop one or more running containers
 
-docker start {container} = Start one or more stopped containers
+docker start {{container ID/name container ID/name container ID/name ....}} = Start one or more stopped containers
 
 ### containers
 

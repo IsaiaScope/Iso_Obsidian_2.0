@@ -86,7 +86,7 @@ docker stop {container ID/name container ID/name container ID/name ....} = Stop 
 
 docker start {{container ID/name container ID/name container ID/name ....}} = Start one or more stopped containers
 
-docker exec -it {container ID/name} {directory - _/bin/bash_ for the root }= get it (interactive terminal) for specified container from there is possible to execute normal commands to navigare and create folders
+docker exec -it {container ID/name} {directory - _/bin/bash_ for the root }= get it (interactive terminal) for specified container from there is possible to execute normal commands to navigare and create folders. type `exit` to exit terminal
 
 ---
 

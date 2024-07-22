@@ -63,6 +63,8 @@ _Images are useful just if running in a container environment_
 
 docker images = List all Docker images
 docker pull {name}: {tag/version} = Pull an image from a registry
+docker image rm [image id]
+--force if image is used in some container
 
 docker run {name}:{tag/version} = _Creates_ a container from given image and starts it, image can be also in the cloud and docker install that before executing in automatic
 -d or --detach = Runs container in background and prints the container ID, prevent terminal to lock and keep working in it
@@ -141,5 +143,3 @@ docker run for starting a new container
 
 _NOTE_ in case of https://gitlab.com/nanuchi/docker-in-1-hour
 `docker run -d -p 3000:3000 node-app: 1.0` the second 3000 is where the server is running on the container and we expose that on our local host 3000 define by the first one
-
-

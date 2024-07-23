@@ -163,3 +163,5 @@ docker network ls = give default network created by docker
 when running docker run --net flag is available to take a network for running the app
 
 ![[Pasted image 20240723091715.png]]
+always look up how to set images and environment variables on official doc on Docker Hub 
+![[Pasted image 20240723105432.png]]

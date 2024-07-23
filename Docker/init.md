@@ -160,6 +160,6 @@ pulling images
 
 docker network ls = give default network created by docker
 `docker network create <name>` = create a new docker network
-![[Pasted image 20240722180243.png]]
+when running docker run --net flag is available to take a network for running the app
 
-
+![[Pasted image 20240723091715.png]]

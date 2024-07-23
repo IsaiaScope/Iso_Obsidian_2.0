@@ -73,6 +73,8 @@ docker run {name}:{tag/version} = _Creates_ a container from given image and sta
 docker run -d -p 9000:80 nginx:1.23 = expose container at localhost 9000, Standard to use the same port on your host as container is using
 -a or --all = Lists all containers (stopped and running)
 --name = Assign a name to the container
+-e = set environment variable
+--net = chose the network where to run
 
 _NOTE_ every docker run create a new container every time even they are not running they are persisting
 
@@ -145,3 +147,19 @@ docker run for starting a new container
 
 _NOTE_ in case of https://gitlab.com/nanuchi/docker-in-1-hour
 `docker run -d -p 3000:3000 node-app: 1.0` the second 3000 is where the server is running on the container and we expose that on our local host 3000 define by the first one
+
+## Docker network
+
+![[Pasted image 20240722175649.png]]
+
+pulling images
+`docker pull mongo`
+`docker pull mongo-express`
+
+![[Pasted image 20240722175842.png]]
+
+docker network ls = give default network created by docker
+`docker network create <name>` = create a new docker network
+![[Pasted image 20240722180243.png]]
+
+

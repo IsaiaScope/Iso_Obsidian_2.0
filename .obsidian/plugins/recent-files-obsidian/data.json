@@ -5,12 +5,16 @@
       "path": "Docker/init.md"
     },
     {
-      "basename": "The intro to Docker I wish I had when I started",
-      "path": "Docker/The intro to Docker I wish I had when I started.md"
+      "basename": "Pasted image 20240722175649",
+      "path": "Docker/Pasted image 20240722175649.png"
     },
     {
       "basename": "Week-30_July2024",
       "path": "Periodic Notes/Weekly Notes/Week-30_July2024.md"
+    },
+    {
+      "basename": "The intro to Docker I wish I had when I started",
+      "path": "Docker/The intro to Docker I wish I had when I started.md"
     },
     {
       "basename": "how an OS is made up",
@@ -191,14 +195,6 @@
     {
       "basename": "Dashboard",
       "path": "Obsidian Tutorial/Dashboard.md"
-    },
-    {
-      "basename": "Crafting",
-      "path": "POE/3.24/Toxic Rain PF/Crafting.md"
-    },
-    {
-      "basename": "file-manipulation",
-      "path": "PowerShell/data/file-manipulation.md"
     }
   ],
   "omittedPaths": [],

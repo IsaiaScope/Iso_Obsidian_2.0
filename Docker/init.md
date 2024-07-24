@@ -176,6 +176,5 @@ network is not needed because handle in automatic by compose up; that create a n
 - DATA NON PERSISTS IN CONTAINERS CONCEPTS OF _VOLUMES_ IS THE SOLUTION  
 - logs are shared
 
-
-
 `docker-compose -f mongo.yaml down`  remove all containers and network
+

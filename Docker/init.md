@@ -76,6 +76,8 @@ docker run -d -p 9000:80 nginx:1.23 = expose container at localhost 9000, Standa
 -e = set environment variable
 --net = chose the network where to run
 
+docker rm
+
 _NOTE_ every docker run create a new container every time even they are not running they are persisting
 
 ### containers
@@ -177,4 +179,5 @@ network is not needed because handle in automatic by compose up; that create a n
 - logs are shared
 
 `docker-compose -f mongo.yaml down`  remove all containers and network
+
 

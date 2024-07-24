@@ -167,3 +167,5 @@ always look up how to set images and environment variables on official doc on Do
 ![[Pasted image 20240723105432.png]]
 
 ## Docker Compose
+![[Pasted image 20240724122244.png]]
+common network 

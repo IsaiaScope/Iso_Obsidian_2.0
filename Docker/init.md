@@ -169,3 +169,5 @@ always look up how to set images and environment variables on official doc on Do
 ## Docker Compose
 ![[Pasted image 20240724122244.png]]
 common network 
+`docker-compose -f mongo. yaml up`
+-f = file

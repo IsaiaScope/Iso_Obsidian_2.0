@@ -165,3 +165,5 @@ when running docker run --net flag is available to take a network for running th
 ![[Pasted image 20240723091715.png]]
 always look up how to set images and environment variables on official doc on Docker Hub 
 ![[Pasted image 20240723105432.png]]
+
+## Docker Compose

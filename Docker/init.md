@@ -186,4 +186,10 @@ network is not needed because handle in automatic by compose up; that create a n
 `docker-compose -f mongo.yaml down` remove all containers and network
 
 ## Docker Repository
+https://www.youtube.com/watch?v=vWSRWpOPHws&list=PLy7NrYWoggjzfAHlUusx2wuDwfCrmJYcs&index=11
+
+create a image copy and renamed  
+docker tag my-app:1.0 664574038682.dkr.ecr.eu-central-1.amazonaws.com/my-app:1.0
+
+![[Pasted image 20240724172758.png]]
 

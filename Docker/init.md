@@ -184,3 +184,4 @@ network is not needed because handle in automatic by compose up; that create a n
 - logs are shared
 
 `docker-compose -f mongo.yaml down` remove all containers and network
+

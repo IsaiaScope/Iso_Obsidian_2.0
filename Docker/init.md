@@ -76,13 +76,14 @@ docker run -d -p 9000:80 nginx:1.23 = expose container at localhost 9000, Standa
 -e = set environment variable
 --net = chose the network where to run
 
-docker rm
+docker rmi {id} = remove image
 
 _NOTE_ every docker run create a new container every time even they are not running they are persisting
 
 ### containers
 
 docker ps = List running containers
+docker ps -a | grep my-app = List running containers named as my-app
 
 docker logs {container ID/name} = View logs from service running inside the container. (which are present at the time of execution)
 
@@ -90,7 +91,9 @@ docker stop {container ID/name container ID/name container ID/name ....} = Stop 
 
 docker start {{container ID/name container ID/name container ID/name ....}} = Start one or more stopped containers
 
-docker exec -it {container ID/name} {directory - _/bin/bash_ for the root }= get it (interactive terminal) for specified container from there is possible to execute normal commands to navigare and create folders. type `exit` to exit terminal
+docker exec -it {container ID/name} {directory - _/bin/bash_ for the root o _/bin/sh_ because some time bash is not installed in some environment }= get it (interactive terminal) for specified container from there is possible to execute normal commands to navigare and create folders. type `exit` to exit terminal
+
+docker rm {container ID/name} = remove image
 
 ---
 
@@ -151,6 +154,7 @@ _NOTE_ in case of https://gitlab.com/nanuchi/docker-in-1-hour
 `docker run -d -p 3000:3000 node-app: 1.0` the second 3000 is where the server is running on the container and we expose that on our local host 3000 define by the first one
 
 ## Docker network
+
 https://gitlab.com/nanuchi/techworld-js-docker-demo-app
 ![[Pasted image 20240722175649.png]]
 
@@ -165,19 +169,18 @@ docker network ls = give default network created by docker
 when running docker run --net flag is available to take a network for running the app
 
 ![[Pasted image 20240723091715.png]]
-always look up how to set images and environment variables on official doc on Docker Hub 
+always look up how to set images and environment variables on official doc on Docker Hub
 ![[Pasted image 20240723105432.png]]
 
 ## Docker Compose
+
 ![[Pasted image 20240724122244.png]]
-network is not needed because handle in automatic by compose up; that create a new network every time the cmd is lonched 
+network is not needed because handle in automatic by compose up; that create a new network every time the cmd is lonched
 `docker-compose -f mongo.yaml up`
 -f = file
 
-- if one container depends on another add the logic to wait 
-- DATA NON PERSISTS IN CONTAINERS CONCEPTS OF _VOLUMES_ IS THE SOLUTION  
+- if one container depends on another add the logic to wait
+- DATA NON PERSISTS IN CONTAINERS CONCEPTS OF _VOLUMES_ IS THE SOLUTION
 - logs are shared
 
-`docker-compose -f mongo.yaml down`  remove all containers and network
-
-
+`docker-compose -f mongo.yaml down` remove all containers and network

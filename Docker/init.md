@@ -193,3 +193,6 @@ docker tag my-app:1.0 664574038682.dkr.ecr.eu-central-1.amazonaws.com/my-app:1.0
 
 ![[Pasted image 20240724172758.png]]
 
+## Docker Volume
+
+persist data in container

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "init",
+      "path": "Docker/init.md"
+    },
+    {
       "basename": "Scaffolding React App (Vite)",
       "path": "Scaffolding React App (Vite).md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Shortcuts VS Code",
       "path": "VS Code/Data/Shortcuts VS Code.md"
-    },
-    {
-      "basename": "init",
-      "path": "Docker/init.md"
     },
     {
       "basename": "Short-cuts",

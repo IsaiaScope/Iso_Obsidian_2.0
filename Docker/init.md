@@ -93,7 +93,7 @@ docker start {{container ID/name container ID/name container ID/name ....}} = St
 
 docker exec -it {container ID/name} {directory - _/bin/bash_ for the root o _/bin/sh_ because some time bash is not installed in some environment }= get it (interactive terminal) for specified container from there is possible to execute normal commands to navigare and create folders. type `exit` to exit terminal
 
-docker rm {container ID/name} = remove image
+docker rm {container ID/name} = remove container
 
 ---
 

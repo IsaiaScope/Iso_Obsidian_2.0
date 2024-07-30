@@ -53,9 +53,6 @@ npx tailwindcss init -p
 ```
 
 - [ ] after `npx tailwindcss init -p` than follow [Install Tailwind CSS with Vite](https://tailwindcss.com/docs/guides/vite)
-
-### prettier-plugin-tailwindcss Installation
-#### First Option
 - [ ] create `prettier.config.js` in the frontend folder of all project (if doesn't at the start restart vs config)
 
 ```js
@@ -63,10 +60,6 @@ export default {
 	plugins: ["prettier-plugin-tailwindcss"],
 };
 ```
-#### Second Option Monorepository Approach
-
-
-
 
 - [ ] create `twMerge-clsx-utility-class.ts` under `src/utility/style` path
 

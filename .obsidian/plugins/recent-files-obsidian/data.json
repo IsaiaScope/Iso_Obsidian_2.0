@@ -1,16 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "init",
-      "path": "Docker/init.md"
-    },
-    {
-      "basename": "Week-25_June2024",
-      "path": "Periodic Notes/Weekly Notes/Week-25_June2024.md"
+      "basename": "Scaffolding React App (Vite)",
+      "path": "Scaffolding React App (Vite).md"
     },
     {
       "basename": "Week-30_July2024",
       "path": "Periodic Notes/Weekly Notes/Week-30_July2024.md"
+    },
+    {
+      "basename": "Shortcuts VS Code",
+      "path": "VS Code/Data/Shortcuts VS Code.md"
+    },
+    {
+      "basename": "init",
+      "path": "Docker/init.md"
+    },
+    {
+      "basename": "Short-cuts",
+      "path": "Short-cuts.md"
+    },
+    {
+      "basename": "Make a Repo",
+      "path": "Git and GitHub/GitHub/Data/Make a Repo.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
+    },
+    {
+      "basename": "Check Url Repo or Directory where Local Repo is Cloned",
+      "path": "Git and GitHub/GitHub/Data/Check Url Repo or Directory where Local Repo is Cloned.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Volta/Dashboard.md"
+    },
+    {
+      "basename": "New Dashboard",
+      "path": "Periodic Notes/Templates/New Dashboard.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "DevOps/Dashboard.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Excel/Dashboard.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "React Native/Dashboard.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Three.js/Dashboard.md"
+    },
+    {
+      "basename": "git init",
+      "path": "Git and GitHub/Git/Prompt/git init.md"
+    },
+    {
+      "basename": "Conflic-Obsidian",
+      "path": "Conflic-Obsidian.md"
+    },
+    {
+      "basename": "Stuff",
+      "path": "Stuff.md"
+    },
+    {
+      "basename": "Week-25_June2024",
+      "path": "Periodic Notes/Weekly Notes/Week-25_June2024.md"
     },
     {
       "basename": "Pasted image 20240722175649",
@@ -41,14 +109,6 @@
       "path": "Docker/virtualization.png"
     },
     {
-      "basename": "Scaffolding React App (Vite)",
-      "path": "Scaffolding React App (Vite).md"
-    },
-    {
-      "basename": "Stuff",
-      "path": "Stuff.md"
-    },
-    {
       "basename": "shadcn",
       "path": "React/Libs/Shadcn-ui/shadcn.md"
     },
@@ -59,10 +119,6 @@
     {
       "basename": "Create Linux environment",
       "path": "Players/Create Linux environment.md"
-    },
-    {
-      "basename": "Shortcuts VS Code",
-      "path": "VS Code/Data/Shortcuts VS Code.md"
     },
     {
       "basename": "Tizen",
@@ -117,14 +173,6 @@
       "path": "Players/Theory.md"
     },
     {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
-    },
-    {
       "basename": "Migrate Repo to Another Url",
       "path": "Git and GitHub/GitHub/Data/Migrate Repo to Another Url.md"
     },
@@ -151,50 +199,6 @@
     {
       "basename": "git commit",
       "path": "Git and GitHub/Git/Prompt/git commit.md"
-    },
-    {
-      "basename": "how-react-works",
-      "path": "React/Data/Theory/how-react-works.md"
-    },
-    {
-      "basename": "Display Flex",
-      "path": "Style/CSS/Data/Display Flex.md"
-    },
-    {
-      "basename": "DashBoard",
-      "path": "Style/DashBoard.md"
-    },
-    {
-      "basename": "Display Grid",
-      "path": "Style/CSS/Data/Display Grid.md"
-    },
-    {
-      "basename": "git init",
-      "path": "Git and GitHub/Git/Prompt/git init.md"
-    },
-    {
-      "basename": "Make a Repo",
-      "path": "Git and GitHub/GitHub/Data/Make a Repo.md"
-    },
-    {
-      "basename": "May2024_Week-21",
-      "path": "Periodic Notes/Weekly Notes/May2024_Week-21.md"
-    },
-    {
-      "basename": "2024-W09",
-      "path": "Periodic Notes/Weekly Notes/2024-W09.md"
-    },
-    {
-      "basename": "Weekly Note Templates",
-      "path": "Periodic Notes/Templates/Weekly Note Templates.md"
-    },
-    {
-      "basename": "Create custom plugin",
-      "path": "Obsidian Tutorial/Data/Create custom plugin.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Obsidian Tutorial/Dashboard.md"
     }
   ],
   "omittedPaths": [],

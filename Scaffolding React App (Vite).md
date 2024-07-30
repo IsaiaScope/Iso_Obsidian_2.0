@@ -53,10 +53,10 @@ npx tailwindcss init -p
 ```
 
 - [ ] after `npx tailwindcss init -p` than follow [Install Tailwind CSS with Vite](https://tailwindcss.com/docs/guides/vite)
-- [ ] create `prettier.config.js` in the root of all project
+- [ ] create `prettier.config.js` in the frontend folder of all project (if doesn't at the start restart vs config)
 
 ```js
-module.exports = {
+export default {
 	plugins: ["prettier-plugin-tailwindcss"],
 };
 ```

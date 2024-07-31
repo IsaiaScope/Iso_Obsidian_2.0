@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "init",
-      "path": "Docker/init.md"
-    },
-    {
       "basename": "Scaffolding React App (Vite)",
       "path": "Scaffolding React App (Vite).md"
+    },
+    {
+      "basename": "init",
+      "path": "Docker/init.md"
     },
     {
       "basename": "Week-30_July2024",

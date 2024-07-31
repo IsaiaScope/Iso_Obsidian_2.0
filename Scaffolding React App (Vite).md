@@ -20,7 +20,7 @@ pnpm create hono@latest
 
 ## Setup a proxy (Avoid CORS in develop)
 
-- [ ] in `vite.config.ts`, forward any request that start with `/api` to port 3000 actually our BE
+- [ ] in `vite.config.ts`, forward any request that start with `/api` to port 3000 actually our BE. In frontend project
 
 ```json
   server: {

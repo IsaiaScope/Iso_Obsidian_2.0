@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "useQuery()",
+      "path": "React/Libs/Tanstack/data/V4/useQuery().md"
+    },
+    {
+      "basename": "index",
+      "path": "React/Libs/Tanstack/index.md"
+    },
+    {
+      "basename": "get-started",
+      "path": "React/Libs/Tanstack/data/V4/get-started.md"
+    },
+    {
+      "basename": "cache-methods",
+      "path": "React/Libs/Tanstack/files/cache-methods.png"
+    },
+    {
       "basename": "Scaffolding React App (Vite)",
       "path": "Scaffolding React App (Vite).md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "May2024_Week-22",
       "path": "Periodic Notes/Weekly Notes/May2024_Week-22.md"
-    },
-    {
-      "basename": "Drawing 2024-06-24 10.55.59.excalidraw",
-      "path": "Drawing/Drawing 2024-06-24 10.55.59.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2024-06-24 10.55.59.excalidraw",
-      "path": "Drawing/Drawing 2024-06-24 10.55.59.excalidraw.svg"
-    },
-    {
-      "basename": "git config",
-      "path": "Git and GitHub/Git/Prompt/git config.md"
-    },
-    {
-      "basename": "git commit",
-      "path": "Git and GitHub/Git/Prompt/git commit.md"
     }
   ],
   "omittedPaths": [],

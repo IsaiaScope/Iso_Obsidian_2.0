@@ -5,6 +5,12 @@ https://nodejs.org/docs/latest-v20.x/api/cli.html
 
 ---
 
+turbo
+
+https://turbo.build/repo/docs/getting-started/installation
+
+---
+
 pnpm to execute package.json scripts inside the workspace
 https://pnpm.io/filtering
 

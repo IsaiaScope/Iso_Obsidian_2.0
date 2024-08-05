@@ -1,22 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "useQuery()",
-      "path": "React/Libs/Tanstack/data/V4/useQuery().md"
-    },
-    {
-      "basename": "index",
-      "path": "React/Libs/Tanstack/index.md"
-    },
-    {
-      "basename": "get-started",
-      "path": "React/Libs/Tanstack/data/V4/get-started.md"
-    },
-    {
-      "basename": "cache-methods",
-      "path": "React/Libs/Tanstack/files/cache-methods.png"
-    },
-    {
       "basename": "Scaffolding React App (Vite)",
       "path": "Scaffolding React App (Vite).md"
     },
@@ -25,8 +9,40 @@
       "path": "Docker/init.md"
     },
     {
+      "basename": "Transform Object",
+      "path": "Three.js/Data/Transform Object.md"
+    },
+    {
+      "basename": "Textures",
+      "path": "Three.js/Data/Textures.md"
+    },
+    {
+      "basename": "Overview",
+      "path": "Fastify/Data/Book/Chapters/Overview.md"
+    },
+    {
       "basename": "Week-30_July2024",
       "path": "Periodic Notes/Weekly Notes/Week-30_July2024.md"
+    },
+    {
+      "basename": "index",
+      "path": "React/Libs/Tanstack/index.md"
+    },
+    {
+      "basename": "i18next",
+      "path": "React/Libs/i18next.md"
+    },
+    {
+      "basename": "useQuery()",
+      "path": "React/Libs/Tanstack/data/V4/useQuery().md"
+    },
+    {
+      "basename": "get-started",
+      "path": "React/Libs/Tanstack/data/V4/get-started.md"
+    },
+    {
+      "basename": "cache-methods",
+      "path": "React/Libs/Tanstack/files/cache-methods.png"
     },
     {
       "basename": "Shortcuts VS Code",
@@ -183,22 +199,6 @@
     {
       "basename": "Text_Tracks",
       "path": "Players/Text_Tracks.md"
-    },
-    {
-      "basename": "Theory",
-      "path": "Players/Theory.md"
-    },
-    {
-      "basename": "Migrate Repo to Another Url",
-      "path": "Git and GitHub/GitHub/Data/Migrate Repo to Another Url.md"
-    },
-    {
-      "basename": "test.excalidraw",
-      "path": "Drawing/test.excalidraw.md"
-    },
-    {
-      "basename": "May2024_Week-22",
-      "path": "Periodic Notes/Weekly Notes/May2024_Week-22.md"
     }
   ],
   "omittedPaths": [],

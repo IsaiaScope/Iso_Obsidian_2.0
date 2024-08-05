@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Week-30_July2024",
+      "path": "Periodic Notes/Weekly Notes/Week-30_July2024.md"
+    },
+    {
+      "basename": "Shortcuts VS Code",
+      "path": "VS Code/Data/Shortcuts VS Code.md"
+    },
+    {
       "basename": "Scaffolding React App (Vite)",
       "path": "Scaffolding React App (Vite).md"
     },
@@ -21,10 +29,6 @@
       "path": "Fastify/Data/Book/Chapters/Overview.md"
     },
     {
-      "basename": "Week-30_July2024",
-      "path": "Periodic Notes/Weekly Notes/Week-30_July2024.md"
-    },
-    {
       "basename": "index",
       "path": "React/Libs/Tanstack/index.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "cache-methods",
       "path": "React/Libs/Tanstack/files/cache-methods.png"
-    },
-    {
-      "basename": "Shortcuts VS Code",
-      "path": "VS Code/Data/Shortcuts VS Code.md"
     },
     {
       "basename": "Short-cuts",

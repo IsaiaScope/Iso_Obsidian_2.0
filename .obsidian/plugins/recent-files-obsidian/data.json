@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "i18next",
+      "path": "React/Libs/i18next.md"
+    },
+    {
+      "basename": "May2024_Week-22",
+      "path": "Periodic Notes/Weekly Notes/May2024_Week-22.md"
+    },
+    {
+      "basename": "Week-25_June2024",
+      "path": "Periodic Notes/Weekly Notes/Week-25_June2024.md"
+    },
+    {
       "basename": "Week-30_July2024",
       "path": "Periodic Notes/Weekly Notes/Week-30_July2024.md"
+    },
+    {
+      "basename": "May2024_Week-21",
+      "path": "Periodic Notes/Weekly Notes/May2024_Week-21.md"
+    },
+    {
+      "basename": "2024-W20",
+      "path": "Periodic Notes/Weekly Notes/2024-W20.md"
+    },
+    {
+      "basename": "2024-W16",
+      "path": "Periodic Notes/Weekly Notes/2024-W16.md"
+    },
+    {
+      "basename": "2024-W18",
+      "path": "Periodic Notes/Weekly Notes/2024-W18.md"
     },
     {
       "basename": "Shortcuts VS Code",
@@ -31,10 +59,6 @@
     {
       "basename": "index",
       "path": "React/Libs/Tanstack/index.md"
-    },
-    {
-      "basename": "i18next",
-      "path": "React/Libs/i18next.md"
     },
     {
       "basename": "useQuery()",
@@ -109,10 +133,6 @@
       "path": "Stuff.md"
     },
     {
-      "basename": "Week-25_June2024",
-      "path": "Periodic Notes/Weekly Notes/Week-25_June2024.md"
-    },
-    {
       "basename": "Pasted image 20240722175649",
       "path": "Docker/Pasted image 20240722175649.png"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Cheat Sheet TreeJs",
       "path": "Three.js/Cheat Sheet TreeJs.pdf"
-    },
-    {
-      "basename": "Player Implementation",
-      "path": "Players/Shaka-player/RTE/Player Implementation.md"
-    },
-    {
-      "basename": "Theory",
-      "path": "Players/Shaka-player/Theory.md"
-    },
-    {
-      "basename": "DRM",
-      "path": "Players/DRM.md"
-    },
-    {
-      "basename": "Manifest",
-      "path": "Players/Manifest.md"
-    },
-    {
-      "basename": "Text_Tracks",
-      "path": "Players/Text_Tracks.md"
     }
   ],
   "omittedPaths": [],

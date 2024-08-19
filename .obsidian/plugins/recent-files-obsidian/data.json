@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Week-34_August2024",
+      "path": "Periodic Notes/Weekly Notes/Week-34_August2024.md"
+    },
+    {
       "basename": "i18next",
       "path": "React/Libs/i18next.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Testing Shaka build",
       "path": "Players/Shaka-player/Filmbank/Testing Shaka build.md"
-    },
-    {
-      "basename": "Cheat Sheet TreeJs",
-      "path": "Three.js/Cheat Sheet TreeJs.pdf"
     }
   ],
   "omittedPaths": [],

@@ -5,3 +5,4 @@
 - [ ] vedere che venga aggiornato anche a db e su open search
 - [ ] [Open Search](https://vpc-dds-test-elk-feed-opensearch-nne2ldmqzp6twcchbbesi6vb3e.eu-west-1.es.amazonaws.com/_dashboards/app/home#) - discorver - indice content e come filter filmbankId: id
 - [ ] DBeaver 
+- [ ] dds-utils-configuration - ms-config.yml sotto DB hai le credenziali

@@ -176,3 +176,6 @@ Step to configure with [`vite@5.3.1`](https://ui.shadcn.com/docs/installation/vi
 - _NOTE_ to achive type safety types must be put in @types folder
 
 ---
+
+## Tanstak Router
+

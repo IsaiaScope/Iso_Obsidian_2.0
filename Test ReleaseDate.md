@@ -1,8 +1,12 @@
 - [ ] [Bucket S3](https://eu-west-1.console.aws.amazon.com/s3/buckets?region=eu-west-1&bucketType=general)
-- [ ] dds-test-ingest ogni dirctory rappresetna un contenuto e dentro ogni contenuto ci posso essere più verisoni di un contenuto
-- [ ] ogni versione di un contnuto continete i metatadati (metadata_id_json), questi contengono i theatrical relase datat . Poi contine la parte video e la parte dei sottotitoli e poi gli assets e le immagini. Poi abbiamo il file execute-innest.txt è il file che serve ad aws per far partire la pipeline quindi solo modificando questo file e salvando farò modificare atteaverso la pipeline il contenuto nel bucket. Devi fare upload dopo aver modificato il file txt
+- [ ] _dds-test-ingest_ ogni directory rappresenta un contenuto e dentro ogni contenuto ci posso essere più versioni del medesimo contenuto
+- [ ] ogni versione di un contenuto continete i metadati (metadata\_`id`\_json), questi contengono i theatrical relase datat . Poi contine la parte video e la parte dei sottotitoli e poi gli assets e le immagini. Poi abbiamo il file execute-innest.txt è il file che serve ad aws per far partire la pipeline quindi solo modificando questo file e salvando farò modificare atteaverso la pipeline il contenuto nel bucket. Devi fare upload dopo aver modificato il file txt
 - [ ] sull admin portsl titlemanager posso vedere la pipeline partire cercando il connuto con l'id sul bucket icona col grafico e seleziona il toggle per l'auto refresh
 - [ ] vedere che venga aggiornato anche a db e su open search
-- [ ] [Open Search](https://vpc-dds-test-elk-feed-opensearch-nne2ldmqzp6twcchbbesi6vb3e.eu-west-1.es.amazonaws.com/_dashboards/app/home#) - discorver - indice content e come filter filmbankId: id
-- [ ] DBeaver 
+- [ ] [Open Search CONTENTS](https://vpc-dds-test-elk-feed-opensearch-nne2ldmqzp6twcchbbesi6vb3e.eu-west-1.es.amazonaws.com/_dashboards/app/home#) - discorver - indice content e come filter filmbankId: id
+- [ ] DBeaver
 - [ ] dds-utils-configuration - ms-config.yml sotto DB hai le credenziali
+- [ ] database backend dds_contents - SELECT \* FROM DDS_CONTENTS dc WHERE dc.FILMBANK_ID = 00099999; - esempio
+- [ ] verifico che sia tutto a posto e che abbia il teoratical release date - read more
+- [ ] log [Open Search LOGS](https://vpc-dds-test-elk-monitoring-p7ar64ikjyd6rhz5gy3jmeorty.eu-west-1.es.amazonaws.com/_dashboards "https://vpc-dds-test-elk-monitoring-p7ar64ikjyd6rhz5gy3jmeorty.eu-west-1.es.amazonaws.com/_dashboards") = service: login and level: error è un ex, service: workflow and message: "INGEST WORKFLOW" cioè filtra l'inizio dei vari step di ingest sul bucket s3 quando vado a modificare i file .txt
+- [ ] NOTE admin porta cerca su open search e quindi può capitare che trova contenuti che non ci sono su s3 quindi i contenuti non esistono più effettivamente. Open serach offre un ecosistema di fare query complesse di ricerca e modifica aggangiandoci ad un db s3 economico e ma poco performante per calcoli di query. La cancellazione di contenuti su open search non avviene in maniera automatica quando un contenuto viene cancellato su s3, cancellando un contenuto sull'admin portal vado a cancellarlo su s3 e per una mancanca di implementazione non avviene lo stesso su open search.

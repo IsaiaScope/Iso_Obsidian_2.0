@@ -128,7 +128,7 @@ Step to configure with [`vite@5.3.1`](https://ui.shadcn.com/docs/installation/vi
 ```
 
 - [ ] in `vite.config.ts` must resolve the same path describe into `tsconfig.app.json` and `tsconfig.json` and all other ones
-- [ ] _NOTE_ a useful escape could be `vite-tsconfig-paths` and npm pkg that import automatically paths from all `tsconfig.json`
+- [ ] _NOTE_ a useful escape could be `vite-tsconfig-paths` a npm pkg that import automatically paths from all `tsconfig.json`
 
 ```ts
   resolve: {

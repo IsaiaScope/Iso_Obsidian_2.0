@@ -5,16 +5,24 @@
       "path": "Scaffolding React App (Vite).md"
     },
     {
+      "basename": "i18next",
+      "path": "React/Libs/i18next.md"
+    },
+    {
+      "basename": "Shortcuts VS Code",
+      "path": "VS Code/Data/Shortcuts VS Code.md"
+    },
+    {
+      "basename": "Week-34_August2024",
+      "path": "Periodic Notes/Weekly Notes/Week-34_August2024.md"
+    },
+    {
       "basename": "Tizen",
       "path": "Tizen.md"
     },
     {
       "basename": "init",
       "path": "Docker/init.md"
-    },
-    {
-      "basename": "Week-34_August2024",
-      "path": "Periodic Notes/Weekly Notes/Week-34_August2024.md"
     },
     {
       "basename": "Week-30_July2024",
@@ -25,16 +33,8 @@
       "path": "Periodic Notes/Weekly Notes/Week-25_June2024.md"
     },
     {
-      "basename": "Shortcuts VS Code",
-      "path": "VS Code/Data/Shortcuts VS Code.md"
-    },
-    {
       "basename": "index",
       "path": "React/Libs/Tanstack/index.md"
-    },
-    {
-      "basename": "i18next",
-      "path": "React/Libs/i18next.md"
     },
     {
       "basename": "May2024_Week-22",

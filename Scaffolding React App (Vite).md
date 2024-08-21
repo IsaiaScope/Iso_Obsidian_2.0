@@ -149,3 +149,30 @@ Step to configure with [`vite@5.3.1`](https://ui.shadcn.com/docs/installation/vi
 ```
 
 ---
+
+## i18next
+
+- `import { useTranslation } from 'react-i18next';`
+- ` const { t, i18n: { changeLanguage, language } } = useTranslation(["common", "games"]);`
+
+### Tutorial for react-i18next
+
+- [react-i18next](https://i18nexus.com/tutorials/nextjs/react-i18next)
+
+### Create Translations
+
+- [i18nexus](https://app.i18nexus.com) (Site for translations and where pull json form)
+  Scripts to pull json and update type safe into code
+- [YT: type safe video guide](https://youtu.be/GLIas4DH3Ww?si=HNX_qCgYpr_gm38d&t=79 "https://youtu.be/GLIas4DH3Ww?si=HNX_qCgYpr_gm38d&t=79")
+
+```shell
+// package.json
+"create:translations:json": "i18nexus pull -k hv1KQnCWBHgIGsCIJTx8gg -p ./public/locales",
+"create:translations:interface": "i18next-resources-for-ts interface -i ./public/locales/en-GB -o ./src/@types/i18next/resources.d.ts",
+"update:locales": "pnpm create:translations:json && pnpm create:translations:interface"
+```
+
+- _NOTE_ hv1KQnCWBHgIGsCIJTx8gg apiKey comes from i18nexus
+- _NOTE_ to achive type safety types must be put in @types folder
+
+---

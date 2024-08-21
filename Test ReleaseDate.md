@@ -1,0 +1,7 @@
+- [ ] [Bucket S3](https://eu-west-1.console.aws.amazon.com/s3/buckets?region=eu-west-1&bucketType=general)
+- [ ] dds-test-ingest ogni dirctory rappresetna un contenuto e dentro ogni contenuto ci posso essere più verisoni di un contenuto
+- [ ] ogni versione di un contnuto continete i metatadati (metadata_id_json), questi contengono i theatrical relase datat . Poi contine la parte video e la parte dei sottotitoli e poi gli assets e le immagini. Poi abbiamo il file execute-innest.txt è il file che serve ad aws per far partire la pipeline quindi solo modificando questo file e salvando farò modificare atteaverso la pipeline il contenuto nel bucket. Devi fare upload dopo aver modificato il file txt
+- [ ] sull admin portsl titlemanager posso vedere la pipeline partire cercando il connuto con l'id sul bucket icona col grafico e seleziona il toggle per l'auto refresh
+- [ ] vedere che venga aggiornato anche a db e su open search
+- [ ] [Open Search](https://vpc-dds-test-elk-feed-opensearch-nne2ldmqzp6twcchbbesi6vb3e.eu-west-1.es.amazonaws.com/_dashboards/app/home#) - discorver - indice content e come filter filmbankId: id
+- [ ] DBeaver 

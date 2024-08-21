@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Test ReleaseDate",
+      "path": "Test ReleaseDate.md"
+    },
+    {
       "basename": "Scaffolding React App (Vite)",
       "path": "Scaffolding React App (Vite).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Upgrade shaka-player",
       "path": "Players/Shaka-player/Filmbank/Upgrade shaka-player.md"
-    },
-    {
-      "basename": "Testing Shaka build",
-      "path": "Players/Shaka-player/Filmbank/Testing Shaka build.md"
     }
   ],
   "omittedPaths": [],

@@ -179,4 +179,4 @@ Step to configure with [`vite@5.3.1`](https://ui.shadcn.com/docs/installation/vi
 
 ---
 
-## Tanstak Router
+## Tanstack Router

@@ -3,6 +3,17 @@
 tsx flags supported
 https://nodejs.org/docs/latest-v20.x/api/cli.html
 
+to get `.js` in `tsc` build must have
+
+```
+"target": "ESNext",
+"module": "NodeNext",
+"moduleResolution": "NodeNext",
+```
+
+- _NOTE_ `"moduleResolution": "Bundler",` omit that and cause and error when running build
+- with `moduleResolution": "NodeNext` imports must have `.js` even the file is a `ts` works fine
+
 ---
 
 turbo

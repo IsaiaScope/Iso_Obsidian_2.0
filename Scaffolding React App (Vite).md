@@ -174,8 +174,9 @@ Step to configure with [`vite@5.3.1`](https://ui.shadcn.com/docs/installation/vi
 
 - _NOTE_ hv1KQnCWBHgIGsCIJTx8gg apiKey comes from i18nexus
 - _NOTE_ to achive type safety types must be put in @types folder
+- _NOTE_ `import "@/utility/i18next/i18next";`
+- _NOTE_ `Suspense` the main app
 
 ---
 
 ## Tanstak Router
-

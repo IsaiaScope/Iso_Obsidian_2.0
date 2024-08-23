@@ -17,3 +17,11 @@ Movies
 - [ ] [00029006](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=00029006/) - 001 -   "theatricalReleaseDate": "2021-01-16",
 - [ ] [00031740](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=00031740/) - 001 -   "theatricalReleaseDate": "2022-04-22",
 - [ ] [00018615](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=00018615/) - 001 -   "theatricalReleaseDate": "2023-03-23",
+
+Series
+
+- [ ] [61236192](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=61236192/) - 001 -    "theatricalReleaseDate": "2019-07-12",
+- [ ] [60973401](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=60973401/) - 001 -    "theatricalReleaseDate": "2018-07-12",
+- [ ] [60062226](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=60062226/) - 001 -    "theatricalReleaseDate": "2017-07-12", title: The Simpsons
+- [ ] [61536324](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=61536324/) - 001 -    "theatricalReleaseDate": "2019-07-12", title: The Good Doctor - episode title: Hello
+- [ ] [61236192](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=61236192/) - 001 -    "theatricalReleaseDate": "2019-07-12",

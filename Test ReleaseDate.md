@@ -11,4 +11,9 @@
 - [ ] _NOTE_ l'Adminportal cerca su Open Search e quindi può capitare che trova contenuti che non ci sono su s3 cioè i contenuti non esistono più effettivamente. Open Search offre un ecosistema di fare query complesse di ricerca e modifica agganciandoci ad un db s3 economico e ma poco performante per calcoli di query. La cancellazione di contenuti su Open Search non avviene in maniera automatica quando un contenuto viene cancellato su s3, cancellando un contenuto sull'Adminportal vado a cancellarlo su s3 e per una mancanza di implementazione non avviene lo stesso su Open Search.
 
 Movies
+
 - [ ] [00010597](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=00010597/) - 001 -   "theatricalReleaseDate": "2024-05-31",
+- [ ] [00026283](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=00026283/) - 001 -   "theatricalReleaseDate": "2023-05-25",
+- [ ] [00029006](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=00029006/) - 001 -   "theatricalReleaseDate": "2021-01-16",
+- [ ] [00031740](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=00031740/) - 001 -   "theatricalReleaseDate": "2022-04-22",
+- [ ] [00018615](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=00018615/) - 001 -   "theatricalReleaseDate": "2023-03-23",

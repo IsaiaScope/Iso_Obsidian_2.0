@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Week-36_September2024",
+      "path": "Periodic Notes/Weekly Notes/Week-36_September2024.md"
+    },
+    {
+      "basename": "Shortcuts VS Code",
+      "path": "VS Code/Data/Shortcuts VS Code.md"
+    },
+    {
       "basename": "Scaffolding React App (Vite)",
       "path": "Scaffolding React App (Vite).md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "i18next",
       "path": "React/Libs/i18next.md"
-    },
-    {
-      "basename": "Shortcuts VS Code",
-      "path": "VS Code/Data/Shortcuts VS Code.md"
     },
     {
       "basename": "Week-34_August2024",
@@ -195,10 +199,6 @@
     {
       "basename": "Dashboard",
       "path": "VS Code/Dashboard.md"
-    },
-    {
-      "basename": "Upgrade shaka-player",
-      "path": "Players/Shaka-player/Filmbank/Upgrade shaka-player.md"
     }
   ],
   "omittedPaths": [],

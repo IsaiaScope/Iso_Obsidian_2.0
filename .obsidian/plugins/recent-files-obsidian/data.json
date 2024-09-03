@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "i18next",
+      "path": "React/Libs/i18next.md"
+    },
+    {
+      "basename": "Week-34_August2024",
+      "path": "Periodic Notes/Weekly Notes/Week-34_August2024.md"
+    },
+    {
+      "basename": "Test ReleaseDate",
+      "path": "Test ReleaseDate.md"
+    },
+    {
       "basename": "Week-36_September2024",
       "path": "Periodic Notes/Weekly Notes/Week-36_September2024.md"
     },
@@ -11,18 +23,6 @@
     {
       "basename": "Scaffolding React App (Vite)",
       "path": "Scaffolding React App (Vite).md"
-    },
-    {
-      "basename": "Test ReleaseDate",
-      "path": "Test ReleaseDate.md"
-    },
-    {
-      "basename": "i18next",
-      "path": "React/Libs/i18next.md"
-    },
-    {
-      "basename": "Week-34_August2024",
-      "path": "Periodic Notes/Weekly Notes/Week-34_August2024.md"
     },
     {
       "basename": "Tizen",

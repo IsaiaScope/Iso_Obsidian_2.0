@@ -21,8 +21,14 @@ Movies
 
 Series
 
-- [ ] [61236192](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=61236192/) - 001 - "theatricalReleaseDate": "2019-07-12", title: 3% - episode title: Chapter 01: Cubes - change program, season and episode
-- [ ] [60973401](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=60973401/) - 001 - "theatricalReleaseDate": "2018-07-12", title: Rick and Morty - episode title: Lawnmower Dog - change program, season and episode [ERROR]
-- [ ] [60062226](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=60062226/) - 001 - "theatricalReleaseDate": "2017-07-12", title: The Simpsons - episode title: Homer's Odyssey - change program
-- [ ] [61536324](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=61536324/) - 001 - "theatricalReleaseDate": "2017-07-17", title: The Good Doctor - episode title: Hello - change program, season [ERROR]
-- [ ] [00027769](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=00027769/) - 001 - "theatricalReleaseDate": "2020-03-21", title: How I Met Your Mother - episode title: Pilot - change program, season
+- [ ] [61236192](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=61236192/) - 001 - title: 3% - episode title: Chapter 01: Cubes - change program, season and episode
+- [ ] [60973401](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=60973401/) - 001 - title: Rick and Morty - episode title: Lawnmower Dog - change program, season and episode [ERROR]
+- [ ] [60062226](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=60062226/) - 001 - title: The Simpsons - episode title: Homer's Odyssey - change program
+- [ ] [61536324](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=61536324/) - 001 - title: The Good Doctor - episode title: Hello - change program, season [ERROR]
+- [ ] [00027769](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=00027769/) - 001 - title: How I Met Your Mother - episode title: Pilot - change program, season
+
+Episode theatricalReleaseDate is compiled from productionYear, I had set theatricalReleaseDate just for program, season
+
+| id       | Program                             | Episode                                    | Episode                                             |
+| -------- | ----------------------------------- | ------------------------------------------ | --------------------------------------------------- |
+| 00027769 | theatricalReleaseDate: "2020-03-21" | Pilot: theatricalReleaseDate: "2005-01-01" | The Poker Game: theatricalReleaseDate: "2013-01-01" |

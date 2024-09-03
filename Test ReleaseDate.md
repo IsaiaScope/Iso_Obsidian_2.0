@@ -9,19 +9,19 @@
   - [ ] DBeaver - database - backend - dds_contents - con query (menù in altro selezioni sql e new script): SELECT \* FROM DDS_CONTENTS dc WHERE dc.FILMBANK_ID = 00099999; - questo esempio recupera tutti i dati del contenuto e posso verificare e modificare i metadati
 - [ ] Altra risorsa importante è un altro Open Serach differente dal precedente che contiene tutti [Open Search LOGS](https://vpc-dds-test-elk-monitoring-p7ar64ikjyd6rhz5gy3jmeorty.eu-west-1.es.amazonaws.com/_dashboards "https://vpc-dds-test-elk-monitoring-p7ar64ikjyd6rhz5gy3jmeorty.eu-west-1.es.amazonaws.com/_dashboards") - discover - filter: _service: login and level: error_ è un esempio, _service: workflow and message: "INGEST WORKFLOW"_ è un altro esempio che filtra l'inizio dei vari step di ingest sul bucket s3 quando vado a modificare i _execute-innest.txt_.
 - [ ] _NOTE_ l'Adminportal cerca su Open Search e quindi può capitare che trova contenuti che non ci sono su s3 cioè i contenuti non esistono più effettivamente. Open Search offre un ecosistema di fare query complesse di ricerca e modifica agganciandoci ad un db s3 economico e ma poco performante per calcoli di query. La cancellazione di contenuti su Open Search non avviene in maniera automatica quando un contenuto viene cancellato su s3, cancellando un contenuto sull'Adminportal vado a cancellarlo su s3 e per una mancanza di implementazione non avviene lo stesso su Open Search.
-- [ ] _NOTE_ For Series add theatricalReleaseDate to "movie", "program" , "season"
+- [ ] _NOTE_ Per le Series aggiungere theatricalReleaseDate a "movie", "program" , "season"
 
 Movies
 
-- [ ] [00010597](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=00010597/) - 001 -   "theatricalReleaseDate": "2024-05-31",
-- [ ] [00026283](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=00026283/) - 001 -   "theatricalReleaseDate": "2023-05-25",
-- [ ] [00029006](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=00029006/) - 001 -   "theatricalReleaseDate": "2021-01-16",
-- [ ] [00031740](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=00031740/) - 001 -   "theatricalReleaseDate": "2022-04-22",
-- [ ] [00018615](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=00018615/) - 001 -   "theatricalReleaseDate": "2023-03-23",
+- [ ] [00010597](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=00010597/) - 001 - "theatricalReleaseDate": "2024-05-31",
+- [ ] [00026283](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=00026283/) - 001 - "theatricalReleaseDate": "2023-05-25",
+- [ ] [00029006](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=00029006/) - 001 - "theatricalReleaseDate": "2021-01-16",
+- [ ] [00031740](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=00031740/) - 001 - "theatricalReleaseDate": "2022-04-22",
+- [ ] [00018615](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=00018615/) - 001 - "theatricalReleaseDate": "2023-03-23",
 
 Series
 
-- [ ] [61236192](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=61236192/) - 001 -    "theatricalReleaseDate": "2019-07-12", title: 3% - episode title: Chapter 01: Cubes
-- [ ] [60973401](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=60973401/) - 001 -    "theatricalReleaseDate": "2018-07-12", title: The Good Doctor - episode title: Hello
-- [ ] [60062226](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=60062226/) - 001 -    "theatricalReleaseDate": "2017-07-12", title: The Simpsons - episode title: Hello
-- [ ] [61536324](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=61536324/) - 001 -    "theatricalReleaseDate": "2019-07-12", title: The Good Doctor - episode title: Hello
+- [ ] [61236192](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=61236192/) - 001 - "theatricalReleaseDate": "2019-07-12", title: 3% - episode title: Chapter 01: Cubes - change program, season and episode
+- [ ] [60973401](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=60973401/) - 001 - "theatricalReleaseDate": "2018-07-12", title: The Good Doctor - episode title: Hello
+- [ ] [60062226](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=60062226/) - 001 - "theatricalReleaseDate": "2017-07-12", title: The Simpsons - episode title: Hello
+- [ ] [61536324](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=61536324/) - 001 - "theatricalReleaseDate": "2019-07-12", title: The Good Doctor - episode title: Hello

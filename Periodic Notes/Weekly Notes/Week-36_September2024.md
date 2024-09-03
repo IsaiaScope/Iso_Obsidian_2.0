@@ -29,7 +29,7 @@
     <td class="DESCRIPTION">[WEB] make title clclickable</td>
   </tr>
   <tr>
-    <td class="DONE"><input type="checkbox" unchecked id="40d19f"></td>
+    <td class="DONE"><input type="checkbox" checked id="40d19f"></td>
     <td class="LEVEL"><select id="2a76aa"><option value="1" selected="selected">Low 🟢</option><option value="2">Middle 🟡</option><option value="3">ASAP 🔴</option></select></td>
     <td class="TICKET"><a href="https://fincons.atlassian.net/browse/DDS-1105">DDS-1105 (sprint: 081)</a></td>
     <td class="PROJECT"><select id="e2554f"><option value="0" ></option><option value="1" >iframeplayer</option><option value="2" selected="selected">wordpress</option><option value="3" >adminportal</option><option value="4" >downloadmanager</option></select></td>
@@ -46,6 +46,10 @@
 </table>
 
 ### More FilmBank Task Description
+
+- [ ] Add semantic HTML (makes screen reader more specific about the focused element say what element are you interacting for)
+- [ ] Tab navigation, be independent as much as mobile from mouse
+- [ ] Adding Alt and Aria labels  attribute to enhance screen reader to be more explanatory
 
 ---
 

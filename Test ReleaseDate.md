@@ -22,6 +22,6 @@ Movies
 Series
 
 - [ ] [61236192](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=61236192/) - 001 - "theatricalReleaseDate": "2019-07-12", title: 3% - episode title: Chapter 01: Cubes - change program, season and episode
-- [ ] [60973401](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=60973401/) - 001 - "theatricalReleaseDate": "2018-07-12", title: The Good Doctor - episode title: Hello
-- [ ] [60062226](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=60062226/) - 001 - "theatricalReleaseDate": "2017-07-12", title: The Simpsons - episode title: Hello
-- [ ] [61536324](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=61536324/) - 001 - "theatricalReleaseDate": "2019-07-12", title: The Good Doctor - episode title: Hello
+- [ ] [60973401](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=60973401/) - 001 - "theatricalReleaseDate": "2018-07-12", title: The Good Doctor - episode title: Hello - change program, season
+- [ ] [60062226](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=60062226/) - 001 - "theatricalReleaseDate": "2017-07-12", title: The Simpsons - episode title: Hello - change program
+- [ ] [61536324](https://eu-west-1.console.aws.amazon.com/s3/buckets/dds-test-ingest?prefix=61536324/) - 001 - "theatricalReleaseDate": "2019-07-12", title: The Good Doctor - episode title: Hello - change program, season and episode

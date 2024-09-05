@@ -36,11 +36,11 @@
     <td class="DESCRIPTION">[WEB] invetigation on how to improve blind user home page accessibility</td>
   </tr>
     <tr>
-    <td class="DONE"><input type="checkbox" unchecked id="11111"></td>
+    <td class="DONE"><input type="checkbox" checked id="11111"></td>
     <td class="LEVEL"><select id="11112"><option value="1" selected="selected">Low 🟢</option><option value="2">Middle 🟡</option><option value="3">ASAP 🔴</option></select></td>
     <td class="TICKET"><a href="https://fincons.atlassian.net/browse/DDS-1098">DDS-1098 (sprint: 081)</a></td>
     <td class="PROJECT"><select id="11113"><option value="0" ></option><option value="1" >iframeplayer</option><option value="2" selected="selected">wordpress</option><option value="3" >adminportal</option><option value="4" >downloadmanager</option></select></td>
-    <td class="DESCRIPTION">[WEB] ‘accessibility statement’ create a static page</td>
+    <td class="DESCRIPTION">[WEB] ‘accessibility statement’ create a static page [Education]</td>
   </tr>
 </tbody>
 </table>

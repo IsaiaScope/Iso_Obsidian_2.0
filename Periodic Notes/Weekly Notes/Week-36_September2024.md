@@ -43,7 +43,7 @@
     <td class="DESCRIPTION">[WEB] ‘accessibility statement’ create a static page [Education]</td>
   </tr>
   <tr>
-    <td class="DONE"><input type="checkbox" checked id="21111"></td>
+    <td class="DONE"><input type="checkbox" unchecked id="21111"></td>
     <td class="LEVEL"><select id="21112"><option value="1" selected="selected">Low 🟢</option><option value="2">Middle 🟡</option><option value="3">ASAP 🔴</option></select></td>
     <td class="TICKET"><a href="">??? (sprint: 081)</a></td>
     <td class="PROJECT"><select id="21113"><option value="0" ></option><option value="1" >iframeplayer</option><option value="2" >wordpress</option><option value="3" selected="selected">adminportal</option><option value="4" >downloadmanager</option></select></td>
@@ -57,6 +57,8 @@
 - [ ] Add semantic HTML (makes screen reader more specific about the focused element say what element are you interacting for)
 - [ ] Tab navigation, be independent as much as mobile from mouse
 - [ ] Adding Alt and Aria labels attribute to enhance screen reader to be more explanatory
+
+---
 
 - [ ] Logic Delete - New Fields just for this API Call
   - [ ] "typeOperation": "LOGIC_DELETE", "ddmId": 266,

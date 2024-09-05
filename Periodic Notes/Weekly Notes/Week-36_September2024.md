@@ -58,6 +58,9 @@
 - [ ] Tab navigation, be independent as much as mobile from mouse
 - [ ] Adding Alt and Aria labels attribute to enhance screen reader to be more explanatory
 
+- [ ] Logic Delete - New Fields just for this API Call
+  - [ ] "typeOperation": "LOGIC_DELETE", "ddmId": 266,
+
 ---
 
 ## RTE [JIRA](https://ott-jira.finconsgroup.com/secure/RapidBoard.jspa?rapidView=1&projectKey=RTEBB&view=planning.nodetail&quickFilter=1)

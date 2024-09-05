@@ -2,9 +2,9 @@
 
 | PROJCTS I'M WORKING ON | TIME PER MONTH (Days) | TIME SPENT (Days) |
 | :--------------------: | :-------------------: | :---------------: |
-|          RTE           |          10           |         1         |
-|        Filmbank        |     4 (at least)      |         4         |
-|        Chaplin         |           ?           |         4         |
+|          RTE           |          10           |        1g         |
+|        Filmbank        |     4 (at least)      |       1g 4h       |
+|        Chaplin         |           ?           |        4h         |
 
 ---
 
@@ -49,7 +49,7 @@
 
 - [ ] Add semantic HTML (makes screen reader more specific about the focused element say what element are you interacting for)
 - [ ] Tab navigation, be independent as much as mobile from mouse
-- [ ] Adding Alt and Aria labels  attribute to enhance screen reader to be more explanatory
+- [ ] Adding Alt and Aria labels attribute to enhance screen reader to be more explanatory
 
 ---
 

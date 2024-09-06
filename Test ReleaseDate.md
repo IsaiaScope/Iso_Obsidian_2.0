@@ -32,3 +32,11 @@ Episode theatricalReleaseDate is compiled from productionYear, I had set theatri
 | id       | Program                             | Episode                                    | Episode                                             |
 | -------- | ----------------------------------- | ------------------------------------------ | --------------------------------------------------- |
 | 00027769 | theatricalReleaseDate: "2020-03-21" | Pilot: theatricalReleaseDate: "2005-01-01" | The Poker Game: theatricalReleaseDate: "2013-01-01" |
+
+---
+
+IOS - Version17.5
+
+- [ ] Fullscreen 
+	- [ ] wi-fi - reprodu
+	- [ ] no wi-fi

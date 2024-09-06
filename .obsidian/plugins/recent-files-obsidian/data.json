@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Week-36_September2024",
-      "path": "Periodic Notes/Weekly Notes/Week-36_September2024.md"
+      "basename": "Test ReleaseDate",
+      "path": "Test ReleaseDate.md"
+    },
+    {
+      "basename": "Scaffolding React App (Vite)",
+      "path": "Scaffolding React App (Vite).md"
     },
     {
       "basename": "get-started",
       "path": "React/Libs/Tanstack/data/V4/get-started.md"
+    },
+    {
+      "basename": "Week-36_September2024",
+      "path": "Periodic Notes/Weekly Notes/Week-36_September2024.md"
     },
     {
       "basename": "useQuery()",
@@ -37,16 +45,8 @@
       "path": "Periodic Notes/Weekly Notes/Week-34_August2024.md"
     },
     {
-      "basename": "Test ReleaseDate",
-      "path": "Test ReleaseDate.md"
-    },
-    {
       "basename": "Shortcuts VS Code",
       "path": "VS Code/Data/Shortcuts VS Code.md"
-    },
-    {
-      "basename": "Scaffolding React App (Vite)",
-      "path": "Scaffolding React App (Vite).md"
     },
     {
       "basename": "Tizen",

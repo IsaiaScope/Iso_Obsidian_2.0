@@ -38,5 +38,5 @@ Episode theatricalReleaseDate is compiled from productionYear, I had set theatri
 IOS - Version17.5
 
 - [ ] Fullscreen 
-	- [ ] wi-fi - reprodu
-	- [ ] no wi-fi
+	- [ ] wi-fi - reproduction blocked by stand-by and manually - cause no errors but sometimes restart on pause or on play
+	- [ ] no wi-fi - reproduction blocked by stand-by and manually - cause no errors but always restart on play

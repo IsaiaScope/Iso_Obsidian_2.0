@@ -2,8 +2,8 @@
 
 | PROJCTS I'M WORKING ON | TIME PER MONTH (Days) | TIME SPENT (Days) |
 | :--------------------: | :-------------------: | :---------------: |
-|          RTE           |          10           |        1g         |
-|        Filmbank        |     4 (at least)      |       1g 4h       |
+|          RTE           |          10           |        2g         |
+|        Filmbank        |     4 (at least)      |       3g 4h       |
 |        Chaplin         |           ?           |        4h         |
 
 ---

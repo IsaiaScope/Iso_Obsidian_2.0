@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Android TV",
+      "path": "Players/Shaka-player/RTE/Android TV.md"
+    },
+    {
+      "basename": "Player Implementation",
+      "path": "Players/Shaka-player/RTE/Player Implementation.md"
+    },
+    {
       "basename": "Test ReleaseDate",
-      "path": "Test ReleaseDate.md"
+      "path": "Players/Shaka-player/Filmbank/Test ReleaseDate.md"
+    },
+    {
+      "basename": "Tizen",
+      "path": "Tizen.md"
+    },
+    {
+      "basename": "Short-cuts",
+      "path": "Short-cuts.md"
+    },
+    {
+      "basename": "Stuff",
+      "path": "Stuff.md"
+    },
+    {
+      "basename": "Upgrade shaka-player",
+      "path": "Players/Shaka-player/Filmbank/Upgrade shaka-player.md"
+    },
+    {
+      "basename": "Testing Shaka build",
+      "path": "Players/Shaka-player/Filmbank/Testing Shaka build.md"
+    },
+    {
+      "basename": "DRM",
+      "path": "Players/DRM.md"
+    },
+    {
+      "basename": "Manifest",
+      "path": "Players/Manifest.md"
+    },
+    {
+      "basename": "Text_Tracks",
+      "path": "Players/Text_Tracks.md"
+    },
+    {
+      "basename": "Theory",
+      "path": "Players/Theory.md"
+    },
+    {
+      "basename": "i18next",
+      "path": "React/Libs/i18next.md"
     },
     {
       "basename": "Scaffolding React App (Vite)",
@@ -25,10 +73,6 @@
       "path": "React/Libs/Tanstack/data/V4/lazy-spa-example/mutation-approach.md"
     },
     {
-      "basename": "i18next",
-      "path": "React/Libs/i18next.md"
-    },
-    {
       "basename": "May2024_Week-22",
       "path": "Periodic Notes/Weekly Notes/May2024_Week-22.md"
     },
@@ -47,10 +91,6 @@
     {
       "basename": "Shortcuts VS Code",
       "path": "VS Code/Data/Shortcuts VS Code.md"
-    },
-    {
-      "basename": "Tizen",
-      "path": "Tizen.md"
     },
     {
       "basename": "init",
@@ -91,10 +131,6 @@
     {
       "basename": "cache-methods",
       "path": "React/Libs/Tanstack/files/cache-methods.png"
-    },
-    {
-      "basename": "Short-cuts",
-      "path": "Short-cuts.md"
     },
     {
       "basename": "Make a Repo",
@@ -149,10 +185,6 @@
       "path": "Conflic-Obsidian.md"
     },
     {
-      "basename": "Stuff",
-      "path": "Stuff.md"
-    },
-    {
       "basename": "Pasted image 20240722175649",
       "path": "Docker/Pasted image 20240722175649.png"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "Nextjs",
       "path": "Certificates/Udemy/React/Nextjs.pdf"
-    },
-    {
-      "basename": "React",
-      "path": "Certificates/Udemy/React/React.pdf"
-    },
-    {
-      "basename": "React Native",
-      "path": "Certificates/Udemy/React/React Native.pdf"
-    },
-    {
-      "basename": "virtualization",
-      "path": "Docker/virtualization.png"
-    },
-    {
-      "basename": "shadcn",
-      "path": "React/Libs/Shadcn-ui/shadcn.md"
-    },
-    {
-      "basename": "style",
-      "path": "React/Libs/Shadcn-ui/style.md"
-    },
-    {
-      "basename": "Create Linux environment",
-      "path": "Players/Create Linux environment.md"
-    },
-    {
-      "basename": "git remote",
-      "path": "Git and GitHub/GitHub/Prompt/git remote.md"
-    },
-    {
-      "basename": "Font",
-      "path": "VS Code/Data/Font.md"
     }
   ],
   "omittedPaths": [],

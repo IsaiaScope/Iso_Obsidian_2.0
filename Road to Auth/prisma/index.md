@@ -1,0 +1,1 @@
+1. [Prisma MongoDB](https://www.prisma.io/docs/getting-started/setup-prisma/start-from-scratch/mongodb-typescript-mongodb)

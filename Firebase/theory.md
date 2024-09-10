@@ -1,3 +1,0 @@
-- collection => folder
-- document => file
-- data => file data or sub-collection

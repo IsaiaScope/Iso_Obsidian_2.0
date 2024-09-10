@@ -1,6 +1,16 @@
 [
-  "cm-editor-syntax-highlight-obsidian",
   "obsidian-git",
   "obsidian-excalidraw-plugin",
-  "obsidian-admonition"
+  "obsidian-plugin-prettier",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-admonition",
+  "calendar",
+  "periodic-notes",
+  "recent-files-obsidian",
+  "obsidian-icon-folder",
+  "obsidian-plugin-update-tracker",
+  "obsidian-show-file-path",
+  "obsidian-hider",
+  "table-editor-obsidian",
+  "obsidian-file-color"
 ]

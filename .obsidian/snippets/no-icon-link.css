@@ -1,0 +1,26 @@
+.external-link {
+  background-image: none;
+  padding-right: 0px;
+}
+
+.markdown-rendered table {
+  width: 90%;
+  margin: auto;
+}
+
+.markdown-rendered button.copy-code-button {
+ font-size: 0;
+ margin: 3px;
+ padding: 4px;
+}
+
+.markdown-rendered button.copy-code-button:before {
+  content: '🍄';
+  font-size: var(--font-ui-smaller);
+}
+
+pre.table-script {
+  white-space: nowrap;
+  padding-right: 40px;
+}
+

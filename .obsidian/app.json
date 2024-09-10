@@ -1,14 +1,16 @@
 {
   "spellcheck": true,
   "tabSize": 2,
-  "spellcheckLanguages": [
-    "it",
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "livePreview": false,
   "defaultViewMode": "preview",
-  "attachmentFolderPath": "/",
+  "attachmentFolderPath": "Test/Jest/Images",
   "showLineNumber": false,
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "autoConvertHtml": true,
+  "showUnsupportedFiles": true
 }

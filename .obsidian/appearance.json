@@ -1,8 +1,15 @@
 {
-  "baseFontSize": 11,
+  "baseFontSize": 15,
   "accentColor": "",
   "cssTheme": "Obsidian Nord",
   "showViewHeader": true,
   "nativeMenus": false,
-  "translucency": false
+  "translucency": false,
+  "enabledCssSnippets": [
+    "no-icon-link",
+    "my-obsidian"
+  ],
+  "interfaceFontFamily": "Century Gothic,Fira Code",
+  "monospaceFontFamily": "",
+  "textFontFamily": "Century Gothic"
 }

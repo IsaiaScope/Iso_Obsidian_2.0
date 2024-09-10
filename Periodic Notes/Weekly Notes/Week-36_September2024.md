@@ -52,9 +52,9 @@
   <tr>
     <td class="DONE"><input type="checkbox" unchecked id="31111"></td>
     <td class="LEVEL"><select id="31112"><option value="1" selected="selected">Low 🟢</option><option value="2">Middle 🟡</option><option value="3">ASAP 🔴</option></select></td>
-    <td class="TICKET"><a href="https://fincons.atlassian.net/wiki/spaces/DDS/pages/1498710021/01.+Creation+of+AWS+resources+for+a+new+instance">New Instance Liverpool (sprint: 081)</a></td>
+    <td class="TICKET"><a href="https://fincons.atlassian.net/browse/DDS-1110">DDS-1110 (sprint: 081)</a></td>
     <td class="PROJECT"><select id="31113"><option value="0" ></option><option value="1" >iframeplayer</option><option value="2" selected="selected">wordpress</option><option value="3" >adminportal</option><option value="4" >downloadmanager</option></select></td>
-    <td class="DESCRIPTION">booking section: add column, add button</td>
+    <td class="DESCRIPTION">[Liverpool] create instance liverpool (base configuration)</td>
   </tr>
 </tbody>
 </table>
@@ -72,7 +72,7 @@
 
 ---
 
-- [  ] 
+- [ ]
 
 ---
 

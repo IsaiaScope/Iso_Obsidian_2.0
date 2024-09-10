@@ -3,7 +3,7 @@
 | PROJCTS I'M WORKING ON | TIME PER MONTH (Days) | TIME SPENT (Days) |
 | :--------------------: | :-------------------: | :---------------: |
 |          RTE           |          10           |        2g         |
-|        Filmbank        |     4 (at least)      |       3g 4h       |
+|        Filmbank        |     4 (at least)      |       4g 4h       |
 |        Chaplin         |           ?           |        4h         |
 
 ---
@@ -49,6 +49,13 @@
     <td class="PROJECT"><select id="21113"><option value="0" ></option><option value="1" >iframeplayer</option><option value="2" >wordpress</option><option value="3" selected="selected">adminportal</option><option value="4" >downloadmanager</option></select></td>
     <td class="DESCRIPTION">booking section: add column, add button</td>
   </tr>
+  <tr>
+    <td class="DONE"><input type="checkbox" unchecked id="31111"></td>
+    <td class="LEVEL"><select id="31112"><option value="1" selected="selected">Low 🟢</option><option value="2">Middle 🟡</option><option value="3">ASAP 🔴</option></select></td>
+    <td class="TICKET"><a href="https://fincons.atlassian.net/wiki/spaces/DDS/pages/1498710021/01.+Creation+of+AWS+resources+for+a+new+instance">New Instance Liverpool (sprint: 081)</a></td>
+    <td class="PROJECT"><select id="31113"><option value="0" ></option><option value="1" >iframeplayer</option><option value="2" selected="selected">wordpress</option><option value="3" >adminportal</option><option value="4" >downloadmanager</option></select></td>
+    <td class="DESCRIPTION">booking section: add column, add button</td>
+  </tr>
 </tbody>
 </table>
 
@@ -62,6 +69,10 @@
 
 - [ ] Logic Delete - New Fields just for this API Call
   - [ ] "typeOperation": "LOGIC_DELETE", "ddmId": 266,
+
+---
+
+- [  ] 
 
 ---
 

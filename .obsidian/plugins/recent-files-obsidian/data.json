@@ -5,6 +5,10 @@
       "path": "Players/Shaka-player/RTE/LG.md"
     },
     {
+      "basename": "Android TV",
+      "path": "Players/Shaka-player/RTE/Android TV.md"
+    },
+    {
       "basename": "Week-36_September2024",
       "path": "Periodic Notes/Weekly Notes/Week-36_September2024.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Shortcuts VS Code",
       "path": "VS Code/Data/Shortcuts VS Code.md"
-    },
-    {
-      "basename": "Android TV",
-      "path": "Players/Shaka-player/RTE/Android TV.md"
     },
     {
       "basename": "Upgrade shaka-player",

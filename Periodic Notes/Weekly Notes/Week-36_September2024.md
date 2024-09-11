@@ -72,10 +72,6 @@
 
 ---
 
-- [ ]
-
----
-
 ## RTE [JIRA](https://ott-jira.finconsgroup.com/secure/RapidBoard.jspa?rapidView=1&projectKey=RTEBB&view=planning.nodetail&quickFilter=1)
 
 <table class="todo">

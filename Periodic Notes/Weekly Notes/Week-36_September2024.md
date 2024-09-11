@@ -50,7 +50,7 @@
     <td class="DESCRIPTION">booking section: add column, add button</td>
   </tr>
   <tr>
-    <td class="DONE"><input type="checkbox" unchecked id="31111"></td>
+    <td class="DONE"><input type="checkbox" checked id="31111"></td>
     <td class="LEVEL"><select id="31112"><option value="1" selected="selected">Low 🟢</option><option value="2">Middle 🟡</option><option value="3">ASAP 🔴</option></select></td>
     <td class="TICKET"><a href="https://fincons.atlassian.net/browse/DDS-1110">DDS-1110 (sprint: 081)</a></td>
     <td class="PROJECT"><select id="31113"><option value="0" ></option><option value="1" >iframeplayer</option><option value="2" selected="selected">wordpress</option><option value="3" >adminportal</option><option value="4" >downloadmanager</option></select></td>
@@ -75,10 +75,12 @@
 Player Status after blocking and unlocking the device during a full-screen stream
 Starting Point: Player is streaming in full-screen and after...
 
-|        qualitycheck PROD         |  contentId   | Wi-Fi | Auto Block | Manual Block | Save Battery Mode |
-| :------------------------------: | :----------: | :---: | :--------: | :----------: | :---------------: |
-| iPhone 13 PRO max - IOS: 17.6.1) | 00034292-001 |   v   |  Playing   |   Playing    |      Playing      |
-| iPhone 13 PRO max - IOS: 17.6.1) | 00034292-001 |   x   |            |              |                   |
+|        qualitycheck PROD         |  contentId   | Wi-Fi | Auto Block |        Manual Block        | Save Battery Mode |
+| :------------------------------: | :----------: | :---: | :--------: | :------------------------: | :---------------: |
+| iPhone 13 PRO max - IOS: 17.6.1) | 00034292-001 |   v   |  Playing   |          Playing           |      Playing      |
+| iPhone 13 PRO max - IOS: 17.6.1) | 00023629-001 |   x   |  Playing   | Playing or Paused (Random) |      Playing      |
+
+To sum up I've never got an error. After phone blocked the playback restarted or was in pause state
 
 ---
 

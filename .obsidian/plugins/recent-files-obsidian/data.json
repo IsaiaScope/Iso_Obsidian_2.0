@@ -5,6 +5,26 @@
       "path": "Players/Shaka-player/RTE/LG.md"
     },
     {
+      "basename": "Week-36_September2024",
+      "path": "Periodic Notes/Weekly Notes/Week-36_September2024.md"
+    },
+    {
+      "basename": "Test ReleaseDate",
+      "path": "Players/Shaka-player/Filmbank/Test ReleaseDate.md"
+    },
+    {
+      "basename": "Player Implementation",
+      "path": "Players/Shaka-player/RTE/Player Implementation.md"
+    },
+    {
+      "basename": "i18next",
+      "path": "React/Libs/i18next.md"
+    },
+    {
+      "basename": "Shortcuts VS Code",
+      "path": "VS Code/Data/Shortcuts VS Code.md"
+    },
+    {
       "basename": "Android TV",
       "path": "Players/Shaka-player/RTE/Android TV.md"
     },
@@ -15,18 +35,6 @@
     {
       "basename": "Testing Shaka build",
       "path": "Players/Shaka-player/Filmbank/Testing Shaka build.md"
-    },
-    {
-      "basename": "Test ReleaseDate",
-      "path": "Players/Shaka-player/Filmbank/Test ReleaseDate.md"
-    },
-    {
-      "basename": "Week-36_September2024",
-      "path": "Periodic Notes/Weekly Notes/Week-36_September2024.md"
-    },
-    {
-      "basename": "Player Implementation",
-      "path": "Players/Shaka-player/RTE/Player Implementation.md"
     },
     {
       "basename": "Tizen",
@@ -55,10 +63,6 @@
     {
       "basename": "Theory",
       "path": "Players/Theory.md"
-    },
-    {
-      "basename": "i18next",
-      "path": "React/Libs/i18next.md"
     },
     {
       "basename": "Scaffolding React App (Vite)",
@@ -91,10 +95,6 @@
     {
       "basename": "Week-34_August2024",
       "path": "Periodic Notes/Weekly Notes/Week-34_August2024.md"
-    },
-    {
-      "basename": "Shortcuts VS Code",
-      "path": "VS Code/Data/Shortcuts VS Code.md"
     },
     {
       "basename": "init",

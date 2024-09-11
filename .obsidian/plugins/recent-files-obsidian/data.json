@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Week-36_September2024",
-      "path": "Periodic Notes/Weekly Notes/Week-36_September2024.md"
+      "basename": "LG",
+      "path": "Players/Shaka-player/RTE/LG.md"
+    },
+    {
+      "basename": "Android TV",
+      "path": "Players/Shaka-player/RTE/Android TV.md"
+    },
+    {
+      "basename": "Upgrade shaka-player",
+      "path": "Players/Shaka-player/Filmbank/Upgrade shaka-player.md"
+    },
+    {
+      "basename": "Testing Shaka build",
+      "path": "Players/Shaka-player/Filmbank/Testing Shaka build.md"
     },
     {
       "basename": "Test ReleaseDate",
       "path": "Players/Shaka-player/Filmbank/Test ReleaseDate.md"
     },
     {
-      "basename": "Android TV",
-      "path": "Players/Shaka-player/RTE/Android TV.md"
+      "basename": "Week-36_September2024",
+      "path": "Periodic Notes/Weekly Notes/Week-36_September2024.md"
     },
     {
       "basename": "Player Implementation",
@@ -27,14 +39,6 @@
     {
       "basename": "Stuff",
       "path": "Stuff.md"
-    },
-    {
-      "basename": "Upgrade shaka-player",
-      "path": "Players/Shaka-player/Filmbank/Upgrade shaka-player.md"
-    },
-    {
-      "basename": "Testing Shaka build",
-      "path": "Players/Shaka-player/Filmbank/Testing Shaka build.md"
     },
     {
       "basename": "DRM",
@@ -195,10 +199,6 @@
     {
       "basename": "how an OS is made up",
       "path": "Docker/how an OS is made up.png"
-    },
-    {
-      "basename": "Nextjs",
-      "path": "Certificates/Udemy/React/Nextjs.pdf"
     }
   ],
   "omittedPaths": [],

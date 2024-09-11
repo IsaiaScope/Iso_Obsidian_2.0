@@ -2,8 +2,8 @@
 
 | PROJCTS I'M WORKING ON | TIME PER MONTH (Days) | TIME SPENT (Days) |
 | :--------------------: | :-------------------: | :---------------: |
-|          RTE           |          10           |        2g         |
-|        Filmbank        |     4 (at least)      |       4g 4h       |
+|          RTE           |          10           |       2g 4h       |
+|        Filmbank        |     4 (at least)      |        5g         |
 |        Chaplin         |           ?           |        4h         |
 
 ---
@@ -69,6 +69,16 @@
 
 - [ ] Logic Delete - New Fields just for this API Call
   - [ ] "typeOperation": "LOGIC_DELETE", "ddmId": 266,
+
+---
+
+Player Status after blocking and unlocking the device during a full-screen stream
+Starting Point: Player is streaming in full-screen and after...
+
+| iPhone 13 PRO max - IOS: 17.6.1) |  contentId   | Auto Block | Manual Block | Save Battery Mode |
+| :------------------------------: | :----------: | :--------: | :----------: | :---------------: |
+|   qualitycheck PROD - No Wi-Fi   | 00034292-001 |            |              |                   |
+|    qualitycheck PROD - Wi-Fi     | 00034292-001 |            |              |                   |
 
 ---
 

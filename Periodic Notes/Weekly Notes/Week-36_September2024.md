@@ -75,10 +75,10 @@
 Player Status after blocking and unlocking the device during a full-screen stream
 Starting Point: Player is streaming in full-screen and after...
 
-| iPhone 13 PRO max - IOS: 17.6.1) |  contentId   | Auto Block | Manual Block | Save Battery Mode |
-| :------------------------------: | :----------: | :--------: | :----------: | :---------------: |
-|   qualitycheck PROD - No Wi-Fi   | 00034292-001 |            |              |                   |
-|    qualitycheck PROD - Wi-Fi     | 00034292-001 |            |              |                   |
+|        qualitycheck PROD         |  contentId   | Wi-Fi | Auto Block |        Manual Block        | Save Battery Mode |
+| :------------------------------: | :----------: | :---: | :--------: | :------------------------: | :---------------: |
+| iPhone 13 PRO max - IOS: 17.6.1) | 00034292-001 |   v   |            | Playing or Paused (Random) |      Playing      |
+| iPhone 13 PRO max - IOS: 17.6.1) | 00034292-001 |   x   |            |                            |                   |
 
 ---
 

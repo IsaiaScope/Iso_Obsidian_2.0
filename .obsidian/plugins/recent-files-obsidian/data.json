@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "LG",
+      "path": "Players/Shaka-player/RTE/LG.md"
+    },
+    {
       "basename": "Week-36_September2024",
       "path": "Periodic Notes/Weekly Notes/Week-36_September2024.md"
     },
     {
-      "basename": "LG",
-      "path": "Players/Shaka-player/RTE/LG.md"
+      "basename": "12-09-2024",
+      "path": "Periodic Notes/Daily Notes/12-09-2024.md"
     },
     {
       "basename": "Android TV",
@@ -195,10 +199,6 @@
     {
       "basename": "The intro to Docker I wish I had when I started",
       "path": "Docker/The intro to Docker I wish I had when I started.md"
-    },
-    {
-      "basename": "how an OS is made up",
-      "path": "Docker/how an OS is made up.png"
     }
   ],
   "omittedPaths": [],

@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IbDashboard",
       "BoBxlDocker",
       "SiJest",
       "SiNextdotjs",
-      "RiFlightTakeoffFill",
-      "SiUdemy"
+      "RiFlightTakeoffFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -166,5 +166,6 @@
   "React/Libs/Next.js/Data/init.md": "RiFlightTakeoffFill",
   "Certificates/Udemy/React/Nextjs.pdf": "SiNextdotjs",
   "Certificates/Udemy/React/React Testing Library and Jest.pdf": "SiJest",
-  "Docker": "BoBxlDocker"
+  "Docker": "BoBxlDocker",
+  "WORK/Players/Dashboard.md": "IbDashboard"
 }

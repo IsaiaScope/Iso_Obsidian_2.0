@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "LG",
-      "path": "Players/Shaka-player/RTE/LG.md"
+      "basename": "Update FAQs",
+      "path": "WORK/Fincons/Filmbank/Update FAQs.md"
+    },
+    {
+      "basename": "Upgrade shaka-player",
+      "path": "WORK/Fincons/Filmbank/Upgrade shaka-player.md"
+    },
+    {
+      "basename": "Testing Shaka build",
+      "path": "WORK/Fincons/Filmbank/Testing Shaka build.md"
+    },
+    {
+      "basename": "Test theatricalReleaseDate",
+      "path": "WORK/Fincons/Filmbank/Test theatricalReleaseDate.md"
+    },
+    {
+      "basename": "Create Linux environment",
+      "path": "WORK/Fincons/Filmbank/Create Linux environment.md"
+    },
+    {
+      "basename": "Theory",
+      "path": "WORK/Players/Shaka-player/Theory.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "WORK/Players/Dashboard.md"
+    },
+    {
+      "basename": "DRM",
+      "path": "WORK/Players/DRM.md"
+    },
+    {
+      "basename": "Manifest",
+      "path": "WORK/Players/Manifest.md"
+    },
+    {
+      "basename": "Text_Tracks",
+      "path": "WORK/Players/Text_Tracks.md"
+    },
+    {
+      "basename": "Install APK on Chromecast - Android TV",
+      "path": "WORK/Fincons/RTE/Install APK on Chromecast - Android TV.md"
+    },
+    {
+      "basename": "Install Apps on LG",
+      "path": "WORK/Fincons/RTE/Install Apps on LG.md"
+    },
+    {
+      "basename": "Player Implementation",
+      "path": "WORK/Fincons/RTE/Player Implementation.md"
+    },
+    {
+      "basename": "Tizen",
+      "path": "Tizen.md"
     },
     {
       "basename": "Week-36_September2024",
@@ -13,18 +65,6 @@
       "path": "Periodic Notes/Daily Notes/12-09-2024.md"
     },
     {
-      "basename": "Android TV",
-      "path": "Players/Shaka-player/RTE/Android TV.md"
-    },
-    {
-      "basename": "Test ReleaseDate",
-      "path": "Players/Shaka-player/Filmbank/Test ReleaseDate.md"
-    },
-    {
-      "basename": "Player Implementation",
-      "path": "Players/Shaka-player/RTE/Player Implementation.md"
-    },
-    {
       "basename": "i18next",
       "path": "React/Libs/i18next.md"
     },
@@ -33,40 +73,12 @@
       "path": "VS Code/Data/Shortcuts VS Code.md"
     },
     {
-      "basename": "Upgrade shaka-player",
-      "path": "Players/Shaka-player/Filmbank/Upgrade shaka-player.md"
-    },
-    {
-      "basename": "Testing Shaka build",
-      "path": "Players/Shaka-player/Filmbank/Testing Shaka build.md"
-    },
-    {
-      "basename": "Tizen",
-      "path": "Tizen.md"
-    },
-    {
       "basename": "Short-cuts",
       "path": "Short-cuts.md"
     },
     {
       "basename": "Stuff",
       "path": "Stuff.md"
-    },
-    {
-      "basename": "DRM",
-      "path": "Players/DRM.md"
-    },
-    {
-      "basename": "Manifest",
-      "path": "Players/Manifest.md"
-    },
-    {
-      "basename": "Text_Tracks",
-      "path": "Players/Text_Tracks.md"
-    },
-    {
-      "basename": "Theory",
-      "path": "Players/Theory.md"
     },
     {
       "basename": "Scaffolding React App (Vite)",
@@ -187,18 +199,6 @@
     {
       "basename": "git init",
       "path": "Git and GitHub/Git/Prompt/git init.md"
-    },
-    {
-      "basename": "Conflic-Obsidian",
-      "path": "Conflic-Obsidian.md"
-    },
-    {
-      "basename": "Pasted image 20240722175649",
-      "path": "Docker/Pasted image 20240722175649.png"
-    },
-    {
-      "basename": "The intro to Docker I wish I had when I started",
-      "path": "Docker/The intro to Docker I wish I had when I started.md"
     }
   ],
   "omittedPaths": [],

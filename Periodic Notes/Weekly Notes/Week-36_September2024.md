@@ -2,9 +2,9 @@
 
 | PROJCTS I'M WORKING ON | TIME PER MONTH (Days) | TIME SPENT (Days) |
 | :--------------------: | :-------------------: | :---------------: |
-|          RTE           |          10           |       2g 4h       |
+|          RTE           |          10           |       3g 4h       |
 |        Filmbank        |     4 (at least)      |        5g         |
-|        Chaplin         |           ?           |        4h         |
+|        Chaplin         |           ?           |       2g 4h       |
 
 ---
 
@@ -55,6 +55,13 @@
     <td class="TICKET"><a href="https://fincons.atlassian.net/browse/DDS-1110">DDS-1110 (sprint: 081)</a></td>
     <td class="PROJECT"><select id="31113"><option value="0" ></option><option value="1" >iframeplayer</option><option value="2" selected="selected">wordpress</option><option value="3" >adminportal</option><option value="4" >downloadmanager</option></select></td>
     <td class="DESCRIPTION">[Liverpool] create instance liverpool (base configuration)</td>
+  </tr>
+    <tr>
+    <td class="DONE"><input type="checkbox" checked id="41111"></td>
+    <td class="LEVEL"><select id="41112"><option value="1" selected="selected">Low 🟢</option><option value="2">Middle 🟡</option><option value="3">ASAP 🔴</option></select></td>
+    <td class="TICKET"><a href="https://fincons.atlassian.net/browse/DDS-1118">DDS-1118 (sprint: 082)</a></td>
+    <td class="PROJECT"><select id="41113"><option value="0" ></option><option value="1" >iframeplayer</option><option value="2" selected="selected">wordpress</option><option value="3" >adminportal</option><option value="4" >downloadmanager</option></select></td>
+    <td class="DESCRIPTION">[WEB] Remove "production year" option from sorting panel</td>
   </tr>
 </tbody>
 </table>

@@ -2,6 +2,26 @@
   "recentFiles": [
     {
       "basename": "Dashboard",
+      "path": "React Native/Dashboard.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Three.js/Dashboard.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Volta/Dashboard.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
+      "basename": "Dashboard",
       "path": "DevOps/Dashboard.md"
     },
     {
@@ -13,14 +33,6 @@
       "path": "Excel/Dashboard.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "React Native/Dashboard.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
       "basename": "git ignore",
       "path": "Git and GitHub/Git/Data/git ignore.md"
     },
@@ -29,24 +41,12 @@
       "path": "Periodic Notes/Templates/New Dashboard.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Volta/Dashboard.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Three.js/Dashboard.md"
-    },
-    {
       "basename": "Summary",
       "path": "Git and GitHub/GitHub/Summary.md"
     },
     {
       "basename": "Delete Local and Remote Branch",
       "path": "Git and GitHub/GitHub/Data/Delete Local and Remote Branch.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
     },
     {
       "basename": "git commit",
@@ -175,10 +175,6 @@
     {
       "basename": "Theory",
       "path": "WORK/Players/Shaka-player/Theory.md"
-    },
-    {
-      "basename": "18-09-2024",
-      "path": "Periodic Notes/Daily Notes/18-09-2024.md"
     },
     {
       "basename": "git config",

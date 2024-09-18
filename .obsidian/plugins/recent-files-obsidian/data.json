@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Weekly Note Templates",
+      "path": "Periodic Notes/Templates/Weekly Note Templates.md"
+    },
+    {
+      "basename": "Daily Note Templates",
+      "path": "Periodic Notes/Templates/Daily Note Templates.md"
+    },
+    {
+      "basename": "New Dashboard",
+      "path": "Periodic Notes/Templates/New Dashboard.md"
+    },
+    {
+      "basename": "New Note",
+      "path": "Periodic Notes/Templates/New Note.md"
+    },
+    {
       "basename": "Week-36_September2024",
       "path": "Periodic Notes/Weekly Notes/Week-36_September2024.md"
     },
@@ -29,10 +45,6 @@
       "path": "Conflic-Obsidian.md"
     },
     {
-      "basename": "Weekly Note Templates",
-      "path": "Periodic Notes/Templates/Weekly Note Templates.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "React Native/Dashboard.md"
     },
@@ -55,10 +67,6 @@
     {
       "basename": "git ignore",
       "path": "Git and GitHub/Git/Data/git ignore.md"
-    },
-    {
-      "basename": "New Dashboard",
-      "path": "Periodic Notes/Templates/New Dashboard.md"
     },
     {
       "basename": "Delete Local and Remote Branch",
@@ -191,14 +199,6 @@
     {
       "basename": "Theory",
       "path": "WORK/Players/Shaka-player/Theory.md"
-    },
-    {
-      "basename": "git config",
-      "path": "Git and GitHub/Git/Prompt/git config.md"
-    },
-    {
-      "basename": "Tizen",
-      "path": "Tizen.md"
     }
   ],
   "omittedPaths": [],

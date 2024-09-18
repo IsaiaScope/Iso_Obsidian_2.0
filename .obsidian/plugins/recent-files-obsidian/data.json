@@ -1,20 +1,160 @@
 {
   "recentFiles": [
     {
-      "basename": "Week-36_September2024",
-      "path": "Periodic Notes/Weekly Notes/Week-36_September2024.md"
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
     },
     {
-      "basename": "Create Linux environment",
-      "path": "WORK/Fincons/Filmbank/Create Linux environment.md"
+      "basename": "Delete Local and Remote Branch",
+      "path": "Git and GitHub/GitHub/Data/Delete Local and Remote Branch.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
+      "basename": "git commit",
+      "path": "Git and GitHub/Git/Prompt/git commit.md"
+    },
+    {
+      "basename": "git reset",
+      "path": "Git and GitHub/Git/Files/git reset.png"
+    },
+    {
+      "basename": "git reset --hard",
+      "path": "Git and GitHub/Git/Files/git reset --hard.png"
+    },
+    {
+      "basename": "git reset Flow",
+      "path": "Git and GitHub/Git/Files/git reset Flow.png"
+    },
+    {
+      "basename": "Git&+Github_+Aliases",
+      "path": "Git and GitHub/Files/Udemy Course/Git&+Github_+Aliases.pdf"
+    },
+    {
+      "basename": "icomoon",
+      "path": "isonfireCLI/doc/icomoon.md"
+    },
+    {
+      "basename": "init-CLI",
+      "path": "isonfireCLI/doc/init-CLI.md"
+    },
+    {
+      "basename": "README",
+      "path": "isonfireCLI/README.md"
+    },
+    {
+      "basename": "Mediator",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Mediator.md"
+    },
+    {
+      "basename": "Observer",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Observer.md"
+    },
+    {
+      "basename": "State",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/State.md"
+    },
+    {
+      "basename": "Strategy",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Strategy.md"
+    },
+    {
+      "basename": "Template Method",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Template Method.md"
+    },
+    {
+      "basename": "Open-Closed Principle",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Open-Closed Principle.md"
+    },
+    {
+      "basename": "Single Responsibility Principle",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Single Responsibility Principle.md"
+    },
+    {
+      "basename": "Liskov Substitution Principle",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Liskov Substitution Principle.md"
+    },
+    {
+      "basename": "Interface Segregation Principle",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Interface Segregation Principle.md"
+    },
+    {
+      "basename": "Dependency Inversion Principle",
+      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Dependency Inversion Principle.md"
+    },
+    {
+      "basename": "DOM Component",
+      "path": "JS and TS/JavaScript/Snippet/DOM Component.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "JS and TS/JavaScript/Dashboard.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
+    },
+    {
+      "basename": "DashBoard",
+      "path": "Style/DashBoard.md"
+    },
+    {
+      "basename": "Add Media",
+      "path": "Obsidian Tutorial/Data/Add Media.md"
+    },
+    {
+      "basename": "Create custom plugin",
+      "path": "Obsidian Tutorial/Data/Create custom plugin.md"
+    },
+    {
+      "basename": "Ricerche complesse",
+      "path": "Obsidian Tutorial/Data/Ricerche complesse.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Obsidian Tutorial/Dashboard.md"
+    },
+    {
+      "basename": "Test theatricalReleaseDate",
+      "path": "WORK/Fincons/Filmbank/Test theatricalReleaseDate.md"
     },
     {
       "basename": "Create New Static Page",
       "path": "WORK/Fincons/Filmbank/Create New Static Page.md"
     },
     {
-      "basename": "Test theatricalReleaseDate",
-      "path": "WORK/Fincons/Filmbank/Test theatricalReleaseDate.md"
+      "basename": "Create Linux environment",
+      "path": "WORK/Fincons/Filmbank/Create Linux environment.md"
+    },
+    {
+      "basename": "DRM",
+      "path": "WORK/Players/DRM.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "WORK/Players/Dashboard.md"
+    },
+    {
+      "basename": "Theory",
+      "path": "WORK/Players/Shaka-player/Theory.md"
+    },
+    {
+      "basename": "18-09-2024",
+      "path": "Periodic Notes/Daily Notes/18-09-2024.md"
+    },
+    {
+      "basename": "git config",
+      "path": "Git and GitHub/Git/Prompt/git config.md"
+    },
+    {
+      "basename": "Tizen",
+      "path": "Tizen.md"
+    },
+    {
+      "basename": "Week-36_September2024",
+      "path": "Periodic Notes/Weekly Notes/Week-36_September2024.md"
     },
     {
       "basename": "Testing Shaka build",
@@ -45,18 +185,6 @@
       "path": "React/Data/Hooks/useEffect().md"
     },
     {
-      "basename": "Theory",
-      "path": "WORK/Players/Shaka-player/Theory.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "WORK/Players/Dashboard.md"
-    },
-    {
-      "basename": "DRM",
-      "path": "WORK/Players/DRM.md"
-    },
-    {
       "basename": "Manifest",
       "path": "WORK/Players/Manifest.md"
     },
@@ -65,140 +193,12 @@
       "path": "WORK/Players/Text_Tracks.md"
     },
     {
-      "basename": "Tizen",
-      "path": "Tizen.md"
-    },
-    {
       "basename": "12-09-2024",
       "path": "Periodic Notes/Daily Notes/12-09-2024.md"
     },
     {
       "basename": "i18next",
       "path": "React/Libs/i18next.md"
-    },
-    {
-      "basename": "Shortcuts VS Code",
-      "path": "VS Code/Data/Shortcuts VS Code.md"
-    },
-    {
-      "basename": "Short-cuts",
-      "path": "Short-cuts.md"
-    },
-    {
-      "basename": "Stuff",
-      "path": "Stuff.md"
-    },
-    {
-      "basename": "Scaffolding React App (Vite)",
-      "path": "Scaffolding React App (Vite).md"
-    },
-    {
-      "basename": "get-started",
-      "path": "React/Libs/Tanstack/data/V4/get-started.md"
-    },
-    {
-      "basename": "useQuery()",
-      "path": "React/Libs/Tanstack/data/V4/useQuery().md"
-    },
-    {
-      "basename": "mutation-approach",
-      "path": "React/Libs/Tanstack/data/V4/lazy-spa-example/mutation-approach.md"
-    },
-    {
-      "basename": "May2024_Week-22",
-      "path": "Periodic Notes/Weekly Notes/May2024_Week-22.md"
-    },
-    {
-      "basename": "Week-25_June2024",
-      "path": "Periodic Notes/Weekly Notes/Week-25_June2024.md"
-    },
-    {
-      "basename": "Week-30_July2024",
-      "path": "Periodic Notes/Weekly Notes/Week-30_July2024.md"
-    },
-    {
-      "basename": "Week-34_August2024",
-      "path": "Periodic Notes/Weekly Notes/Week-34_August2024.md"
-    },
-    {
-      "basename": "init",
-      "path": "Docker/init.md"
-    },
-    {
-      "basename": "index",
-      "path": "React/Libs/Tanstack/index.md"
-    },
-    {
-      "basename": "May2024_Week-21",
-      "path": "Periodic Notes/Weekly Notes/May2024_Week-21.md"
-    },
-    {
-      "basename": "2024-W20",
-      "path": "Periodic Notes/Weekly Notes/2024-W20.md"
-    },
-    {
-      "basename": "2024-W16",
-      "path": "Periodic Notes/Weekly Notes/2024-W16.md"
-    },
-    {
-      "basename": "2024-W18",
-      "path": "Periodic Notes/Weekly Notes/2024-W18.md"
-    },
-    {
-      "basename": "Transform Object",
-      "path": "Three.js/Data/Transform Object.md"
-    },
-    {
-      "basename": "Textures",
-      "path": "Three.js/Data/Textures.md"
-    },
-    {
-      "basename": "Overview",
-      "path": "Fastify/Data/Book/Chapters/Overview.md"
-    },
-    {
-      "basename": "cache-methods",
-      "path": "React/Libs/Tanstack/files/cache-methods.png"
-    },
-    {
-      "basename": "Make a Repo",
-      "path": "Git and GitHub/GitHub/Data/Make a Repo.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
-    },
-    {
-      "basename": "Check Url Repo or Directory where Local Repo is Cloned",
-      "path": "Git and GitHub/GitHub/Data/Check Url Repo or Directory where Local Repo is Cloned.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Volta/Dashboard.md"
-    },
-    {
-      "basename": "New Dashboard",
-      "path": "Periodic Notes/Templates/New Dashboard.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "DevOps/Dashboard.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Excel/Dashboard.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "React Native/Dashboard.md"
     }
   ],
   "omittedPaths": [],

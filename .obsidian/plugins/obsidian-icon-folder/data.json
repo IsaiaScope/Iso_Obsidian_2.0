@@ -24,9 +24,9 @@
     "iconInTitleEnabled": false,
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
-    "iconsInNotesEnabled": true,
+    "iconsInNotesEnabled": false,
     "iconIdentifier": ":",
-    "iconsInLinksEnabled": true,
+    "iconsInLinksEnabled": false,
     "debugMode": false,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor"

@@ -2,6 +2,38 @@
   "recentFiles": [
     {
       "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "git ignore",
+      "path": "Git and GitHub/Git/Data/git ignore.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "React Native/Dashboard.md"
+    },
+    {
+      "basename": "New Dashboard",
+      "path": "Periodic Notes/Templates/New Dashboard.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Volta/Dashboard.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Three.js/Dashboard.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Excel/Dashboard.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "DevOps/Dashboard.md"
+    },
+    {
+      "basename": "Summary",
       "path": "Git and GitHub/GitHub/Summary.md"
     },
     {
@@ -167,38 +199,6 @@
     {
       "basename": "Upgrade shaka-player",
       "path": "WORK/Fincons/Filmbank/Upgrade shaka-player.md"
-    },
-    {
-      "basename": "Player Implementation",
-      "path": "WORK/Fincons/RTE/Player Implementation.md"
-    },
-    {
-      "basename": "Install Apps on LG",
-      "path": "WORK/Fincons/RTE/Install Apps on LG.md"
-    },
-    {
-      "basename": "Install APK on Chromecast - Android TV",
-      "path": "WORK/Fincons/RTE/Install APK on Chromecast - Android TV.md"
-    },
-    {
-      "basename": "useEffect()",
-      "path": "React/Data/Hooks/useEffect().md"
-    },
-    {
-      "basename": "Manifest",
-      "path": "WORK/Players/Manifest.md"
-    },
-    {
-      "basename": "Text_Tracks",
-      "path": "WORK/Players/Text_Tracks.md"
-    },
-    {
-      "basename": "12-09-2024",
-      "path": "Periodic Notes/Daily Notes/12-09-2024.md"
-    },
-    {
-      "basename": "i18next",
-      "path": "React/Libs/i18next.md"
     }
   ],
   "omittedPaths": [],

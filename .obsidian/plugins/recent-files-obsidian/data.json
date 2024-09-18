@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Week-36_September2024",
+      "path": "Periodic Notes/Weekly Notes/Week-36_September2024.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
       "basename": "Set Default Globally",
       "path": "Volta/Data/Set Default Globally.md"
     },
@@ -25,14 +41,6 @@
       "path": "Three.js/Dashboard.md"
     },
     {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Git and GitHub/Dashboard.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "DevOps/Dashboard.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "New Dashboard",
       "path": "Periodic Notes/Templates/New Dashboard.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
     },
     {
       "basename": "Delete Local and Remote Branch",
@@ -195,10 +199,6 @@
     {
       "basename": "Tizen",
       "path": "Tizen.md"
-    },
-    {
-      "basename": "Week-36_September2024",
-      "path": "Periodic Notes/Weekly Notes/Week-36_September2024.md"
     }
   ],
   "omittedPaths": [],

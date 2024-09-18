@@ -42,7 +42,7 @@
 ### Common Problems
 
 | Command                                                  |                                              Link                                              |
-| -------------------------------------------------------- |:----------------------------------------------------------------------------------------------:|
+| -------------------------------------------------------- | :--------------------------------------------------------------------------------------------: |
 | _Make a Repo_                                            |                             [:TiFileSymlink:](Make%20a%20Repo.md)                              |
 | _Change default branch_                                  |                     [[git init#Change default branch \| :TiFileSymlink:]]                      |
 | _Migrate Repo to Another Url_                            |                   [:TiFileSymlink:](Migrate%20Repo%20to%20Another%20Url.md)                    |

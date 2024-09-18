@@ -3,16 +3,16 @@
     "migrated": 4,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
-    "emojiStyle": "none",
+    "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiIonic",
       "IbDashboard",
       "BoBxlDocker",
       "SiJest",
-      "SiNextdotjs",
-      "RiFlightTakeoffFill"
+      "SiNextdotjs"
     ],
-    "recentlyUsedIconsSize": 5,
+    "recentlyUsedIconsSize": 25,
     "rules": [],
     "extraMargin": {
       "top": 0,
@@ -23,7 +23,7 @@
     "iconInTabsEnabled": true,
     "iconInTitleEnabled": false,
     "iconInFrontmatterEnabled": false,
-    "iconsBackgroundCheckEnabled": false,
+    "iconsBackgroundCheckEnabled": true,
     "iconsInNotesEnabled": false,
     "iconIdentifier": ":",
     "iconsInLinksEnabled": false,
@@ -155,7 +155,7 @@
   "Certificates/Udemy/React/React Native.pdf": "TiBrandReactNative",
   "DevOps/Data": "LiDatabase",
   "DevOps/Files": "LiFiles",
-  "DevOps/Dashboard.md": "IbDashboard",
+  "DevOps/Dashboard.md": "BoBxlDocker",
   "Three.js": "TiBrandThreejs",
   "Certificates/Udemy/DevOps.pdf": "TiDeviceDesktopAnalytics",
   "React/Libs/Next.js": "SiNextdotjs",

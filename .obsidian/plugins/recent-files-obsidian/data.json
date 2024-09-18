@@ -1,20 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "09-2024-W36",
+      "path": "Periodic Notes/Weekly Notes/09-2024-W36.md"
+    },
+    {
+      "basename": "Untitled Kanban",
+      "path": "Untitled Kanban.md"
+    },
+    {
       "basename": "Week-36_September2024",
       "path": "Periodic Notes/Weekly Notes/Week-36_September2024.md"
     },
     {
-      "basename": "12-09-2024",
-      "path": "Periodic Notes/Daily Notes/12-09-2024.md"
+      "basename": "New Note",
+      "path": "Periodic Notes/Templates/New Note.md"
+    },
+    {
+      "basename": "Tizen",
+      "path": "Tizen.md"
+    },
+    {
+      "basename": "Conflic-Obsidian",
+      "path": "Conflic-Obsidian.md"
+    },
+    {
+      "basename": "Scaffolding React App (Vite)",
+      "path": "Scaffolding React App (Vite).md"
+    },
+    {
+      "basename": "Stuff",
+      "path": "Stuff.md"
     },
     {
       "basename": "17-09-2024",
       "path": "Periodic Notes/Daily Notes/17-09-2024.md"
     },
     {
+      "basename": "Week-38_September2024",
+      "path": "Periodic Notes/Weekly Notes/Week-38_September2024.md"
+    },
+    {
       "basename": "18-09-2024",
       "path": "Periodic Notes/Daily Notes/18-09-2024.md"
+    },
+    {
+      "basename": "May2024_Week-21",
+      "path": "Periodic Notes/Weekly Notes/May2024_Week-21.md"
+    },
+    {
+      "basename": "12-09-2024",
+      "path": "Periodic Notes/Daily Notes/12-09-2024.md"
+    },
+    {
+      "basename": "16-09-2024",
+      "path": "Periodic Notes/Daily Notes/16-09-2024.md"
     },
     {
       "basename": "19-09-2024",
@@ -25,12 +65,12 @@
       "path": "Periodic Notes/Daily Notes/20-09-2024.md"
     },
     {
-      "basename": "app.json",
-      "path": "React Native/Data/app.json.md"
+      "basename": "2024-W10",
+      "path": "Periodic Notes/Weekly Notes/2024-W10.md"
     },
     {
-      "basename": "Week-38_September2024",
-      "path": "Periodic Notes/Weekly Notes/Week-38_September2024.md"
+      "basename": "app.json",
+      "path": "React Native/Data/app.json.md"
     },
     {
       "basename": "Sql & Sequelize",
@@ -57,10 +97,6 @@
       "path": "Periodic Notes/Templates/New Dashboard.md"
     },
     {
-      "basename": "New Note",
-      "path": "Periodic Notes/Templates/New Note.md"
-    },
-    {
       "basename": "Summary",
       "path": "Git and GitHub/Git/Summary.md"
     },
@@ -79,10 +115,6 @@
     {
       "basename": "Dashboard",
       "path": "Volta/Dashboard.md"
-    },
-    {
-      "basename": "Conflic-Obsidian",
-      "path": "Conflic-Obsidian.md"
     },
     {
       "basename": "Dashboard",
@@ -163,42 +195,6 @@
     {
       "basename": "Template Method",
       "path": "JS and TS/JavaScript/Design Patterns/Data/Patterns/Template Method.md"
-    },
-    {
-      "basename": "Open-Closed Principle",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Open-Closed Principle.md"
-    },
-    {
-      "basename": "Single Responsibility Principle",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Single Responsibility Principle.md"
-    },
-    {
-      "basename": "Liskov Substitution Principle",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Liskov Substitution Principle.md"
-    },
-    {
-      "basename": "Interface Segregation Principle",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Interface Segregation Principle.md"
-    },
-    {
-      "basename": "Dependency Inversion Principle",
-      "path": "JS and TS/JavaScript/Design Patterns/Data/Principles/Dependency Inversion Principle.md"
-    },
-    {
-      "basename": "DOM Component",
-      "path": "JS and TS/JavaScript/Snippet/DOM Component.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "JS and TS/JavaScript/Dashboard.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "JS and TS/JavaScript/Design Patterns/Dashboard.md"
-    },
-    {
-      "basename": "DashBoard",
-      "path": "Style/DashBoard.md"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Player Implementation",
+      "path": "WORK/Fincons/RTE/Player Implementation.md"
+    },
+    {
+      "basename": "Tizen Studio Guide",
+      "path": "WORK/Fincons/RTE/Tizen Studio Guide.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "WORK/Players/Dashboard.md"
+    },
+    {
+      "basename": "Theory",
+      "path": "WORK/Players/Shaka-player/Theory.md"
+    },
+    {
+      "basename": "Install Apps on LG",
+      "path": "WORK/Fincons/RTE/Install Apps on LG.md"
+    },
+    {
+      "basename": "Stuff",
+      "path": "Stuff.md"
+    },
+    {
       "basename": "Weekly Note Templates",
       "path": "Periodic Notes/Templates/Weekly Note Templates.md"
     },
@@ -17,16 +41,8 @@
       "path": "Periodic Notes/Templates/Daily Note Templates.md"
     },
     {
-      "basename": "Tizen",
-      "path": "Tizen.md"
-    },
-    {
       "basename": "Conflic-Obsidian",
       "path": "Conflic-Obsidian.md"
-    },
-    {
-      "basename": "Stuff",
-      "path": "Stuff.md"
     },
     {
       "basename": "app.json",

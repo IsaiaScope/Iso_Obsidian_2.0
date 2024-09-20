@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Short-cuts",
+      "path": "Short-cuts.md"
+    },
+    {
+      "basename": "Conflic-Obsidian",
+      "path": "Conflic-Obsidian.md"
+    },
+    {
+      "basename": "Stuff",
+      "path": "Stuff.md"
+    },
+    {
       "basename": "Tizen Studio Guide",
       "path": "WORK/Fincons/RTE/Tizen Studio Guide.md"
     },
@@ -25,10 +37,6 @@
       "path": "WORK/Fincons/RTE/Install Apps on LG.md"
     },
     {
-      "basename": "Stuff",
-      "path": "Stuff.md"
-    },
-    {
       "basename": "Weekly Note Templates",
       "path": "Periodic Notes/Templates/Weekly Note Templates.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "Daily Note Templates",
       "path": "Periodic Notes/Templates/Daily Note Templates.md"
-    },
-    {
-      "basename": "Conflic-Obsidian",
-      "path": "Conflic-Obsidian.md"
     },
     {
       "basename": "app.json",

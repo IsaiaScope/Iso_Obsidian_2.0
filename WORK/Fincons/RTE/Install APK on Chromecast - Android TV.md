@@ -1,3 +1,9 @@
+---
+tags:
+  - Fincons
+  - RTE
+---
+
 # Install APK on Chromecast
 
 - [ ] Open terminal into C:\Users\isaia.riva\Desktop\TV Stuff\platform-tools

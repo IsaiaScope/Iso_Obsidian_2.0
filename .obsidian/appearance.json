@@ -1,5 +1,5 @@
 {
-  "baseFontSize": 15,
+  "baseFontSize": 14,
   "accentColor": "",
   "cssTheme": "Obsidian Nord",
   "showViewHeader": true,
@@ -11,5 +11,6 @@
   ],
   "interfaceFontFamily": "Century Gothic,Fira Code",
   "monospaceFontFamily": "",
-  "textFontFamily": "Century Gothic"
+  "textFontFamily": "Century Gothic",
+  "baseFontSizeAction": true
 }

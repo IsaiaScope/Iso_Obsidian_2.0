@@ -1,3 +1,8 @@
+---
+tags:
+  - Fincons/RTE
+---
+
 # Player Implementation
 
 - [ ] TODO Refactor

@@ -1,3 +1,8 @@
+---
+tags:
+  - Fincons/Filmbank/WordPress
+---
+
 - [ ] [Bucket S3](https://eu-west-1.console.aws.amazon.com/s3/buckets?region=eu-west-1&bucketType=general)
 - [ ] _dds-test-ingest_ ogni directory rappresenta un contenuto e dentro ogni contenuto ci posso essere più versioni del medesimo contenuto
 - [ ] ogni versione di un contenuto contiene i metadati (metadata\_`id`\_json). Poi contiene la parte video e la parte dei sottotitoli (media folder) e poi gli assets e le immagini (assets folder). Poi abbiamo il file _execute-innest.txt_ che è il file che serve ad AWS per far partire la pipeline; quindi solo modificando questo file (inserendo testo completamente arbitrario) e salvando farò triggerare la pipeline del contenuto nel bucket facendo upload dopo aver modificato il file txt

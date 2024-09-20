@@ -1,3 +1,8 @@
+---
+tags:
+  - Fincons/Filmbank/WordPress
+---
+
 # Create New Static Page
 
 - [ ] Create new template (Because every page in WordPress can have a template that explain how should be populated and styled). Than again crete a `template-<new template name>.php` (see template-terms)

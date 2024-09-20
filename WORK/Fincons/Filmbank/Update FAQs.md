@@ -1,3 +1,8 @@
+---
+tags:
+  - Fincons/Filmbank/WordPress
+---
+
 # Update FAQs
 
 - [ ] Go on WordPress dashboard PROD

@@ -1,3 +1,8 @@
+---
+tags:
+  - Fincons/Filmbank
+---
+
 # Create Linux environment
 
 ## Install Linux

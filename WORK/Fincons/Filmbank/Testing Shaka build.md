@@ -1,3 +1,8 @@
+---
+tags:
+  - Fincons/Filmbank
+---
+
 # Testing Shaka build
 
 ## Set Up Local testing (Changing WordPress configuration)

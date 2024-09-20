@@ -1,3 +1,8 @@
+---
+tags:
+  - Fincons/Filmbank
+---
+
 # Upgrade shaka-player Fimlbank
 
 ## Important

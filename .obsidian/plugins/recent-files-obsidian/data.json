@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Font",
+      "path": "React/Libs/Next.js/Data/Font.md"
+    },
+    {
+      "basename": "Project Structure",
+      "path": "React/Libs/Next.js/Data/Project Structure.md"
+    },
+    {
+      "basename": "init",
+      "path": "React/Libs/Next.js/Data/init.md"
+    },
+    {
+      "basename": "RTE Manifest",
+      "path": "WORK/Fincons/RTE/Business Logic/RTE Manifest.md"
+    },
+    {
+      "basename": "Chromecast",
+      "path": "WORK/Fincons/RTE/Business Logic/Chromecast.md"
+    },
+    {
       "basename": "Obsidian shortcuts",
       "path": "Obsidian Tutorial/Data/Obsidian shortcuts.md"
     },
@@ -15,10 +35,6 @@
     {
       "basename": "Conflic-Obsidian",
       "path": "Conflic-Obsidian.md"
-    },
-    {
-      "basename": "Chromecast",
-      "path": "WORK/Fincons/RTE/Business Logic/Chromecast.md"
     },
     {
       "basename": "events",
@@ -75,10 +91,6 @@
     {
       "basename": "IframepLayer",
       "path": "WORK/Fincons/Filmbank/Business Logic/IframepLayer.md"
-    },
-    {
-      "basename": "RTE Manifest",
-      "path": "WORK/Fincons/RTE/Business Logic/RTE Manifest.md"
     },
     {
       "basename": "DRM",
@@ -187,18 +199,6 @@
     {
       "basename": "Daily Note Templates",
       "path": "Periodic Notes/Templates/Daily Note Templates.md"
-    },
-    {
-      "basename": "app.json",
-      "path": "React Native/Data/app.json.md"
-    },
-    {
-      "basename": "Sql & Sequelize",
-      "path": "assets/images/Sql & Sequelize.png"
-    },
-    {
-      "basename": "Flash",
-      "path": "assets/images/Flash.png"
     }
   ],
   "omittedPaths": [],

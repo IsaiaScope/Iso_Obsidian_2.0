@@ -1,7 +1,6 @@
 ---
 tags:
-  - Fincons
-  - RTE
+  - Fincons/RTE/smart_TV
 ---
 
 # Install APK on Chromecast

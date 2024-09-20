@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Tizen Studio Guide",
+      "path": "WORK/Fincons/RTE/Tizen Studio Guide.md"
+    },
+    {
+      "basename": "Player Implementation",
+      "path": "WORK/Fincons/RTE/Player Implementation.md"
+    },
+    {
+      "basename": "Install Apps on LG",
+      "path": "WORK/Fincons/RTE/Install Apps on LG.md"
+    },
+    {
       "basename": "Install APK on Chromecast - Android TV",
       "path": "WORK/Fincons/RTE/Install APK on Chromecast - Android TV.md"
     },
     {
       "basename": "Home",
       "path": "Home.md"
+    },
+    {
+      "basename": "Set Up Android Studio",
+      "path": "Ionic/Data/Set Up Android Studio.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
     },
     {
       "basename": "Theory",
@@ -19,10 +39,6 @@
     {
       "basename": "Obsidian",
       "path": "Markdown/Obsidian.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
     },
     {
       "basename": "Short-cuts",
@@ -45,24 +61,12 @@
       "path": "Stuff.md"
     },
     {
-      "basename": "Tizen Studio Guide",
-      "path": "WORK/Fincons/RTE/Tizen Studio Guide.md"
-    },
-    {
       "basename": "Set up Google Calendar",
       "path": "Calendar/Set up Google Calendar.md"
     },
     {
-      "basename": "Player Implementation",
-      "path": "WORK/Fincons/RTE/Player Implementation.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "WORK/Players/Dashboard.md"
-    },
-    {
-      "basename": "Install Apps on LG",
-      "path": "WORK/Fincons/RTE/Install Apps on LG.md"
     },
     {
       "basename": "Weekly Note Templates",

@@ -1,3 +1,8 @@
+---
+tags:
+  - Fincons/RTE/smart_TV
+---
+
 # Install Apps on LG
 
 - [ ] Get `.ipk` file to install

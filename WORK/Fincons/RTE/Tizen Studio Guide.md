@@ -1,3 +1,8 @@
+---
+tags:
+  - Fincons/RTE/smart_TV
+---
+
 # Tizen
 
 - [ ] [Installing TV SDK Guide| Samsung Developer](https://developer.samsung.com/smarttv/develop/getting-started/setting-up-sdk/installing-tv-sdk.html "https://developer.samsung.com/smarttv/develop/getting-started/setting-up-sdk/installing-tv-sdk.html")

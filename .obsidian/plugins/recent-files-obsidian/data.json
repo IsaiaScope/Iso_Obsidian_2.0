@@ -1,6 +1,70 @@
 {
   "recentFiles": [
     {
+      "basename": "Shaka Theory",
+      "path": "WORK/Players/Shaka Player/Shaka Theory.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Create Linux environment",
+      "path": "WORK/Fincons/Filmbank/Create Linux environment.md"
+    },
+    {
+      "basename": "Upgrade shaka-player",
+      "path": "WORK/Fincons/Filmbank/Upgrade shaka-player.md"
+    },
+    {
+      "basename": "Update FAQs",
+      "path": "WORK/Fincons/Filmbank/Update FAQs.md"
+    },
+    {
+      "basename": "Testing Shaka build",
+      "path": "WORK/Fincons/Filmbank/Testing Shaka build.md"
+    },
+    {
+      "basename": "Test theatricalReleaseDate",
+      "path": "WORK/Fincons/Filmbank/Test theatricalReleaseDate.md"
+    },
+    {
+      "basename": "Filmbank Develop",
+      "path": "WORK/Fincons/Filmbank/Filmbank Develop.md"
+    },
+    {
+      "basename": "Filmbank Deploy",
+      "path": "WORK/Fincons/Filmbank/Filmbank Deploy.md"
+    },
+    {
+      "basename": "Create New Static Page",
+      "path": "WORK/Fincons/Filmbank/Create New Static Page.md"
+    },
+    {
+      "basename": "IframepLayer",
+      "path": "WORK/Fincons/Filmbank/Business Logic/IframepLayer.md"
+    },
+    {
+      "basename": "RTE Manifest",
+      "path": "WORK/Fincons/RTE/Business Logic/RTE Manifest.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "WORK/Players/Dashboard.md"
+    },
+    {
+      "basename": "Obsidian shortcuts",
+      "path": "Obsidian Tutorial/Data/Obsidian shortcuts.md"
+    },
+    {
+      "basename": "Chromecast",
+      "path": "WORK/Fincons/RTE/Business Logic/Chromecast.md"
+    },
+    {
+      "basename": "RTE Deploy",
+      "path": "WORK/Fincons/RTE/RTE Deploy.md"
+    },
+    {
       "basename": "Font",
       "path": "React/Libs/Next.js/Data/Font.md"
     },
@@ -11,26 +75,6 @@
     {
       "basename": "init",
       "path": "React/Libs/Next.js/Data/init.md"
-    },
-    {
-      "basename": "RTE Manifest",
-      "path": "WORK/Fincons/RTE/Business Logic/RTE Manifest.md"
-    },
-    {
-      "basename": "Chromecast",
-      "path": "WORK/Fincons/RTE/Business Logic/Chromecast.md"
-    },
-    {
-      "basename": "Obsidian shortcuts",
-      "path": "Obsidian Tutorial/Data/Obsidian shortcuts.md"
-    },
-    {
-      "basename": "Filmbank Develop",
-      "path": "WORK/Fincons/Filmbank/Filmbank Develop.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Conflic-Obsidian",
@@ -89,32 +133,8 @@
       "path": "WORK/Fincons/RTE/Business Logic/Player Implementation.md"
     },
     {
-      "basename": "IframepLayer",
-      "path": "WORK/Fincons/Filmbank/Business Logic/IframepLayer.md"
-    },
-    {
       "basename": "DRM",
       "path": "WORK/Players/DRM.md"
-    },
-    {
-      "basename": "Theory",
-      "path": "WORK/Players/Shaka-player/Theory.md"
-    },
-    {
-      "basename": "Update FAQs",
-      "path": "WORK/Fincons/Filmbank/Update FAQs.md"
-    },
-    {
-      "basename": "Testing Shaka build",
-      "path": "WORK/Fincons/Filmbank/Testing Shaka build.md"
-    },
-    {
-      "basename": "RTE Deploy",
-      "path": "WORK/Fincons/RTE/RTE Deploy.md"
-    },
-    {
-      "basename": "Filmbank Deploy",
-      "path": "WORK/Fincons/Filmbank/Filmbank Deploy.md"
     },
     {
       "basename": "RTE Develop",
@@ -129,10 +149,6 @@
       "path": "WORK/Players/Manifest.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "WORK/Players/Dashboard.md"
-    },
-    {
       "basename": "Tizen Studio Guide",
       "path": "WORK/Fincons/RTE/Tizen Studio Guide.md"
     },
@@ -143,22 +159,6 @@
     {
       "basename": "Install APK on Chromecast - Android TV",
       "path": "WORK/Fincons/RTE/Install APK on Chromecast - Android TV.md"
-    },
-    {
-      "basename": "Upgrade shaka-player",
-      "path": "WORK/Fincons/Filmbank/Upgrade shaka-player.md"
-    },
-    {
-      "basename": "Test theatricalReleaseDate",
-      "path": "WORK/Fincons/Filmbank/Test theatricalReleaseDate.md"
-    },
-    {
-      "basename": "Create New Static Page",
-      "path": "WORK/Fincons/Filmbank/Create New Static Page.md"
-    },
-    {
-      "basename": "Create Linux environment",
-      "path": "WORK/Fincons/Filmbank/Create Linux environment.md"
     },
     {
       "basename": "Set Up Android Studio",
@@ -195,10 +195,6 @@
     {
       "basename": "New Dashboard",
       "path": "Periodic Notes/Templates/New Dashboard.md"
-    },
-    {
-      "basename": "Daily Note Templates",
-      "path": "Periodic Notes/Templates/Daily Note Templates.md"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,6 @@
 ---
 tags:
-  - players/Shaka
+  - players/Shaka_Player
 ---
 
 # Theory

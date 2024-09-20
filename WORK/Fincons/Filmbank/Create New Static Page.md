@@ -67,3 +67,5 @@ $skipAccessibility = true;
 ---
 
 - [ ] S3 update take some time, remember to regen pages on Admin-portal after WordPress update
+
+---

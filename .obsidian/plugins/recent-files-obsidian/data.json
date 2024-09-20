@@ -1,20 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Home.md"
+      "basename": "IframepLayer",
+      "path": "WORK/Fincons/Filmbank/Business Logic/IframepLayer.md"
+    },
+    {
+      "basename": "Chromecast",
+      "path": "WORK/Fincons/RTE/Business Logic/Chromecast.md"
+    },
+    {
+      "basename": "RTE Manifest",
+      "path": "WORK/Fincons/RTE/Business Logic/RTE Manifest.md"
+    },
+    {
+      "basename": "Player Implementation",
+      "path": "WORK/Fincons/RTE/Business Logic/Player Implementation.md"
+    },
+    {
+      "basename": "DRM",
+      "path": "WORK/Players/DRM.md"
+    },
+    {
+      "basename": "Theory",
+      "path": "WORK/Players/Shaka-player/Theory.md"
+    },
+    {
+      "basename": "Update FAQs",
+      "path": "WORK/Fincons/Filmbank/Update FAQs.md"
+    },
+    {
+      "basename": "Testing Shaka build",
+      "path": "WORK/Fincons/Filmbank/Testing Shaka build.md"
+    },
+    {
+      "basename": "Filmbank Develop",
+      "path": "WORK/Fincons/Filmbank/Filmbank Develop.md"
+    },
+    {
+      "basename": "RTE Deploy",
+      "path": "WORK/Fincons/RTE/RTE Deploy.md"
+    },
+    {
+      "basename": "Filmbank Deploy",
+      "path": "WORK/Fincons/Filmbank/Filmbank Deploy.md"
+    },
+    {
+      "basename": "RTE Develop",
+      "path": "WORK/Fincons/RTE/RTE Develop.md"
     },
     {
       "basename": "Stuff",
       "path": "Stuff.md"
     },
     {
-      "basename": "Player Implementation",
-      "path": "WORK/Fincons/RTE/Player Implementation.md"
-    },
-    {
-      "basename": "Theory",
-      "path": "WORK/Players/Shaka-player/Theory.md"
+      "basename": "Home",
+      "path": "Home.md"
     },
     {
       "basename": "Text_Tracks",
@@ -23,10 +63,6 @@
     {
       "basename": "Manifest",
       "path": "WORK/Players/Manifest.md"
-    },
-    {
-      "basename": "DRM",
-      "path": "WORK/Players/DRM.md"
     },
     {
       "basename": "Dashboard",
@@ -47,14 +83,6 @@
     {
       "basename": "Upgrade shaka-player",
       "path": "WORK/Fincons/Filmbank/Upgrade shaka-player.md"
-    },
-    {
-      "basename": "Update FAQs",
-      "path": "WORK/Fincons/Filmbank/Update FAQs.md"
-    },
-    {
-      "basename": "Testing Shaka build",
-      "path": "WORK/Fincons/Filmbank/Testing Shaka build.md"
     },
     {
       "basename": "Test theatricalReleaseDate",
@@ -167,34 +195,6 @@
     {
       "basename": "Dashboard",
       "path": "Excel/Dashboard.md"
-    },
-    {
-      "basename": "git ignore",
-      "path": "Git and GitHub/Git/Data/git ignore.md"
-    },
-    {
-      "basename": "Delete Local and Remote Branch",
-      "path": "Git and GitHub/GitHub/Data/Delete Local and Remote Branch.md"
-    },
-    {
-      "basename": "git commit",
-      "path": "Git and GitHub/Git/Prompt/git commit.md"
-    },
-    {
-      "basename": "git reset",
-      "path": "Git and GitHub/Git/Files/git reset.png"
-    },
-    {
-      "basename": "git reset --hard",
-      "path": "Git and GitHub/Git/Files/git reset --hard.png"
-    },
-    {
-      "basename": "git reset Flow",
-      "path": "Git and GitHub/Git/Files/git reset Flow.png"
-    },
-    {
-      "basename": "Git&+Github_+Aliases",
-      "path": "Git and GitHub/Files/Udemy Course/Git&+Github_+Aliases.pdf"
     }
   ],
   "omittedPaths": [],

@@ -17,18 +17,10 @@
       "key": "ArrowUp"
     }
   ],
-  "editor:swap-line-down": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowDown"
-    }
-  ],
   "editor:swap-line-up": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "ArrowUp"
     }
@@ -40,6 +32,14 @@
         "Shift"
       ],
       "key": "O"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
     }
   ]
 }

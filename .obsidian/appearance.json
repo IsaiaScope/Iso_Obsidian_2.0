@@ -1,6 +1,6 @@
 {
-  "baseFontSize": 14,
-  "accentColor": "",
+  "baseFontSize": 12,
+  "accentColor": "#a80000",
   "cssTheme": "Obsidian Nord",
   "showViewHeader": true,
   "nativeMenus": false,

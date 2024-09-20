@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "Short-cuts",
       "path": "Short-cuts.md"
+    },
+    {
+      "basename": "Create Linux environment",
+      "path": "WORK/Fincons/Filmbank/Create Linux environment.md"
+    },
+    {
+      "basename": "Scaffolding React App",
+      "path": "Scaffolding React App.md"
     },
     {
       "basename": "Conflic-Obsidian",

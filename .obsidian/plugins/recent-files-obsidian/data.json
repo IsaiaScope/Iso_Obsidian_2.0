@@ -5,6 +5,22 @@
       "path": "Home.md"
     },
     {
+      "basename": "Theory",
+      "path": "WORK/Players/Shaka-player/Theory.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Obsidian Tutorial/Dashboard.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Markdown/Obsidian.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/Git/Summary.md"
+    },
+    {
       "basename": "Short-cuts",
       "path": "Short-cuts.md"
     },
@@ -41,10 +57,6 @@
       "path": "WORK/Players/Dashboard.md"
     },
     {
-      "basename": "Theory",
-      "path": "WORK/Players/Shaka-player/Theory.md"
-    },
-    {
       "basename": "Install Apps on LG",
       "path": "WORK/Fincons/RTE/Install Apps on LG.md"
     },
@@ -79,10 +91,6 @@
     {
       "basename": "CSRF",
       "path": "assets/images/CSRF.png"
-    },
-    {
-      "basename": "Summary",
-      "path": "Git and GitHub/Git/Summary.md"
     },
     {
       "basename": "Summary",

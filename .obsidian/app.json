@@ -4,7 +4,7 @@
   "spellcheckLanguages": null,
   "livePreview": false,
   "defaultViewMode": "preview",
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "./attachments",
   "showLineNumber": false,
   "alwaysUpdateLinks": true,
   "showInlineTitle": false,

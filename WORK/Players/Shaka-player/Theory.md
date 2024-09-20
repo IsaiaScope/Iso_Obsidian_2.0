@@ -13,3 +13,7 @@ goog.require('shaka.Player'); - means _import_
 @privare - vuole dire veramente che è privato e _inaccessibile_
 
 ---
+![[WORK/Players/Shaka-player/Theory.png]]
+![[WORK/Players/Shaka-player/attachments/Theory.png]]
+![[Theory-1.png]]
+![[Theory-2.png]]

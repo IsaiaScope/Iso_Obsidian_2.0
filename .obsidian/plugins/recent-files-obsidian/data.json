@@ -5,6 +5,10 @@
       "path": "Home.md"
     },
     {
+      "basename": "RTE Develop",
+      "path": "WORK/Fincons/RTE/RTE Develop.md"
+    },
+    {
       "basename": "Shaka Theory",
       "path": "WORK/Players/Shaka Player/Shaka Theory.md"
     },
@@ -135,10 +139,6 @@
     {
       "basename": "DRM",
       "path": "WORK/Players/DRM.md"
-    },
-    {
-      "basename": "RTE Develop",
-      "path": "WORK/Fincons/RTE/RTE Develop.md"
     },
     {
       "basename": "Text_Tracks",

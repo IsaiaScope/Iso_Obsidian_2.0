@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Install Apps on LG",
+      "path": "WORK/Fincons/RTE/Install Apps on LG.md"
+    },
+    {
+      "basename": "RTE Manifest",
+      "path": "WORK/Fincons/RTE/Business Logic/RTE Manifest.md"
+    },
+    {
+      "basename": "Chromecast",
+      "path": "WORK/Fincons/RTE/Business Logic/Chromecast.md"
+    },
+    {
       "basename": "RTE Deploy",
       "path": "WORK/Fincons/RTE/RTE Deploy.md"
     },
@@ -69,16 +81,8 @@
       "path": "WORK/Fincons/Filmbank/Business Logic/IframepLayer.md"
     },
     {
-      "basename": "RTE Manifest",
-      "path": "WORK/Fincons/RTE/Business Logic/RTE Manifest.md"
-    },
-    {
       "basename": "Obsidian shortcuts",
       "path": "Obsidian Tutorial/Data/Obsidian shortcuts.md"
-    },
-    {
-      "basename": "Chromecast",
-      "path": "WORK/Fincons/RTE/Business Logic/Chromecast.md"
     },
     {
       "basename": "Font",
@@ -159,10 +163,6 @@
     {
       "basename": "Tizen Studio Guide",
       "path": "WORK/Fincons/RTE/Tizen Studio Guide.md"
-    },
-    {
-      "basename": "Install Apps on LG",
-      "path": "WORK/Fincons/RTE/Install Apps on LG.md"
     },
     {
       "basename": "Install APK on Chromecast - Android TV",

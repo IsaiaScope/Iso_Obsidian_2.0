@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "RTE Deploy",
+      "path": "WORK/Fincons/RTE/RTE Deploy.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Git and GitHub/Dashboard.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
     {
       "basename": "RTE Develop",
       "path": "WORK/Fincons/RTE/RTE Develop.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "WORK/Players/Dashboard.md"
+    },
+    {
+      "basename": "DRM",
+      "path": "WORK/Players/DRM.md"
     },
     {
       "basename": "Shaka Theory",
@@ -53,20 +73,12 @@
       "path": "WORK/Fincons/RTE/Business Logic/RTE Manifest.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "WORK/Players/Dashboard.md"
-    },
-    {
       "basename": "Obsidian shortcuts",
       "path": "Obsidian Tutorial/Data/Obsidian shortcuts.md"
     },
     {
       "basename": "Chromecast",
       "path": "WORK/Fincons/RTE/Business Logic/Chromecast.md"
-    },
-    {
-      "basename": "RTE Deploy",
-      "path": "WORK/Fincons/RTE/RTE Deploy.md"
     },
     {
       "basename": "Font",
@@ -137,10 +149,6 @@
       "path": "WORK/Fincons/RTE/Business Logic/Player Implementation.md"
     },
     {
-      "basename": "DRM",
-      "path": "WORK/Players/DRM.md"
-    },
-    {
       "basename": "Text_Tracks",
       "path": "WORK/Players/Text_Tracks.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "New Note",
       "path": "Periodic Notes/Templates/New Note.md"
-    },
-    {
-      "basename": "New Dashboard",
-      "path": "Periodic Notes/Templates/New Dashboard.md"
     }
   ],
   "omittedPaths": [],

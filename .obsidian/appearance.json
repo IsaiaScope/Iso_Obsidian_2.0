@@ -1,7 +1,7 @@
 {
-  "baseFontSize": 13,
-  "accentColor": "#a80000",
-  "cssTheme": "Obsidian Nord",
+  "baseFontSize": 14,
+  "accentColor": "#d6d6d6",
+  "cssTheme": "Tokyo Night",
   "showViewHeader": true,
   "nativeMenus": false,
   "translucency": false,

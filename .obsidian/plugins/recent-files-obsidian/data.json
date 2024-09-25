@@ -5,6 +5,14 @@
       "path": "VS Code/Data/VS Code shortcuts.md"
     },
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Git and GitHub/GitHub/Summary.md"
+    },
+    {
       "basename": "Install Apps on LG",
       "path": "WORK/Fincons/RTE/Install Apps on LG.md"
     },
@@ -21,16 +29,8 @@
       "path": "WORK/Fincons/RTE/RTE Deploy.md"
     },
     {
-      "basename": "Summary",
-      "path": "Git and GitHub/GitHub/Summary.md"
-    },
-    {
       "basename": "Dashboard",
       "path": "Git and GitHub/Dashboard.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "RTE Develop",

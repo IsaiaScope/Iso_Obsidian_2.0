@@ -21,7 +21,7 @@ tags:
 `ctrl + shift + n` or `ctrl + p` ➜ to open new window/go to file; `ctrl + enter` to _open to the side_
 `ctrl + enter` to _open to the side_
 
-`ctrl+alt+g` ➜ close all group tab [CUSTOM]
+`shift+alt+g` ➜ close all group tab [CUSTOM]
 `ctrl + tab` ➜ see all open tabs open on the current group
 
 `ctrl + alt + right/left` ➜ moveEditorToLeft (create a new group left or right with current file or move the file in a right or left group) [CUSTOM]

@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Home.md"
+      "basename": "VS Code shortcuts",
+      "path": "VS Code/Data/VS Code shortcuts.md"
     },
     {
-      "basename": "Manifest",
-      "path": "WORK/Players/Manifest.md"
+      "basename": "Obsidian shortcuts",
+      "path": "Obsidian Tutorial/Data/Obsidian shortcuts.md"
+    },
+    {
+      "basename": "DRM",
+      "path": "WORK/Players/DRM.md"
     },
     {
       "basename": "Dashboard",
       "path": "WORK/Players/Dashboard.md"
     },
     {
-      "basename": "VS Code shortcuts",
-      "path": "VS Code/Data/VS Code shortcuts.md"
+      "basename": "Shaka Theory",
+      "path": "WORK/Players/Shaka Player/Shaka Theory.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Manifest",
+      "path": "WORK/Players/Manifest.md"
     },
     {
       "basename": "Summary",
@@ -43,14 +55,6 @@
     {
       "basename": "RTE Develop",
       "path": "WORK/Fincons/RTE/RTE Develop.md"
-    },
-    {
-      "basename": "DRM",
-      "path": "WORK/Players/DRM.md"
-    },
-    {
-      "basename": "Shaka Theory",
-      "path": "WORK/Players/Shaka Player/Shaka Theory.md"
     },
     {
       "basename": "Create Linux environment",
@@ -87,10 +91,6 @@
     {
       "basename": "IframepLayer",
       "path": "WORK/Fincons/Filmbank/Business Logic/IframepLayer.md"
-    },
-    {
-      "basename": "Obsidian shortcuts",
-      "path": "Obsidian Tutorial/Data/Obsidian shortcuts.md"
     },
     {
       "basename": "Font",

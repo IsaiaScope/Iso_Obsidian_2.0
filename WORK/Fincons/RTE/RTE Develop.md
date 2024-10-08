@@ -30,8 +30,8 @@ tags:
 - [ ] .NET dotnet-runtime-5.0.17-win-x64 must be installed
 - [ ] intellij ➜ ..rte-kmp\app-core ➜ `.\gradlew clean BuildJs`
 - [ ] VS ➜ ...rte-kmp\app-web ➜ `yarn install` ➜ `yarn upgrade-deps` ➜ `yarn start:bigscreen:rte`
-- [ ] URl ➜ http://localhost:4200/rpng-static/smarttv/home (Puoi fare un check in env.js sotto BASE_PATH per vedere dove è servita)
-- [ ] Nel developer tool selezionare la dimensione responsive 1920x1080 Big Sceen ➜ perchè utilizza questo specifico user agent per simulare di essere una TV e di conseguanza evitare problematiche con i CORS(Mozilla/5.0 (Linux; x86_64 GNU/Linux) AppleWebKit/601.1 (KHTML, like Gecko) Version/8.0 Safari/601.1 WPE Sky_OTT_RTD1319_2020/1.0.0 (Sky, XiOneUK, Wired))
+- [ ] URl ➜ `http://localhost:4200/rpng-static/smarttv/home` (Puoi fare un check in env.js sotto BASE_PATH per vedere dove è servita)
+- [ ] Nel developer tool selezionare la dimensione responsive 1920x1080 Big Sceen ➜ perchè utilizza questo specifico user agent per simulare di essere una TV e di conseguanza evitare problematiche con i CORS(`Mozilla/5.0 (Linux; x86_64 GNU/Linux) AppleWebKit/601.1 (KHTML, like Gecko) Version/8.0 Safari/601.1 WPE Sky_OTT_RTD1319_2020/1.0.0 (Sky, XiOneUK, Wired)`)
 
 ---
 

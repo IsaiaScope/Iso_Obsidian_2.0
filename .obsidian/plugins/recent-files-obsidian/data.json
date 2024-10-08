@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "RTE Develop",
+      "path": "WORK/Fincons/RTE/RTE Develop.md"
+    },
+    {
+      "basename": "Filmbank Develop",
+      "path": "WORK/Fincons/Filmbank/Filmbank Develop.md"
+    },
+    {
+      "basename": "Manifest",
+      "path": "WORK/Players/Manifest.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "WORK/Players/Dashboard.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
@@ -21,14 +37,6 @@
       "path": "WORK/Fincons/Filmbank/Business Logic/IFramePlayer.md"
     },
     {
-      "basename": "Filmbank Develop",
-      "path": "WORK/Fincons/Filmbank/Filmbank Develop.md"
-    },
-    {
-      "basename": "RTE Develop",
-      "path": "WORK/Fincons/RTE/RTE Develop.md"
-    },
-    {
       "basename": "Update FAQs",
       "path": "WORK/Fincons/Filmbank/Update FAQs.md"
     },
@@ -45,16 +53,8 @@
       "path": "WORK/Players/DRM.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "WORK/Players/Dashboard.md"
-    },
-    {
       "basename": "Shaka Theory",
       "path": "WORK/Players/Shaka Player/Shaka Theory.md"
-    },
-    {
-      "basename": "Manifest",
-      "path": "WORK/Players/Manifest.md"
     },
     {
       "basename": "Summary",

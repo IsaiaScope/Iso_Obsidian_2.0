@@ -5,6 +5,10 @@
       "path": "WORK/Fincons/RTE/RTE Develop.md"
     },
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "Filmbank Develop",
       "path": "WORK/Fincons/Filmbank/Filmbank Develop.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Dashboard",
       "path": "WORK/Players/Dashboard.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Install Apps on LG",

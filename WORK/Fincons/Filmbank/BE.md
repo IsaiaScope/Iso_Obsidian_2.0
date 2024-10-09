@@ -18,3 +18,4 @@ Progetti maven
 	- buildspec.yml gestisce il deploy e la pipeline 
 proprie o di terzi con la versione annessa
 pogetti java8
+drop wizard è una libreria installata che rispetto ad averla installa a codice che richiamiamo e usiamo dove volgiamo esiste il concetto di framework si istanzia da sola all'avvio dell'applicativo e gestisce tutto lui per noi e ti obbliga a lavorare in una certa maniera impostando un processo all'interno del quale sei costretto a alvorare ha una sua chain di sviluppo - quando viene una richiesta drop wizard permette di avere delle validazioni prima che arrivi alla resouces (routes) inserendoci in punti specifici

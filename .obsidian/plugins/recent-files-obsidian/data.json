@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "BE",
+      "path": "WORK/Fincons/Filmbank/BE.md"
+    },
+    {
       "basename": "RTE Develop",
       "path": "WORK/Fincons/RTE/RTE Develop.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Weekly Note Templates",
       "path": "Periodic Notes/Templates/Weekly Note Templates.md"
-    },
-    {
-      "basename": "New Note",
-      "path": "Periodic Notes/Templates/New Note.md"
     }
   ],
   "omittedPaths": [],

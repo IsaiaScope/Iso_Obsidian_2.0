@@ -1,10 +1,3 @@
-#### Obsidian
-
-1. Ctrl + Shift + F => global search
-2. Ctrl + E => toggle edit/read view
-
----
-
 #### Terminal
 
 1.  cd .. => go back by one folder

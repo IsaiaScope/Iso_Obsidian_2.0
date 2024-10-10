@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "VS Code shortcuts",
+      "path": "VS Code/Data/VS Code shortcuts.md"
+    },
+    {
+      "basename": "Short-cuts",
+      "path": "Short-cuts.md"
+    },
+    {
+      "basename": "Obsidian shortcuts",
+      "path": "Obsidian Tutorial/Data/Obsidian shortcuts.md"
+    },
+    {
+      "basename": "RTE Develop",
+      "path": "WORK/Fincons/RTE/RTE Develop.md"
+    },
+    {
+      "basename": "The Git and GitHub Bootcamp",
+      "path": "Certificates/Udemy/The Git and GitHub Bootcamp.pdf"
+    },
+    {
+      "basename": "Set up Google Calendar",
+      "path": "Calendar/Set up Google Calendar.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
+    },
+    {
+      "basename": "ARIA",
+      "path": "Accessibility/data/theory/ARIA.md"
+    },
+    {
+      "basename": "index",
+      "path": "Accessibility/index.md"
     },
     {
       "basename": "Filmbank back-end",
@@ -11,14 +43,6 @@
     {
       "basename": "Install Apps on LG",
       "path": "WORK/Fincons/RTE/Install Apps on LG.md"
-    },
-    {
-      "basename": "RTE Develop",
-      "path": "WORK/Fincons/RTE/RTE Develop.md"
-    },
-    {
-      "basename": "Short-cuts",
-      "path": "Short-cuts.md"
     },
     {
       "basename": "Stuff",
@@ -39,14 +63,6 @@
     {
       "basename": "Dashboard",
       "path": "WORK/Players/Dashboard.md"
-    },
-    {
-      "basename": "Obsidian shortcuts",
-      "path": "Obsidian Tutorial/Data/Obsidian shortcuts.md"
-    },
-    {
-      "basename": "VS Code shortcuts",
-      "path": "VS Code/Data/VS Code shortcuts.md"
     },
     {
       "basename": "Update FAQs",
@@ -183,22 +199,6 @@
     {
       "basename": "Dashboard",
       "path": "Obsidian Tutorial/Dashboard.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "Markdown/Obsidian.md"
-    },
-    {
-      "basename": "Scaffolding React App",
-      "path": "Scaffolding React App.md"
-    },
-    {
-      "basename": "Set up Google Calendar",
-      "path": "Calendar/Set up Google Calendar.md"
-    },
-    {
-      "basename": "Weekly Note Templates",
-      "path": "Periodic Notes/Templates/Weekly Note Templates.md"
     }
   ],
   "omittedPaths": [],

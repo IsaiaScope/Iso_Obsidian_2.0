@@ -24,3 +24,7 @@ pre.table-script {
   padding-right: 40px;
 }
 
+table.todo td {
+  vertical-align: middle;
+  text-align: center;
+}

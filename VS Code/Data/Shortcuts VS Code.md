@@ -22,6 +22,10 @@ tags:
 `ctrl + enter` to _open to the side_
 
 `shift+alt+u` => close all group tab [CUSTOM]
+`ctrl + tab` => see all open tabs open on the current group
+
+`ctrl + alt + right/left` => moveEditorToLeft (create a new group left or right with current file or move the file in a right or left group) [CUSTOM]
+`Alt + t` => resize tabs (one time make the focus tab bigger, second tap make all tabs same size)
 
 ## Primary Sidebar
 

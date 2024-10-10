@@ -1,12 +1,140 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
+      "basename": "Scaffolding React App (Vite)",
+      "path": "Scaffolding React App (Vite).md"
+    },
+    {
+      "basename": "Documentation",
+      "path": "POE/Betrayal/Documentation.md"
+    },
+    {
+      "basename": "Cheat Sheet",
+      "path": "POE/Betrayal/Cheat Sheet.png"
+    },
+    {
       "basename": "Documentation",
       "path": "POE/Heist/Documentation.md"
     },
     {
+      "basename": "rm",
+      "path": "Prompt/Windows/Data/rm.md"
+    },
+    {
+      "basename": "Commands",
+      "path": "Prompt/Commands.md"
+    },
+    {
+      "basename": "touch",
+      "path": "Prompt/Linux/Data/touch.md"
+    },
+    {
+      "basename": "cd",
+      "path": "Prompt/Windows/Data/cd.md"
+    },
+    {
+      "basename": "Basics",
+      "path": "Three.js/Data/Basics.md"
+    },
+    {
+      "basename": "Cameras",
+      "path": "Three.js/Data/Cameras.md"
+    },
+    {
+      "basename": "Debug UI",
+      "path": "Three.js/Data/Debug UI.md"
+    },
+    {
+      "basename": "prompt",
+      "path": "NODE/prompt.md"
+    },
+    {
       "basename": "Stuff",
       "path": "Stuff.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Volta/Dashboard.md"
+    },
+    {
+      "basename": "Volta Uninstall",
+      "path": "Volta/Data/Volta Uninstall.md"
+    },
+    {
+      "basename": "Volta Run",
+      "path": "Volta/Data/Volta Run.md"
+    },
+    {
+      "basename": "Check Version",
+      "path": "Volta/Data/Check Version.md"
+    },
+    {
+      "basename": "Set Project Versions",
+      "path": "Volta/Data/Set Project Versions.md"
+    },
+    {
+      "basename": "Set Default Globally",
+      "path": "Volta/Data/Set Default Globally.md"
+    },
+    {
+      "basename": "Theory",
+      "path": "Volta/Data/Theory.md"
+    },
+    {
+      "basename": "Tizen",
+      "path": "Tizen.md"
+    },
+    {
+      "basename": "Short-cuts",
+      "path": "Short-cuts.md"
+    },
+    {
+      "basename": "Conflic-Obsidian",
+      "path": "Conflic-Obsidian.md"
+    },
+    {
+      "basename": "basic-domain-administration",
+      "path": "PowerShell/data/basic-domain-administration.md"
+    },
+    {
+      "basename": "cmd",
+      "path": "PowerShell/data/cmd.md"
+    },
+    {
+      "basename": "basics",
+      "path": "PowerShell/data/basics.md"
+    },
+    {
+      "basename": "basic-tool-admin",
+      "path": "PowerShell/data/basic-tool-admin.md"
+    },
+    {
+      "basename": "command-syntax",
+      "path": "PowerShell/data/command-syntax.md"
+    },
+    {
+      "basename": "conditional-statement",
+      "path": "PowerShell/data/conditional-statement.md"
+    },
+    {
+      "basename": "providers",
+      "path": "PowerShell/data/providers.md"
+    },
+    {
+      "basename": "PSDrive",
+      "path": "PowerShell/data/PSDrive.md"
+    },
+    {
+      "basename": "short-cuts",
+      "path": "PowerShell/data/short-cuts.md"
+    },
+    {
+      "basename": "index",
+      "path": "PowerShell/index.md"
     },
     {
       "basename": "Heist Rogues Gear",
@@ -21,10 +149,6 @@
       "path": "Periodic Notes/Weekly Notes/2024-W13.md"
     },
     {
-      "basename": "Short-cuts",
-      "path": "Short-cuts.md"
-    },
-    {
       "basename": "add-prop-conditionally-to-object",
       "path": "JS and TS/To ORDER/snippets/data/add-prop-conditionally-to-object.md"
     },
@@ -35,14 +159,6 @@
     {
       "basename": "Documentation",
       "path": "POE/Lab/Documentation.md"
-    },
-    {
-      "basename": "Documentation",
-      "path": "POE/Betrayal/Documentation.md"
-    },
-    {
-      "basename": "Cheat Sheet",
-      "path": "POE/Betrayal/Cheat Sheet.png"
     },
     {
       "basename": "Contracts Reward",
@@ -83,98 +199,6 @@
     {
       "basename": "hard concepts",
       "path": "Test/Jest/Data/hard concepts.md"
-    },
-    {
-      "basename": "Pasted image 20240319110208",
-      "path": "Test/Jest/Images/Pasted image 20240319110208.png"
-    },
-    {
-      "basename": "core concept",
-      "path": "Test/Jest/Data/core concept.md"
-    },
-    {
-      "basename": "Init",
-      "path": "Test/Jest/Data/Init.md"
-    },
-    {
-      "basename": "UserList",
-      "path": "Test/Jest/Data/UserList.md"
-    },
-    {
-      "basename": "rtl-book",
-      "path": "Test/Jest/Data/rtl-book.md"
-    },
-    {
-      "basename": "Query functions",
-      "path": "Test/Jest/Data/Query functions.md"
-    },
-    {
-      "basename": "Pasted image 20240315120538",
-      "path": "Test/Jest/Images/Pasted image 20240315120538.png"
-    },
-    {
-      "basename": "Pasted image 20240315115535",
-      "path": "Test/Jest/Images/Pasted image 20240315115535.png"
-    },
-    {
-      "basename": "Pasted image 20240313100752",
-      "path": "Test/Jest/Images/Pasted image 20240313100752.png"
-    },
-    {
-      "basename": "Pasted image 20240313100735",
-      "path": "Test/Jest/Images/Pasted image 20240313100735.png"
-    },
-    {
-      "basename": "Pasted image 20240313100706",
-      "path": "Test/Jest/Images/Pasted image 20240313100706.png"
-    },
-    {
-      "basename": "Pasted image 20240313100524",
-      "path": "Test/Jest/Images/Pasted image 20240313100524.png"
-    },
-    {
-      "basename": "Pasted image 20240313082921",
-      "path": "Test/Jest/Images/Pasted image 20240313082921.png"
-    },
-    {
-      "basename": "Pasted image 20240313082816",
-      "path": "Test/Jest/Images/Pasted image 20240313082816.png"
-    },
-    {
-      "basename": "Pasted image 20240313082022",
-      "path": "Test/Jest/Images/Pasted image 20240313082022.png"
-    },
-    {
-      "basename": "Pasted image 20240313080050",
-      "path": "Test/Jest/Images/Pasted image 20240313080050.png"
-    },
-    {
-      "basename": "Pasted image 20240313075036",
-      "path": "Test/Jest/Images/Pasted image 20240313075036.png"
-    },
-    {
-      "basename": "Pasted image 20240311130950",
-      "path": "Test/Jest/Images/Pasted image 20240311130950.png"
-    },
-    {
-      "basename": "Pasted image 20240308074716",
-      "path": "Test/Jest/Images/Pasted image 20240308074716.png"
-    },
-    {
-      "basename": "Pasted image 20240308074039",
-      "path": "Test/Jest/Images/Pasted image 20240308074039.png"
-    },
-    {
-      "basename": "Pasted image 20240308074024",
-      "path": "Test/Jest/Images/Pasted image 20240308074024.png"
-    },
-    {
-      "basename": "Pasted image 20240308073427",
-      "path": "Test/Jest/Images/Pasted image 20240308073427.png"
-    },
-    {
-      "basename": "Pasted image 20240308073131",
-      "path": "Test/Jest/Images/Pasted image 20240308073131.png"
     }
   ],
   "omittedPaths": [],

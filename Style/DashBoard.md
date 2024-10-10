@@ -14,7 +14,7 @@
 | --------------------------------- | :------------------------------------------------------------------------------------------------------------------: |
 | _Least Number of Children_        |                                          [[Least Number of Children \| 🌹]]                                          |
 | _Selecting by Attribute_          |                                           [[Selecting by Attribute \| 🌹]]                                           |
-| _Not Overflow From Parent Height_ | [[Display Grid#Not Overflow From Parent Height \| Grid]] or [[Display Grid#Not Overflow From Parent Height \| Flex]] |
+| _Not Overflow From Parent Height_ | [[Display Grid#Not Overflow From Parent Height \| Grid]] or [[Display Flex#Not Overflow From Parent Height \| Flex]] |
 | _Using CSS custom properties_     |                                        [[Using CSS custom properties \| 🌹]]                                         |
 
 ---

@@ -13,7 +13,7 @@ _PWA's_
 
 ## Manifest
 
-[[Manifest]]
+[[PWA/Vite/React/Data/Manifest]]
 
 ---
 

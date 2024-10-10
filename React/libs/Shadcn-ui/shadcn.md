@@ -13,7 +13,7 @@ The key difference between Radix UI and Shadcn is that Shadcn is not a package y
 
 Run the `shadcn-ui` init command to setup your project:
 
-> [shadcn + nextjs](https://ui.shadcn.com/docs/installation/next)
+> [shadcn](https://ui.shadcn.com/docs/installation)
 
 ```bash
 npx shadcn-ui@latest init

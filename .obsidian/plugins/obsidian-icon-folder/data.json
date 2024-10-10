@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxlDocker",
       "SiJest",
       "SiNextdotjs",
       "RiFlightTakeoffFill",
-      "SiUdemy",
-      "FarFilePdf"
+      "SiUdemy"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -25,7 +25,11 @@
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
-    "iconIdentifier": ":"
+    "iconIdentifier": ":",
+    "iconsInLinksEnabled": true,
+    "debugMode": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor"
   },
   "Obsidian Tutorial": "SiObsidian",
   "Obsidian Tutorial/Data": "TiDatabase",
@@ -161,5 +165,6 @@
   "React/Libs/Next.js/PDF/Udemy Course": "SiUdemy",
   "React/Libs/Next.js/Data/init.md": "RiFlightTakeoffFill",
   "Certificates/Udemy/React/Nextjs.pdf": "SiNextdotjs",
-  "Certificates/Udemy/React/React Testing Library and Jest.pdf": "SiJest"
+  "Certificates/Udemy/React/React Testing Library and Jest.pdf": "SiJest",
+  "Docker": "BoBxlDocker"
 }

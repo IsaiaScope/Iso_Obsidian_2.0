@@ -4,7 +4,7 @@
   "spellcheckLanguages": null,
   "livePreview": false,
   "defaultViewMode": "preview",
-  "attachmentFolderPath": "Test/Jest/Images",
+  "attachmentFolderPath": "./",
   "showLineNumber": false,
   "alwaysUpdateLinks": true,
   "showInlineTitle": false,
@@ -12,5 +12,13 @@
   "strictLineBreaks": false,
   "showFrontmatter": false,
   "autoConvertHtml": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 61
+  }
 }

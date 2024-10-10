@@ -1,0 +1,269 @@
+{
+  "refreshKey": 1,
+  "disableNativeToolbar": true,
+  "customActionList": [],
+  "actionList": [
+    {
+      "type": "action",
+      "action": {
+        "id": "add-attach",
+        "version": 0,
+        "name": "add attachment",
+        "desc": "Add attachment",
+        "icon": "Paperclip",
+        "command": "editor:attach-file"
+      },
+      "id": "list_0"
+    },
+    {
+      "type": "divider",
+      "id": "list_1"
+    },
+    {
+      "type": "action",
+      "action": {
+        "id": "blockquote",
+        "version": 0,
+        "name": "blockquote",
+        "desc": "Blockquote",
+        "icon": "Quote",
+        "command": "editor:toggle-blockquote"
+      },
+      "id": "list_2"
+    },
+    {
+      "type": "action",
+      "action": {
+        "id": "italic",
+        "version": 0,
+        "name": "italic",
+        "desc": "Italics",
+        "icon": "Italic",
+        "command": "editor:toggle-italics"
+      },
+      "id": "list_3"
+    },
+    {
+      "type": "action",
+      "action": {
+        "id": "bold",
+        "version": 0,
+        "name": "bold",
+        "desc": "Bold",
+        "icon": "Bold",
+        "command": "editor:toggle-bold"
+      },
+      "id": "list_4"
+    },
+    {
+      "action": {
+        "id": "highlight",
+        "version": 0,
+        "icon": "Highlighter",
+        "name": "highlight",
+        "desc": "Toggle highlight",
+        "test": ".+",
+        "command": "editor:toggle-highlight"
+      },
+      "type": "action",
+      "id": "list_5"
+    },
+    {
+      "type": "action",
+      "action": {
+        "id": "strikethrough",
+        "version": 0,
+        "name": "strikethrough",
+        "desc": "Strikethrough",
+        "icon": "Strikethrough",
+        "command": "editor:toggle-strikethrough"
+      },
+      "id": "list_6"
+    },
+    {
+      "type": "action",
+      "action": {
+        "id": "clear-format",
+        "version": 0,
+        "name": "clear format",
+        "desc": "Clear format",
+        "icon": "RemoveFormatting",
+        "test": ".+",
+        "command": "editor:clear-formatting"
+      },
+      "id": "list_7"
+    },
+    {
+      "type": "divider",
+      "id": "list_8"
+    },
+    {
+      "action": {
+        "id": "upper-case",
+        "version": 0,
+        "name": "upperCase",
+        "desc": "Uppercase",
+        "test": ".+",
+        "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMTUgMTUiPjxwYXRoIGZpbGw9IndoaXRlIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0zLjYyNiAyLjc1YS41LjUgMCAwIDEgLjQ2OC4zMjdsMy4wNzYgOC4zMmEuNS41IDAgMCAxLS45MzguMzQ2TDUuMjI0IDkuMDE2SDIuMDI3TDEuMDIgMTEuNzQzYS41LjUgMCAxIDEtLjkzOC0uMzQ3bDMuMDc2LTguMzJhLjUuNSAwIDAgMSAuNDY5LS4zMjZtMCAxLjk0Mkw0LjkxIDguMTY2SDIuMzR6bTcuNzQ2LTEuOTQyYS41LjUgMCAwIDEgLjQ2OS4zMjdsMy4wNzUgOC4zMmEuNS41IDAgMSAxLS45MzguMzQ2TDEyLjk3IDkuMDE2SDkuNzczbC0xLjAwOCAyLjcyN2EuNS41IDAgMSAxLS45MzgtLjM0N2wzLjA3Ni04LjMyYS41LjUgMCAwIDEgLjQ2OS0uMzI2bTAgMS45NDJsMS4yODQgMy40NzRoLTIuNTY4eiIgY2xpcC1ydWxlPSJldmVub2RkIi8+PC9zdmc+",
+        "handler": "({ replace: replace2, selection }) => {\n    replace2(selection.toUpperCase());\n  }"
+      },
+      "type": "action",
+      "id": "list_9"
+    },
+    {
+      "action": {
+        "id": "capital-case",
+        "version": 0,
+        "name": "capitalCase",
+        "desc": "Capital case",
+        "test": ".+",
+        "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMTUgMTUiPjxwYXRoIGZpbGw9IndoaXRlIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0zLjY5IDIuNzVhLjUuNSAwIDAgMSAuNDY3LjMybDMuMjEgOC4zMmEuNS41IDAgMCAxLS45MzMuMzZMNS4zODMgOS4wMjVIMi4wMUwuOTY3IDExLjc1YS41LjUgMCAwIDEtLjkzNC0uMzU4bDMuMTktOC4zMmEuNS41IDAgMCAxIC40NjctLjMyMW0uMDAyIDEuODkzbDEuMzYzIDMuNTMySDIuMzM3em03LjIwNy41NjRjLTEuNjQgMC0yLjg5IDEuNDc5LTIuODkgMy40MDNjMCAyLjAyNCAxLjM1IDMuNDAyIDIuODkgMy40MDJhMy4wNiAzLjA2IDAgMCAwIDIuMjU1LS45OXYuNTA4YS40NS40NSAwIDEgMCAuOSAwVjUuNzJhLjQ1LjQ1IDAgMCAwLS45IDB2LjUwM0EzLjAxIDMuMDEgMCAwIDAgMTAuOSA1LjIwN20yLjI1NSA0LjU5MVY3LjMwMmMtLjM5LS43MjEtMS4yMTMtMS4yNDQtMi4wNjctMS4yNDRjLS45NzggMC0yLjA1Mi45MDgtMi4wNTIgMi41NTJjMCAxLjU0My45NzQgMi41NTIgMi4wNTIgMi41NTJjLjg4MyAwIDEuNjg1LS42NjcgMi4wNjctMS4zNjQiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg==",
+        "handler": "({ replace: replace2, selection }) => {\n    const regex = /(\\p{L}+['’]\\p{L}+|\\p{L}+)/gu;\n    replace2(selection.replace(regex, (match) => match.charAt(0).toUpperCase() + match.slice(1).toLowerCase()));\n  }"
+      },
+      "type": "action",
+      "id": "list_10"
+    },
+    {
+      "action": {
+        "id": "lower-case",
+        "version": 0,
+        "name": "lowerCase",
+        "desc": "Lowercase",
+        "test": ".+",
+        "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMTUgMTUiPjxwYXRoIGZpbGw9IndoaXRlIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0zLjY5OSA1LjIwN2MtMS42NCAwLTIuODkgMS40NzktMi44OSAzLjQwM2MwIDIuMDI0IDEuMzUgMy40MDIgMi44OSAzLjQwMmEzLjA2IDMuMDYgMCAwIDAgMi4yNTUtLjk5di41MDhhLjQ1LjQ1IDAgMCAwIC45IDBWNS43MmEuNDUuNDUgMCAwIDAtLjkgMHYuNTAzYTMuMDEgMy4wMSAwIDAgMC0yLjI1NS0xLjAxNm0yLjI1NSA0LjU5MlY3LjMwMWMtLjM5LS43Mi0xLjIxMy0xLjI0My0yLjA2Ny0xLjI0M2MtLjk3OCAwLTIuMDUyLjkwOC0yLjA1MiAyLjU1MmMwIDEuNTQzLjk3NCAyLjU1MiAyLjA1MiAyLjU1MmMuODgzIDAgMS42ODQtLjY2NiAyLjA2Ny0xLjM2M200Ljg0NS00LjU5MmMtMS42NCAwLTIuODkgMS40NzktMi44OSAzLjQwM2MwIDIuMDI0IDEuMzUgMy40MDIgMi44OSAzLjQwMmEzLjA2IDMuMDYgMCAwIDAgMi4yNTUtLjk5di41MDhhLjQ1LjQ1IDAgMCAwIC45IDBWNS43MmEuNDUuNDUgMCAxIDAtLjkgMHYuNTAzQTMuMDEgMy4wMSAwIDAgMCAxMC44IDUuMjA3bTIuMjU1IDQuNTkxVjcuMzAyYy0uMzktLjcyMS0xLjIxMy0xLjI0NC0yLjA2Ny0xLjI0NGMtLjk3OCAwLTIuMDUyLjkwOC0yLjA1MiAyLjU1MmMwIDEuNTQzLjk3NCAyLjU1MiAyLjA1MiAyLjU1MmMuODgzIDAgMS42ODUtLjY2NyAyLjA2Ny0xLjM2NCIgY2xpcC1ydWxlPSJldmVub2RkIi8+PC9zdmc+",
+        "handler": "({ replace: replace2, selection }) => {\n    replace2(selection.toLowerCase());\n  }"
+      },
+      "type": "action",
+      "id": "list_11"
+    },
+    {
+      "type": "divider",
+      "id": "list_12"
+    },
+    {
+      "type": "action",
+      "action": {
+        "id": "search",
+        "version": 0,
+        "icon": "ScanSearch",
+        "name": "global search",
+        "desc": "Search in all files",
+        "test": ".+",
+        "command": "global-search:open"
+      },
+      "id": "list_13"
+    },
+    {
+      "action": {
+        "id": "google",
+        "version": 0,
+        "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgNDggNDgiPjxwYXRoIGZpbGw9IiNmZmMxMDciIGQ9Ik00My42MTEgMjAuMDgzSDQyVjIwSDI0djhoMTEuMzAzYy0xLjY0OSA0LjY1Ny02LjA4IDgtMTEuMzAzIDhjLTYuNjI3IDAtMTItNS4zNzMtMTItMTJzNS4zNzMtMTIgMTItMTJjMy4wNTkgMCA1Ljg0MiAxLjE1NCA3Ljk2MSAzLjAzOWw1LjY1Ny01LjY1N0MzNC4wNDYgNi4wNTMgMjkuMjY4IDQgMjQgNEMxMi45NTUgNCA0IDEyLjk1NSA0IDI0czguOTU1IDIwIDIwIDIwczIwLTguOTU1IDIwLTIwYzAtMS4zNDEtLjEzOC0yLjY1LS4zODktMy45MTciLz48cGF0aCBmaWxsPSIjZmYzZDAwIiBkPSJtNi4zMDYgMTQuNjkxbDYuNTcxIDQuODE5QzE0LjY1NSAxNS4xMDggMTguOTYxIDEyIDI0IDEyYzMuMDU5IDAgNS44NDIgMS4xNTQgNy45NjEgMy4wMzlsNS42NTctNS42NTdDMzQuMDQ2IDYuMDUzIDI5LjI2OCA0IDI0IDRDMTYuMzE4IDQgOS42NTYgOC4zMzcgNi4zMDYgMTQuNjkxIi8+PHBhdGggZmlsbD0iIzRjYWY1MCIgZD0iTTI0IDQ0YzUuMTY2IDAgOS44Ni0xLjk3NyAxMy40MDktNS4xOTJsLTYuMTktNS4yMzhBMTEuOTEgMTEuOTEgMCAwIDEgMjQgMzZjLTUuMjAyIDAtOS42MTktMy4zMTctMTEuMjgzLTcuOTQ2bC02LjUyMiA1LjAyNUM5LjUwNSAzOS41NTYgMTYuMjI3IDQ0IDI0IDQ0Ii8+PHBhdGggZmlsbD0iIzE5NzZkMiIgZD0iTTQzLjYxMSAyMC4wODNINDJWMjBIMjR2OGgxMS4zMDNhMTIuMDQgMTIuMDQgMCAwIDEtNC4wODcgNS41NzFsLjAwMy0uMDAybDYuMTkgNS4yMzhDMzYuOTcxIDM5LjIwNSA0NCAzNCA0NCAyNGMwLTEuMzQxLS4xMzgtMi42NS0uMzg5LTMuOTE3Ii8+PC9zdmc+",
+        "name": "google",
+        "desc": "Search with Google",
+        "test": ".+",
+        "handler": "({ selection }) => {\n    window.open(`https://www.google.com/search?q=${encodeURIComponent(selection)}`);\n  }"
+      },
+      "type": "action",
+      "id": "list_14"
+    },
+    {
+      "action": {
+        "id": "google-translation",
+        "version": 0,
+        "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJtMTIgMjJsLTEtM0g0cS0uODI1IDAtMS40MTItLjU4N1QyIDE3VjRxMC0uODI1LjU4OC0xLjQxMlQ0IDJoNmwuODc1IDNIMjBxLjg3NSAwIDEuNDM4LjU2M1QyMiA3djEzcTAgLjgyNS0uNTYyIDEuNDEzVDIwIDIyem0tNC44NS03LjRxMS43MjUgMCAyLjgzOC0xLjExMlQxMS4xIDEwLjZxMC0uMi0uMDEyLS4zNjJ0LS4wNjMtLjMzOGgtMy45NXYxLjU1SDkuM3EtLjIuNy0uNzYzIDEuMDg4dC0xLjM2Mi4zODdxLS45NzUgMC0xLjY3NS0uN1Q0LjggMTAuNXQuNy0xLjcyNXQxLjY3NS0uN3EuNDUgMCAuODUuMTYzdC43MjUuNDg3TDkuOTc1IDcuNTVROS40NSA3IDguNzEyIDYuN1Q3LjE1IDYuNHEtMS42NzUgMC0yLjg2MyAxLjE4OFQzLjEgMTAuNXQxLjE4OCAyLjkxM1Q3LjE1IDE0LjZtNi43LjVsLjU1LS41MjVxLS4zNS0uNDI1LS42MzctLjgyNXQtLjU2My0uODV6bTEuMjUtMS4yNzVxLjctLjgyNSAxLjA2My0xLjU3NXQuNDg3LTEuMTc1aC0zLjk3NWwuMyAxLjA1aDFxLjIuMzc1LjQ3NS44MTN0LjY1Ljg4N00xMyAyMWg3cS40NSAwIC43MjUtLjI4OFQyMSAyMFY3cTAtLjQ1LS4yNzUtLjcyNVQyMCA2aC04LjgyNWwxLjE3NSA0LjA1aDEuOTc1VjloMS4wMjV2MS4wNUgxOXYxLjAyNWgtMS4yNzVxLS4yNS45NS0uNzUgMS44NVQxNS44IDE0LjZsMi43MjUgMi42NzVMMTcuOCAxOGwtMi43LTIuN2wtLjkuOTI1TDE1IDE5eiIvPjwvc3ZnPg==",
+        "name": "google translation",
+        "desc": "Translation with Google",
+        "test": ".+",
+        "handler": "({ selection }) => {\n    window.open(`https://translate.google.com/?sl=auto&op=translate&text=${encodeURIComponent(selection)}`);\n  }"
+      },
+      "type": "action",
+      "id": "list_15"
+    },
+    {
+      "type": "divider",
+      "id": "list_16"
+    },
+    {
+      "type": "action",
+      "action": {
+        "id": "replace",
+        "version": 0,
+        "icon": "Replace",
+        "name": "replace",
+        "desc": "Find and replace in current note",
+        "test": ".+",
+        "command": "editor:open-search-replace"
+      },
+      "id": "list_17"
+    },
+    {
+      "type": "divider",
+      "id": "list_18"
+    },
+    {
+      "type": "action",
+      "action": {
+        "id": "list",
+        "version": 0,
+        "name": "list",
+        "desc": "Toggle list",
+        "icon": "List",
+        "test": ".+",
+        "command": "editor:toggle-bullet-list"
+      },
+      "id": "list_19"
+    },
+    {
+      "type": "action",
+      "action": {
+        "id": "sorted-list",
+        "version": 0,
+        "name": "ordered list",
+        "desc": "Toggle ordered list",
+        "icon": "ListOrdered",
+        "test": ".+",
+        "command": "editor:toggle-numbered-list"
+      },
+      "id": "list_20"
+    },
+    {
+      "type": "action",
+      "action": {
+        "id": "reverse-lines",
+        "version": 0,
+        "name": "reverse lines",
+        "desc": "Reverse lines",
+        "icon": "ListRestart",
+        "test": "\n",
+        "handler": "({ replace: replace2, selection }) => {\n    replace2(selection.split(/[\\r\\n]+/).reverse().join(\"\\n\"));\n  }"
+      },
+      "id": "list_21"
+    },
+    {
+      "type": "action",
+      "action": {
+        "id": "merge-lines",
+        "version": 0,
+        "name": "merge lines",
+        "desc": "Merge lines into single line",
+        "icon": "ListStart",
+        "test": ".+",
+        "handler": "({ replace: replace2, selection }) => {\n    replace2(selection.split(/[\\r\\n]+/).map((line) => line.trim()).join(\"\"));\n  }"
+      },
+      "id": "list_22"
+    },
+    {
+      "type": "action",
+      "action": {
+        "id": "copy-html",
+        "version": 0,
+        "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNMTQgM3Y0YTEgMSAwIDAgMCAxIDFoNCIvPjxwYXRoIGQ9Ik01IDEyVjVhMiAyIDAgMCAxIDItMmg3bDUgNXY0TTIgMjF2LTZtMyAwdjZtLTMtM2gzbTE1LTN2NmgybS05IDB2LTZsMiAzbDItM3Y2bS05LjUtNmgzTTkgMTV2NiIvPjwvZz48L3N2Zz4=",
+        "name": "Copy HTML",
+        "desc": "Copy HTML",
+        "test": ".+",
+        "handler": "async ({ selection, app }) => {\n    const div2 = createDiv();\n    await import_obsidian2.MarkdownRenderer.render(\n      app,\n      selection,\n      div2,\n      \"\",\n      new import_obsidian2.MarkdownRenderChild(div2)\n    );\n    const html = div2.innerHTML;\n    div2.remove();\n    await navigator.clipboard.writeText(html);\n  }"
+      },
+      "id": "list_23"
+    }
+  ]
+}

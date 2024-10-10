@@ -1,6 +1,6 @@
 conflict-files-obsidian-git.md
 
-.obsidian\plugins\smart-html-select-plugin
+.obsidian/plugins/smart-html-select-plugin
 
 .obsidian/workspace.json
 

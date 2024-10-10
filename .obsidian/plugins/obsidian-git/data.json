@@ -24,7 +24,7 @@
   "refreshSourceControlTimer": 7000,
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false,
-  "submoduleRecurseCheckout": false,
+  "submoduleRecurseCheckout": true,
   "gitDir": "",
   "showFileMenu": true,
   "authorInHistoryView": "hide",

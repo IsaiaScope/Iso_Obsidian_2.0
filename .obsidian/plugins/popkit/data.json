@@ -253,6 +253,10 @@
       "id": "list_22"
     },
     {
+      "type": "divider",
+      "id": "list_23"
+    },
+    {
       "type": "action",
       "action": {
         "id": "copy-html",
@@ -263,7 +267,7 @@
         "test": ".+",
         "handler": "async ({ selection, app }) => {\n    const div2 = createDiv();\n    await import_obsidian2.MarkdownRenderer.render(\n      app,\n      selection,\n      div2,\n      \"\",\n      new import_obsidian2.MarkdownRenderChild(div2)\n    );\n    const html = div2.innerHTML;\n    div2.remove();\n    await navigator.clipboard.writeText(html);\n  }"
       },
-      "id": "list_23"
+      "id": "list_24"
     }
   ]
 }

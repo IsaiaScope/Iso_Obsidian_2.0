@@ -1,5 +1,5 @@
 README.md
 conflict-files-obsidian-git.md
-.obsidian/workspace
-.obsidian/plugins/smart-html-select-plugin
-.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+.obsidian\plugins\smart-html-select-plugin
+.obsidian\plugins\recent-files-obsidian\data.json

@@ -52,9 +52,22 @@
                 "currentVersion": "1.6.5"
               }
             }
+          },
+          {
+            "id": "b28486aa72b7ed6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -108,8 +121,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Home.md"
               }
             }
           }
@@ -189,6 +202,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "smart-html-select:Insert HTML select": false,
+      "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templates:Insert template": false,
@@ -200,10 +216,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "16f9a0785034e004",
+  "active": "b28486aa72b7ed6d",
   "lastOpenFiles": [
-    "POE/Heist/Documentation.md",
     "conflict-files-obsidian-git.md",
+    "Home.md",
+    "POE/Heist/Documentation.md",
     "POE/Heist/Heist Rogues Gear.jpg",
     "POE/Heist/Contracts Description.png",
     "Periodic Notes/Weekly Notes/2024-W13.md",

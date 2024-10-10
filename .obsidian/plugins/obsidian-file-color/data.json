@@ -1,20 +1,16 @@
 {
-  "cascadeColors": true,
+  "cascadeColors": false,
   "colorBackground": true,
   "palette": [
     {
       "id": "pTeg76K6iD3x5gvSr53Ig",
       "name": "Azure",
-      "value": "#41b9ab"
+      "value": "#5b807c"
     }
   ],
   "fileColors": [
     {
-      "path": "Three.js",
-      "color": "pTeg76K6iD3x5gvSr53Ig"
-    },
-    {
-      "path": "React",
+      "path": "WORK",
       "color": "pTeg76K6iD3x5gvSr53Ig"
     }
   ]

@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Conflic-Obsidian",
+      "path": "Conflic-Obsidian.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Scaffolding React App",
+      "path": "Scaffolding React App.md"
+    },
+    {
       "basename": "conflict-files-obsidian-git",
       "path": "conflict-files-obsidian-git.md"
     },
     {
-      "basename": "Scaffolding React App (Vite)",
-      "path": "Scaffolding React App (Vite).md"
+      "basename": "touch",
+      "path": "Prompt/Linux/Data/touch.md"
+    },
+    {
+      "basename": "Filmbank back-end",
+      "path": "WORK/Fincons/Filmbank/Filmbank back-end.md"
+    },
+    {
+      "basename": "Short-cuts",
+      "path": "Short-cuts.md"
+    },
+    {
+      "basename": "Stuff",
+      "path": "Stuff.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Volta/Dashboard.md"
     },
     {
       "basename": "Documentation",
@@ -29,10 +57,6 @@
       "path": "Prompt/Commands.md"
     },
     {
-      "basename": "touch",
-      "path": "Prompt/Linux/Data/touch.md"
-    },
-    {
       "basename": "cd",
       "path": "Prompt/Windows/Data/cd.md"
     },
@@ -51,14 +75,6 @@
     {
       "basename": "prompt",
       "path": "NODE/prompt.md"
-    },
-    {
-      "basename": "Stuff",
-      "path": "Stuff.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Volta/Dashboard.md"
     },
     {
       "basename": "Volta Uninstall",
@@ -83,18 +99,6 @@
     {
       "basename": "Theory",
       "path": "Volta/Data/Theory.md"
-    },
-    {
-      "basename": "Tizen",
-      "path": "Tizen.md"
-    },
-    {
-      "basename": "Short-cuts",
-      "path": "Short-cuts.md"
-    },
-    {
-      "basename": "Conflic-Obsidian",
-      "path": "Conflic-Obsidian.md"
     },
     {
       "basename": "basic-domain-administration",
@@ -143,10 +147,6 @@
     {
       "basename": "Contracts Description",
       "path": "POE/Heist/Contracts Description.png"
-    },
-    {
-      "basename": "2024-W13",
-      "path": "Periodic Notes/Weekly Notes/2024-W13.md"
     },
     {
       "basename": "add-prop-conditionally-to-object",

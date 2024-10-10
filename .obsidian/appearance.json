@@ -1,7 +1,7 @@
 {
-  "baseFontSize": 15,
-  "accentColor": "",
-  "cssTheme": "Obsidian Nord",
+  "baseFontSize": 17,
+  "accentColor": "#d6d6d6",
+  "cssTheme": "Tokyo Night",
   "showViewHeader": true,
   "nativeMenus": false,
   "translucency": false,
@@ -11,5 +11,6 @@
   ],
   "interfaceFontFamily": "Century Gothic,Fira Code",
   "monospaceFontFamily": "",
-  "textFontFamily": "Century Gothic"
+  "textFontFamily": "Century Gothic",
+  "baseFontSizeAction": true
 }

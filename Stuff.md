@@ -51,6 +51,8 @@ Fincons1234@
 
 ## keyboard English (United State) => layouts => United States-Internation (Qwerty)
 
-
-
 Install-Module -Name PSReadLine -force -Scope CurrentUser
+
+➜
+➤
+↷

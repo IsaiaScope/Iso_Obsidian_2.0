@@ -1,5 +1,7 @@
 # Corso Comunicazione efficace e relazioni interpersonali
 
+> NON C'E NIENTE DI SBAGLIATO CI SONO SOLO DIVERSE MODALITA DI COMUNICAZIONE
+
 ## 1° Lezione
 
 ### Presentazioni

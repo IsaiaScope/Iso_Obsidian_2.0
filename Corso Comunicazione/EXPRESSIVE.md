@@ -11,7 +11,7 @@
 
 ### Come reagiranno:
 
-- Potrebbero alzare i toni
+- potrebbero alzare i toni
 - si mettono sulla difensiva
 - si scontrano con la vostra logica
 - vi dicono che non state capendo

@@ -4,17 +4,17 @@
 
 ### Si sentono frustrati quando voi:
 
-- sprecate il loro tempo
-- non fate quello Che avete detto di fare
-- non fate quello che vi hanno detto di fare
-- mettete a rischio i loro obiettivi
+- vi lanciate in discussioni plateali ed emotive
+- traete conclusioni in assenza di fatti
+- insistete affinché si lancino senza guardare
+- non prestate attenzione ai dettagli
 
 ### Come reagiranno:
 
-- Potrebbero alzare i toni
-- pongono domande mirate di approfondimento
-- sono impazienti o infastiditi
-- vi dicono esattamente cosa fare
-- vi parlano con arroganza
+- si disorientano e si confondono
+- vi chiedono di chiarire i fatti
+- vi chiedono di sostenere le vostre opinioni
+- rifiutano le vostre conclusioni
+- rimangono emotivamente distaccati
 
 ---

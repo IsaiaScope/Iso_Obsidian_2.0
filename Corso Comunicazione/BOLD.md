@@ -11,7 +11,7 @@
 
 ### Come reagiranno:
 
-- Potrebbero alzare i toni
+- potrebbero alzare i toni
 - pongono domande mirate di approfondimento
 - sono impazienti o infastiditi
 - vi dicono esattamente cosa fare

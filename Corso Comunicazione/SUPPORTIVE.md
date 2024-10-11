@@ -4,17 +4,17 @@
 
 ### Si sentono frustrati quando voi:
 
-- sprecate il loro tempo
-- non fate quello Che avete detto di fare
-- non fate quello che vi hanno detto di fare
-- mettete a rischio i loro obiettivi
+- non dedicate del tempo alle buone maniere
+- sembrate insensibili/ignari dei sentimenti
+- insinuate che non si preoccupano o
+- che vi hanno deluso
+- non dedicate del tempo ad ascoltare
 
 ### Come reagiranno:
 
-- Potrebbero alzare i toni
-- pongono domande mirate di approfondimento
-- sono impazienti o infastiditi
-- vi dicono esattamente cosa fare
-- vi parlano con arroganza
+- si sentono feriti e respinti
+- dicono: "0K", ma non Io pensano veramente
+- smettono di dare di più
+- si isolano
 
 ---

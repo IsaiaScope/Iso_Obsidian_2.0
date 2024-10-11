@@ -27,3 +27,23 @@ Il fatto di perdersi dei pezzi della discussione può portare a problematiche. *
 > Non comunicare in maniera schematica, lo schema riassuntivo si può sempre fare come aggiunta. Una schematizzazione può portare ad un maggiore fraintendimento
 
 ---
+
+### Out of Office
+
+```
+Buongiorno,
+ 
+vi ringrazio per avermi contattato ma nella mattinata di oggi, 9 ottobre, sarò assente e con limitato accesso alle mail.
+ 
+Risponderò ad eventuali richieste al mio rientro tuttavia per le tematiche relative a xxxxx vi chiedo cortesemente di mantenere in copia conoscenza la casella di posta xxxx@finconsgroup.com
+```
+
+_NOTE_ questa è una pessima email per gestire l'out of office. Dal punto di vista del sender lui si lava le mani e gestisce la cosa dal proprio punto di vista. Chi riceve la mail in questione invece non è sicuro di ricevere risposta anche all'altra mail fornita.
+
+#### Un buon approccio può essere quello di fornire
+
+- un numero di telefono aziendale
+- un altro collega di riferimento
+- fornire specificatamente la finestra temporale in cui si è assenti
+
+---

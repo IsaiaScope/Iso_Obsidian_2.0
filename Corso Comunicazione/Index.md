@@ -52,6 +52,8 @@ _NOTE_ questa è una pessima email per gestire l'out of office. Dal punto di vis
 
 ### BEST
 
+> Lo stile un comportamento e quindi si può cambiare
+
 - AZIONE [[BOLD]] = le persone che hanno una preferenza per questo stile amano l’azione, il successo, la determinazione, i compiti da assolvere, l’evoluzione e la soluzione dei problemi. Difficilmente riescono a stare inattivi per molto tempo e tendono a porsi obiettivi sempre diversi. Sono stimolati dalla competizione, dalle sfide e dal coinvolgimento emotivo in ciò che fanno, rischiando, tuttavia, di essere troppo impulsivi.
 
   > 11/20
@@ -78,3 +80,8 @@ Se uno è METODI **T**ECHNICAL non bisogna dargli troppe informazioni insieme pe
 Se uno è UOMINI **S**UPPORTIVE devi raccontare un pò i cazzi tuoi per farli stare bene
 
 ---
+
+Cose che mi hanno colpito
+
+mi ha stimolato: di solito perdo attenzione se la cosa non mi interessa e che questo corso ha la potenzialità che voglio e posso trarre veramente qualcosa di utile
+ci sono atteggiamenti che ho utilizzato con delle persone che erano completamente sbagliati ed effettivamente hanno rispecchiato le nozioni esposte

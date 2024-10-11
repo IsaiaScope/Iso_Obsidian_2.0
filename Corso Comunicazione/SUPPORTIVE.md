@@ -17,4 +17,10 @@
 - smettono di dare di più
 - si isolano
 
----
+### Come Approcciarli
+
+- Ascoltare in modo attivo consapevole
+- Riassumi
+- Ricapitola
+- Poni attenzione alla comunicazione
+- non verbale

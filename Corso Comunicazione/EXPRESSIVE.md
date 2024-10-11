@@ -16,4 +16,9 @@
 - si scontrano con la vostra logica
 - vi dicono che non state capendo
 
----
+### Come Approcciarli
+
+- Essere trasparente
+- Condividi il pensiero positivo
+- Dai feedback
+- Usa Io storytelling

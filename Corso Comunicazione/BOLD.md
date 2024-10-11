@@ -17,4 +17,8 @@
 - vi dicono esattamente cosa fare
 - vi parlano con arroganza
 
----
+### Come Approcciarli
+
+- Decidere la direzione e chiarire le aspettative
+- Definisci aspettative chiare
+- Garantisci affidabilitå

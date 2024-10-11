@@ -17,4 +17,8 @@
 - rifiutano le vostre conclusioni
 - rimangono emotivamente distaccati
 
----
+### Come Approcciarli
+
+- Porre domande ad alto impatto perchè sono in grado di approfondire
+- Approfondisci
+- Cosa vs Perché?

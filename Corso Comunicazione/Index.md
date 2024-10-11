@@ -50,19 +50,19 @@ _NOTE_ questa è una pessima email per gestire l'out of office. Dal punto di vis
 
 ### BEST
 
-- AZIONE **B**OLD= le persone che hanno una preferenza per questo stile amano l’azione, il successo, la determinazione, i compiti da assolvere, l’evoluzione e la soluzione dei problemi. Difficilmente riescono a stare inattivi per molto tempo e tendono a porsi obiettivi sempre diversi. Sono stimolati dalla competizione, dalle sfide e dal coinvolgimento emotivo in ciò che fanno, rischiando, tuttavia, di essere troppo impulsivi.
+- AZIONE [[BOLD]] = le persone che hanno una preferenza per questo stile amano l’azione, il successo, la determinazione, i compiti da assolvere, l’evoluzione e la soluzione dei problemi. Difficilmente riescono a stare inattivi per molto tempo e tendono a porsi obiettivi sempre diversi. Sono stimolati dalla competizione, dalle sfide e dal coinvolgimento emotivo in ciò che fanno, rischiando, tuttavia, di essere troppo impulsivi.
 
   > 11/20
 
-- IDEE **E**XPRESSIVE = è lo stile di chi ama i concetti, le teorie, gli scambi di idee, l’innovazione, la creatività, le novità, gli ideali. Nell’agire, sono sempre proiettati verso il futuro ed hanno una mente eclettica, sempre alla ricerca di nuove possibilità o soluzioni, con il rischio di lasciarsi prendere troppo dall’entusiasmo iniziale e non portare a termine i progetti. Amano il confronto intellettuale, l’apprendimento costante e si lasciano spesso trasportare dall’immaginazione e dall’impulso.
+- IDEE [[EXPRESSIVE]] = è lo stile di chi ama i concetti, le teorie, gli scambi di idee, l’innovazione, la creatività, le novità, gli ideali. Nell’agire, sono sempre proiettati verso il futuro ed hanno una mente eclettica, sempre alla ricerca di nuove possibilità o soluzioni, con il rischio di lasciarsi prendere troppo dall’entusiasmo iniziale e non portare a termine i progetti. Amano il confronto intellettuale, l’apprendimento costante e si lasciano spesso trasportare dall’immaginazione e dall’impulso.
 
   > 11/20
 
-- UOMINI **S**UPPORTIVE= questo è lo stile di coloro che amano i problemi di società, le interazioni, la comunicazione, il lavoro di gruppo, la motivazione, i sistemi sociali ed il confronto, come strumento di arricchimento personale e di conoscenza reciproca. Si tratta di persone sensibili, intuitive e che danno molta importanza all’aspetto emotivo e alla qualità delle relazioni che instaurano. Non fanno fatica ad esprimere i loro sentimenti e tendono sempre a mediare i conflitti, pur di mantenere un accordo.
+- UOMINI [[SUPPORTIVE]] = questo è lo stile di coloro che amano i problemi di società, le interazioni, la comunicazione, il lavoro di gruppo, la motivazione, i sistemi sociali ed il confronto, come strumento di arricchimento personale e di conoscenza reciproca. Si tratta di persone sensibili, intuitive e che danno molta importanza all’aspetto emotivo e alla qualità delle relazioni che instaurano. Non fanno fatica ad esprimere i loro sentimenti e tendono sempre a mediare i conflitti, pur di mantenere un accordo.
 
   > 11/20
 
-- METODI **T**ECHNICAL= questo stile è tipico delle persone che amano i fatti, l’organizzazione, la strutturazione, le strategie e le tattiche. Si tratta di persone dotate di una mente analitica, molto logiche e razionali, poco inclini al rischio, all’improvvisazione, alle emozioni e alla spontaneità. Tendono a pianificare ogni loro azione, sono prudenti e preferiscono non avere troppe cose da fare insieme per non tralasciare alcun dettaglio.
+- METODI [[TECHNICAL]] = questo stile è tipico delle persone che amano i fatti, l’organizzazione, la strutturazione, le strategie e le tattiche. Si tratta di persone dotate di una mente analitica, molto logiche e razionali, poco inclini al rischio, all’improvvisazione, alle emozioni e alla spontaneità. Tendono a pianificare ogni loro azione, sono prudenti e preferiscono non avere troppe cose da fare insieme per non tralasciare alcun dettaglio.
   > 7/20
 
 _NOTE_ Questi stili mi permetto di capire come sono io e di cercare come sono gli altri quindi di adeguarmi e di approcciarmi al meglio. Avendo tre aspetti pareggiati riuscirò a immedesimarmi in maniera efficace con persone affine a quegli aspetti.
@@ -70,7 +70,7 @@ _NOTE_ Questi stili mi permetto di capire come sono io e di cercare come sono gl
 **S**UPPORTIVE e **T**ECHNICAL ➜ sono più accomodanti
 Se voglio volgere una comunicazione più efficace devo essere più accomodante con quelli che appartengono ai miei stessi gruppi
 
-#### Comunicazione Efficace
+#### Esempi di confronti tra stili
 
 Se uno è METODI **T**ECHNICAL non bisogna dargli troppe informazioni insieme per esempio; ha bisogno di una cosa alla volta ed organizzarla assimilarla e poi passare a quella successiva. Non è predi sposta al multitasking
 Se uno è UOMINI **S**UPPORTIVE devi raccontare un pò i cazzi tuoi per farli stare bene

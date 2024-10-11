@@ -17,6 +17,13 @@ Le cose che possono colpire durante le presentazioni personali posso essere molt
 
 #### Ascoltare correttamente
 
-il fatto di perdersi dei pezzi della discussione può portare a problematiche. **ASCOLTARE** hai sempre tempo per la gestione dei task. Il tuo hobby viene dopo!
+Il fatto di perdersi dei pezzi della discussione può portare a problematiche. **ASCOLTARE** hai sempre tempo per la gestione dei task. Il tuo hobby viene dopo!
+
+---
+
+### Comunicazione Messaggi
+
+> Quando comunichiamo cerca sempre di spiegare in maniera esaustiva e di non perdere nessun dettaglio rilevante.
+> Non comunicare in maniera schematica, lo schema riassuntivo si può sempre fare come aggiunta. Una schematizzazione può portare ad un maggiore fraintendimento
 
 ---

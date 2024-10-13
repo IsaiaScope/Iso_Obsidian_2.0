@@ -2,6 +2,16 @@
 
 > NON C'E NIENTE DI SBAGLIATO CI SONO SOLO DIVERSE MODALITA DI COMUNICAZIONE
 
+## Obiettivo smart
+
+- Specific (Specifico)
+- Measurable (Misurabile)
+- Achievable (Raggiungibile)
+- Realistic (Realistico)
+- Time-bound (Definito nel tempo)
+
+---
+
 ## 1° Lezione
 
 ### Presentazioni
@@ -80,8 +90,3 @@ Se uno è METODI **T**ECHNICAL non bisogna dargli troppe informazioni insieme pe
 Se uno è UOMINI **S**UPPORTIVE devi raccontare un pò i cazzi tuoi per farli stare bene
 
 ---
-
-Cose che mi hanno colpito
-
-mi ha stimolato: di solito perdo attenzione se la cosa non mi interessa e che questo corso ha la potenzialità che voglio e posso trarre veramente qualcosa di utile
-ci sono atteggiamenti che ho utilizzato con delle persone che erano completamente sbagliati ed effettivamente hanno rispecchiato le nozioni esposte

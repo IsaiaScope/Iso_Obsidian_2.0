@@ -13,3 +13,6 @@ boma
 la trozza
 il tangone
 la drizza
+vang
+scotte
+balumina

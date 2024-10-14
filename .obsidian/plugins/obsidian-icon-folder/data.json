@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "❤️‍🔥",
+      "FasSailboat",
       "💵",
       "RiAttachment2",
       "SiIonic",
@@ -172,5 +174,6 @@
   "Certificates/Udemy/React/React Testing Library and Jest.pdf": "SiJest",
   "Docker": "BoBxlDocker",
   "WORK/Players/Dashboard.md": "IbDashboard",
-  "WORK": "💵"
+  "WORK": "❤️‍🔥",
+  "Patente Nautica": "FasSailboat"
 }

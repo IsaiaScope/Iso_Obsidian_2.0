@@ -11,4 +11,5 @@ crocette
 sartie ➜
 boma
 la trozza
-tangone
+il tangone
+la drizza

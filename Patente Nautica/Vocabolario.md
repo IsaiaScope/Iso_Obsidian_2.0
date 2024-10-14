@@ -7,5 +7,7 @@ fiocco ➜ vela davanti
 dormienti ➜ stralli e sartie
 correnti ➜ 
 stralli  ➜
+crocette
 sartie ➜
 boma
+la trozza

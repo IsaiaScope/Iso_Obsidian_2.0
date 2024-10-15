@@ -13,5 +13,10 @@ Se la barca inizia a sfarfallare si dice che 'fileggia' e quindi stiamo perdendo
 [[filetti.png]]
 [[regolazione vela prodiera.png]]
 
+# Lezione Teoria
+
+## Prima
+
+
 
 ---

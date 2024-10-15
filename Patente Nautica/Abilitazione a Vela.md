@@ -31,9 +31,10 @@ catamarani = doppio scafo
 scafo ad ala di gabbiano ricorda la sagonma di un gabbiano
 Timone
 ordinari = ha tutta la pala dietro al centro di rotazione
-semi compensati = ha anche un
-compensati
-differenza di quantità di pala
+semi compensati = ha una parte della pala
+compensati = hanno tutta la pala compensata
+differiscono differenza di quantità di pala
+frenelli sono cavi acciaio che fanno girare il timone 
 Motore
 
 ---

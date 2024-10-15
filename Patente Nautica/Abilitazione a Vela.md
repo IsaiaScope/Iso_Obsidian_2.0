@@ -17,6 +17,23 @@ Se la barca inizia a sfarfallare si dice che 'fileggia' e quindi stiamo perdendo
 
 ## Prima
 
+Scafo
+Lunghezza fuori tutto è la lunghezza dello scafo
+larghezza fuori tutto larghezza scafo
+stazza = misura di volume interno (unità di misura tonnellate di stazza = 2,8 metri cubi per stazza)
+dislocamento = la quantità di volume spostata d'acqua = Archimede = peso barca
+pescaggio = misura dalla linea di galleggiamento (divide lo scafo in due punti sopra (opera morta) e sotto l'acuqua (opera viva)) alla base della chigla
 
+scafo dislocanti = barca a vela tipo che sposta l'acqua, tonda
+scafo semi dislocanti/plananti = scafo a v profonda
+scafo planante = tipo motoscafi sono le più piatte con la v meno pronunciata
+catamarani = doppio scafo
+scafo ad ala di gabbiano ricorda la sagonma di un gabbiano
+Timone
+ordinari = ha tutta la pala dietro al centro di rotazione
+semi compensati = ha anche un
+compensati
+differenza di quantità di pala
+Motore
 
 ---

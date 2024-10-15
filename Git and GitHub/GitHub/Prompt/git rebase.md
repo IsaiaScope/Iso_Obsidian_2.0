@@ -79,3 +79,11 @@ git rebase -i HEAD~4
 - _drop_ remove a commit entirely from history
 
 ---
+
+### Rebase Initials Commit
+
+```bash
+git rebase -i --root
+```
+
+---

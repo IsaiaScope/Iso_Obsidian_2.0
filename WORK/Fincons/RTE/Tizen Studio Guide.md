@@ -20,7 +20,7 @@ tags:
   - [ ] Enter _IP_ of PC from ipconfig ➜ Ipv4
   - [ ] Press ok and `Turn off keeping power button pressed for 2 sec at least`
 - [ ] Tizen studio ide path `C:\Users\adm.riva1\Documents\Tizen Studio\ide\eclipse.exe`
-  - [ ] Open folder ide ↷
+  - [ ] Strat up _IDE_ ↷
 
 ```powershell
 Start-Process -FilePath "C:\Users\adm.riva1\Documents\Tizen Studio\ide\eclipse.exe"

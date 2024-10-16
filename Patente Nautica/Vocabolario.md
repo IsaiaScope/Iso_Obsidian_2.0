@@ -12,7 +12,7 @@ sartie ➜
 boma
 la trozza
 il tangone
-la drizza
+la drizza ➜ cavo che serve per alzare le vele, c'è la drizza del fiocco e la drizza della randa
 vang
-scotte
-balumina
+scotte ➜ correnti legati al fiocco e alla randa che servono per cazzare e lascare le vele
+balumina ➜ bordo libero più esterno della vela dove esce il vento

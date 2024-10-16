@@ -21,4 +21,5 @@ angolo di drizza ➜ angolo vela in alto dove è legata la drizza
 angolo di mura ➜ angolo vela verso prua
 inferitura ➜ lato anteriore della vela dove incide il vento
 fiocco viene rollato
-mura ➜ il lato che riceve il vento 
+mura ➜ il lato che riceve il vento
+angolo morto ➜ bolina ➜ lasco ➜ poppa

@@ -23,3 +23,4 @@ inferitura ➜ lato anteriore della vela dove incide il vento
 fiocco viene rollato
 mura ➜ il lato che riceve il vento
 angolo morto ➜ bolina ➜ lasco ➜ poppa
+mura ➜ dove prende il vento la barca

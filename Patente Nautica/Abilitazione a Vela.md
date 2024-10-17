@@ -38,3 +38,6 @@ frenelli sono cavi acciaio che fanno girare il timone
 Motore
 
 ---
+
+## Abbordi in mare o Collisioni
+

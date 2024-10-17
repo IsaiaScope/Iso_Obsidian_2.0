@@ -30,3 +30,4 @@ I progetti Filmbank sono progetti `java8 Maven` per la gestione delle dipendenze
 [Dropwizard](https://www.dropwizard.io/en/stable/) è un `framework` installato, che rispetto a una libreria installa a codice che richiamiamo e usiamo dove volgiamo, si istanzia da sola all'avvio dell'applicativo e gestisce tutto lui per noi ma ti obbliga a lavorare in una certa maniera impostando un processo all'interno del quale sei costretto a al vorare. Ha una sua chain di sviluppo ➜ quando avviene una richiesta Dropwizard permette di avere delle validazioni prima che arrivi alla resources (routes) consentendo di inserirsi in punti e momenti specifici.
 
 ---
+

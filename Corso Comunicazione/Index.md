@@ -90,3 +90,10 @@ Se uno è METODI **T**ECHNICAL non bisogna dargli troppe informazioni insieme pe
 Se uno è UOMINI **S**UPPORTIVE devi raccontare un pò i cazzi tuoi per farli stare bene
 
 ---
+
+## 2° Lezione
+
+- Elementi di interferenza nella comunicazione (si, ma, però) e role play di esercitazione  
+- I tre canali della comunicazione (verbale, non verbale, paraverbale) con video di esercitazione e restituzione in plenaria  
+- Test sulla capacit di ascolto e video esplicativo  
+- L'importanza delle domande aperte e chiuse con esercitazione personale

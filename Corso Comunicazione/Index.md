@@ -93,7 +93,17 @@ Se uno è UOMINI **S**UPPORTIVE devi raccontare un pò i cazzi tuoi per farli st
 
 ## 2° Lezione
 
-- Elementi di interferenza nella comunicazione (si, ma, però) e role play di esercitazione  
+### Elementi di interferenza nella comunicazione
+
+SI, MA... 0K, PERO'... ➜ SI, E
+NON... NO... ➜ Di COSA VUOI, NON COSA NON VUOI, COSA NE PENSI, COSA NE DICI
+IO, IO, IO ➜ TU, TU, TU
+
+
+
 - I tre canali della comunicazione (verbale, non verbale, paraverbale) con video di esercitazione e restituzione in plenaria  
 - Test sulla capacit di ascolto e video esplicativo  
 - L'importanza delle domande aperte e chiuse con esercitazione personale
+
+
+

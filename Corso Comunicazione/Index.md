@@ -99,7 +99,7 @@ SI, MA... 0K, PERO'... ➜ SI, E
 NON... NO... ➜ Di COSA VUOI, NON COSA NON VUOI, COSA NE PENSI, COSA NE DICI
 IO, IO, IO ➜ TU, TU, TU
 
-
+Ho bisogno
 
 - I tre canali della comunicazione (verbale, non verbale, paraverbale) con video di esercitazione e restituzione in plenaria  
 - Test sulla capacit di ascolto e video esplicativo  

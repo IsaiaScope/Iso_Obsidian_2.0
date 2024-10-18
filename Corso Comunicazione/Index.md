@@ -1,6 +1,6 @@
 # Corso Comunicazione efficace e relazioni interpersonali
 
-> NON C'E NIENTE DI SBAGLIATO CI SONO SOLO DIVERSE MODALITA DI COMUNICAZIONE
+> NON C'E NIENTE DI SBAGLIATO CI SONO SOLO DIVERSE MODALITÀ DI COMUNICAZIONE
 
 ## Obiettivo smart
 
@@ -107,7 +107,8 @@ verbale ➜ influenza per il 7% la comunicazione
 non verbale ➜ influenza per il 55% la comunicazione
 paraverbale (pause, ritmo, entusiasmo, atteggiamento) ➜ influenza per il 35% la comunicazione
 
-> PRESTARE ATTENZIONE AL NON VERBALE ISAIA, PERCHE GLI ALTRI LO NOTANO! TRASFORMALO IN UN ARMA
+> PRESTARE ATTENZIONE AL NON VERBALE ISAIA, PERCHÈ GLI ALTRI LO NOTANO! TRASFORMALO IN UN ARMA
 
 ### Ascolto 
 
+> ASCOLTARE È LA CHIAVE; PERCHÈ TORNARE INDIETRO A VOLTE È MOLTO PIÙ DISPENDIOSO DI ASCOLTARE BENE LA PRIMA VOLTA

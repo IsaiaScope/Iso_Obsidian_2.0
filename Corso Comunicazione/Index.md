@@ -101,14 +101,13 @@ Se uno è UOMINI **S**UPPORTIVE devi raccontare un pò i cazzi tuoi per farli st
 | NON... NO...           | Di COSA VUOI, NON COSA NON VUOI, COSA NE PENSI, COSA NE DICI |
 | IO, IO, IO             | TU, TU, TU                                                   |
 
-
 ### I tre canali della comunicazione sia a voce che in scrittura (es. email)
 
-verbale ➜ influenza per il 7%  la comunicazione
-non verbale ➜ influenza per il 55%  la comunicazione
-paraverbale (pause, ritmo, entusiasmo, atteggiamento) ➜ influenza per il 35%  la comunicazione
+verbale ➜ influenza per il 7% la comunicazione
+non verbale ➜ influenza per il 55% la comunicazione
+paraverbale (pause, ritmo, entusiasmo, atteggiamento) ➜ influenza per il 35% la comunicazione
 
-
+> PRESTARE ATTENZIONE AL NON VERBALE ISAIA, PERCHE GLI ALTRI LO NOTANO! TRASFORMALO IN UN ARMA
 
 - Test sulla capacit di ascolto e video esplicativo
 - L'importanza delle domande aperte e chiuse con esercitazione personale

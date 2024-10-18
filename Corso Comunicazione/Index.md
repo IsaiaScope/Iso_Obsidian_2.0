@@ -126,3 +126,4 @@ paraverbale (pause, ritmo, entusiasmo, atteggiamento) ➜ influenza per il 35% l
 - *L*ogica ➜ usare le parole per trasmettere il concetto in modo intelligente ➜ posso fumare mentre prego, posso pregare mentre fumo
 - *T*ra le parole ➜ mai dire perchè e perchè no ➜ girare nel discorso per essere più cari simboleggia il valore che viene dato allo stesso
 - emit a nopu ecn*O* ➜ once upon a time ➜ saper muoversi tra passato e futuro e ascoltare le storie delle persone
+

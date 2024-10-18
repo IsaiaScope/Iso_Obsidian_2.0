@@ -109,5 +109,5 @@ paraverbale (pause, ritmo, entusiasmo, atteggiamento) ➜ influenza per il 35% l
 
 > PRESTARE ATTENZIONE AL NON VERBALE ISAIA, PERCHE GLI ALTRI LO NOTANO! TRASFORMALO IN UN ARMA
 
-- Test sulla capacit di ascolto e video esplicativo
+### Ascolto 
 - L'importanza delle domande aperte e chiuse con esercitazione personale

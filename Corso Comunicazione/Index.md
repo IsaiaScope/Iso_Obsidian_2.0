@@ -109,6 +109,20 @@ paraverbale (pause, ritmo, entusiasmo, atteggiamento) ➜ influenza per il 35% l
 
 > PRESTARE ATTENZIONE AL NON VERBALE ISAIA, PERCHÈ GLI ALTRI LO NOTANO! TRASFORMALO IN UN ARMA
 
-### Ascolto 
+### Ascolto
 
 > ASCOLTARE È LA CHIAVE; PERCHÈ TORNARE INDIETRO A VOLTE È MOLTO PIÙ DISPENDIOSO DI ASCOLTARE BENE LA PRIMA VOLTA
+
+> FERMARE IL FLUSSO ➜ AVERE UN ATTEGGIAMENTO PASSIVO NON È SEMPRE BENE MA CERCARE DI COMUNICARE E PORRE PALETTI LENTAMENTE PUÒ PORTARE ALLA CREAZIONE DI UNA RELAZIONE IN CUI ANCHE LA CONTROPARTE SAPRÀ ADATTARSI A TE. ENTRARE IN EMPATIA INZIALEMENTE.
+
+---
+
+[Video sull'ASCOLTO](<[https://www.youtube.com/watch?v=FHmfO25f-3o](https://www.youtube.com/watch?v=FHmfO25f-3o)>)
+
+- *A*scoltare e BASTAAA
+- *S*olo Parole ➜ Pause, gesti, scuotere una persona, espressioni facciali
+- *C*erte ➜ Usare un vocabolario che non sia circoscritto al tuo ambiente, se non per dimostrare empatia verso il tuo ambiente
+- _O_ chi siamo ➜ _LA PERCEZIONE_ ➜ pensare prima di parlare perchè ➜ se dici la verità può provocare effetti, dire bugie altri effetti
+- *L*ogica ➜ usare le parole per trasmettere il concetto in modo intelligente ➜ posso fumare mentre prego, posso pregare mentre fumo
+- *T*ra le parole ➜ mai dire perchè e perchè no ➜ girare nel discorso per essere più cari simboleggia il valore che viene dato allo stesso
+- emit a nopu ecn*O* ➜ once upon a time ➜ saper muoversi tra passato e futuro e ascoltare le storie delle persone

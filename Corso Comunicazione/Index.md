@@ -127,3 +127,4 @@ paraverbale (pause, ritmo, entusiasmo, atteggiamento) ➜ influenza per il 35% l
 - *T*ra le parole ➜ mai dire perchè e perchè no ➜ girare nel discorso per essere più cari simboleggia il valore che viene dato allo stesso
 - emit a nopu ecn*O* ➜ once upon a time ➜ saper muoversi tra passato e futuro e ascoltare le storie delle persone
 
+Secondo te c'è la facciamo in questo tempo ?

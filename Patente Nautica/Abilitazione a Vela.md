@@ -34,22 +34,25 @@ ordinari = ha tutta la pala dietro al centro di rotazione
 semi compensati = ha una parte della pala
 compensati = hanno tutta la pala compensata
 differiscono differenza di quantità di pala
-frenelli sono cavi acciaio che fanno girare il timone 
+frenelli sono cavi acciaio che fanno girare il timone
 Motore
 
 ---
 
-## Abbordi in mare o Collisioni
+## Seconda ➜ Abbordi in mare o Collisioni
 
 dimensione non conta
 il diritto di precedenza si acquisisce quando ci si trova in quella effettiva condizione, cioè se sono a vela e sto andando a motore non ho la precedenza
 nelle aree trafficate, esistono delle ''corsie' per le imbarcazioni enormi e loro non devo avere la rotta intralciata. Al di fuori di queste condizioni una nave da crocera deve dare la precedenza ad una barca a vela :)
 
-*mura differente* = prendono il vento da lati differenti
+_mura differente_ = prendono il vento da lati differenti
 più si è in difficoltà a fare manovre con l'imbarcazione più si ha diritto di precedenza
 
 nave che non governa = nave che ha problemi di svolta
 nave condizionate dal pescaggio = molto profonde
 
+---
 
+## Terza
 
+---

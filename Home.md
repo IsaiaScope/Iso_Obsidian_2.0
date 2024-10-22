@@ -1,5 +1,3 @@
 # Home
 
-re
-ge
-g
+

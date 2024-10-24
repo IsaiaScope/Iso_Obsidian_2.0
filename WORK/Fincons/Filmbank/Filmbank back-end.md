@@ -31,3 +31,10 @@ I progetti Filmbank sono progetti `java8 Maven` per la gestione delle dipendenze
 
 ---
 
+## Going in details
+
+service application parte da li
+config yml contiene la configurazione 
+![[run debugconfiguration.png]]
+![[local run.png]]
+

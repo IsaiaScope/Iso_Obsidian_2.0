@@ -37,5 +37,6 @@ service application parte da li
 config yml contiene la configurazione 
 ![[run debugconfiguration.png]]
 ![[local run.png]]
-
+lounching this script print port to the console 
+now api call can be made
 fare richiesta con post man di test e vedere i log su open serach

@@ -38,3 +38,4 @@ config yml contiene la configurazione
 ![[run debugconfiguration.png]]
 ![[local run.png]]
 
+fare richiesta con post man di test e vedere i log su open serach
